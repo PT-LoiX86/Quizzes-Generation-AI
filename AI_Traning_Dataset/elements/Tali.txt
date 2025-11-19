@@ -1,0 +1,73 @@
+﻿Tên tiếng Anh: Thalium
+Tên tiếng Việt: Tali
+
+Nhóm : IIIA
+Chu kỳ : 6
+Số nguyên tử : 81
+Nguyên tử khối : 204.3833
+Độ âm điện : 1.62
+Cấu hình electron : [Xe] 4f14 5d10 6s2 6p1
+Cấu tạo mạng tinh thể : Lục phương
+Các số oxi hóa phổ biến : +1 (ổn định nhất), +3
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Tali là một nguyên tố tương đối hiếm trong vỏ Trái Đất.
+
+-Nguồn gốc: Tali không được tìm thấy ở trạng thái tự do.
+
+-Khoáng vật: Nó thường đi kèm với các khoáng vật Kali và được tìm thấy trong các khoáng vật Pyrite (FeS2), Crookesite (chứa Th, Cu, Ag, Se), và Lorandite (TlAsS2).
+
+-Khai thác: Tali được thu hồi thương mại chủ yếu như một sản phẩm phụ trong quá trình luyện kim đồng (Cu), chì (Pb), và kẽm (Zn).
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng xanh, mềm, dẻo
+
+-Đặc tính cơ học: Rất mềm (có thể cắt bằng dao) và dễ uốn.
+
+-Khối lượng riêng: Rất cao, 11.85 g/cm^3 (Là một kim loại nặng).
+
+-Nhiệt độ nóng chảy: 304°C.
+
+-Độc tính: Tali là một nguyên tố cực kỳ độc (toxic). Tiếp xúc qua da có thể nguy hiểm. Các hợp chất Tali không mùi, không vị và dễ hòa tan trong nước.
+
+III. Tính chất hóa học
+
+Tali có tính chất hóa học đặc biệt do sự hiệu ứng cặp electron trơ, khiến trạng thái +1 bền hơn trạng thái +3 (ngược với Aluminum (Al) và Indium (In)).
+
+1. Tác dụng với Phi kim
+
+-Với Oxi: Tali bị xỉn màu nhanh chóng trong không khí ẩm, tạo thành Thallium(I) Oxide (Tl2O):
+
+    4Tl + O2 → 2Tl2O
+
+-Với Halogen: Phản ứng với các halogen tạo thành Thallium(I) Halide (ví dụ: TlCl).
+
+2. Tác dụng với Nước
+
+-Với Nước: Phản ứng chậm với nước và hơi nước ở nhiệt độ cao, tạo thành Thallium(I) Hydroxide (TlOH) và Hydrogen.
+
+3. Tác dụng với Axit
+
+-Với Axit: Tali hòa tan trong Axit Sulfuric (H2SO4) loãng hoặc Axit Nitric (HNO3) tạo thành muối Tali(I).
+
+IV. Điều chế
+
+Tali được điều chế từ các sản phẩm phụ của quá trình sản xuất kim loại khác.
+
+-Thu thập: Tali được tách ra từ bụi và cặn bùn của quá trình nấu chảy Pyrite hoặc quặng kẽm/chì.
+
+-Phương pháp: Được điều chế bằng cách điện phân Thallium(I) Sulfate (Tl2SO4) hoặc bằng cách khử Thallium Chloride (TlCl) bằng Kẽm (Zn) hoặc Nhôm (Al) trong môi trường axit.
+
+V. Ứng dụng
+
+-Do tính độc hại cao, hầu hết các ứng dụng của Tali đã bị ngừng hoặc bị hạn chế nghiêm ngặt.
+
+-Quang học/Điện tử: Thallium Bromide (TlBr) và Thallium Iodide (TlI) được sử dụng làm vật liệu quang học cho cửa sổ kính quang học (thường dùng trong thiết bị hồng ngoại) do độ truyền quang cao. Tali Sulfide được sử dụng trong một số tế bào quang điện vì độ dẫn điện của nó thay đổi khi tiếp xúc với ánh sáng hồng ngoại.
+
+-Y học: Đồng vị Thallium-201 (Tl-201) là một chất đánh dấu phóng xạ quan trọng được sử dụng trong chụp ảnh hạt nhân để đánh giá lưu lượng máu cơ tim (Tali mô phỏng ion Kali trong cơ thể).
+
+-Lịch sử: Từng được sử dụng làm thuốc diệt chuột và thuốc trừ sâu (đã bị cấm ở nhiều quốc gia do độc tính).
+
+-Nghiên cứu khoa học: Hợp kim Thallium-Mercury có nhiệt độ nóng chảy rất thấp (≈ -58°C), được sử dụng trong các nhiệt kế ở nhiệt độ cực thấp.

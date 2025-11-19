@@ -1,0 +1,70 @@
+﻿Tên tiếng Anh: Francium
+Tên tiếng Việt: Franci
+
+Nhóm: IA
+Chu kỳ: 7
+Số nguyên tử: 87
+Nguyên tử khối (của đồng vị bền nhất, Fr-223) ≈ 223
+Độ âm điện ≈ 0.7 (Là nguyên tố có độ âm điện thấp nhất)
+Cấu hình electron: [Rn] 7s1
+Số oxi hóa: +1
+
+
+I. Trạng thái tự nhiên
+
+-Franxi là nguyên tố phóng xạ mạnh và không tồn tại ở trạng thái tự do trong tự nhiên.
+
+-Fr-223 là đồng vị phổ biến nhất của Franxi, được tạo ra từ chuỗi phân rã tự nhiên của Uranium-235 và Thorium-232.
+
+-Chỉ tìm thấy Franxi với một lượng cực nhỏ trong quặng Uranium và Thorium.
+
+-Ước tính chỉ có khoảng 20-30 gam Franxi tồn tại trong lớp vỏ Trái Đất ở bất kỳ thời điểm nào.
+
+II. Tính chất vật lý
+
+-Do tính phóng xạ mạnh và thời gian bán rã ngắn (Fr-223 là ≈ 22 phút), Franxi không thể được thu thập thành khối lượng lớn để nghiên cứu các tính chất vật lý thông thường.
+
+-Trạng thái vật chất: Là chất rắn ở nhiệt độ phòng.
+
+-Màu sắc: Được dự đoán là có màu xám kim loại hoặc bạc ánh vàng (giống như các kim loại kiềm nặng khác).
+
+-Nhiệt độ nóng chảy/sôi: Các giá trị ước tính (chưa được xác nhận):
+ 
+    +Nhiệt độ nóng chảy: ≈ 27°C (Gần nhiệt độ phòng).
+  
+    +Nhiệt độ sôi: ≈ 677°C.
+
+-Độ phóng xạ: Có độ phóng xạ cực cao, là nguồn bức xạ mạnh của tia alpha và beta.
+
+III. Tính chất hóa học
+
+Franxi là một kim loại kiềm (Nhóm IA) và được dự đoán là nguyên tố có tính kim loại và tính khử mạnh nhất trong Bảng tuần hoàn.
+
+-Tính khử (chủ yếu):
+    +Franxi phản ứng cực kỳ mạnh với nước, tạo thành Franxi Hydroxide và khí Hydrogen:
+ 
+        2Fr + 2H2O → 2FrOH + H2
+
+    +Phản ứng với Halogen (ví dụ: Chlorine) tạo muối halide:
+  
+        2Fr + Cl2 → 2FrCl
+ 
+    +Franxi luôn tồn tại dưới dạng ion Fr+ trong các hợp chất.
+
+IV. Điều chế
+
+Franxi không được điều chế từ mỏ như than hay khoáng vật, mà được tạo ra nhân tạo trong phòng thí nghiệm.
+
+-Điều chế nhân tạo: Franxi được tổng hợp bằng cách bắn phá Thorium (Th) bằng Proton hoặc bắn phá Au (Vàng) bằng Oxy-18 trong máy gia tốc hạt.
+
+-Tách từ quặng Uranium: Fr-223 có thể được chiết tách từ quặng Uranium tự nhiên, nhưng với số lượng rất nhỏ.
+
+V. Ứng dụng
+
+Franxi hầu như không có ứng dụng thực tế do tính hiếm có, độ phóng xạ cao và thời gian bán rã ngắn.
+
+-Nghiên cứu khoa học: Chủ yếu được sử dụng trong các nghiên cứu về quang phổ và vật lý nguyên tử để:
+
+    +Nghiên cứu cấu trúc nguyên tử.
+
+    +Kiểm tra các định luật vật lý cơ bản (ví dụ: nghiên cứu sự vi phạm đối xứng của tính chẵn lẻ (Parity)).

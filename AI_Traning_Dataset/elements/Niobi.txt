@@ -1,0 +1,75 @@
+﻿Tên tiếng Anh: Niobium
+Tên tiếng Việt: Niobi
+
+Nhóm: VB
+Chu kỳ: 5
+Nguyên tử khối: 92,91
+Độ âm điện: 1,60
+Cấu hình electron: [Kr] 4d4 5s1 
+
+
+I. Trạng thái tự nhiên 
+
+-Kim loại này thường được tìm thấy trong các khoáng chất như pyrochlore và columbite.
+
+II. Tính chất vật lý 
+
+-Niobi là một kim loại màu trắng bạc, có tính đàn hồi.
+
+-Điểm nóng chảy: Nhiệt độ nóng chảy của niobi là khoảng 2468 độ C (4474 độ F), là một trong các điểm nóng chảy cao của các nguyên tố.
+
+-Khối lượng riêng: Niobi có khối lượng riêng khoảng 8,57 g/cm³.
+
+-Dẫn điện và dẫn nhiệt: Niobi có khả năng dẫn điện và dẫn nhiệt tương đối tốt, tuy nhiên không phải là một trong những kim loại dẫn điện hoặc dẫn nhiệt tốt nhất.
+
+-Cấu trúc tinh thể: Lập phương tâm khối
+
+-Độ dẫn điện: 4,17 × 10^6 S/m
+
+-Độ dẫn nhiệt: 54 W/m·K
+
+III. Tính chất hóa học
+
+-Niobi là một kim loại khá bền, không dễ bị ăn mòn trong nước hoặc không khí ở điều kiện bình thường.
+
+-Tính kiềm: Niobi có thể tạo các hợp chất kiềm với các nguyên tố khác, nhưng không phản ứng nhanh chóng.
+
+-Tính oxi hóa: Niobi có thể tồn tại ở các cấp độ oxi hóa khác nhau, từ -1 đến +5. Các hợp chất của niobi thường có các cấu trúc phức tạp và có nhiều ứng dụng trong công nghiệp và nghiên cứu.
+
+-Hợp chất: Niobi tạo ra nhiều hợp chất với các nguyên tố khác, nhưng phổ biến nhất là trong các hợp chất oxit và nitrit.
+
+-Tương tác với axit: Niobi có thể phản ứng với axit để tạo ra muối niobi, nhưng thường không phản ứng nhanh chóng với axit đơn giản như các kim loại kiềm.
+
+IV. Ứng dụng 
+
+1. Trong thép
+
+-Niobi được sử dụng làm phụ gia trong thép để tăng cường độ bền, độ dẻo dai và khả năng chống ăn mòn.
+-Thép hợp kim Niobi được sử dụng trong nhiều lĩnh vực như xây dựng, cơ khí, và chế tạo ô tô.
+
+2. Trong hợp kim siêu dẫn
+
+-Niobi là một trong những nguyên tố quan trọng nhất để chế tạo hợp kim siêu dẫn.
+-Hợp kim siêu dẫn Niobi được sử dụng trong các ứng dụng như máy móc y tế (máy chụp MRI), máy gia tốc hạt và các thiết bị truyền tải điện năng.
+
+3.Trong lò phản ứng hạt nhân
+
+-Niobi được sử dụng trong các lò phản ứng hạt nhân vì nó có khả năng chống ăn mòn cao và độ bền cao trong môi trường bức xạ.
+-Niobi được sử dụng để chế tạo các thanh nhiên liệu, ống dẫn và các thành phần khác trong lò phản ứng.
+
+4. Trong các thiết bị y tế
+
+-Niobi được sử dụng trong các thiết bị y tế như cấy ghép và dụng cụ phẫu thuật vì nó tương thích sinh học và không độc hại.
+-Niobi cũng được sử dụng trong các thiết bị chẩn đoán hình ảnh như máy chụp X-quang và máy chụp CT.
+
+5. Trong trang sức
+
+-Niobi được sử dụng để chế tạo đồ trang sức vì vẻ ngoài sáng bóng và bền.
+-Niobi là một lựa chọn thay thế cho vàng và bạc vì nó có giá thành rẻ hơn và không bị xỉn màu.
+
+Ngoài ra, Niobi còn được sử dụng trong nhiều ứng dụng khác như:
+
+-Chế tạo điện tử
+-Sản xuất kính quang học
+-Chế tạo pin
+-Lọc khí thải

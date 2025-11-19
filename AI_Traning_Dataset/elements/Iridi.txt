@@ -1,0 +1,63 @@
+﻿Tên tiếng Anh: Iridium
+Tên tiếng Việt: Iridi
+
+Nhóm  : VIIIB
+Chu kỳ : 6
+Số nguyên tử : 77
+Nguyên tử khối tương đối : 192.22
+Độ âm điện : 2.20
+Cấu hình electron : [Xe] 4f14 5d7 6s2
+Cấu tạo mạng tinh thể : Lập phương tâm mặt
+Các số oxi hóa phổ biến : +2, +3, +4, +6
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Iridi là một trong những nguyên tố hiếm nhất trong vỏ Trái Đất, hiếm hơn vàng gấp 40 lần.
+-Nguồn gốc: Nó được tìm thấy không kết hợp trong tự nhiên, chủ yếu trong các trầm tích sông.
+-Khai thác: Iridi được thu hồi thương mại như một sản phẩm phụ của quá trình khai thác platin (Pt) hoặc niken (Ni).
+-Nguồn địa chất đặc biệt: Sự hiện diện của một lớp Iridi rất mỏng trong vỏ Trái Đất được cho là bằng chứng của một thiên thạch hoặc tiểu hành tinh lớn va vào Trái Đất, vì các thiên thạch có hàm lượng Iridi cao hơn vỏ Trái Đất.
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng bạc, cứng.
+-Khối lượng riêng: 22.56 g/cm^3. Đây là nguyên tố có mật độ thứ hai (sau Osmi).
+-Nhiệt độ nóng chảy: Rất cao, 2446°C.
+-Nhiệt độ sôi: 4428°C.
+-Tính chất cơ học: Rất cứng và giòn, nên khó gia công, tạo hình hoặc gia công trừ khi được nung ở nhiệt độ rất cao.
+-Tính từ: Iridi tinh khiết không có từ tính.
+
+III. Tính chất hóa học
+
+Iridi được coi là kim loại chống ăn mòn tốt nhất được biết đến, thậm chí ở nhiệt độ cao khoảng $2000^C
+
+1. Tác dụng với Axit
+
+-Kháng ăn mòn: Iridi gần như không phản ứng với hầu hết các axit, kể cả axit mạnh. Nó chỉ bị ăn mòn bởi các muối nóng chảy và halogen nhất định.
+
+2. Tác dụng với Oxi/Halogen
+
+-Oxy hóa: Mặc dù Iridi rắn có khả năng chống ăn mòn và oxy hóa cao, bụi Iridi mịn lại phản ứng mạnh hơn và thậm chí có thể cháy.
+-Halogen: Các hợp chất Iridi quan trọng nhất được sử dụng là các muối và axit tạo thành với Clo.
+
+IV. Điều chế
+
+Iridi không được khai thác trực tiếp mà là sản phẩm phụ của quá trình luyện kim phức tạp các quặng Platin hoặc Niken.
+
+-Tách chiết công nghiệp: Iridi được thu hồi thông qua các quy trình phức tạp bao gồm:
+    +Luyện kim lửa (Pyrometallurgy): Liên quan đến các hoạt động nhiệt độ cao (nấu chảy hoặc rang) để tách Iridi khỏi các kim loại khác.
+    +Phương pháp ướt (Hydrometallurgy): Sử dụng dung dịch nước (axit hoặc kiềm) để hòa tan và tách Iridi có chọn lọc khỏi các kim loại khác.
+
+V. Ứng dụng
+
+-Công nghiệp Hàng không Vũ trụ: Được sử dụng để chế tạo các linh kiện tàu vũ trụ và động cơ tên lửa hiệu suất cao do khả năng chịu nhiệt và chống ăn mòn cao.
+   +Được dùng trong máy phát nhiệt điện đồng vị phóng xạ được sử dụng trong phi thuyền không người lái.
+-Điện/Điện hóa:
+   +Làm cực dương (anode) trong sản xuất Clo và Xút (quy trình Chloralkali).
+   +Làm điện cực trung tâm trong bugi (sparkplugs) do nhiệt độ nóng chảy cao và khả năng phản ứng thấp.
+   +Được dùng trong các linh kiện điện tử, đầu nối.
+-Y tế/Khoa học:
+   +Đồng vị phóng xạ Iridi-192 được sử dụng trong xạ trị áp sát để điều trị ung thư.
+   +Dùng làm nồi nung để làm tái kết tinh các chất bán dẫn ở nhiệt độ cao.
+   +Được dùng để thiết lập các thanh đồng hồ tiêu chuẩn (hợp kim 90%Pt-10Ir) vì khả năng chống ăn mòn.
+-Xúc tác: Hợp chất Iridi được dùng làm chất xúc tác quan trọng trong sản xuất Axit Acetic và trong các quá trình hóa học khác.
+-Hợp kim: Được tạo hợp kim với Platin để tăng độ cứng và chống ăn mòn (ví dụ: đầu bút, vòng bi la bàn).

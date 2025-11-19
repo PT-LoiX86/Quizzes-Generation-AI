@@ -1,0 +1,86 @@
+﻿Tên tiếng Anh: Fluorine
+Tên tiếng Việt: Fluor
+
+Nhóm: VIIA
+Chu kỳ: 2
+Nguyên tử khối: 18,9984032(5)
+Độ âm điện: 3,98
+Cấu hình electron: [He] 2s2 2p5
+
+
+I. Trạng thái tự nhiên 
+
+   - Trong tự nhiên, Flo chỉ tồn tại ở dạng hợp chất.
+
+    - Hợp chất của Flo có trong men răng của người và động vật, trong lá của 1 số loài cây.
+
+    - Phần lớn Flo tập trung trong 2 khoáng vật là Florit (CaF2) và criolit (Na3AlF6).
+
+II. Tính chất vật lý 
+
+    - Flo là chất khí, màu lục nhạt, độc.
+
+    - Flo Là phi kim mạnh nhất (có độ âm điện lớn nhất) ⇒ Flo có tính oxi hóa mạnh nhất.
+
+    - Tham gia phản ứng với hầu hết các đơn chất và hợp chất tạo florua với số oxy hoá -1(kể cả vàng).
+
+    - Với khí H2: phản ứng nổ mạnh, xảy ra ngay cả trong bóng tối, nhiệt độ thấp.
+
+    Ví dụ: H2 + F2 → 2HF (khí hidro florua)
+
+    - Khí HF tan vô hạn trong nước tạo ra dd axit flohidric, khác với axit HCl, axit HF là axit yếu, tính chất đặc biệt của axit HF là tác dụng với silic đioxit (SiO2) có trong thành phần thủy tinh.
+
+→ Do đó không dùng chai lọ thủy tinh để đựng dd axit HF.
+
+SiO2 + 4HF → SiF4 (Silic tetrafloru) + 2H2O
+
+    - Hơi nước bốc cháy khi tiếp xúc với khí flo: 2F2 + 2H2O → 4HF + O2
+
+III. Tính chất hóa học
+
+1. Tác dụng với kim loại và phi kim
+
+Ca + F2 → CaF2
+
+2Ag + F2 → 2AgF
+
+3F2 + 2Au → 2AuCl3
+
+3F2 + S → SF6
+
+2. Tác dụng với hidro:
+
+    - Phản ứng xảy ra mạnh hơn các halogen khác, hỗn hợp H2, F2 nổ mạnh trong bóng tối.
+
+H2 + F2 → 2HF
+
+    - Khí HF tan vào nước tạo dung dịch HF. Dung dịch HF là axit yếu, đặc biệt là hòa tan được SiO2.
+
+(sự ăn mòn thủy tinh được ứng dụng trong kĩ thuật khắc trên kính như vẽ tranh khắc chữ)
+
+3. Tác dụng với nước
+
+    Khí flo qua nước sẽ làm bốc cháy nước (do giải phóng O2).
+
+2F2 + 2H2O → 4HF + O2
+
+    Phản ứng này giải thích vì sao F2 không đẩy Cl2, Br2, I2 ra khỏi dung dịch muối hoặc axit trong khi flo có tính oxi hóa mạnh hơn.
+
+
+IV. Ứng dụng và điều chế
+
+1. Ứng dụng
+
+    - Dùng làm chất oxi hóa cho nhiên liệu lỏng dùng trong tên lửa.
+
+    - Điều chế 1 số dẫn xuất có những tính chất độc đáo.
+
+    - Dung dịch NaF loãng dùng làm thuốc chống sâu răng.
+
+    - Dùng trong công nghiệp sản xuất hạt nhân.
+
+2. Điều chế
+
+    Vì flo có tính oxi hóa mạnh nhất nên phương pháp duy nhất để điều chế flo là dùng dòng điện để oxi hóa ion F- trong florua nóng chảy (phương pháp điện phân).
+
+    Trong công nghiệp, người ta điện phân hỗn hợp KF + 2HF (nhiệt độ nóng chảy 70oC).

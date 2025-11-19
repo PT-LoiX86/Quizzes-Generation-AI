@@ -1,0 +1,85 @@
+﻿Tên tiếng Anh: Selenium
+Tên tiếng Việt: Seleni
+
+Nhóm : VIA
+Chu kỳ : 4
+Số nguyên tử : 34
+Nguyên tử khối tương đối : 78.971
+Độ âm điện : 2.55
+Cấu hình electron : [Ar] 3d10 4s2 4p4
+Cấu tạo mạng tinh thể : Dạng tinh thể lục phương
+Các số oxi hóa phổ biến : −2, 0, +4, +6
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Seleni là một nguyên tố khá hiếm trong vỏ Trái Đất.
+
+-Nguồn gốc: Seleni thường được tìm thấy dưới dạng Selenide của Bạc, Đồng, Chì, và Sắt. Nó cũng thường đi kèm với các khoáng vật Lưu huỳnh (S).
+
+-Khai thác: Seleni được thu hồi thương mại chủ yếu từ bùn anode — một sản phẩm phụ của quá trình tinh chế đồng (Cu) bằng điện phân.
+
+-Dinh dưỡng: Seleni là một nguyên tố vi lượng thiết yếu cho hầu hết các sinh vật, đóng vai trò quan trọng trong việc bảo vệ tế bào khỏi stress oxy hóa (thông qua enzyme Glutathione Peroxidase) .
+
+II. Tính chất vật lý
+
+-Màu sắc: Seleni có nhiều dạng thù hình, bao gồm:
+
+    +Seleni đỏ (vô định hình): Dạng bột màu đỏ sẫm, không dẫn điện.
+
+    +Seleni xám (tinh thể): Dạng ổn định và phổ biến nhất, có ánh kim loại, là chất bán dẫn và có tính chất quang dẫn (photoconductive).
+
+    +Seleni đen (vô định hình): Dạng thủy tinh.
+
+-Tính chất quang dẫn: Đây là tính chất vật lý nổi bật nhất. Seleni dẫn điện kém trong bóng tối, nhưng khi được chiếu sáng, độ dẫn điện của nó tăng lên đáng kể.
+
+-Khối lượng riêng: 4.81 g/cm^3 (Seleni Xám).
+
+-Nhiệt độ nóng chảy: 221°C (Seleni Xám).
+
+-Độc tính: Seleni và các hợp chất của nó (đặc biệt là Hydrogen Selenide (H2Se)) có độc tính cao và có thể gây tử vong.
+
+III. Tính chất hóa học
+
+Seleni có tính chất hóa học tương tự Lưu huỳnh (S) và Teluri (Te).
+
+1. Tác dụng với Phi kim
+
+-Với Oxi: Seleni cháy trong không khí tạo thành Seleni(IV) Oxide (SeO2), một chất rắn có mùi khó chịu giống cải ngựa:
+
+    Se + O2 (nhiệt độ) → SeO2
+
+-Với Halogen: Phản ứng trực tiếp tạo thành halide (ví dụ: SeCl2, SeCl4).
+
+2. Tác dụng với Axit
+
+-Với Axit Oxi hóa: Hòa tan trong Axit Nitric (HNO3) nóng và Axit Sulfuric (H2SO4) đặc, nóng tạo ra Axit Selenơ (H2SeO3) hoặc Axit Selenic (H2SeO4).
+
+3. Hợp chất
+
+-Hydrogen Selenide (H2Se): Là một khí cực độc, có mùi tỏi khó chịu, dễ bay hơi.
+
+IV. Điều chế
+
+Seleni được điều chế chủ yếu từ bùn anode của quá trình điện phân đồng.
+
+-Thu thập: Bùn anode được nung chảy hoặc oxy hóa bằng Sodium Carbonate (Na2CO3).
+
+-Tinh chế: Seleni được tách ra dưới dạng Seleni Oxide (SeO2) bằng cách nung, sau đó khử SeO2 bằng Carbon (C) hoặc Sulfur Dioxide (SO2) để tạo ra Seleni kim loại.
+
+V. Ứng dụng
+
+-Công nghiệp Điện tử: Từng được sử dụng rộng rãi để chế tạo chỉnh lưu và tế bào quang điện (do tính chất quang dẫn) .
+
+-Chụp ảnh/In ấn: Được sử dụng làm bột màu đỏ trong nhựa và thủy tinh.
+
+-Tạo màu: Thêm vào thủy tinh để tạo ra màu đỏ ruby hoặc để khử màu xanh lục do tạp chất Sắt (Fe) gây ra.
+
+-Quang học/Sao chép: Ứng dụng quan trọng trong công nghệ in ảnh khô và máy photocopy nhờ tính chất quang dẫn.
+
+-Luyện kim: Được sử dụng để tăng khả năng gia công của thép không gỉ.
+
+-Y học/Dinh dưỡng:
+
+    +Selenium Sulfide (SeS2) được dùng trong một số dầu gội trị gàu và viêm da tiết bã.
+
+    +Các hợp chất Seleni được dùng làm chất bổ sung dinh dưỡng ở những khu vực đất đai nghèo Seleni.

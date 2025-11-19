@@ -1,0 +1,64 @@
+﻿Tên tiếng Anh: Molybdenum
+Tên tiếng Việt: Molypden
+
+Nhóm : VIB
+Chu kỳ : 5
+Số nguyên tử : 42
+Nguyên tử khối tương đối : 95.96
+Độ âm điện : 2.16
+Cấu hình electron : [Kr] 4d5 5s1 (Cấu hình đặc biệt)
+Cấu tạo mạng tinh thể : Lập phương tâm khối
+Các số oxi hóa phổ biến : +6 (bền nhất), +5, +4, +3, +2
+
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Molypden là một nguyên tố khá hiếm, không bao giờ được tìm thấy ở trạng thái tự do trong tự nhiên.
+-Khoáng vật chính: Nó được tìm thấy chủ yếu trong khoáng vật Molypdenit (MoS2).
+-Các khoáng vật khác: Cũng được tìm thấy trong Wulfenit (PbMoO4) và Powelit (CaMoO4).
+-Dinh dưỡng: Molypden là một nguyên tố vi lượng thiết yếu cho hầu hết các sinh vật sống, là đồng yếu tố (cofactor) trong nhiều enzyme quan trọng.
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng bạc, rất cứng.
+-Đặc tính cơ học: Molypden tinh khiết là một kim loại mềm và dễ uốn, nhưng rất cứng và có khả năng chống mài mòn cao khi tạo hợp kim.
+-Khối lượng riêng: 10.2 g/cm^3.
+-Nhiệt độ nóng chảy: Rất cao, 2623°C. Đây là nguyên tố có nhiệt độ nóng chảy cao thứ sáu trong bảng tuần hoàn.
+-Dẫn điện/Dẫn nhiệt: Dẫn điện và dẫn nhiệt tốt.
+
+III. Tính chất hóa học
+
+Molypden là một kim loại chuyển tiếp có tính trơ về mặt hóa học, nhưng thể hiện nhiều trạng thái oxi hóa khác nhau.
+
+1. Tác dụng với Phi kim
+
+-Với Oxi: Bền trong không khí ở nhiệt độ thường. Khi đun nóng trên 600°C, nó bị oxi hóa tạo thành Molypden(VI) Oxide:
+    2Mo + 3O2 (nhiệt độ)→ 2MoO3
+-Với Halogen: Phản ứng mạnh với Fluorine ở nhiệt độ phòng và với Chlorine ở nhiệt độ cao hơn.
+
+2. Tác dụng với Axit/Kiềm
+
+-Với Axit: Molypden không phản ứng dễ dàng với các axit. Nó trơ với Hydro Florua (HF) và Axit clohydric (HCl).
+-Với Axit Oxi hóa: Hòa tan chậm trong Axit Nitric (HNO3) nóng và Axit Sulfuric (H2SO4) đặc, nóng.
+-Với dung dịch Kiềm: Molypden không phản ứng với dung dịch kiềm (như NaOH).
+-Tạo hợp chất phức: Dễ tạo thành polyoxometalate (các hợp chất phức vô cơ với oxy).
+
+IV. Điều chế
+
+Molypden được điều chế chủ yếu từ khoáng vật Molypdenit (MoS2).
+
+-Bước 1: Rang (Roasting): Molypdenit được nung nóng trong không khí để chuyển thành Molypden(VI) Oxide:
+    2MoS2 + 7O2 (nhiệt độ)→ 2MoO3 + 4SO2
+-Bước 2: Tinh chế: MoO3 sau đó được hòa tan trong Amoniac và kết tủa thành Amoni Dimolybdate.
+-Bước 3: Khử: MoO3 được khử bằng Carbon (C) hoặc Hydrogen (H2) ở nhiệt độ cao để tạo ra kim loại Molypden thô:
+    MoO3 + 3H2 (nhiệt độ)→ Mo + 3H2O
+
+V. Ứng dụng
+
+-Hợp kim (Ferromolybdenum): Là ứng dụng lớn nhất, khoảng 80\% lượng Mo được dùng trong hợp kim, đặc biệt là thép và gang. Nó tăng cường độ cứng, độ bền, khả năng chống ăn mòn và chịu nhiệt của thép không gỉ.
+-Công nghiệp Dầu khí/Hóa chất:
+    -Molypden Disulfide (MoS2) được dùng làm chất xúc tác để loại bỏ lưu huỳnh khỏi dầu mỏ (quá trình hydrodesulfurization).
+    -MoS2 được dùng làm chất bôi trơn rắn vì nó ổn định ở nhiệt độ cao.
+-Ứng dụng Nhiệt độ cao: Do nhiệt độ nóng chảy cao, Mo được dùng làm điện cực lò nung, bộ phận máy bay và tên lửa.
+-Y tế/Năng lượng: Đồng vị Molypden-99 được sử dụng để tạo ra Tecneti-99m - một chất đánh dấu phóng xạ quan trọng trong chẩn đoán hình ảnh y tế.
+-Nông nghiệp: Được sử dụng làm phân bón ở những nơi đất bị thiếu Mo (là nguyên tố vi lượng thiết yếu).

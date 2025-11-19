@@ -1,0 +1,68 @@
+﻿Tên tiếng Anh: Antimony (Stibium)
+Tên tiếng Việt: Antimon
+
+Nhóm: VA
+Chu kỳ: 5
+Nguyên tử khối: 121,75
+Độ âm điện: 2,05
+Cấu hình electron:  [Kr] 4d10 5s2 5p3
+
+I. Trạng thái tự nhiên 
+ 
+-Antimon là một nguyên tố tương đối hiếm.
+-Antimon có thể được tìm thấy trong quặng stibnite.
+
+II. Tính chất vật lý 
+  
+-Màu sắc: Trắng bạc
+-Trạng thái: Rắn
+-Khối lượng riêng: 6,697 g/cm³
+-Điểm nóng chảy: 630,63 °C
+-Điểm sôi: 1750 °C
+-Độ dẫn điện: Tốt
+-Độ dẫn nhiệt: Tốt
+-Độ cứng Mohs: 3
+-Dễ nóng chảy: Dễ
+-Dễ dát mỏng: Dễ
+
+III. Tính chất hóa học
+
+-Tính chất hóa học: Bán kim loại
+-Tính khử: Yếu
+-Tính oxy hóa: Yếu
+-Tính oxi hóa: Antimon có thể tồn tại ở nhiều trạng thái oxi hóa, bao gồm -3, 0, +3, và +5. Trong môi trường tự nhiên, antimon thường gặp nhất ở dạng sulfide (Sb2S3) trong quặng stibnite.
+-Phản ứng với chất oxi hóa: Antimon chậm chạp phản ứng với oxi ở nhiệt độ phòng nhưng có thể cháy khi được nung nóng, tạo ra oxit antimon (Sb2O3).
+-Phản ứng với Axit: Nó ít phản ứng với axit clohydric (HCl), nhưng có thể tan trong axit nitric (HNO3) tạo thành axit antimonit (H[Sb(OH)6]) khi ở trạng thái oxi hóa +5.
+-Tính chất với hợp chất khác: Antimon tạo thành nhiều hợp chất, từ oxit, sulfide, đến hợp chất hữu cơ và vô cơ, thể hiện sự đa dạng trong hóa học của nó.
+-Trạng thái oxy hóa: +3, +5
+
+IV. Ứng dụng 
+
+1. Sản xuất hợp kim
+
+-Chì-Antimon: Hợp kim chì-antimon được sử dụng trong ắc quy axit-chì, với antimon giúp tăng cường độ cứng và độ bền của các tấm chì.
+-Hợp kim với Thiếc: Trong công nghiệp hàn và sản xuất thiết bị điện tử, hợp kim thiếc-antimon được sử dụng như một chất lưu huỳnh có điểm nóng chảy thấp, giúp tạo ra các mối hàn chắc chắn.
+
+2. Chất bán dẫn
+
+-Chất Bán Dẫn: Antimon được sử dụng trong sản xuất chất bán dẫn, thường là hợp chất với arsên hay indium, để tạo ra các thiết bị như điốt và transistor, cũng như trong các cảm biến nhiệt độ và đèn LED.
+
+3. Chất chống cháy
+
+-Hợp Chất Retardant Cháy: Antimon trioxide được sử dụng như một chất phụ gia retardant cháy trong nhiều loại vật liệu, bao gồm vải, nhựa, và sơn, giúp chậm quá trình bắt cháy và lan rộng của lửa.
+
+4. Y tế và dược phẩm
+
+-Điều Trị Bệnh Parasite: Một số hợp chất của antimon được sử dụng trong điều trị các bệnh nhiễm parasite, như leishmaniasis và schistosomiasis.
+-Hợp Chất Hữu Cơ Antimon: Được nghiên cứu và phát triển cho các ứng dụng y tế, bao gồm cả như một phần của các loại thuốc chống ung thư.
+
+5. Sản xuất kính và gốm
+
+-Kính và Gốm: Antimon trioxide được sử dụng như một chất phụ gia trong sản xuất kính và gốm, giúp cải thiện đặc tính của sản phẩm như độ trong và độ bền cơ học.
+
+6. Mỹ phẩm
+
+Mỹ Phẩm: Trong lịch sử, antimon đã được sử dụng làm chất nhuộm mắt. Dù hiện nay việc sử dụng nó trong mỹ phẩm đã bị hạn chế do lo ngại về độc tính.
+Các ứng dụng khác
+
+7. Các Ứng Dụng Khác: Antimon cũng được sử dụng trong lĩnh vực phát triển vật liệu mới, như các loại pin năng lượng cao và vật liệu chống ăn mòn.

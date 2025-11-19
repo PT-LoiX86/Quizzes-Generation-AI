@@ -1,0 +1,78 @@
+﻿Tên tiếng Anh: Bromine
+Tên tiếng Việt: Brom
+
+Nhóm: VIIA
+Chu kỳ: 4
+Nguyên tử khối: 80
+Độ âm điện: 2,96
+Cấu hình electron: [Ar] 3d10 4s2 4p5
+
+
+I. Trạng thái tự nhiên 
+
+-Trong tự nhiên, brom tồn tại chủ yếu ở dạng hợp chất các muối halogen như bromua của kali, natri và magiê vì brom nguyên chất có tính phản ứng rất mạnh. Các muối này có màu nâu đỏ.
+-Hàm lượng brom trong tự nhiên khá hiếm trong vỏ Trái Đất, ít hơn nhiều so với clo và flo.
+
+II. Tính chất vật lý 
+
+-Brom tồn tại ở dạng lỏng và bốc khói nâu đỏ ở nhiệt độ phòng để hình thành chất khí.
+
+-Vì độ hòa tan của các ion bromua  cao nên bromua kim loại có nhiều trong nước biển và nước hồ.
+
+Brom và hơi của brom đều rất độc, nếu tiếp xúc với da có thể gây bỏng nặng.
+
+III. Tính chất hóa học
+
+-Brom (Br) có thể có các hóa trị -1, +1, +3, +5 và +7.
+-Brom là một chất có tính oxy hoá mạnh, nhưng kém hơn clo.
+
+1. Brom tác dụng với kim loại
+Brom tác dụng trực tiếp với nhiều kim loại và các phản ứng đều toả ra lượng nhiệt lớn.
+
+Nhiệt độ thường: 
+3Br2 + 2Al → 2AlBr3
+
+Khi đun nóng, Brom tác dụng với Hydro và phản ứng tỏa nhiều nhiệt nhưng không gây nổ:
+Br2 + H2  → 2HBr
+
+2. Brom tác dụng với nước
+Khi tan trong nước, một phần brom tác dụng rất chậm với nước tạo ra axit HBr và axit hipobromo HbrO theo phản ứng thuận nghịch.
+
+Br2 +  H2O ↔ HBr + HBrO
+
+3. Brom đẩy halogen yếu hơn ra khỏi muối
+Brom đẩy được iot ra khỏi dung dịch NaI nhưng lại bị clo lại đẩy khỏi dung dịch NaBr: 
+
+Br2 + 2NaI → 2NaBr + I2
+
+Cl2  + 2NaBr → 2NaCl + Br2
+
+4. Brom tác dụng với chất khử mạnh
+Br2 + SO2 + H2O → H2SO4 + 2HBr
+
+Brom tác dụng với chất oxy hóa mạnh sẽ thể hiện tính khử
+
+Br2 + 5Cl2 + 6H2O → 2HBrO3 + 10HCl
+
+5. Anilin tác dụng với brom
+C6H5NH2 + 3Br2 → C6H2Br3NH2 + 3HBr (kết tủa trắng)
+
+6. Brom tác dụng với phenol
+Phản ứng Phenol + Br2 tỉ lệ 1 : 3 hay C6H5OH + Br2 thuộc loại phản ứng thế ở vòng thơm. Hiện tượng phản ứng có kết tủa trắng 2,4,6-tribromphenol, nước brom mất màu.
+
+C6H5OH + 3Br2 → C6H2Br3OH + 3HBr
+
+IV. Điều chế
+
+Brom có nhiều nhất trong nước biển nên nguồn chính để điều chế brom chính là nước biển. Sau khi đã lấy muối ăn Natri Clorua ra khỏi nước biển, phần còn lại chứa nhiều muối bromua của kali và natri. Sục khí clo qua dung dịch này, ta thu được Brom theo phản ứng hóa học sau:
+
+    Cl2 + NaBr → 2NaCl + Br2
+
+V. Ứng dụng 
+
+-Làm chất chống cháy
+-Trong nông nghiệp: các hợp chất brom hữu cơ được sử dụng làm thuốc diệt sâu bọ, trừ sinh vật hại, diệt cỏ dại, các loài gặm nhấm.
+-Trong công nghiệp dầu mỏ: Breom là một chất phụ gia xăng dầu. Tuy vậy, khoảng 25 năm trở lại đây, lượng brom sử dụng cho lĩnh vực này giảm dần do người ta dần ít dùng cho trong xăng chạy động cơ. Bên cạnh đó, các hợp chất Bromua dạng lỏng được dùng làm dung dịch khoan tại các giếng dầu sâu và có áp suất lớn.
+-Muối Natri bromua được dùng làm chất khử trùng các bể bơi có mái che một cách hiệu quả.
+-Ngoài ra, brom cũng được sử dụng trong các lĩnh vực như dược phẩm, sản xuất thuốc nhuộm, mực in, thuốc hiện hình trong nghề ảnh và rất nhiều ứng dụng khác.
+-Dùng để sản xuất bromua bạc AgBr. Đây là chất rất nhạy cảm với ánh sáng để tráng lên phim ảnh.

@@ -1,0 +1,52 @@
+﻿Tên tiếng Anh: Polonium
+Tên tiếng Việt: Poloni
+
+Nhóm: VIA
+Chu kỳ: 6
+Nguyên tử khối: [209]
+Độ âm điện: 2,00
+Cấu hình electron: [Xe] 4f14 5d10 6s2 6p4 
+
+I. Trạng thái tự nhiên 
+ 
+-  Poloni không có đồng vị bền mà có 33 đồng vị phóng xạ. Chúng có khối lượng nguyên tử từ 188 đến 220 u. 210Po (chu kỳ bán rã 138,4 ngày) là đồng vị phổ biến nhất. 209Po (chu kỳ bán rã 103 năm) và 208Po (chu kỳ bán rã 2,9 năm).
+
+II. Tính chất vật lý 
+  
+-Poloni là một kim loại mềm, màu trắng bạc.
+-Nhiệt độ nóng chảy và sôi:
+-Nhiệt độ nóng chảy: 254°C
+-Nhiệt độ sôi: 962°C
+-Khả năng hóa hơi: Poloni dễ hóa hơi hơn các kim loại khác. 50% Poloni ở dạng 238Pu sẽ hóa hơi trong 45 giờ nếu nung trong không khí đến 55°C.
+-Cấu trúc tinh thể:
+	+Poloni có hai dạng đồng phân: alpha và beta.
+	+Dạng alpha có cấu trúc tinh thể lập phương đơn giản.
+	+Dạng beta có cấu trúc trực thoi.
+-Tính dẫn điện và dẫn nhiệt: Poloni là một chất dẫn điện và dẫn nhiệt tốt.
+-Tính phóng xạ: Poloni là một nguyên tố phóng xạ. Đồng vị phổ biến nhất là Poloni-210, có chu kỳ bán rã 138 ngày.
+
+III. Tính chất hóa học
+
+-Poloni có tính khử mạnh hơn selen và tellur.
+-Poloni có các trạng thái oxy hóa +2, +4 và +6.
+-Poloni tạo thành các hợp chất với hydro, oxy, halogen, và các nguyên tố khác.
+-Poloni có tính axit yếu.
+-Poloni tan trong axit nitric và axit hydrochloric.
+-Poloni là một chất độc hại cao. Chỉ một lượng nhỏ cũng đủ để gây ra cái chết.
+
+IV. Ứng dụng 
+
+1. Y học
+
+- Poloni-210 được sử dụng trong liệu pháp xạ trị để điều trị ung thư, đặc biệt là ung thư da.
+- Poloni-210 cũng được sử dụng để tạo ra các nguồn bức xạ alpha để sử dụng trong chẩn đoán y tế.
+
+2. Nghiên cứu khoa học
+
+- Poloni-210 được sử dụng trong các nghiên cứu khoa học về vật liệu, hóa học và sinh học.
+- Poloni-210 cũng được sử dụng để tạo ra các nguồn neutron để sử dụng trong các thí nghiệm vật lý.
+
+3. Công nghiệp
+
+- Poloni-210 được sử dụng trong các thiết bị đo độ dày và các thiết bị chống tĩnh điện.
+- Poloni-210 cũng được sử dụng trong các nguồn năng lượng hạt nhân cỡ nhỏ để sử dụng trong các thiết bị vũ trụ.

@@ -1,0 +1,100 @@
+﻿Tên tiếng Anh: Chlorine
+Tên tiếng Việt: Chlor
+
+Nhóm: VIIA
+Chu kỳ: 3
+Nguyên tử khối: 35,5
+Độ âm điện: 3,16
+Cấu hình electron: [Ne] 3s2 3p5
+
+
+I. Trạng thái tự nhiên 
+
+        - Trong tự nhiên Clo có 2 đồng vị 35Cl (75%) và 37Cl (25%) ⇒ Nguyên tử khối = 35,5.
+
+        - Do hoạt động hóa học mạnh nên clo chỉ tồn tại trong tự nhiên ở dạng hợp chất, chủ yếu là muối clorua.
+
+        - Hợp chất quan trọng nhất của clo là natri clorua.
+
+II. Tính chất vật lý 
+
+    - Clo là chất khí, màu vàng, mùi xốc, độc và nặng hơn không khí.
+
+    - Cl2 có một liên kết cộng hóa trị, dễ dàng tham gia phản ứng,là một chất oxi hóa mạnh.
+
+    - Tham gia các phản ứng Clo là chất oxi hoá, tuy nhiên clo cũng có khả năng đóng vai trò là chất khử.
+
+III. Tính chất hóa học
+
+- Tính chất hóa học cơ bản của Clo là tính oxi hóa mạnh
+
+1. Tác dụng với kim loại
+
+Clo tác dụng với hầu hết các kim loại sinh ra muối clorua
+
+2Na + Cl2 → 2NaCl
+
+2Fe + 3Cl2 → 2FeCl3
+
+Lưu ý: Phản ứng xảy ra ở nhiệt độ thường hoặc không cao lắm; tốc độ nhanh và tỏa nhiều nhiệt
+
+2. Tác dụng với hiđro
+
+- Ở nhiệt độ thường, khí clo không phản ứng với hiđro
+
+- Khi chiếu sáng hỗn hợp bởi ánh sáng mặt trời hoặc ánh sáng của magie cháy thì phản ứng xảy ra nhanh và có thể nổ ( mạnh nhất khi tỉ lệ mol là 1:1)
+
+𝐻2 + 𝐶𝑙2 → 𝐻𝐶𝑙
+
+3. Tác dụng với nước
+
+- Một phần khí Clo tác dụng với nước tạo ra hỗn hợp axit clohiđric và axit hipocloro có tính tẩy màu mạnh do có HClO là chất oxh rất mạnh.
+
+
+𝐶𝑙2 + 𝐻2𝑂 ⇄ 𝐻𝐶𝑙 + 𝐻𝐶𝑙𝑂
+
+=> Khi clo tan trong nước, diễn ra cả hiện tượng vật lý và hiện tượng hóa học.
+
+4. Tác dụng với dung dịch kiềm
+
+Cl2 + 2NaOH  → NaCl + NaClO + H2O
+
+=> Dung dịch chứa đồng thời NaCl và NaClO gọi là nước Gia-ven
+
+ 5. Tác dụng với một số hợp chất có tính khử
+
+Cl2    +   2FeCl2   (nhiệt độ)→ 2FeCl3
+
+Cl2    +   H2S   (nhiệt độ)→ 2HCl + S
+
+4Cl2    +   H2S   +   4H2O → 8HCl   +  H2SO4
+
+Cl2    +   SO2   +   2H2O  →  2HCl   +  H2SO4
+
+Cl2    +   2NaBr  →  2NaCl   +   Br2
+
+* Nhận xét:
+
+- Khi tham gia phản ứng với H2, kim loại và các chất khử, clo đóng vai trò là chất OXH
+
+- Khi tham gia phản ứng với H2O và dung dịch kiềm, Clo đóng vai trò vừa là chất OXH vừa là chất Khử.
+
+IV. Điều chế
+
+1.Trong phòng thí nghiệm: dùng các chất có tính oxi hóa mạnh tác dụng với axit HCl đặc
+
+MnO2 + 4HCl (nhiệt độ)→ MnCl2 + Cl2 + 2H2O
+2KMnO4 + 16HCl → 2MnCl2 + 2KCl + 5Cl2 + 8H2O
+
+2. Trong công nghiệp: điện phân dung dịch bão hòa muối ăn trong nước để sản xuất xút, đồng thời thu được khí Clo và hiđro
+
+2NaCl + 2H2O (điện phân dung dịch có màng ngăn)→ 2NaOH + H2 + Cl2
+
+
+V. Ứng dụng 
+
+- Dùng để diệt trùng nước sinh hoạt, nước bể bơi để diệt 1 số vi khuẩn gây bệnh
+
+- Dùng để tẩy trắng sợi, giấy, vải,…
+
+- Dùng để sản xuất chất hữu cơ, chất tẩy trắng, chất sát trùng như nước Gia ven , clorua vôi và sản xuất hóa chất vô cơ như axit clohiđric, kaliclorat

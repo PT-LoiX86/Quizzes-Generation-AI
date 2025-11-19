@@ -1,0 +1,34 @@
+﻿Tên tiếng Anh: Argon
+Tên tiếng Việt: Argon
+
+Nhóm: VIIIA
+Chu kỳ: 3
+Nguyên tử khối: 39,95
+Cấu hình electron: [Ne] 3s2 3p6
+
+I. Tính chất vật lý 
+
+Ở dạng lỏng hay dạng rắn, Argon là chất khí không màu, không mùi, không vị, không độc. Loại khí này nặng gấp 1,5 lần không khí.
+  
+
+II. Tính chất hóa học
+
+Argon là khí trơ nên nó không phản ứng với các chất hóa học khác. Argon cũng không hòa tan kim loại dù ở thể lỏng hay thể rắn. Tuy nhiên, loại khí này có khả năng hòa tan trong nước, độ hòa tan của Argon xấp xỉ với oxygen và gấp 2,5 lần nitrogen. Một nghiên cứu cho thấy, khi cho Argon phản ứng với nước, Argon có thể tạo ra các mắt lưới với nước.
+
+III. Ứng dụng 
+
+1. Trong ngành luyện kim
+Argon có đặc tính là khi thổi vào kim loại đang nóng chảy giúp làm giảm hàm lượng cacbon, crom. Chính vì vậy khí Ar thường được dùng làm khí thổi trong sản xuất thép, zirconium.
+
+Khí Ar cũng được dùng để loại bỏ những hạt nhôm bên trong nhôm nóng chảy. Hay dùng làm lá chắn trong quá trình đúc một cách hiệu quả nhất.
+
+2. Trong lĩnh vực y học
+-Loại khí trơ này có công dụng lớn trong phẫu thuật lạnh. Nó giúp tiêu diệt những vùng nhỏ của các mô bệnh, cần phá huỷ. Chính vì vậy, sự có mặt của argon giúp quá trình phẫu thuật diễn ra chính xác, mang lại hiệu quả cao hơn.
+
+-Thời gian gần đây, nhiều bệnh viện và trường đại học lớn cũng sử dụng khí argon trong việc điều trị rối loạn nhịp tim. Nguyên nhân là nó có thể tấn công, tiêu diệt các tế bào cản trở xung điện thông thường.
+
+3. Trong cuộc sống
+-Sử dụng trong sản xuất bóng đèn sợi đốt dùng hàng ngày
+-Độn giữa các tấm kính của khung cửa sổ cách nhiệt
+-Bảo quản rượu một cách hiệu quả nhờ ar sẽ giúp rượu không bị lên men quá mức hay biến chất
+

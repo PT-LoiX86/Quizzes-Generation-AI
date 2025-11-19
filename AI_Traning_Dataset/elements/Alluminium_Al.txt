@@ -1,0 +1,80 @@
+﻿Tên tiếng Anh: Alluminium
+Tên tiếng Việt: Nhôm
+
+Nhóm: IIIA
+Chu kỳ: 3
+Nguyên tử khối: 26,9815386(8)
+Độ âm điện: 1,61
+Cấu hình electron: [Ne] 3s2 3p1
+- Nhôm có cấu tạo mạng tinh thể lập phương tâm diện
+
+I. Trạng thái tự nhiên 
+
+- Trong tự nhiên chỉ tồn tại dưới dạng hợp chất.
+
+- Có trong: Đất sét (Al2O3.2SiO2.2H2O), mica (K2O.Al2O2.6H2O), boxit (Al2O3.2H2O), criolit (3.NaF.AlF3)...
+
+II. Tính chất vật lý 
+
+   - Nhôm là kim loại nhẹ (khối lượng riêng 2,7g/cm3).
+
+   - Màu trắng bạc, nóng chảy ở nhiệt độ không cao lắm (660°C).
+
+   - Nhôm mềm, dễ kéo sợi và dễ dát mỏng.
+
+   - Nhôm dẫn điện và dẫn nhiệt tốt.
+
+III. Tính chất hóa học
+
+1. Tác dụng với phi kim
+
+- Với oxi: Ở to thường tạo lớp màng oxit bảo vệ. Nếu đốt bột nhôm thì sẽ phản ứng mạnh.
+
+4Al  +  3O2   (nhiệt độ)→ 2Al2O3
+
+- Với phi kim khác:
+
+        + Với Cl2, Br2 phản ứng ngay ở to thường tạo thành AlCl3, AlBr3 phản ứng bốc cháy.
+
+Ví dụ: Khi đun nóng, phản ứng được với I2, S. Khi đun nóng mạnh, phản ứng được với N2, C.
+
+
+
+2. Tác dụng với axit
+
+- Al + dung dịch axit (HCl, H2SO4) → muối + H2
+
+2Al   +  6H+      →     2Al3+     +    3H2­
+
+- Al + dung dịch axit (có tính OXH mạnh) → muối + sản phẩm khử + H2O
+
+4Al  +  4HNO3 loãng  (nhiệt độ)→ Al(NO3)3  +  NO  + 2H2O
+
+2Al  +  6H2SO4 đặc (nhiệt độ)→  Al2(SO4)3  +  3SO2  +   6H2O
+
+- Al không tác dụng với H2SO4, HNO3 đặc nguội.
+
+3. Tác dụng với oxit kim loại
+
+Ở nhiệt độ cao, Al khử được nhiều oxit kim loại như Fe2O3, Cr2O3,... thành kim loại tự do.
+
+            2Al   +   Fe2O3 (nhiệt độ)→ Al2O3   +  2Fe
+
+4. Tác dụng với dung dịch kiềm      
+
+2Al  +  2NaOH  +  6H2O  →  2Na[Al(OH)4][𝐴𝑙(𝑂𝐻)4](dd)   +  3H2
+
+
+IV. Điều chế
+
+Điện phân nóng chảy Al2O3
+
+2Al2O3  (đpnc)→ 4Al  +  3O2
+
+V. Ứng dụng 
+
+- Người ta dùng nhôm để chế tạo vỏ máy bay, tên lửa, tàu vũ trụ do đặc tính nhẹ, bền với không khí và nước
+
+- Làm dây dẫn điện cao áp, đồ nội thất, làm vật trao đổi nhiệt
+
+- Chế tạo hỗn hợp tecmit (Al và Fe2O3) được dùng để hàn gắn đường ray.

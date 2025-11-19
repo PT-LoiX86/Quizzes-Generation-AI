@@ -1,0 +1,65 @@
+﻿Tên tiếng Anh: Helium
+Tên tiếng Việt: Heli
+
+Nhóm: VIIIA
+Chu kỳ: 1
+Nguyên tử khối: 4,002602(2)
+Cấu hình electron: 1s2
+
+I. Tính chất vật lý
+
+- Nhiệt độ nóng chảy: -272.2 ℃
+- Nhiệt độ sôi: -268.93 ℃
+- Heli là trơ nên không màu, không vị và không độc hại. Tỷ trọng của heli rất thấp khoảng 0,178g/l và tồn tại ở dạng lỏng. Heli có khả năng khuếch tán cực tốt qua chất rắn. Về khối nguyên tử heli thì nhẹ hơn không khí và argon nhiều
+
+II. Tính chất hóa học
+
+Nguyên tố này là khí đơn nguyên tử, vì vậy về mặt hóa học nó thể hiện tính trơ, không tham gia phản ứng hóa học với tất cả các chất, bao gồm cả đơn chất và hợp chất.
+
+III. Ứng dụng
+
+1. Sản xuất cáp quang
+-Các sợi cáp quang cung cấp kết nối internet và truyền hình cáp được sản xuất bên trong môi trường helium tinh khiết (tránh bong bóng khí không bị mắc kẹt bên trong cáp)
+
+2. Sản xuất chất bán dẫn
+-Ứng dụng trong quy trình làm mát chuyên dụng
+-Sử dụng để làm khí pha loãng cho việc khắc plasma
+-Dùng làm khí mang cho các quá trình lắng đọng
+-Làm máy dò rò rỉ
+
+3. Trong ngành hàng không vũ trụ
+-Heli lỏng là khí nén nhiên liệu lỏng cho các tên lửa
+-Sử dụng trong làm sạch các bể chứa nhờ tính trơ
+
+4. Trong khoa học nghiên cứu
+-Sử dụng cho máy gia tốc hạt lớn và máy gia tốc hạt Hadron lớn
+
+5. Trong lò phản ứng hạt nhân
+-Nhờ vào việc sử dụng tuabin để truyền khí qua lõi mà các lò phản ứng có thể tạo ra nhiệt.
+
+6. Bình khí cho thợ lặn
+-Bình khí cho thợ lặn gồm hỗn hợp của 80% khí heli và 20% oxy. Việc bổ sung helium cho các thợ lặn trong môi trường áp suất cao giúp họ dễ thở hơn trong không khí.
+
+7. Trong y tế
+-Trong ngành y tế: He được sử dụng kết hợp với oxy để điều trị bệnh hen suyễn, khí phế thũng cùng một số vấn đề về hô hấp khác bơi việc kết hợp này đến phổi nhanh hơn nhiều so với việc điều trị bằng oxy
+
+8. Trong MRI
+-Bệnh viện không thể tạo ra quét MRI khi không có helium. MRI hay hình ảnh cộng hưởng từ dùng một nam châm cực kỳ mạnh mẽ để có thể tạo ra các hình ảnh chi tiết về cấu trúc bên trong cơ thể mà loại nam châm này phải được làm mát để hoạt động và khí He là sản phẩm hoàn hảo cho nhiệm vụ này.
+
+9. Hàn và luyện kim
+-Nhờ vào tính chất không bắt lửa cùng khả năng tản nhiệt nhanh chóng mà khí helium được dùng kết hợp với khí Argon và khí Nitơ để tạo thành các tấm lá chắn cho cơ sở luyện kim. Ngoài ra, chúng còn giúp làm mát các nam châm trong quá trình hàn hồ quang và mang đến hiệu quả luyện kim như mong đợi
+-Trong công nghệ hàn: khí này có tính dẫn nhiệt cao hơn do đó có thể bảo vệ được các chi tiết hàn dày tốt hơn so với khí Argon.
+
+10. Phát hiện rò rỉ khí
+-Nhờ vào đặc tính khuếch tán cao, nhanh chóng, khí Heli được sử dụng trong kiểm tra rò rỉ cho các thiết bị máy móc như hệ thống điều hòa xe hơi, tàu thuyền hay thử nghiệm hệ thống chân không.
+
+11. Ứng dụng laser khí
+-Ánh sáng đỏ từ laser helium-neon được sử dụng trong quét mã vạch hàng hóa cũng như đóng vai trò quan trọng cho nhiều hệ thống hiển vi quét laser đồng tiêu.
+
+12. Trong vui chơi giải trí
+-Thường được dùng để bơm bóng bay hay khinh khí cầu hoặc các trò khác như đổi giọng nói.
+
+13. Trong sản xuất công nghiệp
+-Được dùng như một loại khí bảo vệ tốt trong phát triển silic và germanium tinh thể, titan cùng zirconi
+-Sử dụng loại khí này để tính độ tuổi của các loại đá có chứa uranium và thorium
+-Được xem như môi trường không khí để bảo vệ sợi quang và bán dẫn sản xuất.

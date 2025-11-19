@@ -1,0 +1,22 @@
+﻿Tên tiếng Anh: Cobalt
+Tên tiếng Việt: Cobalt
+
+Nhóm: VIIIB
+Chu kỳ: 4
+Nguyên tử khối: 58,93
+Độ âm điện: 1,88
+Cấu hình electron: [Ar] 3d7 4s2
+
+I. Ứng dụng 
+
+-Cobalt được sử dụng trong hợp kim cho các bộ phận động cơ máy bay và trong các hợp kim có công dụng chống ăn mòn / mài mòn.
+
+-Cobalt được sử dụng rộng rãi trong pin và trong mạ điện.
+
+-Muối coban được sử dụng để tạo màu xanh lam và xanh lục trong thủy tinh và gốm sứ.
+
+-Phóng xạ 60Co được sử dụng trong điều trị ung thư.
+
+-Cobalt rất cần thiết cho nhiều sinh vật sống và là thành phần của vitamin B12.
+
+-Cobalt cũng được sử dụng trong nam châm vĩnh cửu samarium-coban. Chúng được sử dụng trong xe bán tải và động cơ tốc độ cao.

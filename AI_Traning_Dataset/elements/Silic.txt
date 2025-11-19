@@ -1,0 +1,63 @@
+﻿Tên tiếng Anh: Silicon
+Tên tiếng Việt: Silic
+
+Nhóm: IVA
+Chu kỳ: 3
+Nguyên tử khối: 28,085
+Độ âm điện: 1,9
+Cấu hình electron: [Ne] 3s2 3p2
+
+I. Trạng thái tự nhiên 
+
+    - Silic là nguyên tố phổ biến thứ hai sau oxi, chiếm gần 29,5% khối lượng vỏ Trái Đất.
+
+    - Trong tự nhiên chỉ gặp silic dưới dạng các hợp chất, chủ yếu là cát (SiO2), các khoáng vật silicat và aluminosilicat như: cao lanh (Al2O3.2SiO2.2H2O), xecpentin (3MgO.2SiO2.2H2O), ...
+
+    - Silic còn có trong cơ thể động vật, thực vật với lượng nhỏ và có vai trò đáng kể trong hoạt động của thế giới hữu sinh.
+
+II. Tính chất vật lý 
+
+Có các dạng thù hình là silic tinh thể và silic vô định hình
+
+- Silic tinh thể có cấu trúc giống kim cương, màu xám, có ánh kim và có tính bán dẫn
+
+- Silic vô định hình là chất bột màu nâu
+
+III. Tính chất hóa học
+
+- Silic có các số oxi hóa: -4, 0, +2 và +4 (số oxi hóa +2 ít đặc trưng hơn).
+
+- Trong các phản ứng hóa học, silic vừa thể hiện tính oxi hóa vừa thể hiện tính khử.
+
+1. Tính khử
+
+a) Tác dụng với phi kim:
+
+Si + 2F2   →  SiF4
+
+Si + O2   (nhiệt độ)→ SiO2
+
+b) Tác dụng với hợp chất:
+
+2NaOH  +  Si  +  H2O →  Na2SiO3  +  2H2
+
+2. Tính OXH 
+
+- Tác dụng với một số kim loại mạnh ở nhiệt độ cao:
+
+2Mg  +   Si   (nhiệt độ)→ Mg2Si  
+
+IV. ĐIỀU CHẾ
+
+1. Trong phòng thí nghiệm
+
+2Mg + SiO2  (900°C)→ 2MgO + Si   
+
+2. Trong công nghiệp        
+
+SiO2  +  2C  (1800°C)→ 2CO    + Si  
+
+V. Ứng dụng 
+- Silic siêu tinh khiết là chất bán dẫn dùng trong kỹ thuật vô tuyến và điện tử như chế tạo tế bào quang điện, bộ khuếch đại,...
+
+- Trong luyện kim silic được dùng để tách oxi ra khỏi kim loại nóng chảy

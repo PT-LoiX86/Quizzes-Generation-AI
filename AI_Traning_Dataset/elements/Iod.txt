@@ -1,0 +1,69 @@
+﻿Tên tiếng Anh: Iodine
+Tên tiếng Việt: Iod
+
+Nhóm: VIIA
+Chu kỳ: 5
+Nguyên tử khối: 126,90 
+Độ âm điện: 2,66
+Cấu hình electron: [Kr] 4d10 5s2 5p5 
+
+
+I. Trạng thái tự nhiên 
+
+-Iot chỉ tồn tại ở dạng hợp chất, hợp chất của iot tồn tại trong nước biển, rong biển nhưng ít hơn so với các halogen khác.
+
+II. Tính chất vật lý 
+
+-Iod là chất rắn có màu tím thẫm hoặc màu xám có ánh kim loại và có mùi đặc trưng. Nó thăng hoa ở nhiệt độ thường tạo ra một chất khí màu tím hồng. Và dần trở nên tím rõ ràng khi nồng độ của nó tích tụ trong một không gian hạn chế gây mùi khó chịu. Khi được làm lạnh, thì hơi iot này lại chuyển thành dạng tinh thể mà không qua trạng thái lỏng. 
+
+-Iot hầu như không hòa tan trong nước nhưng rất hòa tan trong dung dịch môi hữu cơ như benzen, xăng...
+
+III. Tính chất hóa học
+
+Về mặt hóa học, iot là chất ít phản ứng nhất trong số các halogen như Clo, Flo... Nó là halogen có độ dương điện lớn nhất sau nguyên tố At.
+
+- Tác dụng với kim loại:
+
+Iot có khả năng oxi hóa được nhiều kim loại nhưng phản ứng chỉ xảy ra trong điều kiện có chất xúc tác hoặc được đun nóng. Ví dụ: 
+
+2Al + 3I2 → 2AlI3
+
+Na + 1/2I2 → NaI
+
+- Tác dụng với hidro
+
+Iod có phản ứng với khí H2 ở nhiệt độ cao với chất xúc tác. Phản ứng tạo ra khí Hiđro iotua, tuy nhiên hợp chất này không bền nên phản ứng là thuận nghịch:
+
+H2  + I2  →   2HI
+
+2HI   →  H2 + I2
+
+- Phản ứng với hồ tinh bột:
+
+Iot có tính chất đặc trưng là khả năng tương tác với hồ tinh bột để tạo thành hợp chất có màu xanh. Đây cũng chính là một trong những tính chất để nhận biệt iod.
+
+IV. Điều chế
+
+-Điều chế iot đi từ rong biển, việc điều chế iot dựa vào sự oxi hóa ion I-
+Cl2 + 2NaI → 2NaCl + I2
+
+V. Ứng dụng 
+
+- Ngành nông nghiệp: Iod được sử dụng làm chất phụ gia trong thức ăn chăn nuôi như Ethylenediamine dihydroiodide (EDDI), nhu cầu khoảng 8%.
+
+- Ngành y tế:
+
++Iot để sản xuất chất tương phản gốc iot giúp ngăn chặn và hạn chế khả năng xuyên thấu của tia X giúp tăng độ tương phản giữa các mô, cơ quan và mạch máu khi sử dụng tia X.
++Iot-123 dùng để xét nghiệm hoạt động của tuyến giáp.
++Iot-131 dùng cho bệnh nhân ung thư tuyến giáp và bệnh Grave.
++Muối iodide kali (KI) có thể dùng để chữa trị cho các bệnh nhân bị ảnh hưởng của thảm họa hạt nhân để rửa trôi đồng vị phóng xạ I-131…
+
+- Ngành dược phẩm:
+
+Chất sát trùng: Iot được dùng trong sản xuất cồn iot (dung dịch iot 5% trong ancol etylic) để sát trùng, khử trùng vết thương và khử trùng bề mặt.
+Muối iot: Iot kết hợp với lượng nhỏ KI và KIO3 thành muối iot. Hỗn hợp này giúp phòng tránh các rối loạn do thiếu iot như bướu cổ.
+- Ngành nghề nhiếp ảnh: Muối iodide bạc (AgI) được dùng trong nhiếp ảnh. Ngoài ra, nó còn dùng để làm phim phân cực trong màn hình tinh thể lỏng (LCD), trong đó iốt được kết hợp dưới dạng polyiodua (I3- hoặc I5-).
+
+- Ngành sơn: Chất diệt khuẩn từ iot được dùng trong sơn để bảo quản sơn trong hộp khỏi sự phát triển của nấm mốc sau khi sử dụng.
+
+- Trong công nghiệp sản xuất: Iot để làm chất xúc tác cho quá trình polyme hóa nhựa hoặc các quá trình khác cần tổng hợp hóa học. Wonfram iodide được sử dụng để làm ổn định dây tóc của bóng đèn dây tóc.

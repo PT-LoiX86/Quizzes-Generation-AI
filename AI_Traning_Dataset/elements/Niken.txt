@@ -1,0 +1,49 @@
+﻿Tên tiếng Anh: Nickel
+Tên tiếng Việt: Nickel
+
+Nhóm: VIIIB
+Chu kỳ: 4
+Nguyên tử khối: 59
+Độ âm điện: 1,91
+Cấu hình electron: [Ar] 3d8 4s2
+
+I. Trạng thái tự nhiên 
+
+- Quặng laterit, thành phần chính của quặng có chứa niken là limonit (Fe,Ni)O(OH) và garnierit (niken silicat ngậm nước (Ni,Mg)3Si2O5(OH). Quặng thứ hai là sunfua magma, thành phần chính là pentlandit (Ni,Fe)9S8.
+
+- Hầu hết niken trên trái đất được cho là tập trung ở lõi Trái Đất.
+
+II. Tính chất vật lý
+
+- Niken là kim loại màu trắng bạc, rất cứng, có khối lượng riêng bằng 8,91g/cm3, nóng chảy ở 1455°C.
+
+III. Tính chất hóa học
+
+- Niken có tính khử trung bình.
+
+Ni →Ni2+ + 2e
+
+a. Tác dụng với phi kim
+
+- Khi đun nóng, Ni phản ứng được một số phi kim (như oxi, clo,...)
+
+2Ni + O2 (nhiệt độ)→ 2NiO
+Ni + Br2 (nhiệt độ)→ NiBr2
+
+b. Tác dụng với axit
+
+- Với axit HCl và H2SO4 loãng giải phóng khí hidro.
+
+Ni + 2HCl (loãng) → NiCl2 + H2 .
+
+- Ni tan dễ dàng trong dung dịch axit HNO3 đặc, nóng.
+
+Ni + 4HNO3(đặc) → Ni(NO3)2 + 2NO2 + 2H2O.
+
+IV. Điều chế
+
+- Niken có thể tái tạo bằng phương pháp luyện kim. Các quặng chứa oxit hay hiđroxit được tách bằng phương pháp thủy luyện, và quặng giàu sunfua tách bằng phương pháp nhiệt luyện hoặc thủy luyện. Quặng giàu sunfua được sản xuất bằng cách áp dụng quy trình tuyển quặng.
+
+V. Ứng dụng 
+
+- Khoảng 65% niken được dùng làm thép không rỉ. 12% còn lại được dùng làm "siêu hợp kim". 23% còn lại được dùng trong luyện thép, pin sạc, chất xúc tác và các hóa chất khác, đúc tiền, sản phẩm đúc, và bảng kim loại.

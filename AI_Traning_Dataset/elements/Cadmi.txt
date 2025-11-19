@@ -1,0 +1,85 @@
+﻿Tên tiếng Anh: Cadmium
+Tên tiếng Việt: Cadmi
+
+Nhóm: IIB
+Chu kỳ: 5
+Nguyên tử khối: 112,41
+Độ âm điện: 1,69
+Cấu hình electron: [Kr] 4d10 5s2
+
+I. Trạng thái tự nhiên 
+ 
+ -  Trong thiên nhiên, Cd thường tồn tại cùng với quặng của kẽm, đồng.
+
+II. Tính chất vật lý 
+  
+ -  Kim loại màu trắng bạc, nặng, dễ nóng chảy, mềm, dẻo.
+
+ -  Có khối lượng riêng là 8,65 g/cm3; nhiệt độ nóng chảy là 321,1 °C và sôi ở 766,5 °C.
+
+III. Tính chất hóa học
+
+- Cd là kim loại có tính khử trung bình
+- Có mức oxi hóa phổ biến là +2.
+
+a. Tác dụng với phi kim
+
+ - Trong không khí ẩm, Cd bị phủ một màng oxit bền. Khi đun nóng Cd phản ứng được với nhiều phi kim (như oxi, halogen, lưu huỳnh, phot pho,...).
+
+Ví dụ: 2Cd + O2  → 2CdO
+
+          Cd + I2 → CdI2
+
+          3Cd + 2P(đỏ) → Cd3P2
+
+ 
+
+b. Tác dụng với axit
+
+Tác dụng với HCl, H2SO4 loãng tạo muối và gải phóng khí hidro.
+
+Cd + 2HCl → CdCl2 + H2
+
+Tác dụng với HNO3 và H2SO4 đặc, Cd khử được và  xuống những mức oxi hoá thấp hơn.
+
+Cd + 4HNO3 (đặc) → Cd(NO3)2 + 2NO2  + 2H2O.
+
+ 
+
+c. Tác dụng với dung dịch muối
+
+-  Cd đẩy được các kim loại yếu hơn ra khỏi dung dịch muối.
+
+ Ví dụ: Cd + CuSO4 (dd)→ CdSO4 + Cu .
+
+             Cd + 2FeCl3 (dd) → CdCl2 + 2FeCl2.
+
+ 
+
+ d. Tác dụng với hơi nước
+
+Cd + H2O (hơi) → CdO + H2
+
+IV. Ứng dụng 
+
+ -  Khoảng 3/4 cadmi sản xuất ra được sử dụng trong các loại pin (đặc biệt là pin Ni-Cd) và phần lớn trong 1/4 còn lại sử dụng chủ yếu trong các chất màu, lớp sơn phủ, các tấm mạ kim và làm chất ổn định cho plastic. Các sử dụng khác bao gồm:
+
+  + Trong một số hợp kim có điểm nóng chảy thấp.
+
+  + Trong các hợp kim làm vòng bi hay gối đỡ do có hệ số ma sát thấp và khả năng chịu mỏi cao.
+
+  + 6% cadmi sử dụng trong mạ điện.
+
+  + Nhiều loại que hàn chứa kim loại này.
+
+  + Lưới kiểm soát trong các lò phản ứng hạt nhân.
+
+  + Các hợp chất chứa cadmi được sử dụng trong các ống hình của ti vi đen trắng hay ti vi màu (phốt pho đen, trắng, lam và lục).
+
+  + Cadimi tạo ra nhiều loại muối, trong đó sulfua cadmi là phổ biến nhất. Sulfua này được sử dụng trong thuốc màu vàng.
+
+  + Một số vật liệu bán dẫn như sulfua cadmi, selenua cadmi và telurua cadmi thì nó dùng trong các thiết bị phát hiện ánh sáng hay pin mặt trời. HgCdTe nhạy cảm với tia hồng ngoại.
+
+  + Một số hợp chất của cadmi sử dụng trong PVC làm chất ổn định.
+
+   + Sử dụng trong thiết bị phát hiện nơtrino đầu tiên.

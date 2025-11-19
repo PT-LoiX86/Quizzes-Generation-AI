@@ -1,0 +1,83 @@
+﻿Tên tiếng Anh: Barium
+Tên tiếng Việt: Bari
+
+Nhóm: IIA
+Chu kỳ: 6
+Nguyên tử khối: 137
+Độ âm điện: 0,89
+Cấu hình electron: [Xe] 6s1
+
+
+I. Trạng thái tự nhiên 
+
+   - Bari trong tự nhiên là hỗn hợp của 7 đồng vị bền, đồng vị phổ biến nhất là 138Ba (71,7 %).
+
+   - Bari chiếm 0,0425% trong vỏ Trái Đất và 13 µg/L trong nước biển. Nó có mặt trong các khoáng barit (ở dạng sulphat) và witherit (ở dạng cacbonat).
+
+II. Tính chất vật lý & nhận biết
+
+1. Tính chất vật lí:
+
+   - Bari là kim loại kiềm thổ màu trắng bạc, dẻo, rèn được.
+
+   - Có khối lượng riêng là 3,6 g/cm3; có nhiệt độ nóng chảy là 727°C và sôi ở 1860°C.
+
+2. Nhận biết
+
+- Đốt cháy các hợp chất của Bari, cho ngọn lửa màu đỏ son.
+
+III. Tính chất hóa học
+
+- Bari là kim loại kiềm thổ có tính khử mạnh.
+
+Ba → Ba2+ + 2e
+
+a. Tác dụng với phi kim (oxi, halogen….)
+
+2Ba + O2 → 2BaO
+
+Ba + Cl2 →BaCl2
+
+b. Tác dụng với axit
+
+- Với dung dịch axit HCl:
+
+Ba + 2HCl → BaCl2 + H2
+
+- Với dung dịch HNO3:
+
+Ba + 4HNO3 đặc → Ba(NO3)2 + 2NO2 + 2H2O.
+
+Lưu ý: Kim loại Ba dễ dàng phản ứng với hầu hết axit, với ngoại lệ là axit sunfuric, phản ứng dừng lại khi tạo thành lớp muối không tan trên bề mặt là bari sulfat.
+
+
+c. Tác dụng với nước
+
+- Ở nhiệt độ thường, Ba khử nước mãnh liệt.
+
+Ba + 2H2O → Ba(OH)2 + H2
+
+IV. Điều chế
+
+   - Bari được sản xuất thương mại bằng phương pháp điện phân nóng chảy bari clorua (BaCl2).
+
+BaCl2 (đpnc)→ Ba + Cl2
+
+   - Ba còn được điều chế bằng cách trộn bari oxit với bột nhôm nghiền mịn ở nhiệt độ giữa 1100 và 1200 °C
+
+3BaO + 2 Al → 3Ba + Al2O3
+
+V. Ứng dụng 
+
+- Bari được sử dụng chủ yếu trong sản xuất buji, ống chân không, pháo hoa và bóng đèn huỳnh quang.
+
+   + Hợp chất bari sulfat có màu trắng và được sử dụng trong sản xuất sơn, trong chẩn đoán bằng tia X, và trong sản xuất thủy tinh.
+
+
+   + Bari cacbonat được dùng làm bả chuột và có thể được sử dụng trong sản xuất thủy tinh và gạch.
+
+   + Bari nitrat và bari clorua được sử dụng để tạo màu xanh lá cây trong sản xuất pháo hoa.
+
+   + Bari sulfua không tinh khiết phát lân quang sau khi đặt dưới ánh sáng.
+
+   + Các muối của bari, đặc biệt là bari sulfat, có khi cũng được sử dụng để uống hoặc bơm vào ruột bệnh nhân, để làm tăng độ tương phản của những tấm phim X quang trong việc chẩn đoán hệ tiêu hóa.

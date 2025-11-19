@@ -1,0 +1,80 @@
+﻿Tên tiếng Anh: Phosphorus
+Tên tiếng Việt: Phosphor
+
+Nhóm: VA
+Chu kỳ: 3
+Nguyên tử khối: 31
+Độ âm điện: 2,19
+Cấu hình electron: [Ne] 3s2 3p3
+
+I. Trạng thái tự nhiên 
+
+- Trong tự nhiên, nguyên tố P chỉ có ở dạng hợp chất
+
+   + Ở cơ thể sống: người, động vật, thực vật,…
+
+   + Ở vỏ trái đất: quặng apatit (3Ca3(PO4)2.CaF2 ); quặng photphorit ( Ca3(PO4)2)
+
+II. Tính chất vật lý 
+
+1. Photpho trắng
+
+Chất rắn màu trắng hoặc hơi vàng, rất độc, dễ gây bỏng nặng khi rơi vào da; mềm và dễ nóng chảy; không tan trong nước và dễ tan trong dung môi hữu cơ. 
+
+2. Photpho đỏ
+
+- Chất rắn có màu đỏ, không độc, dễ hút ẩm và chảy rữa; không tan trong các dung môi thông thường.
+
+P đỏ (rắn) (nhiệt độ)→ P đỏ (hơi) → P trắng.
+
+- Hai dạng này khác nhau về tính chất vật lí do chúng khác nhau về cấu trúc tinh thể và khả năng liên kết. Trong hai dạng thù hình photpho trắng hoạt động hơn photpho đỏ.
+
+III. Tính chất hóa học
+
+- Độ âm điện P < N.
+- Nhưng P hoạt động hóa học hơn N2 vì liên kết N ≡ N bền vững.
+- P trắng hoạt động hơn P đỏ.
+- P vừa có tính khử vừa có tính oxi hóa
+
+
+1. Tính khử
+
+a. Khử phi kim mạnh hơn:O2, Cl2, S...
+
+   - Khử O2 : 
+		4P + 3O2(thiếu) → 2P2O3
+		4P + 5O2(dư) → 2P2O5
+
+   Photpho trắng tác dụng với oxi ở điều kiện thường, phản ứng tỏa năng lượng ở dạng ánh sáng → gây ra hiện tượng phát quang hóa học
+
+   Photpho đỏ chỉ tác dụng với oxi ở nhiệt độ cao
+ 
+- Khử : 
+	2P + 3Cl2(thiếu) → 2PCl3 (photpho triclorua)
+	2P + 5Cl2(dư) → 2PCl5 (photpho pentaclorua)
+
+b. Khử một số hợp chất có tính oxi hóa mạnh
+
+	6P + 5KClO3 (nhiệt độ)→ 3P2O5 + 5KCl
+	2P + 5H2SO4 (nhiệt độ)→ 2H3PO4 + 5SO2 + 2H2O
+	P + 5HNO3 → H3PO4 + 5NO2 + H2O
+
+2. Tính oxi hóa
+
+   * P oxi hóa các kim loại hoạt động tạo ra photphua kim loại
+
+	3Ca + 2P → Ca3P2
+
+IV. Điều chế
+
+   Ca3(PO4)2 + 5C + 3SiO2 
+
+   Quặng than cốc cát
+
+V. Ứng dụng 
+
+   - Điều chế H3PO4
+
+   - Sản xuất diêm
+
+   - Điều chế bom cháy, lựu đạn khói

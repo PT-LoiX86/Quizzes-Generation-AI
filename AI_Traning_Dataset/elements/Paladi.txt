@@ -1,0 +1,77 @@
+﻿Tên tiếng Anh: Palladium
+Tên tiếng Việt: Paladi
+
+Nhóm : VIIIB
+Chu kỳ:5
+Số nguyên tử:46
+Nguyên tử khối tương đối:106.42
+Độ âm điện :2.20
+Cấu hình electron:[Kr] 4d10
+Cấu tạo mạng tinh thể:Lập phương tâm mặt 
+Các số oxi hóa phổ biến:+2 (ổn định nhất), +4
+
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Paladi là một nguyên tố hiếm trong vỏ Trái Đất.
+
+-Nguồn gốc: Nó được tìm thấy không kết hợp trong tự nhiên cùng với các kim loại nhóm Platin khác, trong các trầm tích khoáng và các mỏ đồng-niken.
+
+-Khai thác: Paladi được thu hồi thương mại chủ yếu như một sản phẩm phụ trong quá trình khai thác và chế biến quặng đồng (Cu) và niken (Ni).
+
+II. Tính chất vật lý
+-Màu sắc: Kim loại trắng bạc, ánh kim
+
+-Độ dẻo: Rất mềm, dẻo và dễ uốn, là kim loại thuộc nhóm Platin dễ gia công nhất.
+
+-Khối lượng riêng: 12.02 g/cm^3.
+
+-Nhiệt độ nóng chảy: 1554.9°C.
+
+-Đặc tính khí: Paladi có khả năng hấp thụ một lượng lớn khí Hydrogen (có thể gấp 900 lần thể tích của chính nó ở nhiệt độ phòng), khiến nó trở nên cứng và giòn. Tính chất này độc đáo và có ứng dụng quan trọng.
+
+III. Tính chất hóa học
+
+Paladi là kim loại thuộc nhóm Platin hoạt động hóa học mạnh nhất.
+
+1. Tác dụng với Phi kim 
+
+-Với Oxi: Bền trong không khí ở nhiệt độ thường. Khi đun nóng trên 400°C, nó bị oxy hóa tạo thành Paladi(II) Oxide (PdO).
+
+-Với Lưu huỳnh/Halogen: Phản ứng mạnh với Lưu huỳnh và các halogen ở nhiệt độ cao.
+
+2. Tác dụng với Axit
+
+-Khả năng hòa tan: Khác với Platin và Iridi, Paladi có thể bị hòa tan bởi Axit Nitric (HNO_3) nóng, và tan chậm trong Axit Sulfuric (H2SO4) đặc, nóng.
+
+-Nước cường toan: Hòa tan dễ dàng trong Nước cường toan (Aqua Regia) tạo thành Palladium(II) Chloride (PdCl_2).
+
+3. Tính Xúc tác
+
+-Tính khử: Paladi là chất xúc tác tuyệt vời trong các phản ứng hydrogen hóa (hydrogenation) và khử hydrogen (dehydrogenation). Paladi trên carbon (Pd/C) là một trong những chất xúc tác được sử dụng phổ biến nhất trong hóa học hữu cơ.
+
+IV. Điều chế
+
+Paladi được điều chế thông qua quá trình phức tạp từ cặn bùn anode trong quá trình điện phân đồng và niken.
+
+-Tách chiết công nghiệp: 
+  
+    +Các kim loại nhóm Platin được tách khỏi đồng và niken bằng các kỹ thuật luyện kim khác nhau.
+  
+    +Sau đó, Paladi được tách khỏi các kim loại Platin khác (như Rh, Ru, Ir) bằng cách hòa tan có chọn lọc hoặc kết tủa phức chất.
+  
+    +Kim loại Paladi tinh khiết được thu hồi bằng cách khử các hợp chất Paladi.
+
+V. Ứng dụng
+
+-Công nghiệp Ô tô: Đây là ứng dụng lớn nhất. Paladi được sử dụng làm chất xúc tác trong bộ chuyển đổi xúc tác (catalytic converters) để giúp chuyển đổi các khí thải độc hại (CO, NO) thành các chất ít độc hơn .
+
+-Điện tử: Được sử dụng trong gốm nhiều lớp (MLCC), các tiếp điểm điện và các bộ phận khác trong linh kiện điện tử.
+
+-Y tế/Nha khoa: Hợp kim Paladi được sử dụng trong nha khoa (làm răng giả) và làm vật liệu hàn trong các thiết bị y tế.
+
+-Lưu trữ Hydrogen: Do khả năng hấp thụ Hydrogen cao, Paladi đang được nghiên cứu làm vật liệu lưu trữ Hydrogen cho các ứng dụng pin nhiên liệu (fuel cells).
+
+-Đầu tư: Paladi là một kim loại quý và được sử dụng trong chế tác trang sức và đầu tư dưới dạng thỏi, xu.
+
+-Xúc tác hóa học: Sử dụng rộng rãi trong tổng hợp hữu cơ, đặc biệt trong các phản ứng ghép nối (coupling reactions) như phản ứng Suzuki và Heck.

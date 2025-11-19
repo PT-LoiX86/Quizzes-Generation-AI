@@ -1,0 +1,80 @@
+﻿Tên tiếng Anh: Rhenium
+Tên tiếng Việt: Rheni
+
+Nhóm : VIIB 
+Chu kỳ : 6
+Số nguyên tử : 75
+Nguyên tử khối : 186.207
+Độ âm điện : 1.9
+Cấu hình electron : [Xe] 4f14 5d5 6s2
+Cấu tạo mạng tinh thể : Lục phương
+Các số oxi hóa phổ biến : +7 (ổn định nhất), -1, +1, +2, +3, +4, +5, +6
+
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Rheni là một trong những nguyên tố hiếm nhất trong vỏ Trái Đất, chỉ đứng sau Promethium (nguyên tố phóng xạ) và Technetium (nguyên tố nhân tạo) về độ hiếm của các nguyên tố ổn định.
+
+-Nguồn gốc: Rheni không bao giờ được tìm thấy ở trạng thái tự do trong tự nhiên.
+
+-Khoáng vật: Nó không có khoáng vật riêng mà luôn được tìm thấy dưới dạng tạp chất trong các khoáng vật của Molypden (Mo), đặc biệt là Molypdenit (MoS2)
+
+-Đồng vị: Là nguyên tố ổn định duy nhất có đồng vị tự nhiên là Rheni-187 (Re-187) có thời gian bán rã cực kỳ dài (hàng chục tỷ năm), nên về mặt thực tế được coi là ổn định và được sử dụng trong định tuổi địa chất.
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng bạc, ánh kim
+
+-Đặc tính nhiệt: Có nhiệt độ nóng chảy cao thứ ba trong số các nguyên tố, sau Vonfram (W) và Carbon (C) .
+
+-Nhiệt độ nóng chảy: 3186°C.
+
+-Khối lượng riêng: Rất cao, 21.04 g/cm^3 (Tương đương với Platin).
+
+-Độ cứng/Dẻo: Rheni rất cứng, chịu nhiệt và chống mài mòn tốt, nhưng khi được làm cứng bằng cách gia công nguội, nó trở nên giòn.
+
+-Tính chất điện: Reni có khả năng chống hồ quang điện rất cao.
+
+III. Tính chất hóa học
+
+Rheni là kim loại chuyển tiếp có khả năng thể hiện nhiều số oxi hóa nhất so với các nguyên tố khác, và tạo hợp chất bền ở số oxi hóa +7.
+
+1. Tác dụng với Oxi
+
+-Với Oxi: Rheni không phản ứng với Oxi ở nhiệt độ thường. Ở nhiệt độ cao, nó bị oxy hóa thành Rhenium(VII) Oxide (Re2O7):
+    4Re + 7O2 (nhiệt độ) → 2Re2O7
+
+-Hợp chất bền: Re2O7 là một chất lỏng dễ bay hơi và tạo thành Axit Perhenic (HReO4) khi hòa tan trong nước.
+
+2. Tác dụng với Axit
+
+-Khả năng hòa tan: Không bị ảnh hưởng bởi HCl hoặc HF.
+
+-Với Axit Oxi hóa: Hòa tan chậm trong Axit Nitric (HNO3) đặc và Axit Sulfuric (H2SO4) đặc, nóng.
+
+3. Hợp chất
+
+Tính chất xúc tác: Các hợp chất của Rheni (đặc biệt là Rheni Oxide và Rheni Sulfide) thể hiện khả năng xúc tác tuyệt vời.
+
+IV. Điều chế
+
+Rheni được điều chế từ sản phẩm phụ của quá trình sản xuất Molypden, chủ yếu từ khí thải của quá trình nung quặng Molypdenit.
+
+-Thu thập: Hợp chất Rhenium(VII) Oxide (Re2O7) dễ bay hơi được thu thập từ khói thoát ra khi nung quặng Molypdenit.
+
+-Tinh chế: Re2O7 được hòa tan trong nước, tạo thành Axit Perhenic (HReO4), sau đó kết tủa thành Amoni Perhenat (NH4ReO4).
+
+-Khử: Amoni Perhenat được khử bằng Hydrogen (H2) ở nhiệt độ cao để thu được bột Rheni kim loại tinh khiết:
+    2NH4ReO4 + 7H2 (nhiệt độ) → 2Re + 8H2O + 2NH3
+V. Ứng dụng
+Công nghiệp Hàng không: Ứng dụng quan trọng nhất là trong các hợp kim siêu chịu nhiệt (superalloys) gốc Niken
+
+* Các hợp kim Niken-Rheni được dùng để chế tạo cánh tua-bin trong động cơ phản lực, vì chúng giúp tăng hiệu suất và kéo dài tuổi thọ động cơ ở nhiệt độ cực cao.
+
+-Xúc tác: Được dùng làm chất xúc tác trong ngành công nghiệp lọc dầu (để sản xuất xăng không chì) và trong quá trình hydrogen hóa.
+
+-Thiết bị chịu nhiệt: Được dùng làm dây tóc trong các lò nung, đèn flash và cặp nhiệt điện (thermocouples) có khả năng chịu nhiệt độ rất cao (trên 2000°C).
+
+-Hợp kim: Được tạo hợp kim với Vonfram (W) và Molypden (Mo) để tạo ra các hợp kim có tính dẻo và độ bền cao ở nhiệt độ cao.
+
+-Điện tử: Dùng làm tiếp điểm điện do khả năng chống ăn mòn và chống hồ quang tốt.

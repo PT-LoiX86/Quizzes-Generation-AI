@@ -1,0 +1,78 @@
+﻿Tên tiếng Anh: Zinc
+Tên tiếng Việt: Kẽm
+
+Nhóm: IIB
+Chu kỳ: 4
+Nguyên tử khối: 65
+Độ âm điện: 1,65
+Cấu hình electron: [Ar] 3d10 4s2
+
+
+I. Trạng thái tự nhiên 
+
+Trong tự nhiên kẽm thường nằm trong quặng cùng với các kim loại khác như đồng, chì. Kẽm liên kết với lưu huỳnh tạo ra quặng Sphalerit, là loại quặng chứa nhiều kẽm nhất với hàm lượng lên đến 60%. Ngoài ra kẽm còn tồn tại trong một số các quặng khác như: smithsonit (kẽm cacbonat), hemimorphite (kẽm silicat), wurtzite (loại kẽm sulfide khác), hydrozincite (kẽm cacbonat). 
+
+II. Tính chất vật lý 
+
+-Kẽm ở dạng chất rắn, có màu bạc xám, lấp lánh ánh kim. Kim loại kẽm có cấu trúc tinh thể hình lập phương, tương đối cứng, giòn và có thể uốn khi đạt nhiệt độ từ 100-150°C. Trên 210°C, kim loại kẽm giòn trở lại và có thể được tán nhỏ bằng lực. 
+-Khối lượng riêng: 7,13 g/cm3
+-Nhiệt độ nóng chảy: 419,53 °C. 
+-Nhiệt độ sôi: 907 °C. Kẽm có nhiệt độ sôi thấp khá thấp trong nhóm các kim loại chuyển tiếp, chỉ cao hơn thủy ngân và cadimi.  
+
+III. Tính chất hóa học
+
+- Cấu hình electron của kẽm là [Ar]3d104s2, số oxi hóa của kẽm là +2. Kẽm là kim loại lưỡng tính, có mức độ hoạt động trung bình, là 1 chất có mức độ oxi hóa mạnh. 
+
+- Kẽm mang đầy đủ các tính chất của 1 kim loại, thể hiện qua các phản ứng sau: 
+
+Phản ứng với oxi tạo oxit: Zn + O2 → ZnO
+Kẽm tác dụng với dung dịch axit tạo muối: 
+Zn + H2SO4 → ZnSO4 + H2
+
+Zn + H2SO4 → 2H2O + SO2 + ZnSO4
+
+Tác dụng với phi kim khác: Zn + Cl2   → ZnCl2
+Tác dụng với kiềm: Zn + NaOH → Na2ZnO2 + H2
+- Kẽm còn có thể tác dụng với nước nhưng phản ứng này hầu như không xảy ra vì trên bề mặt của kẽm có màng Hydrozincit, Zn5(OH)6(CO3)2 bảo vệ.
+
+IV. Điều chế
+
+-Kẽm là nguyên tố được sử dụng phổ biến thứ 4, sau sắt, đồng, nhôm. Khoảng 70% lượng kẽm hiện nay đến từ việc khai thác quặng kẽm, phần còn lại sẽ từ hoạt động tái chế. 95% kẽm khai thác từ quặng sulfit. Trên thế giới các mỏ quặng kẽm tập trung nhiều tại Trung Quốc, Peru và Australia. 
+
+-Quặng kẽm sẽ được nghiền nhỏ và trải qua nhiều công đoạn xử lý, tinh chế để thu được kim loại kẽm tinh khiết:
+
++Chuyển kẽm sulfit thành kẽm oxit: 2 ZnS + 3 O2 → 2 ZnO + 2 SO2.
++Khử kẽm oxit với cacbon hoặc CO ở 950 °C tạo kim loại kẽm ở dạng hơi. Hơi kẽm được thu hồi trong bình ngưng tụ:
+2ZnO + C → 2Zn + CO2
+
+2ZnO + 2CO → 2Zn + 2CO2.
+
+Ngoài ra có thể khử ZnO bằng phương pháp sử dụng dung dịch H2SO4 sau đó điện phân thu kẽm kim loại: 
+
+ZnO + H2SO4 → ZnSO4 + H2O
+
+2ZnSO4 + 2H2O → 2Zn + 2H2SO4 + O2
+
+V. Ứng dụng 
+
+Kẽm có rất nhiều ứng dụng trong sản xuất và là 1 nguyên tố vi lượng rất cần thiết cho sự phát triển của cơ thể. 
+
+1. Trong công nghiệp
+- Trong việc tạo hợp kim
+- Là vật liệu chống ăn mòn
+- Các hợp chất của kẽm cũng có nhiều ứng dụng trong công nghiệp sản xuất:
+
++Kẽm oxit làm chất tạo màu trắng trong sơn, làm chất xúc tác trong công nghiệp chế biến cao su. 
++Kẽm clorua có tác dụng làm chất khử mùi.
++Kẽm sunfua ZnS dùng làm chất phát quang màu trong sơn, màn hình tivi…
++Kẽm methyl (Zn(CH3)2) được dùng trong nhiều phản ứng tổng hợp hữu cơ
+
+2. Vai trò của Kẽm với sức khỏe
+Kẽm là một chất khoáng vi lượng rất quan trọng đối với các sinh vật và con người. 
+
+-Kẽm tham gia vào cấu trúc của tế bào, là thành phần cấu tạo nên hơn 80 loại enzym khác nhau.
+-Giúp phát triển não bộ
+-Kẽm tham gia cấu tạo nhiều hormone trong cơ thể, đặc biệt là các hormone giới tính. Kẽm là thành phần không thể thiếu để sản xuất insulin - hormone giúp điều hòa nồng độ glucose trong máu.
+-Tham gia chuyển hóa các chất trong cơ thể
+-Kẽm là thành phần cấu tạo nên da, tóc, móng; kích thích tiêu hóa, tăng cảm giác ngon miệng; tăng cường hệ miễn dịch; kẽm giúp phòng ngừa thoái hóa giác mạc ở mắt…
+-Kẽm rất cần thiết cho sự phát triển của thai nhi và trẻ nhỏ

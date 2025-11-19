@@ -1,0 +1,80 @@
+﻿Tên tiếng Anh: Tin (Stannum)
+Tên tiếng Việt: Thiếc
+
+Nhóm: IVA
+Chu kỳ: 5
+Nguyên tử khối: 118,69
+Độ âm điện: 1,96
+Cấu hình electron: [Kr] 4d10 5s2 5p2
+
+
+I. Trạng thái tự nhiên 
+
+- Trong tự nhiên, thiếc có trữ lượng khoảng 6.10-4% trong vỏ trái đất, khoáng vật chính là caxiterit: SnO2.
+
+II. Tính chất vật lý & nhận biết
+  
+1. Tính chất vật lí
+
+   - Thiếc là một kim loại màu trắng bạc, kết tinh cao, dễ uốn, dễ dát mỏng. Khi một thanh thiếc bị bẻ cong, âm thanh nứt vỡ có thể nghe được do sóng tinh của các tinh thể.
+
+   - Thiếc tồn tại ở hai dạng thù hình là thiếc trắng và thiếc xám, hai dạng này có thể biến đổi qua lại lẫn nhau phụ thuộc vào nhiệt độ.
+
+   - Ở điều kiện thường, thiếc là kim loại màu trắng bạc, có khối lượng riêng lớn, D = 7,92 g/cm3.
+
+2. Nhận biết
+
+   - Sử dụng dung dịch kiềm đặc, có khí không màu thoát ra
+
+Sn + NaOH (đặc, nguội) + 2H2O → Na[Sn(OH)3 ] + H2
+
+III. Tính chất hóa học
+
+   - Thiếc là kim loại có tính khử yếu hơn kẽm và niken. Phụ thuộc vào chất oxi hóa mà thiếc có thể thể hiện số oxi hóa +2 hay +4.
+
+Sn → Sn2+ + 2e
+
+Sn → Sn4+ + 4e
+
+a. Tác dụng với phi kim
+
+   - Tác dụng với oxi:
+
+Sn + O2 (nhiệt độ) → SnO2
+
+   - Tác dụng với halogen.
+
+Sn + 2Cl2  (nhiệt độ)→ SnCl4
+b. Tác dụng với axit
+
+   + Tác dụng với dung dịch HCl và H2SO4 loãng
+
+Sn + H2SO4 → SnSO4 + H2
+
+   + Tác dụng với H2SO4 và HNO3 đặc
+
+Sn + 2H2SO4(đặc) → SnO2 + 2SO2 + 2H2O.
+
+Sn + 4HNO3 (đặc) → SnO2 + 4NO2 + 2H2O.
+
+4Sn + 10HNO3 (rất loãng) → 4Sn(NO3)2 + NH4NO3 + 3H2O.
+
+c. Tác dụng với dung dịch kiềm đặc
+
+Sn + NaOH (đặc, nguội) + 2H2O → Na[Sn(OH)3 ] + H2
+
+Sn + 2NaOH (đặc) + 4H2O → Na2 [Sn(OH)6] + 2H2 .
+
+IV. Điều chế
+
+- Thiếc được sản xuất từ việc khử quặng thiếc với cacbon trong lò lửa quặt.
+
+SnO2 + 2C → Sn + 2CO
+
+V. Ứng dụng 
+
+   - Thiếc được dùng để tráng lên về mặt các vật bằng thép, vỏ hộp thực phẩm, nước giải khát, có tác dụng chống ăn mòn, tạo vẻ đẹp không độc hại Thiếc dùng chế tạo hợp kim.
+
+   - Lá thiếc mỏng dùng trong tụ điện, hợp kim thiếc – chì dùng để hàn.
+
+   - SnO2 dùng làm men trong công nghiệp gốm sứ và thủy tinh làm mờ.

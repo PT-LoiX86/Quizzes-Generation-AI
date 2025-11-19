@@ -1,0 +1,50 @@
+﻿Tên tiếng Anh: Krypton
+Tên tiếng Việt: Krypton
+
+Nhóm: VIIIA
+Chu kỳ: 4
+Nguyên tử khối: 84
+Độ âm điện: 3
+Cấu hình electron: [Ar] 3d10 4s2 4p6
+
+
+I. Trạng thái tự nhiên 
+
+-Xuất hiện chủ yếu ở dạng khí trong khí quyển Trái Đất.
+
+II. Tính chất vật lý 
+
+-Krypton là một loại khí không có màu sắc, mùi thơm hay hương vị.
+-Nó có mật độ cao hơn không khí và là khí lỏng nặng nhất ở nhiệt độ sôi của nó.
+-Krypton có điểm nóng chảy là -157,3 °C và điểm sôi là -153,2 °C.
+-Nó là khí hiếm thứ hai về độ phổ biến trong khí quyển Trái đất.
+
+III. Tính chất hóa học
+
+-Krypton là một khí trơ, nghĩa là nó ít phản ứng với các nguyên tố khác.
+-Nó chỉ tạo ra hợp chất với flo trong điều kiện khắc nghiệt.
+-Krypton có thể tạo ra các clathrate với nước, nghĩa là nó có thể được bẫy trong lồng của các phân tử nước.
+-Krypton có thể tạo ra các hợp chất với các kim loại trong điều kiện plasma.
+
+IV. Ứng dụng 
+
+-Chiếu sáng
++Krypton được sử dụng trong đèn huỳnh quang vì nó tạo ra ánh sáng sáng hơn và hiệu quả hơn so với các khí khác.
++Krypton cũng được sử dụng trong các đèn pha xe hơi vì nó tạo ra ánh sáng trắng sáng hơn so với các loại đèn pha truyền thống.
+
+-Tia laze
++Krypton được sử dụng trong các bóng đèn laser vì nó có thể tạo ra ánh sáng có cường độ cao và độ đơn sắc cao.
++Laser krypton được sử dụng trong nhiều ứng dụng khác nhau, bao gồm phẫu thuật, cắt kim loại và thông tin liên lạc.
+
+-Y học
++Krypton được sử dụng trong y học để theo dõi lưu lượng máu.
++Krypton-85, một đồng vị phóng xạ của krypton, được sử dụng để điều trị một số bệnh ung thư.
+
+-Công nghiệp
++Krypton được sử dụng trong công nghiệp để sản xuất các loại kính đặc biệt.
++Krypton cũng được sử dụng để hàn kim loại vì nó có thể tạo ra một môi trường trơ ngăn ngừa oxy hóa.
+
+Ngoài ra:
+
++Krypton được sử dụng trong các bóng đèn tiêu chuẩn để tăng tuổi thọ của bóng đèn.
++Krypton cũng được sử dụng trong các máy dò khí để phát hiện rò rỉ.

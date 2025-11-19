@@ -1,0 +1,63 @@
+﻿Tên tiếng Anh: Lead (Plumbum)
+Tên tiếng Việt: Chì
+
+Nhóm: IVA
+Chu kỳ: 6
+Nguyên tử khối: 207,20
+Độ âm điện: 2,33
+Cấu hình electron: [Xe] 4f14 5d10 6s2 6p2
+
+I. Trạng thái tự nhiên 
+ 
+-Trong tự nhiên chì ít khi tồn tại dưới dạng kim loại đơn chất. Ta thường tìm thấy chì nằm trong các quặng khoáng sản cùng với kẽm, bạc và phổ biến nhất là đồng. Các khoáng chì thường được tìm thấy như là galena (PbS), trong đó chì chiếm 86,6% khối lượng; cerussite (PbCO3) và anglesite (PbSO4).
+
+-Chì có một đồng vị phóng xạ phổ biến là Pb202 có chu kỳ bán rã là 53.000 năm. Tất cả các đồng vị của chì, trừ chì 204, có thể được tìm thấy ở dạng các sản phẩm cuối của quá trình phân rã phóng xạ của các nguyên tố nặng hơn như urani và thori. 
+
+II. Tính chất vật lý 
+  
+
+III. Tính chất hóa học
+
+Chì là kim loại có tính khử yếu, có hóa trị phổ biến là II, đôi khi sẽ lên IV. Các phản ứng hóa học của kim loại chì gồm có:
+
+1. Tác dụng với phi kim: 
+
+Chì bị oxy hóa ở bề mặt bên ngoài tạo thành lớp chì oxid bao bọc, bảo vệ các lớp chì bên trong không bị oxy hóa tiếp: 2Pb + O2 → 2 PbO 
+Chì tác dụng với khí Flo: Pb + F2 →  PbF2
+
+2. Tác dụng với dung dịch axit: Chì có thế điện cực chuẩn thấp  E0Pb2+/Pb= - 0,13V. Trong dãy hoạt động hóa học, Chì đứng sau hidro nên trong điều kiện thường, chì không phản ứng với dung dịch HCl và H2SO4 loãng. Trong dung dich H2SO4 đặc nóng hoặc HNO3 đặc, chì sẽ bị oxy hóa .
+
+Pb + 3H2SO4 →  Pb(HSO4)2 + SO2  + 2H2O
+
+3Pb + 8HNO3 (loãng, nóng) →  3Pb(NO3)2 + 2NO  + 4H2O
+
+3. Tác dụng với dung dịch kiềm:
+
+Trong dung dịch kiềm. Chì tan tạo muối và giải phóng khí H2:
+
+Pb + 2NaOH (đặc) + 2H2O →  Na2[Pb(OH)4] + H2 
+
+Clo hóa các dung dịch muối trên sẽ tạo ra chì có trạng thái oxy hóa +4.
+
+Pb(OH)2−4 + Cl2 → PbO2 + 2 Cl− + 2 H2O
+
+IV. Điều chế
+
+-Chì được điều chế qua quá trình tinh chế quặng chì. Các quặng chì chủ yếu chứa ít hơn 10% chì, và các quặng chứa ít nhất 3% chì có thể khai thác. Quặng được nghiền và cô đặc bằng tuyển nổi bọt. 
+
+-Các quặng sulfide được đốt cháy tạo ra chì oxide và một hỗn hợp muối sulfat và silicat của chì và các kim loại khác có trong quặng. Sau đó chì được tạo ra từ quá trình khử chì oxit bằng than.
+
+     PbO + CO →  Pb + CO2
+
+V. Ứng dụng 
+
+Việc khai thác và sử dụng chì đang tăng trên toàn thế giới. Kim loại chì được sử dụng trong ngành sản xuất:
+
+-Ứng dụng lớn nhất của chì là làm nguyên liệu trong sản xuất pin, acquy. Cùng với oxit chì hợp chất (PbO2) và với hợp kim chì-antimon hoặc chì-canxi, nó được sử dụng trong các loại pin dự trữ thông thường. 
+-Chì sử dụng trong chế tạo đạn dược trong quân sự.
+-Chì là thành phần của chất hàn kim loại, trong chế tạo hợp kim chịu lực, hợp kim dễ nóng chảy.
+-Trong máy móc công nghiệp và hạng nặng, các tấm và các bộ phận khác làm từ hợp chất chì có thể được sử dụng để giảm tiếng ồn và độ rung.
+-Do chì hấp thụ bức xạ điện từ có bước sóng ngắn một cách hiệu quả nên nó được sử dụng làm lớp chắn bảo vệ xung quanh lò phản ứng hạt nhân, máy gia tốc hạt, thiết bị tia X và các thùng chứa dùng để vận chuyển và lưu trữ vật liệu phóng xạ. 
+-Chì thường được sử dụng trong sản xuất nhựa PVC
+
+Ngoài ra với đặc tính giữ bền màu, chì còn là thành phần trong phẩm màu trong tráng men đặc biệt là tạo màu đỏ, vàng; trong chất nhuộm trắng sơn.

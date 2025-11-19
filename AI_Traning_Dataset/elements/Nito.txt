@@ -1,0 +1,94 @@
+﻿Tên tiếng Anh: Nitrogen
+Tên tiếng Việt: Nitơ
+
+Nhóm: VA
+Chu kỳ: 2
+Nguyên tử khối: 14,007
+Độ âm điện: 3,04
+Cấu hình electron: [He] 2s2 2p3
+Chỉ số oxi hóa lần lượt là  -3, 0, +1, +2, +3, +4, +5
+
+I. Trạng thái tự nhiên 
+
+- Trong tự nhiên nito tồn tại dưới dạng là hợp chất và tự do
+
+- Ở dạng tự do nito chiếm 80 % thể tích không khí
+
+- Ở dạng hợp chất, nito góp mặt trong thành phần của protein, axit ucleic và nhiều hợp chất khác. Người ta tìm thấy nito nhiều trong khoáng vật NaNO3 với tên gọi là diêm tiêu natri.
+
+II. Tính chất vật lý 
+
+  - Là chất khí không màu, không mùi, không vị, hơi nhẹ hơn không khí (d = 28/29), hóa lỏng ở -196 ℃.
+
+    - Nitơ ít tan trong nước, hoá lỏng và hoá rắn ở nhiệt độ rất thấp. Không duy trì sự cháy và sự hô hấp (không độc).
+
+III. Tính chất hóa học
+
+Nito có N = 946 KJ / mol do vậy nó khá trơ nếu ở trong điều kiện nhiệt độ thường. Nito hoạt động chủ yếu ở nhiệt độ cao
+
+Nito có số oxi hóa lần lượt là -3, 0, +1, +3, +4, +5. Vì số oxi hóa là không nên có cả tính khử nhưng tính oxi hóa đặc trưng hơn.
+
+- Tính oxi hóa của nito:
+
+Cấu tạo của phân tử nito tương đối bền vững giữa ba liên kết và phát sinh tính oxi hóa với các nguyên tố hóa học như sau:
+
++Tác dụng với hidro H2
+           Nito tác dụng với hidro ở nhiệt độ cao và áp suất cao và có chất xúc tác, kết quả là tạo thành               amoniac
+
++Tác dụng với kim loại
+           Nhiệt độ thường, nito tác dụng với liti tạo thành nitrua. Phương trình phản ứng như sau:
+
+            6 Li + N2 → 2 Li3N
+
+            Ở nhiệt độ cao, khí nito tác dụng với Mg, tạo thành magie nitrua, phương trình như sau:
+
+
+            3 Mg + N2 → Mg3N2
+
+           Tuy nhiên có một số điểm cần chú ý là nitrua rất dễ bị phân hủy tạo NH3. Nito chit thể hiện                    tính oxi hóa với những nguyên tố độ âm điện nhỏ hơn.
+
+- Tính khử của nito:
++Khí nito có tính khử khi kết hợp cùng các nguyên tố có độ âm điện lớn hơn
++Ở nhiệt độ khoảng 3000 độ C, nito tác dụng với oxi tạo monoxit.
++Ở điều kiện thường, nito monoxit sẽ tác dụng với oxi có trong không khí tạo thành nito dioxit đặc trưng nâu đỏ
++Một số oxit khác của nito gồm có N2O, N2O3, N2O5 nhưng không được điều chế trực tiếp từ oxi và nito
+IV. Điều chế
+
+- Kim cương nhân tạo được điều chế bằng cách nung than chì ở 2000oC, p từ 50 - 100 nghìn atm, xúc tác là Fe, Cr, Ni.
+
+- Than chì nhân tạo được điều chế bằng cách nung than cốc ở 2500 - 3000oC trong lò điện, không có không khí.
+
+- Than cốc được điều chế bằng cách nung than mỡ khoảng 1000oC trong lò cốc, không có không khí.
+
+- Than gỗ được tạo nên khi đốt cháy gỗ trong điều kiện thiếu không khí.
+
+- Than muội được tạo nên khi nhiệt phân metan ở điều kiện nhiệt độ và xúc tác thích hợp.
+
+- Than mỏ được khai thác trực tiếp từ các vỉa than nằm sâu dưới mặt đất.
+
+
+V. Ứng dụng và điều chế 
+
+1. Ứng dụng
+
+    - Nitơ là thành phần dinh dưỡng chính của thực vật.
+
+    - Tổng hợp amoniac để điều chế phân đạm, axit nitric …
+
+    - Được dùng làm môi trường trơ trong công nghiệp.
+
+    - Nitơ lỏng được dùng để bảo quản máu và các mẫu sinh học khác.
+
+2. Điều chế.
+
+    a. Trong công nghiệp
+
+    Chưng cất phân đoạn không khí lỏng, thu nitơ ở -196 ºC, vận chuyển trong các bình thép, nén dưới áp suất 150 atm.
+
+    b. Trong phòng thí nghiệm
+
+    Đun dung dịch bão hòa muối amoni nitrit (Hỗn hợp NaNO2 và NH4Cl):
+NH4NO2 (nhiệt độ)→ N2 + 2H2O
+NH4Cl + NaNO2 (nhiệt độ)→ N2 + NaCl +2H2O
+NH4NO3 (500℃)→ N2 + 2H2O
+

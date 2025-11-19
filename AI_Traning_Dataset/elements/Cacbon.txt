@@ -1,0 +1,83 @@
+﻿Tên tiếng Anh: Carbon
+Tên tiếng Việt: Carbon
+
+Nhóm: IVA
+Chu kỳ: 2
+Nguyên tử khối: 12,011
+Độ âm điện: 2,55
+Cấu hình electron: [He] 2s2 2p2
+Các số oxi hóa của C là: -4, 0, +2, +4
+
+I. Trạng thái tự nhiên 
+
+- Kim cương và than chì là cacbon ở dạng tự do gần như tinh khiết.
+
+- Cacbon còn có trong các khoáng vật như canxit (đá vôi, đá hoa, đá phấn đều chứa CaCO3), magiezit (MgCO3), đolomit (CaCO3.MgCO3). Dầu mỏ, khí thiên nhiên là hỗn hợp của các chất khác nhau chứa cacbon. Cơ thể động thực vật cũng chứa nhiều hợp chất của cacbon.
+
+II. Tính chất vật lý 
+
+- Có khối lượng riêng là 2,267 g/cm3; có nhiệt độ nóng chảy là 3526.85℃ và sôi ở 4026.85℃.
+
+- C có ba dạng thù hình chính: Kim cương, than chì và cacbon vô định hình.
+
+- Kim cương là chất tinh thể trong suốt, không màu, không dẫn điện, dẫn nhiệt kém. Kim cương có cấu trúc tinh thể nguyên tử và cứng nhất trong tất cả các chất.
+
+- Than chì là tinh thể màu xám đen, có ánh kim, dẫn điện tốt nhưng kém kim loại. Tinh thể than chì có cấu trúc lớp. 
+
+- Cacbon vô định hình xốp, có khả năng hấp phụ mạnh
+
+III. Tính chất hóa học
+
+Trong các phản ứng hóa học C thể hiện hai tính chất: Tính oxi hóa và tính khử. Tuy nhiên tính khử vẫn là chủ yếu của C.
+
+1. Tính khử
+
+- Tác dụng với oxi:
+
+C  +  O2  (nhiệt độ)→ CO2 
+
+Ở nhiệt độ cao C lại khử CO2 theo phản ứng:
+	C + CO2 (nhiệt độ)→ 2CO
+
+ 
+
+- Tác dụng với hợp chất:
+
+C  +  2H2SO4 (đặc) (nhiệt độ)→ CO2  +  2SO2  +  2H2O
+
+2. Tính OXH
+
+- Tác dụng với hidro:
+
+C + 2H2 (Ni,500℃)→ CH4
+
+- Tác dụng với KL:
+
+Ca  +  2C (nhiệt độ)→ CaC2
+
+4Al  +  3C  (nhiệt độ)→ Al4C3  
+
+IV. Điều chế
+
+- Kim cương nhân tạo được điều chế bằng cách nung than chì ở 2000oC, p từ 50 - 100 nghìn atm, xúc tác là Fe, Cr, Ni.
+
+- Than chì nhân tạo được điều chế bằng cách nung than cốc ở 2500 - 3000oC trong lò điện, không có không khí.
+
+- Than cốc được điều chế bằng cách nung than mỡ khoảng 1000oC trong lò cốc, không có không khí.
+
+- Than gỗ được tạo nên khi đốt cháy gỗ trong điều kiện thiếu không khí.
+
+- Than muội được tạo nên khi nhiệt phân metan ở điều kiện nhiệt độ và xúc tác thích hợp.
+
+- Than mỏ được khai thác trực tiếp từ các vỉa than nằm sâu dưới mặt đất.
+
+
+V. Ứng dụng
+
+- Kim cương được dùng để đồ trang sức, chế tạo mũi khoan, dao cắt thủy tinh, bột mài,...
+
+- Than chỉ được dùng làm các điện cực, làm nồi để nấu chảy các hợp kim chịu nhiệt, chế tạo chất bôi trơn, bút chì đen,...
+
+- Than cốc được dùng làm chất khử trong luyện kim. Than gỗ dùng để chế tạo thuốc nổ đen, thuốc pháo,...
+
+- Than hoạt tính có khả năng hấp phụ mạnh được dùng làm mặt nạ phòng độc và công nghiệp hóa chất,...

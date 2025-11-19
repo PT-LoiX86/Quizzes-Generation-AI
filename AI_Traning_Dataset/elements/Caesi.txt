@@ -1,0 +1,58 @@
+﻿Tên tiếng Anh: Caesium
+Tên tiếng Việt: Caesi
+
+Nhóm: IA
+Chu kỳ: 6
+Nguyên tử khối: 132,91
+Độ âm điện: 0,79
+Cấu hình electron: [Xe] 6s1 
+
+I. Trạng thái tự nhiên 
+ 
+- Xesi có mặt trong các khoáng vật như lepidolit, polluxit (silicat nhôm và xêzi ngậm nước) cũng như trong một vài nguồn khác.
+
+II. Tính chất vật lý 
+  
+- Cs là kim loại kiềm, màu trắng (vàng nhạt ở chổ cắt), mềm, rất dễ nóng chảy. Hơi xezi có màu chàm – lục.
+
+- Có khối lượng riêng là 1,873 g/cm3 ở dạng lỏng là 1,841 g/cm3; có nhiệt độ nóng chảy là 28,70C và sôi ở 667,60C.
+
+III. Tính chất hóa học
+
+- Xesi là kim loại kiềm có tính khử rất mạnh, chỉ sau franxi.
+
+Cs → Cs+ + 1e
+
+a. Tác dụng với phi kim
+
+- Tác dụng trực tiếp với hầu hết các phi kim (trừ nitơ).
+
+2Cs + H2 → 2CsH.
+
+Cs + O2 (kk) → CsO2.
+
+b. Tác dụng với nước
+
+- Phản ứng mãnh liệt và bốc cháy
+
+2Cs + 2H2O → 2CsOH + H2.
+
+IV. Điều chế
+
+- Xesi có thể điều chế nhờ điện phân xyanua xêzi nóng chảy hoặc CsCl.
+
+2CsCl (đpnc)→ 2Cs + Cl2
+
+V. Ứng dụng 
+
+- 134Cs được sử dụng trong thủy học như là phép đo lượng phát ra của Xesi bởi công nghiệp năng lượng nguyên tử.
+
+- Kim loại này cũng được sử dụng trong các tế bào quang điện do khả năng bức xạ điện tử cao của nó.
+
+- Xesi cũng được sử dụng như là chất xúc tác trong quá trình hiđrô hóa của một vài hợp chất hữu cơ.
+
+- Các đồng vị phóng xạ của xesi được sử dụng trong lĩnh vực y học để điều trị một vài dạng ung thư.
+
+- Florua xesi được sử dụng rộng rãi trong hóa hữu cơ như là một bazơ và là nguồn của các ion florua khan.
+
+- Hơi xesi được sử dụng trong nhiều loại từ kế phổ biến.

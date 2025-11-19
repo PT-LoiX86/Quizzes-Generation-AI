@@ -1,0 +1,72 @@
+﻿Tên tiếng Anh: Radium
+Tên tiếng Việt: Radi
+
+Nhóm : IIA
+Chu kỳ : 7
+Số nguyên tử : 88
+Nguyên tử khối (của đồng vị bền nhất :  Ra-226) ≈226
+Độ âm điện (theo Pauling) : 0.9
+Cấu hình electron : [Rn] 7s2
+Cấu tạo mạng tinh thể : Lập phương tâm khối
+Các số oxi hóa phổ biến : +2
+
+I. Trạng thái tự nhiên
+
+-Phóng xạ: Radi là một nguyên tố phóng xạ cực kỳ mạnh.
+
+-Nguồn gốc: Radi là sản phẩm phân rã của Uranium-238 (U-238) và Thorium-232 (Th-232) .
+
+-Khoáng vật chính: Nó được tìm thấy với số lượng rất nhỏ trong các quặng Uranium, đặc biệt là Uraninit (Pitchblende).
+
+-Độ hiếm: Phải khai thác hàng tấn quặng Uranium mới thu được một lượng nhỏ Radi.
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng bạc khi tinh khiết, nhưng nhanh chóng chuyển sang màu đen khi tiếp xúc với không khí do tạo thành Nitride (Ra3N2).
+
+-Khối lượng riêng: 5.5 g/cm^3.
+
+-Nhiệt độ nóng chảy: 700°C.
+
+-Đặc tính phát sáng: Radi phát ra phát quang (luminescence) do bức xạ của chính nó, khiến nó phát sáng trong bóng tối.
+
+-Tính phóng xạ: Tất cả các đồng vị của Radi đều là phóng xạ. Ra-226 là đồng vị phổ biến nhất và có thời gian bán rã khoảng 1600 năm.
+
+III. Tính chất hóa học
+
+Radi là kim loại kiềm thổ có tính kim loại mạnh nhất, rất hoạt động hóa học.
+
+1. Tính khử
+
+-Hoạt động mạnh: Radi là nguyên tố hoạt động hóa học hơn cả Barium (Ba), do đó, nó có tính khử mạnh.
+
+2. Tác dụng với Phi kim
+
+-Với Oxi: Phản ứng mạnh với Oxi tạo thành Radi Oxide (RaO).
+
+-Với Nước: Phản ứng mãnh liệt với nước tạo thành Radi Hydroxide và giải phóng Hydrogen:
+    
+    Ra + 2H2O → Ra(OH)2 + H2
+
+3. Hợp chất
+
+-Muối: Các hợp chất của Radi thường có tính chất tương tự Barium, nhưng kém tan hơn. Ví dụ: Radium Carbonate (RaCO3), Radium Sulfate (RaSO4).
+
+IV. Điều chế
+
+Radi được điều chế thông qua quá trình chiết tách phức tạp từ quặng Uranium.
+    
+    -Phương pháp: Được tách ra từ bã thải của quá trình sản xuất Uranium bằng phương pháp kết tinh phân đoạn hoặc trao đổi ion (ion exchange).
+    
+    -Quá trình: Quá trình tinh chế Radi rất khó khăn do nồng độ cực thấp của nó trong quặng. Từ một tấn quặng Uranium chỉ có thể thu được khoảng 0.1 gam Radi.
+
+V. Ứng dụng
+
+Do tính phóng xạ cao và độc hại, hầu hết các ứng dụng ban đầu của Radi đã bị ngừng sử dụng, chỉ còn lại một số ứng dụng chuyên biệt:
+    -Y học: Từng được sử dụng trong xạ trị (brachytherapy) để điều trị ung thư. Tuy nhiên, hiện nay đã được thay thế bằng các đồng vị khác an toàn hơn và dễ kiểm soát hơn (như Cobalt-60 hay Iridium-192).
+ 
+    -Vật liệu phát sáng: Từng được trộn với Kẽm Sulfide (ZnS) để tạo ra sơn phát quang dùng cho đồng hồ, bảng điều khiển máy bay. Việc sử dụng này đã bị ngừng do nguy cơ sức khỏe nghiêm trọng.
+ 
+    -Nguồn Neutron: Radium-226 được trộn với Beryllium (Be) để tạo ra nguồn neutron cho mục đích nghiên cứu.
+ 
+    -Nghiên cứu khoa học: Được sử dụng để chuẩn hóa các thiết bị đo phóng xạ.

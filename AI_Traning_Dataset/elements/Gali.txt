@@ -1,0 +1,68 @@
+﻿Tên tiếng Anh: Gallium
+Tên tiếng Việt: Gali
+
+Nhóm: IIIA
+Chu kỳ: 4
+Nguyên tử khối: 69,72
+Độ âm điện: 1,81
+Cấu hình electron: [Ar] 3d10 4s2 4p1 
+
+
+I. Tính chất vật lý 
+
+-Gali là kim loại mềm, màu trắng bạc, có ánh kim.
+-Gali có nhiệt độ nóng chảy thấp (29,76 °C), chỉ cao hơn nhiệt độ phòng một chút.
+-Gali có thể tan chảy trong lòng bàn tay.
+-Gali có điểm sôi cao (2204 °C).
+-Gali có mật độ cao (5,904 g/cm³).
+-Gali dẫn điện và dẫn nhiệt tốt.
+
+II. Tính chất hóa học
+
+Gali là kim loại có tính khử trung bình.
+
+1. Gali tác dụng với axit:
+2Ga + 6HCl → 2GaCl3 + 3H2↑
+
+Ga + 2H2SO4 → Ga2(SO4)3 + H2↑
+
+2. Gali tác dụng với dung dịch muối của kim loại đứng sau nó trong dãy điện hóa:
+
+Ga + CuSO4 → GaSO4 + Cu↓
+
+Ga + AgNO3 → Ga(NO3)3 + Ag↓
+
+3. Gali tác dụng với oxi:
+2Ga + 3O2 → Ga2O3
+
+4. Gali tác dụng với axit nitric:
+4Ga + 10HNO3 → 4Ga(NO3)3 + N2↑ + 5H2O
+
+III. Ứng dụng 
+
+1. Hợp kim
+
+-Gali được sử dụng để tạo ra các hợp kim có độ bền cao, nhẹ và chống ăn mòn.
+-Gali cũng được sử dụng để tạo ra các hợp kim có nhiệt độ nóng chảy thấp, được sử dụng trong các ứng dụng như hàn và đúc.
+
+2. Điện tử
+
+-Gali được sử dụng trong các thiết bị bán dẫn, chẳng hạn như diode phát sáng (LED) và tế bào năng lượng mặt trời.
+-Gali arsenide là một hợp chất bán dẫn quan trọng được sử dụng trong các thiết bị điện tử tốc độ cao.
+-Gali cũng được sử dụng trong các chất kết dính chip điện tử do khả năng dẫn điện tốt và khả năng làm giảm nhiệt độ hoạt động của chip.
+
+3. Y học
+
+-Gali được sử dụng trong các hợp chất radioisotope để chẩn đoán và điều trị ung thư.
+-Gali cũng được sử dụng trong các loại thuốc điều trị ung thư, chẳng hạn như gallium nitrate.
+
+4. Nhiệt kế
+
+-Gali có nhiệt độ nóng chảy thấp (29,76 °C) nên được sử dụng trong nhiệt kế đo nhiệt độ cao.
+-Gali cũng được sử dụng trong các thiết bị đo nhiệt độ y tế.
+
+5. Các ứng dụng khác
+
+-Gali được sử dụng trong các loại kem đánh răng để làm trắng răng.
+-Gali được sử dụng trong các hợp kim nha khoa vì độ bền và khả năng chống ăn mòn.
+-Gali cũng được sử dụng trong các thiết bị quang học và các ứng dụng khác.

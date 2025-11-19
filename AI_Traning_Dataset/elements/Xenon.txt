@@ -1,0 +1,55 @@
+﻿Tên tiếng Anh: Xenon
+Tên tiếng Việt: Xenon
+
+Nhóm : VIIIA
+Chu kỳ : 5
+Số nguyên tử : 54
+Nguyên tử khối : 131.293
+Độ âm điện : Không xác định (do là khí hiếm)
+Cấu hình electron : [Kr] 4d10 5s2 5p6
+Cấu tạo mạng tinh thể : Lập phương tâm mặt (ở trạng thái rắn)
+Các số oxi hóa phổ biến : 0 (chủ yếu), +2, +4, +6, +8
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Xenon là một nguyên tố khí hiếm rất hiếm trong khí quyển Trái Đất (chỉ chiếm khoảng 0.087 phần triệu theo thể tích).
+-Nguồn gốc: Nó được tìm thấy với nồng độ rất thấp trong không khí và một số khí tự nhiên phát ra từ suối nước khoáng.
+-Khai thác: Xenon được thu hồi thương mại thông qua quá trình chưng cất phân đoạn của không khí lỏng.
+
+II. Tính chất vật lý
+
+-Màu sắc: Không màu, không mùi, không vị.
+-Trạng thái: Tồn tại ở dạng khí trong điều kiện tiêu chuẩn.
+-Đặc tính ánh sáng: Khi bị kích thích bằng dòng điện, Xenon phát ra ánh sáng trắng xanh hoặc xanh lam sáng chói, tương tự ánh sáng ban ngày .
+-Nhiệt độ sôi: -108.09°C.
+-Nhiệt độ nóng chảy: -111.7°C.
+
+III. Tính chất hóa học
+
+Xenon là một khí hiếm và có tính trơ về mặt hóa học, nhưng nó là nguyên tố khí hiếm đầu tiên được tổng hợp thành hợp chất ổn định.
+
+1. Tính trơ (Điều kiện thường)
+-Phản ứng: Ở nhiệt độ và áp suất thường, Xenon không phản ứng với hầu hết các chất.
+
+2. Khả năng phản ứng (Điều kiện đặc biệt)
+-Hợp chất: Xenon có thể phản ứng với các nguyên tố có độ âm điện rất cao (đặc biệt là Fluorine (F2)) để tạo ra các hợp chất ổn định (nhưng rất phản ứng).
+-Ví dụ: Xenon Difluoride (XeF2), Xenon Tetrafluoride (XeF4), và Xenon Hexafluoride (XeF6).
+    Xe + 2F2 (400°C, áp suất) →  XeF4
+
+-Hợp chất Oxit: Xenon Trioxide (XeO3) là một chất oxy hóa rất mạnh và dễ gây nổ.
+
+IV. Điều chế
+
+Xenon được điều chế thông qua quá trình chưng cất phân đoạn không khí lỏng.
+-Quá trình: Không khí được làm lạnh đến nhiệt độ cực thấp và hóa lỏng. Sau đó, không khí lỏng được đun nóng một cách cẩn thận, cho phép các thành phần khác nhau (Nitrogen, Oxygen, Argon) sôi và bay hơi ở các nhiệt độ khác nhau. Xenon nằm trong phần còn lại của chất lỏng cùng với Krypton, sau đó được tách riêng.
+
+V. Ứng dụng
+
+-Chiếu sáng:
+    +Đèn Xenon (HID): Được sử dụng trong đèn pha ô tô, đèn chiếu phim và đèn chớp do cường độ ánh sáng cao, tạo ra ánh sáng tương tự ban ngày.
+    +Đèn diệt khuẩn: Được sử dụng trong đèn phát ra tia cực tím (UV) để khử trùng.
+-Công nghiệp hàng không vũ trụ: Xenon được sử dụng làm chất đẩy trong động cơ ion trên tàu vũ trụ. Động cơ ion tạo ra lực đẩy nhỏ nhưng hiệu quả cao, lý tưởng cho các nhiệm vụ dài hạn.
+-Y học:
+    +Chất gây mê: Xenon là một chất gây mê toàn thân có hiệu quả và an toàn (ít tác dụng phụ hơn các chất gây mê khác).
+    +Hình ảnh Y khoa: Được sử dụng trong chụp cộng hưởng từ (MRI) để cải thiện hình ảnh của phổi.
+-Nghiên cứu khoa học: Được dùng làm chất phát hiện trong các thí nghiệm vật lý hạt (như thí nghiệm tìm kiếm vật chất tối) do tính chất phát quang của nó.

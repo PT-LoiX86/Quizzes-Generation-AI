@@ -1,0 +1,50 @@
+﻿Tên tiếng Anh: Chromium
+Tên tiếng Việt: Chromi
+
+Nhóm: VIB
+Chu kỳ: 4
+Nguyên tử khối: 51,996
+Độ âm điện: 1,66
+Cấu hình electron: [Ar] 3d5 4s1
+
+I. Trạng thái tự nhiên 
+ 
+- Trong tự nhiên không có crom ở dạng đơn chất mà chỉ có ở dạng hợp chất (chiếm 0,03% khối lượng vỏ Trái Đất). Hợp chất phổ biến nhất của crom là quặng cromit sắt FeO.Cr2O3, quặng này thường có lẫn Al2O3 và SiO2.
+
+II. Tính chất vật lý 
+  
+- Crom có màu trắng ánh bạc, rất cứng (rạch được thuỷ tinh, cứng nhất trong số các kim loại, độ cứng chỉ kém kim cương)
+
+- Khối lượng riêng lớn, khó nóng chảy (tnc 1890oC).
+
+III. Tính chất hóa học
+
+1. Tác dụng với phi kim
+
+4𝐶𝑟  +  3O2   (nhiệt độ)→ 2𝐶𝑟2𝑂3
+ 
+2Cr  +  3Cl2   (nhiệt độ)→ 2CrCl3
+
+2. Tác dụng với axit
+
+- Trong dung dịch HCl, H2SO4 loãng nóng, màng oxit bị phá huỷ, crom khử ion H+ tạo ra muối Cr(II) và khí hiđro.
+            
+𝐶𝑟  +  2HCl       →  CrCl2   +   H2­
+
+- Chú ý: Tương tự nhôm, crom không tác dụng với axit HNO3 và H2SO4 đặc, nguội mà các axit này làm cho kim loại crom trở nên thụ động.
+
+IV. Điều chế
+
+- Điều chế crom bằng phương pháp nhiệt nhôm :
+
+Cr2O3   +   2Al (nhiệt độ)→   2Cr   +   Al2O3
+
+
+V. Ứng dụng 
+
+- Crom có nhiều ứng dụng thiết thực trong công nghiệp và trong đời sống.
+
+- Trong công nghiệp, crom được dùng để sản xuất thép 
+
+- Trong đời sống, nhiều đồ vật bằng thép được mạ crom. Lớp mạ crom vừa có tác dụng bảo vệ kim loại khỏi bị ăn mòn, vừa tạo vẻ đẹp cho đồ vật.
+

@@ -1,0 +1,101 @@
+﻿Tên tiếng Anh: Strontium
+Tên tiếng Việt: Stronti
+
+Nhóm: IIA
+Chu kỳ: 5
+Nguyên tử khối: 87,62
+Độ âm điện: 0,95
+Cấu hình electron: [Kr] 5s2
+
+
+I. Trạng thái tự nhiên 
+
+-Strontium là kim loại có mặt phổ biến trong tự nhiên và nó chiếm 0,034% so với trọng lượng vỏ Trái Đất. Vì vậy mà nó là nguyên tố hóa học phổ biến thứ 15 hiện nay. Strontium được tìm thấy chủ yếu ở dạng khoáng vật Strontium sulfide ( SrSO4 ) và Strontium carbonate ( SrCO3 ).
+
+-Đặc biệt, Sulfide celestit ( SrSO4 ) xuất hiện rất nhiều ở các mỏ trầm tích với khối lượng lớn phục vụ đủ cho ngành công nghiệp. Các mỏ Strontium carbonate ( SrCO3 ) có sản lượng ít hơn vì vậy mà số lượng mỏ đủ điều kiện để khai thác khá ít. Ngoài ra, nguyên tố Strontium cũng được tìm thấy trong nước biển với dung lượng trung bình là 8mg/l. Nồng độ này thấp hơn nồng độ của Calcium.
+
+II. Tính chất vật lý 
+  
+-Stronti là kim loại kiềm thổ có màu trắng bạc, mềm dẻo và dễ dát mỏng.
+-Nó có khối lượng riêng 2,63 g/cm³, cao hơn so với nước.
+-Nhiệt độ nóng chảy của Stronti ở 769 °C và nhiệt độ sôi tại 1382 °C.
+-Stronti có khả năng dẫn điện và dẫn nhiệt rất tốt.
+-Nó phản ứng với nước tạo thành stronti hydroxit và khí hydro.
+-Stronti cháy trong không khí tạo thành stronti oxit.
+
+III. Tính chất hóa học
+
+-Stronti là kim loại có tính khử mạnh.
+-Nó dễ dàng phản ứng với các axit, halogen, oxy và nước.
+-Stronti có hai trạng thái hóa trị +1 và +2.
+-Hợp chất của Stronti thường có màu trắng.
+
+Dưới đây là một số ví dụ về tính chất hóa học của Stronti:
+
+-Phản ứng với axit:
+Sr(s) + 2HCl(aq) → SrCl2(aq) + H2(g)
+
+-Phản ứng với halogen:
+Sr(s) + Cl2(g) → SrCl2(s)
+
+-Phản ứng với oxy:
+Sr(s) + O2(g) → SrO(s)
+
+-Phản ứng với nước:
+Sr(s) + 2H2O(l) → Sr(OH)2(aq) + H2(g)
+
+Lưu ý:
+
+-Stronti là kim loại hoạt động mạnh, do đó cần phải thật cẩn thận khi sử dụng và bảo quản.
+-Stronti và các hợp chất của nó có thể gây hại cho sức khỏe nếu tiếp xúc trực tiếp.
+
+IV. Điều chế
+
+1. Điều chế trong phòng thí nghiệm: 
+
+-Trong phòng thí nghiệm, Stronti thường được điều chế thông qua phản ứng với axit sulfuric và nhôm sulfate, sau đó tinh chế bằng cách sử dụng phương pháp trung hòa và kết tinh.
+
+-Phương trình điều chế:
+
+Sr(OH)2 + H2SO4 → SrSO4 + 2H2O
+
+-Phương pháp điện phân: sử dụng dòng điện để phân hủy stronti chloride (SrCl2) nóng chảy, tạo thành stronti kim loại và khí clo.
+
+-Phương trình phản ứng:
+
+SrCl2(l) → Sr(s) + Cl2(g)
+
+-Phương pháp khử: sử dụng kim loại mạnh hơn stronti, chẳng hạn như nhôm, để khử stronti oxit (SrO) hoặc stronti cacbonat (SrCO3) thành stronti kim loại.
+
+Phương trình phản ứng:
+
+3SrO(s) + 2Al(s) → 3Sr(s) + Al2O3(s)
+
+SrCO3(s) + 2Al(s) → Sr(s) + Al2O3(s) + CO2(g)
+
+2. Điều chế trong công nghiệp: Trong quy trình công nghiệp, Stronti thường được sản xuất từ khoáng quặng Celestine (SrSO4) thông qua quá trình lọc và điều chế hóa học.
+-Phương trình điều chế:
+
+SrSO4 + 2C → Sr + 2CO2
+
+V. Ứng dụng 
+Strontium (Sr) là kim loại được khai thác để đưa vào ứng dụng trong nhiều lĩnh vực khác nhau.
+
+-Pháo hoa và pháo sáng
++Muối Stronti, đặc biệt là stronti nitrat (Sr(NO3)2), được sử dụng để tạo ra màu đỏ rực rỡ trong pháo hoa.
++Stronti cacbonat (SrCO3) cũng được sử dụng để tạo ra màu đỏ, cam và vàng trong pháo hoa.
+-Chế tạo pin
++Stronti được sử dụng làm chất anot trong pin lithium-ion.
++Pin lithium-ion có dung lượng cao và tuổi thọ dài hơn so với các loại pin khác.
+-Hỗ trợ điều trị loãng xương
++Stronti ranelate (Sr(C6H5O7)2) là một loại thuốc được sử dụng để điều trị loãng xương ở phụ nữ sau mãn kinh.
+Stronti ranelate giúp tăng mật độ xương và giảm nguy cơ gãy xương.
+-Xác định niên đại các di vật khảo cổ
++Stronti-87 (87Sr) là một đồng vị tự nhiên của stronti được sử dụng để xác định niên đại các di vật khảo cổ.
++Tỷ lệ 87Sr/86Sr trong các di vật khảo cổ có thể được sử dụng để xác định niên đại của chúng.
+-Các ứng dụng khác
++Stronti được sử dụng trong các ứng dụng y tế khác, chẳng hạn như điều trị ung thư và giảm đau.
++Stronti được sử dụng trong sản xuất kính và sứ.
++Stronti được sử dụng trong các ứng dụng công nghiệp khác, chẳng hạn như trong sản xuất kim loại và hợp kim.
+
+

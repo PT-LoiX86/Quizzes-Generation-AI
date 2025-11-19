@@ -1,0 +1,116 @@
+﻿Tên tiếng Anh: Tungsten (Wolfram)
+Tên tiếng Việt: Wolfram
+
+Nhóm: VIB
+Chu kỳ: 6
+Nguyên tử khối: 183,85
+Độ âm điện: 2,36
+Cấu hình electron: [Xe] 4f14 5d4 6s2
+
+
+I. Một số hợp chất quan trọng của Wolfram
+-Wolfram(VI) chloride (WCl6): Chất rắn màu vàng, tan trong nước
+-Wolfram(VI) fluoride (WF6): Chất khí không màu, tan trong nước
+-Wolfram(VI) oxit (WO3): Chất rắn màu vàng, không tan trong nước
+-Wolfram(VI) hydroxide (WO3·xH2O): Chất rắn màu vàng, không tan trong nước
+
+
+II. Tính chất vật lý 
+
+-Màu sắc: Xám
+-Trạng thái: Rắn
+-Cấu trúc tinh thể: Lập phương tâm khối
+-Khối lượng riêng: 19,25 g/cm³
+-Điểm nóng chảy: 3422 °C
+-Điểm sôi: 5555 °C
+-Độ dẫn điện: Tốt
+-Độ dẫn nhiệt: Tốt
+-Tính dẻo: Dẻo
+-Độ cứng: Cứng
+-Khả năng chống ăn mòn: Cao
+
+III. Tính chất hóa học
+
+-Hóa trị: +6, +5, +4, +3, +2
+-Tính khử: Yếu
+-Tính oxi hóa: Trung bình
+-Phản ứng với axit: Phản ứng với axit loãng để tạo thành muối wolfram
+-Phản ứng với bazơ: Không phản ứng với bazơ
+-Phản ứng với nước: Không phản ứng với nước
+-Phản ứng với oxy: Phản ứng với oxy ở nhiệt độ cao để tạo thành oxit wolfram
+
+2W + 3O2 → WO3
+
+-Phản ứng với kim loại khác
++Wolfram không phản ứng với hầu hết các kim loại khác ở nhiệt độ thường.
++Wolfram phản ứng với một số kim loại kiềm như Li và Na khi nung nóng để tạo thành hợp kim:
+
+2W + 6Li → Li3W2
+
+-Phản ứng với halogen
++Wolfram phản ứng với flo khi nung nóng để tạo thành WF6:
+
+W + 6F2 → WF6
+
++Wolfram không phản ứng với clo, brom và iốt ở nhiệt độ thường.
+
+IV. Điều chế
+
+1. Trong phòng thí nghiệm:
+
+-Phương pháp khử hydro:
++Wolfram được điều chế bằng cách khử hydro từ wolfram trioxide (WO3) bằng khí hydro.
++Phản ứng xảy ra ở nhiệt độ cao (khoảng 1000°C).
++Phương trình phản ứng:
+WO3 + 3H2 → W + 3H2O
+
+-Phương pháp điện giải:
++Wolfram cũng có thể được điều chế bằng phương pháp điện giải dung dịch muối wolfram.
++Phương pháp này thường được sử dụng để tạo ra các lớp phủ wolfram mỏng.
+
+2. Trong công nghiệp:
+
+-Phương pháp khử hydro:
++Phương pháp khử hydro được sử dụng để sản xuất wolfram ở quy mô lớn.
++Quặng wolfram được nghiền mịn và nung nóng để loại bỏ tạp chất.
++Sau đó, wolfram trioxide được khử hydro bằng khí hydro để tạo ra wolfram kim loại.
+
+V. Ứng dụng 
+
+1. Hợp kim:
+-Wolfram được sử dụng để chế tạo các hợp kim có độ bền cao, chịu nhiệt tốt và chống ăn mòn.
+-Các hợp kim Wolfram được sử dụng trong nhiều lĩnh vực như:
++Hàng không vũ trụ
++Công nghiệp ô tô
++Ngành công nghiệp khai thác
++Dụng cụ y tế
+
+2. Dụng cụ y tế
+Wolfram được sử dụng để chế tạo các dụng cụ y tế như:
++Máy móc chẩn đoán hình ảnh
++Cấy ghép y tế
++Dao mổ
++Kim châm
+
+3. Điện tử
+Wolfram được sử dụng để chế tạo các linh kiện điện tử như:
++Dây điện
++Tiếp điểm
++Điện trở
++Tụ điện
+
+4. Chống bức xạ
+Wolfram có khả năng hấp thụ bức xạ tốt nên được sử dụng để chế tạo các tấm chắn bức xạ trong các lĩnh vực như:
++Y tế
++Năng lượng hạt nhân
++Công nghiệp
+
+5. Năng lượng
+Wolfram được sử dụng trong các lò phản ứng hạt nhân để làm nhiên liệu và vật liệu chế tạo các bộ phận chịu nhiệt.
+
+Ngoài ra, Wolfram còn được sử dụng trong nhiều ứng dụng khác như:
+
++Sản xuất bóng đèn
++Chế tạo bút bi
++Dụng cụ thể thao
++Trang sức

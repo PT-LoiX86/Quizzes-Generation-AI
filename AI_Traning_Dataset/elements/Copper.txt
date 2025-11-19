@@ -1,0 +1,95 @@
+﻿Tên tiếng Anh: Copper (cuprum)
+Tên tiếng Việt: Đồng
+
+Nhóm: IB
+Chu kỳ: 4
+Nguyên tử khối: 64
+Độ âm điện: 1,9
+Cấu hình electron: [Ar] 3d10 4s1
+
+
+I. Trạng thái tự nhiên 
+
+- Hầu hết đồng được khai thác hoặc chiết tách ở dạng đồng sunfua từ các mỏ đồng. Khai thác lộ thiên chứa từ 0,4 đến 1,0% đồng.
+
+II. Tính chất vật lý & nhận biết
+
+1.Tính chất vật lý
+
+- Là kim loại màu đỏ, dẻo, dễ kéo sợi và tráng mỏng.
+
+- Dẫn điện và nhiệt rất cao (chỉ kém hơn bạc). D = 8,98g/cm3; nhiệt độ nóng chảy là 1083°C
+
+2. Nhận biết
+
+- Đơn chất đồng có màu đỏ, các hợp chất của đồng ở trạng thái dung dịch có màu xanh đặc trưng.
+
+- Hòa tan Cu vào dung dịch HNO3 loãng, thấy thu được dung dịch có màu xanh lam, thoát ra khí không màu hóa nâu trong không khí (NO).
+
+3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O
+
+III. Tính chất hóa học
+
+- Là kim loại kém hoạt động, có tính khử yếu.
+
+Tác dụng với phi kim:
+
+- Cu phản ứng với oxi khi đun nóng tạo CuO bảo vệ nên Cu không bị oxi hoá tiếp tục.
+
+2Cu + O2 (nhiệt độ)→ CuO
+
+- Khi tiếp tục đun nóng tới (800-1000°C)
+
+CuO + Cu (nhiệt độ)→ Cu2O (đỏ)
+
+- Tác dụng với Cl2, Br2, S...
+
+Cu + Cl2 (nhiệt độ)→ CuCl2
+Cu + S (nhiệt độ)→ CuS
+
+
+Tác dụng với axit:
+
+- Cu không tác dụng với dung dịch HCl, H2SO4 loãng.
+
+- Khi có mặt oxi, Cu tác dụng với dung dịch HCl, nơi tiếp xúc giữa dung dịch axit với không khí.
+
+2Cu + 4HCl + O2 → 2CuCl2 + 2 H2O
+
+- Với HNO3, H2SO4 đặc :
+
+Cu + 2H2SO4 đ → CuSO4 + SO2 + H2O
+
+Cu + 4HNO3 đ → Cu(NO3)2 + 2NO2 + 2H2O
+
+3Cu + 8HNO3 loãng → 3Cu(NO3)2 + 2NO + 4H2O
+
+Tác dụng với dung dịch muối:
+
+- Khử được ion kim loại đứng sau nó trong dung dịch muối.
+
+Cu + 2AgNO3 → Cu(NO3)2 + 2Ag
+
+
+IV. Điều chế
+
+- Xuất phát từ việc tinh chế quặng đồng
+
+2Cu2S + 3O2 (nhiệt độ)→ 2Cu2O + 2SO2
+
+Ôxit đồng được chuyển thành đồng blister theo phản ứng nung:
+
+2Cu2O → 4Cu + O2
+
+V. Ứng dụng 
+
+- Dựa vào tính dẻo, dẫn điện, dẫn nhiệt, bền của đồng và hợp kim:
+
+1. Đồng thau : hợp kim Cu-Zn, có tính cứng và bền hơn Cu, dùng chế tạo chi tiết máy.
+
+
+2. Đồng bạch : hợp kim Cu-Ni, có tính bền, đẹp, không bị ăn mòn trong nước biển, dùng trong công nghiệp tàu thủy.
+
+3. Đồng thanh : hợp kim Cu-Sn, dùng chế tạo máy móc, thiết bị.
+
+4. Hợp kim Cu-Au : dùng để trang trí.

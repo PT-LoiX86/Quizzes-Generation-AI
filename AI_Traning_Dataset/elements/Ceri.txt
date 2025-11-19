@@ -1,0 +1,8 @@
+﻿Tên tiếng Anh: Cerium
+Tên tiếng Việt: Ceri
+
+Thuộc họ Lanta
+Nguyên tử khối: 140,12
+Độ âm điện: 1,12
+Cấu hình electron: [Xe] 4f1 5d1 6s2
+

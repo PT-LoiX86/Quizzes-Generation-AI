@@ -1,0 +1,53 @@
+﻿Tên tiếng Anh: Hydrogen
+Tên tiếng Việt: Hydro
+
+Nhóm: IA
+Chu kỳ: 1 
+Nguyên tử khối: 1
+Độ âm điện: 2,20
+Cấu hình electron: 1s1 
+
+I. Tính chất vật lý
+
+- Nhiệt độ nóng chảy: -259.14 ℃
+- Nhiệt độ sôi: -252.87 ℃
+- Hiđro là chất khí, không màu, không mùi, không vị, nhẹ hơn không khí 14,5 lần.
+- Tan rất ít trong nước.
+- Hiđro là khí nhẹ nhất.
+
+II. Tính chất hóa học
+
+a. Tác dụng với oxi
+
+Nếu đốt cháy hidro trong oxi: hidro cháy mạnh, trên thành lọ xuất hiện những giọt nước nhỏ
+
+PTHH: 2H2 + O2 → 2H2O
+
+Hỗn hợp sẽ gây nổ nếu trộn hidro và oxi theo tỉ lệ thể tích 2:1
+
+b. Tác dụng với một số oxit kim loại
+
+- Hiđro có tính khử, khử một số oxit kim loại ở nhiệt độ cao
+
+H2   +   CuO (nhiệt độ)→ Cu   +   H2O
+
+             màu đen      màu đỏ
+
+
+3H2 + Fe2O3 →  2Fe + 3H2O
+
+
+- H2 không tác dụng với các oxit: Na2O, K2O, BaO, CaO, MgO, Al2O3
+
+
+III. Ứng dụng
+
+Do tính chất nhẹ, tính khử và khi cháy tỏa nhiềt nhiệt mà hidro ứng dụng trong đời sống
+
+- Làm nguyên liệu cho động cơ tên lửa, nhiên liệu cho động cơ ô tô thay cho xăng
+
+- Làm nguyên liệu điều chế axit
+
+- Dùng để điều chế kim loại từ oxit của chúng
+
+- Bơm vào khinh khí cầu, bóng thám

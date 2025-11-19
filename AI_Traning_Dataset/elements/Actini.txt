@@ -1,0 +1,75 @@
+﻿Tên tiếng Anh: Actinium
+Tên tiếng Việt: Actini
+
+Nhóm: IIIB
+Chu kỳ: 7 
+Nguyên tử khối: [227]
+Độ âm điện: 1,1
+Cấu hình electron: [Rn] 6d17 s2
+
+I. Vấn đề an toàn của nguyên tố Actini
+
+-Actini là nguyên tố phóng xạ nguy hiểm, cần được xử lý cẩn thận. Tiếp xúc với Actini có thể gây ra các vấn đề sức khỏe nghiêm trọng, bao gồm:
+
+	+Ung thư
+	+Bỏng da
+	+Bệnh tim mạch
+	+Bệnh phổi
+	+Suy giảm hệ miễn dịch
+-Để đảm bảo an toàn khi làm việc với Actini, cần tuân thủ các biện pháp sau:
+
++Sử dụng các thiết bị bảo hộ cá nhân phù hợp, như găng tay, kính bảo hộ, quần áo bảo hộ và mặt nạ phòng độc.
++Làm việc trong khu vực thông gió tốt.
++Giữ nguyên tố Actini trong các thùng chứa đặc biệt.
++Theo dõi mức độ phơi nhiễm phóng xạ thường xuyên.
++Tuân thủ các quy định an toàn do cơ quan quản lý nhà nước ban hành.
+
+-Hơn nữa, cũng cần chú ý đến một số vấn đề sau:
+
++Không bao giờ ăn, uống hoặc hút thuốc khi làm việc với Actini.
++Không bao giờ để nguyên tố Actini tiếp xúc trực tiếp với da.
++Giữ nguyên tố Actini tránh xa phụ nữ mang thai và trẻ em.
++Nếu nghi ngờ bị phơi nhiễm với Actini, cần đến gặp bác sĩ ngay lập tức.
+ 
+
+II. Tính chất vật lý 
+  
+-Trạng thái: Rắn
+-Màu sắc: Trắng bạc
+-Độ cứng: Mềm, dễ dát mỏng
+-Điểm nóng chảy: 1050 °C
+-Điểm sôi: 3200 °C
+-Mật độ: 10,07 g/cm³
+-Tính dẫn điện: Tốt
+-Tính dẫn nhiệt: Tốt
+-Phóng xạ: Mạnh, phát ra ánh sáng xanh lam nhạt trong bóng tối
+
+III. Tính chất hóa học
+
+-Tính phóng xạ: Actinium là một nguyên tố phóng xạ mạnh, với isotop Ac-227 là phổ biến nhất, có chu kỳ bán rã khoảng 21.77 năm. Nó phóng xạ alpha và cũng có thể phát ra gamma khi phân rã.
+
+-Phản ứng với Oxy: Khi tiếp xúc với không khí, Actinium phản ứng với oxy tạo thành oxit Actinium (III) oxide (Ac2O3), cho thấy tính oxi hóa cao của nó.
+
+-Phản ứng với Nước: Actinium tương đối ổn định khi tiếp xúc với nước lạnh, nhưng có thể phản ứng chậm với nước nóng, giải phóng khí hydro và tạo thành hydroxit.
+
+-Tính Kim Loại: Giống như nhiều actinide khác, Actinium có tính kim loại, cho thấy tính chất dẻo, có thể dát mỏng và kéo dài. Nó có ánh bạc, nhưng dễ bị oxy hóa trong không khí, tạo ra lớp oxit mờ trên bề mặt.
+
+-Hợp chất với Halogen: Actinium tạo thành hợp chất với các halogen (F, Cl, Br, I), ví dụ như AcF3, AcCl3, v.v., cho thấy tính phản ứng hóa học với các nguyên tố nhóm VII.
+
+-Hòa tan trong Axít: Actinium hòa tan trong hầu hết các axít không oxi hóa như HCl và H2SO4, tạo thành các muối có giá trị oxi hóa +3
+
+IV. Ứng dụng 
+
+1. Ứng dụng trong y học
+- Actini-225 được sử dụng để điều trị ung thư tuyến tiền liệt, ung thư vú và ung thư xương.
+- Actini-227 được sử dụng để điều trị ung thư hạch và ung thư bạch cầu.
+- Actini-228 được sử dụng để giảm đau do di căn xương.
+
+2. Ứng dụng trong sản xuất nguồn năng lượng
+- Actini-227 có thể được sử dụng để tạo ra nguồn năng lượng beta.
+- Actini-228 có thể được sử dụng để tạo ra nguồn năng lượng alpha.
+
+3. Ứng dụng trong nghiên cứu khoa học
+- Actini được sử dụng để nghiên cứu các quá trình phóng xạ.
+- Actini được sử dụng để nghiên cứu các phương pháp điều trị ung thư mới.
+- Actini được sử dụng để nghiên cứu các ứng dụng mới của năng lượng hạt nhân.

@@ -1,0 +1,75 @@
+﻿Tên tiếng Anh: Rubidium
+Tên tiếng Việt: Rubidi
+
+Nhóm : IA
+Chu kỳ : 5
+Số nguyên tử : 37
+Nguyên tử khối : 85.4678
+Độ âm điện : 0.82
+Cấu hình electron : [Kr] 5s1
+Cấu tạo mạng tinh thể : Lập phương tâm khối
+Các số oxi hóa phổ biến : +1
+
+I. Trạng thái tự nhiên 
+
+-Độ hiếm: Rubidi là một nguyên tố tương đối dồi dào, xếp thứ 16 về độ phong phú trong vỏ Trái Đất, tương đương với Kẽm (Zn).
+
+-Nguồn gốc: Rubidi không được tìm thấy ở dạng tự do trong tự nhiên do tính phản ứng rất cao.
+
+-Khoáng vật: Nó thường được tìm thấy dưới dạng tạp chất trong các khoáng vật Kali (K) và Cesium (Cs), đặc biệt là Lepidolit (K(Li, Al)3(Rb, Cs)2(Si, Al)4O10(F, OH)2) và Pollucit .
+
+-Đồng vị: Đồng vị tự nhiên phổ biến là Rubidi-85 (Rb-85) và đồng vị phóng xạ Rubidi-87 (Rb-87) được sử dụng trong định tuổi địa chất.
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng bạc, rất mềm, có ánh kim
+
+-Nhiệt độ nóng chảy: 39.3°C. Nó là một trong những kim loại kiềm có nhiệt độ nóng chảy thấp nhất, có thể hóa lỏng ở nhiệt độ phòng trong ngày hè nóng.
+
+-Khối lượng riêng: 1.53 g/cm^3.
+
+-Phổ: Giống như các kim loại kiềm khác, Rubidi cho màu đỏ tím đặc trưng khi được đốt nóng.
+
+III. Tính chất hóa học
+
+Rubidi là một kim loại kiềm có tính khử mạnh và hoạt động hóa học rất cao, xếp sau Cesium (Cs) và Franxi (Fr).
+
+1. Tác dụng với Phi kim
+
+Với Oxi: Phản ứng mạnh với Oxi ngay cả ở nhiệt độ thường, tạo ra các oxide và superoxide (ví dụ: Rb2O, RbO2).
+
+2. Tác dụng với Nước
+
+-Phản ứng nổ: Phản ứng cực kỳ mãnh liệt với nước lạnh, giải phóng một lượng lớn nhiệt, thường gây cháy hoặc nổ:
+
+    2Rb + 2H2O → 2RbOH + H2
+
+3. Hợp chất
+
+-Tính ổn định: Rubidi chỉ tạo ra các hợp chất với số oxi hóa +1.
+
+-Bảo quản: Do tính hoạt động cao, Rubidi phải được bảo quản trong chân không hoặc dưới dầu khoáng để tránh phản ứng với không khí và độ ẩm.
+
+IV. Điều chế
+
+Rubidi được điều chế chủ yếu từ Lepidolit hoặc từ cặn của quá trình sản xuất Lithi (Li) và Cesium (Cs).
+
+-Phương pháp:
+
+    +Khử nhiệt: Rubidi kim loại có thể được điều chế bằng cách khử nhiệt Rubidi Chloride (RbCl) bằng Canxi (Ca) ở nhiệt độ cao trong chân không.
+
+    +Trao đổi ion: Phương pháp tinh chế hiện đại thường dựa vào trao đổi ion để tách Rubidi khỏi các kim loại kiềm khác.
+
+V. Ứng dụng
+
+    -Nghiên cứu khoa học: Ứng dụng quan trọng nhất là trong Vật lý nguyên tử và Công nghệ lượng tử:
+
+        +Rubidi-87 được sử dụng để tạo ra Ngưng tụ Bose-Einstein (Bose-Einstein Condensate - BEC), một trạng thái vật chất đặc biệt.
+
+        +Rubidi là nguyên liệu chính để chế tạo đồng hồ nguyên tử Rubidi (Rubidium clocks), có độ chính xác cao thứ hai sau đồng hồ Cesium.
+
+    -Điện tử: Hợp chất Rubidi được dùng trong chế tạo một số loại tế bào quang điện (photocells) và máy dò (detectors).
+
+    -Y học: Đồng vị phóng xạ Rubidi-82 được sử dụng trong Chụp ảnh Positron Phát xạ (PET) để đánh giá lưu lượng máu cơ tim.
+
+    -Các ứng dụng khác: Được dùng làm phụ gia trong pháo hoa để tạo màu tím.

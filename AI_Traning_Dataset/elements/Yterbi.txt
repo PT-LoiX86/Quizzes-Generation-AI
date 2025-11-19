@@ -1,0 +1,7 @@
+﻿Tên tiếng Anh: Yterbium
+Tên tiếng Việt: Yterbi
+
+Thuộc họ Lantan
+Nguyên tử khối: 173,04
+Độ âm điện: 1,10
+Cấu hình electron: [Xe] 4f14 6s2 

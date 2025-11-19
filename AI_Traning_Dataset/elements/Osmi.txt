@@ -1,0 +1,59 @@
+﻿Tên tiếng Anh: Osmium
+Tên tiếng Việt: Osmi
+
+Nhóm : VIIIB
+Chu kỳ : 6
+Số nguyên tử : 76
+Nguyên tử khối tương đối : 190.23
+Độ âm điện : 2.2
+Cấu hình electron : [Xe] 4f14 5d6 6s2
+Cấu tạo mạng tinh thể : Lục phương
+Các số oxi hóa phổ biến : +4 (ổn định nhất), +2,+3,+6,+8
+
+
+I. Trạng thái tự nhiên
+
+-Độ hiếm: Osmi là một trong những nguyên tố hiếm nhất trong vỏ Trái Đất.
+-Nguồn gốc: Nó được tìm thấy không kết hợp trong tự nhiên, thường ở dạng hợp kim tự nhiên với các kim loại nhóm Platin khác, đặc biệt là Iridosmi (hợp kim Osmi và Iridi).
+-Khai thác: Osmi được thu hồi thương mại như một sản phẩm phụ của quá trình khai thác quặng đồng (Cu) và niken (Ni).
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại xanh xám hoặc xanh đen .
+-Khối lượng riêng: 22.59 g/cm^3. Đây là nguyên tố có mật độ cao nhất trong Bảng tuần hoàn, nặng hơn Iridi một chút.
+-Nhiệt độ nóng chảy: Rất cao, 3033°C.
+-Độ cứng/Giòn: Rất cứng nhưng giòn ở nhiệt độ phòng.
+
+III. Tính chất hóa học
+
+Osmi là một kim loại chuyển tiếp rất trơ nhưng có khả năng tạo ra các hợp chất với số oxi hóa rất cao.
+
+1. Tác dụng với Oxi
+
+-Phản ứng chính: Khi đun nóng trong không khí hoặc khi được xử lý bằng bột mịn, Osmi bị oxy hóa để tạo thành Osmium tetroxide (OsO4).
+-Độc tính: Osmium tetroxide (OsO4) là một hợp chất độc hại cực kỳ cao, dễ bay hơi (sublimes ở 40°C), có mùi hăng mạnh, có thể làm tổn thương nghiêm trọng mắt và phổi.
+    Os + 2O2 → OsO4
+
+2. Tác dụng với Axit
+
+-Kháng ăn mòn: Giống như các kim loại nhóm Platin khác, Osmi chống ăn mòn tuyệt vời và không bị ảnh hưởng bởi hầu hết các axit, kể cả nước cường toan (Aqua Regia) ở nhiệt độ thường.
+-Phản ứng với Kiềm: Osmi phản ứng với kiềm nóng chảy (ví dụ: KOH) để tạo ra các osmate.
+
+IV. Điều chế
+
+Osmi được điều chế từ sản phẩm phụ của quá trình luyện kim Niken và Đồng, hoặc từ cặn bã của quặng Platin.
+
+-Tách chiết công nghiệp: Quá trình tách Osmi khỏi các kim loại nhóm Platin khác rất phức tạp, thường bao gồm các bước:
+    +Xử lý bằng Nước cường toan (để hòa tan các kim loại khác).
+    +Nung chảy kim loại chịu lửa còn lại với các chất oxy hóa (Na2O2 hoặc KOH/KNO3) để chuyển Osmi thành kali osmate.
+    +Tách Osmi bằng cách chưng cất Osmium tetroxide (OsO4) dễ bay hơi, sau đó khử nó bằng Hydro (H2) để thu được bột Osmi kim loại tinh khiết.
+
+V. Ứng dụng
+
+-Độ cứng/Chống mài mòn: Ứng dụng chính của Osmi là tạo hợp kim cứng với Platin và Iridi để sản xuất:
+    +Đầu bút máy.
+    +Các chốt xoay và trục trong các dụng cụ chính xác (đồng hồ, la bàn).
+    +Các tiếp điểm điện chịu mài mòn cao.
+-Hóa học/Y sinh học:
+    -Osmium tetroxide (OsO4) được sử dụng như một chất nhuộm (stain) trong kính hiển vi điện tử để cố định các mô sinh học và tăng độ tương phản của màng tế bào.
+-Xúc tác: Osmi và các hợp chất của nó được sử dụng làm chất xúc tác trong một số phản ứng tổng hợp hữu cơ.

@@ -1,0 +1,69 @@
+﻿Tên tiếng Anh: Technetium
+Tên tiếng Việt: Tecneti
+
+Nhóm : VIIB
+Chu kỳ : 5
+Số nguyên tử : 43
+Nguyên tử khối : ≈98 (đồng vị bền nhất :  Tc-98)
+Độ âm điện : 1.9
+Cấu hình electron : [Kr] 4d5 5s2
+Cấu tạo mạng tinh thể : Lục phương
+Các số oxi hóa phổ biến : +7 (ổn định nhất), +4, +5, +6
+
+I. Trạng thái tự nhiên
+
+-Tính chất: Tecneti là nguyên tố nhẹ nhất mà tất cả các đồng vị của nó đều là phóng xạ (không có đồng vị ổn định).
+
+-Độ hiếm: Nó không tồn tại một cách tự nhiên trên Trái Đất (trừ một lượng cực nhỏ được tạo ra từ sự phân hạch tự nhiên của Uranium hoặc Mo bị bắn phá bởi neutron trong quặng).
+
+-Nguồn gốc: Tecneti được tìm thấy trong ngôi sao và được tạo ra nhân tạo. Sự xuất hiện của Tecneti trong quang phổ của các ngôi sao khổng lồ đỏ đã cung cấp bằng chứng cho thấy tổng hợp hạt nhân đã xảy ra bên trong các ngôi sao.
+
+II. Tính chất vật lý
+
+-Màu sắc: Kim loại trắng bạc, ánh kim
+
+-Tính chất cơ học: Có độ bền kéo cao, dễ uốn.
+
+-Nhiệt độ nóng chảy: 2157°C.
+
+-Đặc tính hạt nhân:
+
+    +Đồng vị quan trọng: Tecneti-99m (Tc-99m) có thời gian bán rã ngắn ( 6 giờ) và phát ra tia gamma năng lượng thấp, lý tưởng cho chẩn đoán hình ảnh y tế.
+
+    +Siêu dẫn: Tecneti là một chất siêu dẫn loại II mạnh mẽ.
+
+-Độc tính: Các đồng vị Tecneti rất độc vì tính phóng xạ của chúng.
+
+III. Tính chất hóa học
+
+Tecneti có tính chất hóa học tương tự Rheni (Re) và Mangan (Mn).
+
+1. Tác dụng với Phi kim
+
+-Với Oxi: Bền trong không khí. Khi nung nóng, nó bị oxy hóa tạo thành Tecneti(VII) Oxide (Tc2O7) dễ bay hơi.
+
+-Chống ăn mòn: Trong dung dịch nước, Tecneti ở trạng thái +7 tồn tại dưới dạng Pertecnetat (TcO4-), một chất ức chế ăn mòn tuyệt vời.
+
+2. Tác dụng với Axit
+
+-Khả năng hòa tan: Hòa tan trong Axit Nitric (HNO3) và Axit Sulfuric (H2SO4) đặc.
+
+-Kháng ăn mòn: Tecneti không bị ăn mòn bởi Axit Hydrocloric (HCl) hay Hydrobromic (HBr).
+
+IV. Điều chế
+
+Tecneti được sản xuất nhân tạo trong các lò phản ứng hạt nhân.
+
+-Nguồn gốc: Tecneti-99m được tạo ra từ sự phân rã beta của Molypden-99 (Mo-99), vốn được tạo ra bằng cách bắn phá Uranium (U-235) bằng neutron trong lò phản ứng hạt nhân.
+
+    Mo-99 (β-) → Tc-99m
+
+-Sản xuất thương mại: Tc-99m được cung cấp cho bệnh viện dưới dạng máy phát Tecneti (Technetium generator), cho phép tách Tc-99m khỏi Mo-99 ngay tại chỗ khi cần .
+
+V. Ứng dụng
+
+-Y học hạt nhân: Tecneti-99m là chất phóng xạ được sử dụng phổ biến nhất trong y học để chẩn đoán hình ảnh (ví dụ: quét xương, tim, não và tuyến giáp) do thời gian bán rã ngắn và phát ra tia gamma có thể được camera gamma phát hiện.
+
+-Chống ăn mòn: Pertecnetat được sử dụng như một chất ức chế ăn mòn hiệu quả, đặc biệt trong các hệ thống chứa nước (ví dụ: ống thép).
+
+-Luyện kim: Tecneti được sử dụng để tạo hợp kim sắt (Fe) để tăng đáng kể khả năng chống ăn mòn.
