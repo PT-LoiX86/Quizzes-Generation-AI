@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "timestamp": "2025-12-02T21:11:40.776992",
+    "element_file": "data/chemistry_files/Bari.txt",
+    "success": true,
+    "error_message": null
+  },
+  "performance": {
+    "questions_generated": 5,
+    "total_attempts": 15,
+    "generation_success_rate": "33.3%"
+  },
+  "quality_metrics": {
+    "duplicates_found_and_removed": 2,
+    "llm_enhancements_applied": 4,
+    "llm_enhancement_failures": 1,
+    "failed_template_generations": 3
+  },
+  "debug_info": {
+    "confidence_score": 0.8999999999999999
+  }
+}

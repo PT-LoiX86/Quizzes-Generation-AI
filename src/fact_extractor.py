@@ -1,7 +1,7 @@
 import re
 from src.utils import extract_number, round_number
 
-"Class for chemistry facts extracting from chemistry_facts.csv"
+"Class for chemistry facts extracting from chemistry.txt"
 class FactExtractor:
     def __init__(self):
         self.vietnamese_name = None
