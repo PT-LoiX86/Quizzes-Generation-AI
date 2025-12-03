@@ -1,22 +1,41 @@
 ﻿Tên tiếng Anh: Cobalt
-Tên tiếng Việt: Cobalt
-
-Nhóm: VIIIB
-Chu kỳ: 4
-Nguyên tử khối: 58,93
-Độ âm điện: 1,88
-Cấu hình electron: [Ar] 3d7 4s2
-
-I. Ứng dụng 
-
--Cobalt được sử dụng trong hợp kim cho các bộ phận động cơ máy bay và trong các hợp kim có công dụng chống ăn mòn / mài mòn.
-
--Cobalt được sử dụng rộng rãi trong pin và trong mạ điện.
-
--Muối coban được sử dụng để tạo màu xanh lam và xanh lục trong thủy tinh và gốm sứ.
-
--Phóng xạ 60Co được sử dụng trong điều trị ung thư.
-
--Cobalt rất cần thiết cho nhiều sinh vật sống và là thành phần của vitamin B12.
-
--Cobalt cũng được sử dụng trong nam châm vĩnh cửu samarium-coban. Chúng được sử dụng trong xe bán tải và động cơ tốc độ cao.
+Tên tiếng Việt: Coban
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 4
+- Nguyên tử khối: 58,9332
+- Độ âm điện: 1,88
+- Cấu hình electron: [Ar] 3d7 4s2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Xám bạc
+- Độ cứng: Cứng
+- Tính chất: Dễ dát mỏng
+- Tính chất: Dễ kéo sợi
+- Điểm nóng chảy: 1495 °C
+- Điểm sôi: 2927 °C
+- Mật độ: 8,90 g/cm³
+- Tính chất: Kim loại sắt từ (tính chất từ)
+- Tính chất: Bền trong không khí và nước
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Vừa phải (hoạt động kém hơn Fe)
+- Trạng thái oxi hóa: +2, +3 (phổ biến)
+- Trạng thái oxi hóa (Đặc điểm): Trạng thái +2 bền hơn
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit coban (II) (CoO) hoặc oxit coban (II, III) (Co3O4)
+- Phản ứng với Nước: Không phản ứng với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng chậm với hơi nước ở nhiệt độ cao
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4, HNO3 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối coban(II) và giải phóng khí hydro (với axit không oxi hóa)
+- Phản ứng với Axit (Thụ động): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim siêu bền (chịu nhiệt, chống mài mòn)
+- Ứng dụng (Ngành): Nam châm vĩnh cửu
+- Ứng dụng (Ngành): Chất xúc tác
+- Ứng dụng (Ngành): Sản xuất pin sạc Li-ion
+- Ứng dụng (Ngành): Chất tạo màu (xanh coban) trong gốm sứ, thủy tinh
+- Ứng dụng (Y học): Đồng vị Co-60 được dùng trong xạ trị (điều trị ung thư)
+V. Vấn đề an toàn
+- Độc tính: Độc (hợp chất)
+- Tác hại: Gây kích ứng da, hô hấp
+- Độc tính (Đặc điểm): Có thể gây ung thư

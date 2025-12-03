@@ -1,43 +1,30 @@
 ﻿Tên tiếng Anh: Astatine
 Tên tiếng Việt: Astatin
-
-Nhóm: VIIA
-Chu kỳ: 6
-Nguyên tử khối: [210]
-Độ âm điện: 2,20
-Cấu hình electron: [Xe] 4f14 5d10 6s2 6p5 
-
-I. Trạng thái tự nhiên 
- 
- -  Astatin xuất tồn tại tự nhiên trong 3 chuỗi phân rã phóng xạ tự nhiên, có chu kỳ bán rã ngắn chỉ vài phút.
-
- -  Astatin là nguyên tố xuất hiện trong tự nhiên hiếm nhất với tổng khối lượng trong vỏ Trái Đất được ước tính nhỏ hơn 28 gram vào bất cứu thời điểm nào.
-
-II. Tính chất vật lý 
-
- -  Astatin là phi kim, ở trạng thái rắn, màu xám, có ánh kim, bay hơi (thăng hoa). Phóng xạ, đồng vị sống lâu nhất là 210At (chu kì bán rã 8,1 h). Không tan trong nước nhưng tan trong cacbon tetraclorua.
-
- -  At có nhiệt độ nóng chảy là 244°C và sôi ở 309°C.  
-
+I. Thông tin cơ bản
+- Nhóm: VIIA
+- Chu kỳ: 6
+- Nguyên tử khối: [210]
+- Độ âm điện: 2,2
+- Cấu hình electron: [Xe] 4f14 5d10 6s2 6p5
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Đen (hoặc ánh kim loại)
+- Tính chất: Phóng xạ mạnh
+- Tính chất: Là nguyên tố hiếm nhất trên Trái Đất
+- Điểm nóng chảy: 302 °C
+- Điểm sôi: 337 °C
+- Mật độ: 6,35 g/cm³
 III. Tính chất hóa học
-
- -  Astatin cũng là chất oxi hoá mạnh tương tự iot, nhưng kém hơn iot.
-
-a. Tác dụng với kim loại
-
- -  Astatin phản ứng trực tiếp với nhiều kim loại.
-
-        Ví dụ :    2Al + 3At­2 → 2AlAt3
-
-b. Tác dụng với hidro
-
- -  Ở nhiệt độ cao, At phản ứng được với hidro mới sinh ra từ Zn tác dụng với dung dịch HCl đặc.
-
-            At + H → HAt 
-
-c. Các phản ứng khác
-
-            2At + 2H2O + SO2 → 2HAt + H2SO4
-
-2At + I2   → 2AtI
-
+- Tính chất: Halogen
+- Tính chất: Á kim (tính chất kim loại mạnh nhất trong nhóm halogen)
+- Tính chất: Không bền (do phóng xạ)
+- Tính oxi hóa: Có tính oxi hóa
+- Tính oxi hóa (Đặc điểm): Yếu hơn Iot
+- Trạng thái oxi hóa: -1, +1, +3, +5, +7
+- Phản ứng: Có thể tạo hợp chất với các nguyên tố kim loại và phi kim khác
+- Phản ứng (Đặc điểm): Tính chất tương tự Iot
+IV. Ứng dụng
+- Ứng dụng (Ngành): Y học (chẩn đoán và điều trị ung thư)
+- Ứng dụng (Đặc điểm): Sử dụng đồng vị At-211
+- Ứng dụng (Đặc điểm): Phát ra hạt alpha (tiêu diệt tế bào ung thư)
+- Ứng dụng (Ngành): Nghiên cứu khoa học (do tính phóng xạ mạnh và chu kỳ bán rã ngắn)

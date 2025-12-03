@@ -1,80 +1,43 @@
 ﻿Tên tiếng Anh: Phosphorus
-Tên tiếng Việt: Phosphor
-
-Nhóm: VA
-Chu kỳ: 3
-Nguyên tử khối: 31
-Độ âm điện: 2,19
-Cấu hình electron: [Ne] 3s2 3p3
-
-I. Trạng thái tự nhiên 
-
-- Trong tự nhiên, nguyên tố P chỉ có ở dạng hợp chất
-
-   + Ở cơ thể sống: người, động vật, thực vật,…
-
-   + Ở vỏ trái đất: quặng apatit (3Ca3(PO4)2.CaF2 ); quặng photphorit ( Ca3(PO4)2)
-
-II. Tính chất vật lý 
-
-1. Photpho trắng
-
-Chất rắn màu trắng hoặc hơi vàng, rất độc, dễ gây bỏng nặng khi rơi vào da; mềm và dễ nóng chảy; không tan trong nước và dễ tan trong dung môi hữu cơ. 
-
-2. Photpho đỏ
-
-- Chất rắn có màu đỏ, không độc, dễ hút ẩm và chảy rữa; không tan trong các dung môi thông thường.
-
-P đỏ (rắn) (nhiệt độ)→ P đỏ (hơi) → P trắng.
-
-- Hai dạng này khác nhau về tính chất vật lí do chúng khác nhau về cấu trúc tinh thể và khả năng liên kết. Trong hai dạng thù hình photpho trắng hoạt động hơn photpho đỏ.
-
+Tên tiếng Việt: Photpho
+I. Thông tin cơ bản
+- Nhóm: VA
+- Chu kỳ: 3
+- Nguyên tử khối: 30,9738
+- Độ âm điện: 2,19
+- Cấu hình electron: [Ne] 3s2 3p3
+- Công thức phân tử: P4 (Photpho trắng)
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Xuất hiện trong cơ thể sống: người, động vật, thực vật,…
+- Trạng thái tự nhiên: Tồn tại trong quặng apatit (3Ca3(PO4)2.CaF2 ) và quặng photphorit ( Ca3(PO4)2)
+- Tính chất: Có nhiều dạng thù hình
+- Dạng thù hình (Photpho trắng): Rắn, mềm, màu trắng (hoặc vàng nhạt), rất độc, hoạt động mạnh, phát quang, không tan trong nước, tan trong CS2, có cấu trúc phân tử P4
+- Dạng thù hình (Photpho đỏ): Rắn, bột màu đỏ, không độc, kém hoạt động hơn P trắng, không tan trong nước và CS2, cấu trúc polymer
+- Điểm nóng chảy (Photpho trắng): 44,1 °C (thấp)
+- Điểm sôi (Photpho trắng): 280 °C
 III. Tính chất hóa học
-
-- Độ âm điện P < N.
-- Nhưng P hoạt động hóa học hơn N2 vì liên kết N ≡ N bền vững.
-- P trắng hoạt động hơn P đỏ.
-- P vừa có tính khử vừa có tính oxi hóa
-
-
-1. Tính khử
-
-a. Khử phi kim mạnh hơn:O2, Cl2, S...
-
-   - Khử O2 : 
-		4P + 3O2(thiếu) → 2P2O3
-		4P + 5O2(dư) → 2P2O5
-
-   Photpho trắng tác dụng với oxi ở điều kiện thường, phản ứng tỏa năng lượng ở dạng ánh sáng → gây ra hiện tượng phát quang hóa học
-
-   Photpho đỏ chỉ tác dụng với oxi ở nhiệt độ cao
- 
-- Khử : 
-	2P + 3Cl2(thiếu) → 2PCl3 (photpho triclorua)
-	2P + 5Cl2(dư) → 2PCl5 (photpho pentaclorua)
-
-b. Khử một số hợp chất có tính oxi hóa mạnh
-
-	6P + 5KClO3 (nhiệt độ)→ 3P2O5 + 5KCl
-	2P + 5H2SO4 (nhiệt độ)→ 2H3PO4 + 5SO2 + 2H2O
-	P + 5HNO3 → H3PO4 + 5NO2 + H2O
-
-2. Tính oxi hóa
-
-   * P oxi hóa các kim loại hoạt động tạo ra photphua kim loại
-
-	3Ca + 2P → Ca3P2
-
-IV. Điều chế
-
-   Ca3(PO4)2 + 5C + 3SiO2 
-
-   Quặng than cốc cát
-
-V. Ứng dụng 
-
-   - Điều chế H3PO4
-
-   - Sản xuất diêm
-
-   - Điều chế bom cháy, lựu đạn khói
+- Tính chất: Phi kim
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Trạng thái oxi hóa: -3, 0, +3, +5
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành oxit photpho (III) (P2O3) hoặc oxit photpho (V) (P2O5)
+- Phản ứng với Oxi (Photpho trắng): Bốc cháy trong không khí ở nhiệt độ thường
+- Phản ứng với Kim loại: Tác dụng với kim loại (Na, K, Mg, Fe) ở nhiệt độ cao
+- Phản ứng với Kim loại (Sản phẩm): Tạo ra photphua kim loại (ví dụ: Na3P, Mg3P2)
+- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra axit photphoric (H3PO4) và sản phẩm khử
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất axit photphoric (H3PO4)
+- Ứng dụng (Ngành): Sản xuất phân bón (superphotphat)
+- Ứng dụng (Ngành): Sản xuất diêm (photpho đỏ)
+- Ứng dụng (Ngành): Sản xuất chất nổ, pháo hoa
+- Ứng dụng (Ngành): Sản xuất hóa chất nông nghiệp
+V. Vai trò sinh học
+- Vai trò: Đa lượng (thiết yếu cho cơ thể)
+- Chức năng: Thành phần của axit nucleic (DNA, RNA)
+- Chức năng: Thành phần của ATP (năng lượng)
+- Chức năng: Cấu tạo xương và răng (Ca3(PO4)2)
+VI. Vấn đề an toàn
+- Độc tính: Photpho trắng rất độc
+- Độc tính (Photpho đỏ): Photpho đỏ không độc
+- Đặc điểm (P trắng): Gây bỏng da nặng, tử vong
+- Bảo quản (P trắng): Cần được bảo quản trong nước

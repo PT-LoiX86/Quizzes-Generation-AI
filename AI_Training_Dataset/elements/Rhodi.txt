@@ -1,68 +1,37 @@
 ﻿Tên tiếng Anh: Rhodium
 Tên tiếng Việt: Rhodi
-
-Nhóm : VIIIB
-Chu kỳ : 5
-Số nguyên tử : 45
-Nguyên tử khối : 102.90550
-Độ âm điện : 2.28
-Cấu hình electron : [Kr] 4d8 5s1
-Cấu tạo mạng tinh thể : Lập phương tâm mặt
-Các số oxi hóa phổ biến : +3 (ổn định nhất), +2, +1, +4, +6
-
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Rhodi là một trong những kim loại hiếm nhất và đắt tiền nhất trên Trái Đất.
-
--Nguồn gốc: Nó được tìm thấy không kết hợp trong tự nhiên cùng với các kim loại nhóm Platin khác.
-
--Khai thác: Rhodi được thu hồi thương mại chủ yếu như một sản phẩm phụ trong quá trình khai thác và chế biến quặng đồng-niken (Cu-Ni) ở Nam Phi và Nga.
-
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 5
+- Nguyên tử khối: 102,9055
+- Độ âm điện: 2,28
+- Các số oxi hóa phổ biến : +3 (ổn định nhất), +2, +1, +4, +6
+- Cấu hình electron: [Kr] 4d8 5s1
+- Cấu tạo mạng tinh thể : Lập phương tâm mặt
 II. Tính chất vật lý
-
--Màu sắc: Kim loại trắng bạc, ánh kim rất sáng
-
--Đặc tính cơ học: Cứng, bền và có khả năng phản xạ ánh sáng rất cao (cao hơn Bạc ở nhiệt độ phòng).
-
--Khối lượng riêng: 12.41 g/cm^3.
-
--Nhiệt độ nóng chảy: 1964°C.
-
--Tính chất điện: Có độ dẫn điện và dẫn nhiệt tốt.
-
+- Trạng thái tự nhiên: Tồn tại trong tự nhiên cùng với các kim loại nhóm Platin khác.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất cứng
+- Tính chất: Rất bền
+- Điểm nóng chảy: 1964 °C (Rất cao)
+- Điểm sôi: 3695 °C
+- Mật độ: 12,41 g/cm³
+- Tính chất: Kim loại quý
+- Tính chất: Bền, chống ăn mòn tuyệt vời
+- Tính chất: Độ phản xạ cao
 III. Tính chất hóa học
-
-Rhodi là kim loại có khả năng chống ăn mòn cực kỳ cao, vượt trội hơn cả Platin và Paladi.
-
-1. Tác dụng với Phi kim
-
-Với Oxi: Rhodi không bị ảnh hưởng bởi Oxi ở nhiệt độ thường. Khi đun nóng trên 600°C, nó bị oxy hóa chậm tạo thành Rhodi(III) Oxide (Rh2O3).
-
-2. Tác dụng với Axit
-
--Kháng ăn mòn: Rhodi không tan trong Axit Nitric (HNO3), Axit Sulfuric (H2SO4) hay Axit Hydrocloric (HCl) đơn lẻ.
-
--Nước cường toan: Nó gần như không bị hòa tan bởi Nước cường toan (Aqua Regia) ngay cả khi đun nóng (đây là điểm khác biệt lớn so với Vàng và Platin). Rhodi chỉ hòa tan khi ở dạng bột mịn hoặc khi phản ứng với Kali Hydro Sulfat (KHSO4) nóng chảy.
-
-3. Hợp chất
-
-Tính chất xúc tác: Các hợp chất Rhodi tạo ra các phức chất xúc tác hiệu quả cao trong hóa học.
-
-IV. Điều chế
-
-Rhodi được điều chế thông qua quá trình chiết tách phức tạp từ sản phẩm phụ của quặng niken và đồng.
-
-Tách chiết công nghiệp: Quá trình tách Rhodi khỏi các kim loại nhóm Platin khác (như Platin, Paladi) liên quan đến nhiều bước xử lý hóa học, chưng cất và kết tủa phức chất, cuối cùng thu hồi kim loại bằng cách khử hợp chất Rhodi bằng Hydrogen (H2).
-
-V. Ứng dụng
-
--Công nghiệp Ô tô (Chất xúc tác): Đây là ứng dụng lớn nhất của Rhodi. Nó được sử dụng trong lớp thứ ba của bộ chuyển đổi xúc tác 3 chiều (catalytic converters) để giúp khử Nitrogen Oxide (NOx) thành khí Nitrogen (N2) và Oxy (O2) .
-
--Hóa học: Được dùng làm chất xúc tác trong quá trình sản xuất Axit Acetic (quá trình Monsanto) và quá trình tổng hợp hydroformyl hóa (hydroformylation) để sản xuất aldehyde.
-
--Trang sức và phủ bề mặt:Dùng làm vật liệu mạ điện (rhodium plating) để tăng độ sáng, độ cứng và chống ăn mòn cho trang sức (vàng trắng, bạc) và kính quang học. Dùng làm gương trong các dụng cụ yêu cầu độ phản xạ cao.
-
--Điện tử: Dùng làm tiếp điểm điện cho các thiết bị yêu cầu độ tin cậy cao.
-
--Hợp kim: Được tạo hợp kim với Platin và Paladi để sản xuất cặp nhiệt điện và dây cuộn lò nung có khả năng chịu nhiệt độ rất cao.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Rất yếu (trơ)
+- Trạng thái oxi hóa: +3 (phổ biến), +2, +1, +4
+- Phản ứng với Oxi: Phản ứng khi đun nóng (trên 600°C), tạo thành oxit rhodi (III) (Rh2O3)
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả nước cường toan)
+- Phản ứng với Axit (Ngoại lệ): Tan trong H2SO4 đặc nóng hoặc hỗn hợp có chứa muối clorua nóng chảy
+- Phản ứng với Halogen: Tác dụng khi đun nóng, tạo halua
+IV. Ứng dụng
+- Ứng dụng (Ngành): Bộ chuyển đổi xúc tác (ô tô)
+- Ứng dụng (Ngành): Chất xúc tác (trong công nghiệp hóa chất)
+- Ứng dụng (Ngành): Mạ điện (làm cứng và tăng độ phản xạ)
+- Ứng dụng (Ngành): Dây nhiệt kế
+- Ứng dụng (Ngành): Công nghiệp quang học (gương, thiết bị đo lường)

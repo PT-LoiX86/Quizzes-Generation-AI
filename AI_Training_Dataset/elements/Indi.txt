@@ -1,75 +1,37 @@
 ﻿Tên tiếng Anh: Indium
 Tên tiếng Việt: Indi
-
-Nhóm : IIIA
-Chu kỳ : 5
-Số nguyên tử : 49
-Nguyên tử khối tương đối : 114.818
-Độ âm điện (theo Pauling) : 1.78
-Cấu hình electron : [Kr] 4d10 5s2 5p1
-Cấu tạo mạng tinh thể : Thể tứ phương tâm mặt
-Các số oxi hóa phổ biến : +3 (bền nhất), +1
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Indi là một nguyên tố khá hiếm, có hàm lượng trong vỏ Trái Đất tương đương với Bạc (Ag).
-
--Khoáng vật: Indi không tồn tại ở dạng tự do và không có khoáng vật riêng.
-
--Nguồn chính: Chủ yếu được tìm thấy dưới dạng tạp chất trong các quặng của các kim loại khác, đặc biệt là quặng kẽm (Zn), đồng (Cu), và chì (Pb).
-
+I. Thông tin cơ bản
+- Nhóm: IIIA
+- Chu kỳ: 5
+- Nguyên tử khối: 114,818
+- Độ âm điện: 1,78
+- Cấu hình electron: [Kr] 4d10 5s2 5p1
+- Cấu tạo mạng tinh thể: Thể tứ phương tâm mặt
 II. Tính chất vật lý
-
--Màu sắc: Kim loại trắng bạc, ánh kim .
-
--Tính chất cơ học: Rất mềm, dẻo và dễ uốn (mềm đến mức có thể cắt bằng dao).
-
--Điểm đặc biệt: Khi kim loại Indi tinh khiết bị bẻ cong, nó phát ra một âm thanh the thé đặc trưng do sự cọ xát của các tinh thể.
-
--Khối lượng riêng: 7.31 g/cm^3.
-
--Nhiệt độ nóng chảy: Rất thấp so với các kim loại khác, 156.6°C (thấp hơn cả Sn và Pb).
-
--Tính hàn: Indi có khả năng bám dính tuyệt vời vào thủy tinh và các bề mặt phi kim loại khác.
-
+- Trạng thái tự nhiên: Tồn tại dưới dạng tạp chất trong các quặng của các kim loại khác, đặc biệt là quặng kẽm (Zn), đồng (Cu), và chì (Pb).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất mềm (mềm hơn cả thiếc)
+- Tính chất: Dễ uốn dẻo
+- Điểm nóng chảy: 156,6 °C (thấp)
+- Điểm sôi: 2072 °C
+- Mật độ: 7,31 g/cm³
+- Tính chất: Có âm thanh chói tai khi bị uốn cong (do song tinh cơ học)
 III. Tính chất hóa học
-
-Indi là một kim loại hoạt động vừa phải, có tính khử, nhưng ít hoạt động hơn Al và Ga.
-
-1. Tác dụng với Phi kim
-
--Với Oxi: Ở nhiệt độ thường, Indi bền trong không khí. Khi đun nóng mạnh, nó cháy tạo thành Indium(III) Oxide:
-
-    4In + 3O2 (nhiệt độ)→  2In2O3
-
--Với Halogen: Phản ứng mạnh với Cl2 và Br2 tạo ra halide:
-
-    2In + 3Cl2 →  2InCl3
-
-2. Tác dụng với Axit
-
--Với Axit không có tính Oxi hóa: Phản ứng chậm với các axit loãng như HCl và H2SO4 tạo muối và giải phóng H2:2In + 6HCl  →  2InCl3 + 3H2
-
--Với Axit có tính Oxi hóa: Phản ứng với HNO3 và H2SO4 đặc, nóng tạo sản phẩm khử của axit.2In + 6H2SO4 (đặc, nóng)  →  In2(SO4)_3 + 3SO2 + 6H2O
-
-3. Tác dụng với Oxit kim loại và Kiềm
-
--Với Oxit kim loại: Khả năng khử các oxit kim loại của Indi yếu hơn so với Aluminum.
-
--Với dung dịch Kiềm: Không tác dụng với dung dịch kiềm (như NaOH) do Indium(III) Hydroxide (In(OH)_3) có tính lưỡng tính rất yếu, gần như chỉ có tính base.
-
-IV. Điều chế
-
--Indi được sản xuất thương mại như một sản phẩm phụ trong quá trình luyện kim, chủ yếu là từ cặn bã của quá trình tinh chế quặng kẽm (Zn) và các kim loại khác.
-
--Quá trình tinh chế: Bao gồm nhiều bước như hòa tan, kết tủa và điện phân để tách Indi ra khỏi các kim loại khác.
-
-V. Ứng dụng
-
--Công nghiệp Điện tử (Màn hình): Ứng dụng quan trọng nhất là trong sản xuất Indium Tin Oxide (ITO), một vật liệu gốm trong suốt, dẫn điện. ITO được dùng để chế tạo Màn hình cảm ứng (Touchscreens), Màn hình LCD/OLED, và Tế bào quang điện (Solar Cells).
-
--Hàn (Soldering): Do nhiệt độ nóng chảy thấp và khả năng bám dính tốt vào kim loại và thủy tinh, Indi được sử dụng để chế tạo hợp kim hàn đặc biệt (như hàn chân không).
-
--Phủ bề mặt: Dùng để phủ lên bề mặt kim loại (như Silver) để bảo vệ chống ăn mòn và giảm ma sát trong ổ bi.
-
--Công nghệ bán dẫn: Được sử dụng để sản xuất các hợp chất bán dẫn III-V như Indium Phosphide (InP) và Indium Arsenide (InAs) dùng trong LED và Laser.
+- Tính chất: Kim loại yếu
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +3 (phổ biến) và +1
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit indi (In2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit bảo vệ indi khỏi sự oxi hóa tiếp theo ở nhiệt độ thường
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit không oxi hóa (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối indi (III) và giải phóng khí hydro
+- Phản ứng với Axit (Ngoại lệ): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất màn hình cảm ứng (ITO - Indium Tin Oxide)
+- Ứng dụng (Ngành): Chế tạo chất bán dẫn (Indium phosphide - InP)
+- Ứng dụng (Ngành): Chế tạo hợp kim dễ nóng chảy (hàn không chì)
+- Ứng dụng (Ngành): Sản xuất đèn LED
+- Ứng dụng (Ngành): Mạ điện (tạo bề mặt gương)
+- Ứng dụng (Ngành): Y học (đồng vị phóng xạ I-111, In-113m)

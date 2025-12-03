@@ -1,71 +1,38 @@
 ﻿Tên tiếng Anh: Tantalum
 Tên tiếng Việt: Tantali
-
-Nhóm :  VB
-Chu kỳ : 6
-Số nguyên tử : 73
-Nguyên tử khối : 180.94788
-Độ âm điện : 1.5
-Cấu hình electron : [Xe] 4f14 5d3 6s2
-Cấu tạo mạng tinh thể : Lập phương tâm khối
-Các số oxi hóa phổ biến : +5 (ổn định nhất), +3
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Tantali là một nguyên tố hiếm trong vỏ Trái Đất.
-
--Nguồn gốc: Nó không được tìm thấy ở dạng tự do.
-
--Khoáng vật chính: Tantali luôn được tìm thấy đi kèm với Niobi (Nb) trong khoáng vật Columbit-Tantalit (còn gọi là Coltan) ((Fe, Mn) (Nb, Ta)2O6) .
-
--Khai thác: Các mỏ Coltan là nguồn cung cấp Tantali chính trên thế giới.
-
+I. Thông tin cơ bản
+- Nhóm: VB
+- Chu kỳ: 6
+- Nguyên tử khối: 180,9479
+- Độ âm điện: 1,5
+- Các số oxi hóa phổ biến : +5 (ổn định nhất), +3
+- Cấu hình electron: [Xe] 4f14 5d3 6s2
+- Cấu tạo mạng tinh thể : Lập phương tâm khối
 II. Tính chất vật lý
-
--Màu sắc: Kim loại xanh xám hoặc trắng xám sáng bóng
-
--Đặc tính cơ học: Rất cứng và nặng, nhưng dễ uốn ở nhiệt độ phòng (có thể kéo thành dây mỏng).
-
--Khối lượng riêng: Rất cao, 16.69 g/cm^3.
-
--Nhiệt độ nóng chảy: Rất cao, 3017°C (cao thứ tư trong các kim loại).
-
--Điểm đặc biệt: Tantali tinh khiết có độ bền kéo cao và có khả năng chống ăn mòn và gỉ sét rất tốt.
-
+- Trạng thái tự nhiên: Tantali luôn đi kèm với Niobi (Nb) trong khoáng vật Columbit-Tantalit (còn gọi là Coltan) ((Fe, Mn) (Nb, Ta)2O6) .
+- Trạng thái: Rắn
+- Màu sắc: Xám xanh
+- Độ cứng: Cứng
+- Tính chất: Dẻo
+- Điểm nóng chảy: 3017 °C (Rất cao)
+- Điểm sôi: 5425 °C
+- Mật độ: 16,69 g/cm³
+- Tính chất: Kim loại chịu lửa
+- Tính chất: Chống ăn mòn tuyệt vời
+- Tính chất: Chịu nhiệt độ cao
 III. Tính chất hóa học
-
-Tantali là một kim loại rất trơ và chống ăn mòn tuyệt vời, đặc biệt ở nhiệt độ thường, do hình thành một lớp Oxide bảo vệ bề mặt.
-
-1. Tác dụng với Phi kim
-
--Với Oxi: Ở nhiệt độ thường, tạo lớp Oxide (Ta2O5) mỏng, bền, chống ăn mòn hiệu quả. Khi đun nóng trên 200°C, nó phản ứng với Oxi và Nitrogen.
-
-2. Tác dụng với Axit
-
--Kháng ăn mòn: Tantali có khả năng chống ăn mòn hóa học gần như tuyệt vời; nó không bị tấn công bởi Axit Sulfuric (H2SO4), Axit Nitric (HNO3), hoặc Nước cường toan ngay cả khi đun sôi.
-
--Chất hòa tan: Tantali chỉ bị hòa tan bởi Axit Hydrofluoric (HF) và các dung dịch kiềm nóng chảy có chứa muối Fluoride.
-
-3. Hợp chất
-
--Tính chất: Hợp chất của Tantali thường có số oxi hóa +5 (ví dụ: Tantalum(V) Oxide (Ta2O5)).
-
-IV. Điều chế
-
-Tantali được điều chế từ khoáng vật Coltan, yêu cầu quá trình tách chiết phức tạp để tách nó khỏi Niobi.
-
-    -Tách chiết: Khoáng vật Coltan được xử lý bằng Axit Hydrofluoric (HF) và Axit Sulfuric (H2SO4) để hòa tan Tantali và Niobi. Sau đó, hai nguyên tố này được tách ra bằng phương pháp chiết bằng dung môi.
-
-    -Khử: Tantali kim loại được điều chế bằng cách khử Tantalum(V) Chloride (TaCl5) bằng Natri (Na) hoặc điện phân Potassium Heptafluorotantalate (K2TaF7) nóng chảy.
-
-V. Ứng dụng
-
--Điện tử (Tụ điện): Ứng dụng lớn nhất (khoảng 60%) là trong sản xuất tụ điện điện phân Tantali. Các tụ điện này nhỏ, ổn định và có khả năng lưu trữ năng lượng cao, được sử dụng trong điện thoại di động, máy tính, và thiết bị điện tử cầm tay khác
-
--Y học: Do tính trơ sinh học và khả năng chống ăn mòn, Tantali được sử dụng rộng rãi trong cấy ghép y tế như nẹp xương, lưới phẫu thuật, và dụng cụ nha khoa.
-
--Hợp kim chịu nhiệt: Được tạo hợp kim với Niken và Molypden để chế tạo các bộ phận lò nung và các thiết bị xử lý hóa chất yêu cầu khả năng chống ăn mòn và chịu nhiệt cao.
-
--Năng lượng: Dùng làm thiết bị trao đổi nhiệt trong các lò hơi và lò phản ứng.
-
--Công nghiệp Thép: Được thêm vào thép để tăng độ bền và độ cứng.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +5 (phổ biến nhất) và +2, +3, +4
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit tantali (V) (Ta2O5)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ tantali khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả nước cường toan)
+- Phản ứng với Axit (Ngoại lệ): Tan trong axit flohidric (HF) và dung dịch có chứa ion florua
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất tụ điện điện phân (trong điện thoại, máy tính)
+- Ứng dụng (Ngành): Thiết bị y tế (cấy ghép xương, khớp giả)
+- Ứng dụng (Ngành): Sản xuất hợp kim siêu chịu nhiệt (động cơ phản lực, tuabin)
+- Ứng dụng (Ngành): Thiết bị phòng thí nghiệm (nồi nấu)
+- Ứng dụng (Ngành): Công nghiệp hóa chất (chống ăn mòn)

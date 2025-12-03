@@ -1,75 +1,38 @@
 ﻿Tên tiếng Anh: Potassium (Kalium)
 Tên tiếng Việt: Kali
-
-Nhóm: IA
-Chu kỳ: 4
-Nguyên tử khối: 39
-Độ âm điện: 0,82
-Cấu hình electron: [Ar] 4s1
-
-
-I. Trạng thái tự nhiên 
-
-- Dạng tự nhiên của K có 3 đồng vị: 39K (93,3%), 40K(0,01%) và 41K (6,7%).
-
-- Nguyên tố này chiếm khoảng 2,4% trọng lượng lớp vỏ Trái Đất và là nguyên tố phổ biến thứ bảy trong lớp này. Vì tính không hòa tan của nó, rất khó thu được kali từ các khoáng chất của nó.
-
-II. Tính chất vật lý và nhận biết
-
-1.Tính chất vật lý
-- Kali là kim loại nhẹ thứ hai sau liti, là chất rắn rất mềm, dễ dàng cắt bằng dao và có màu trắng bạc.
-
-- Kali bị ôxi hóa rất nhanh trong không khí và phải được bảo quản trong dầu mỏ hay dầu lửa.
-
-- Có khối lượng riêng là 0,863 g/cm3; có nhiệt độ nóng chảy là 63,51°C và sôi ở 760°C.
-
-2.Nhận biết
-- Đốt cháy các hợp chất của Kali, cho ngọn lửa màu tím.
-
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 4
+- Nguyên tử khối: 39,0983
+- Độ âm điện: 0,82
+- Cấu hình electron: [Ar] 4s1
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất mềm (có thể cắt bằng dao)
+- Điểm nóng chảy: 63,5 °C
+- Điểm sôi: 759 °C
+- Mật độ: 0,89 g/cm³ (nhẹ hơn nước)
+- Tính chất: Dẫn điện tốt
+- Tính chất: Dễ bị oxy hóa trong không khí
+- Màu ngọn lửa: Tím
 III. Tính chất hóa học
-
-- Kali là kim loại kiềm có tính khử rất mạnh.
-
-K → K+ + 1e
-
-a. Tác dụng với phi kim
-
-4K + O2 (nhiệt độ)→ 2K2O
-2K + Cl2 (nhiệt độ)→ 2KCl
-
-b. Tác dụng với axit
-
-2K + 2HCl → 2KCl + H2.
-
-
-c. Tác dụng với nước
-
-- K tác dụng mãnh liệt với nước và tự bùng cháy tạo thành dung dịch kiềm và giải phóng khí hidro.
-
-2K + 2H2O → 2KOH + H2.
-
-d. Tác dụng với hidro
-
-- Kali tác dụng với hidro ở áp suất khá lớn và nhiệt độ khoảng 350 – 400°C tạo thành kali hidrua.
-
-2K (lỏng) + H2 (khí) → 2KH (rắn)
-
-IV. Điều chế
-
-- Kali có thể điều chế nhờ điện phân nóng chảy kali clorua
-2KCl (đpnc)→ 2K + Cl2
-
-V. Ứng dụng 
-
-- Các loại phân hóa học chứa kali như clorua kali, sulfat kali, cacbonat kali v.v ………
-
-    + Nitrat kali được sử dụng trong thuốc súng.
-
-    + Cacbonat kali được sử dụng trong sản xuất thủy tinh.
-
-    + Thủy tinh được xử lý bằng kali lỏng là có độ bền cao hơn so với thủy tinh thường.
-
-
-    + NaK là hợp kim của kali với natri được sử dụng như là chất truyền nhiệt trung gian.
-
-    + Nguyên tố này là thành phần rất cần thiết cho sự phát triển của cây cối và được tìm thấy trong nhiều loại đất
+- Tính chất: Kim loại kiềm
+- Tính khử: Rất mạnh (hoạt động hơn Na)
+- Trạng thái oxi hóa: +1 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành superoxide kali (KO2)
+- Phản ứng với Oxi (Đặc điểm): Phản ứng mạnh, có thể bốc cháy tự phát trong không khí
+- Phản ứng với Nước: Phản ứng mãnh liệt với nước
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (KOH)
+- Phản ứng với Axit: Tác dụng mạnh với axit, tạo muối và giải phóng H2
+- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất phân bón (KCl, KNO3)
+- Ứng dụng (Ngành): Sản xuất xà phòng
+- Ứng dụng (Ngành): Sản xuất pháo hoa (KNO3 - thuốc súng)
+- Ứng dụng (Ngành): Pin mặt trời
+- Ứng dụng (Ngành): Y học (chất bổ sung)
+V. Vai trò sinh học
+- Vai trò: Đa lượng (quan trọng cho cơ thể)
+- Chức năng: Duy trì cân bằng nước và điện giải
+- Chức năng: Quan trọng cho chức năng thần kinh và cơ bắp

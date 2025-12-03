@@ -1,72 +1,39 @@
 ﻿Tên tiếng Anh: Radon
 Tên tiếng Việt: Radon
-
-Nhóm : VIIIA
-Chu kỳ : 6
-Số nguyên tử : 86
-Nguyên tử khối (của đồng vị bền nhất :  Rn-222) : ≈222
-Độ âm điện : Không xác định (do là khí hiếm)
-Cấu hình electron : [Xe] 4f14 5d10 6s2 6p6
-Cấu tạo mạng tinh thể : Lập phương tâm mặt (ở trạng thái rắn)
-Các số oxi hóa phổ biến : 0 (chủ yếu), +2 (hiếm)
-
-
-I. Trạng thái tự nhiên
-
--Phóng xạ: Radon là một nguyên tố khí phóng xạ tự nhiên.
-
-
--Nguồn gốc: Nó là sản phẩm phân rã trực tiếp của Radium-226 (Ra-226) trong chuỗi phân rã của Uranium-238 (U-238).
-
--Trạng thái: Tồn tại ở dạng khí trong điều kiện tiêu chuẩn.
-
--Môi trường: Radon thoát ra khỏi đất đá, đặc biệt là đá chứa Uranium và Thorium. Nó có thể tích tụ trong không khí trong nhà (tầng hầm, tầng trệt) và trong nước ngầm
-
+I. Thông tin cơ bản
+- Nhóm: VIIIA
+- Chu kỳ: 6
+- Nguyên tử khối: [222]
+- Độ âm điện: 2,2
+- Các số oxi hóa : 0, +2
+- Cấu hình electron: [Xe] 4f14 5d10 6s2 6p6
+- Công thức phân tử: Rn
+- Cấu tạo mạng tinh thể : Lập phương tâm mặt (ở trạng thái rắn)
 II. Tính chất vật lý
-
--Màu sắc: Không màu, không mùi, không vị.
-
--Trọng lượng: Là một trong những khí nặng nhất ở nhiệt độ phòng.
-
--Nhiệt độ sôi: -61.7°C.
-
--Nhiệt độ nóng chảy: -71°C.
-
--Phát sáng: Ở nhiệt độ đông lạnh (trạng thái lỏng hoặc rắn), Radon phát ra phát quang màu vàng-cam.
-
--Tính phóng xạ: Tất cả các đồng vị của Radon đều là phóng xạ. Rn-222 là đồng vị phổ biến và được nghiên cứu nhiều nhất, có thời gian bán rã \approx 3.8 ngày.
-
+- Trạng thái tự nhiên: Tồn tại ở dạng khí trong điều kiện tiêu chuẩn.
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -71 °C
+- Điểm sôi: -61,7 °C
+- Mật độ: 9,73 g/L (ở 0 °C và 1 atm)
+- Tính chất: Rất nặng (khí nặng nhất)
+- Tính chất: Phóng xạ
+- Tính chất: Phát ra ánh sáng vàng khi bị làm lạnh dưới điểm đóng băng
 III. Tính chất hóa học
-
-Radon là một khí hiếm và có tính trơ về mặt hóa học, nhưng nó là nguyên tố hoạt động hóa học nhất trong nhóm VIIIA.
-
-1. Tính trơ
-
-Phản ứng: Ở nhiệt độ thường, Radon không phản ứng với hầu hết các chất hóa học do lớp electron hóa trị đã bão hòa (octets đầy đủ).
-
-2. Khả năng phản ứng (Điều kiện đặc biệt)
-
-Phản ứng hiếm: Do có năng lượng ion hóa tương đối thấp so với các khí hiếm nhẹ hơn, Radon có thể phản ứng với các chất có độ âm điện cao nhất, đặc biệt là Fluorine (F2), tạo thành Radon Difluoride (RnF2). Tuy nhiên, hợp chất này không ổn định.
-    Rn + F2 → RnF2
-
-IV. Điều chế
-
-Radon không được điều chế theo nghĩa thông thường (vì nó liên tục được tạo ra và phân rã). Thay vào đó, nó được thu thập:
-    
-    -Nguồn gốc: Thu được từ sự phân rã của các đồng vị Radium (Ra-226)
-    -Thu thập: Radon được thu thập bằng cách bơm khí mang (ví dụ: Nitrogen) qua dung dịch chứa muối Radium, sau đó tinh chế bằng phương pháp làm lạnh để loại bỏ các khí khác.
-
-V. Ứng dụng
-
-Do tính phóng xạ và độc hại, ứng dụng của Radon rất hạn chế.
-
-    -Y học (Lịch sử): Từng được sử dụng trong xạ trị (để điều trị ung thư) dưới dạng các hạt nhỏ gọi là "hạt radon". Hiện nay đã được thay thế.
-
-    -Nghiên cứu khoa học/Địa chất:
-
-        +Theo dõi địa chấn: Nồng độ Radon trong đất và nước ngầm được theo dõi để nghiên cứu sự biến động của nước ngầm và dự đoán động đất (nồng độ Radon thường tăng trước động đất).
-
-        +Đo lường: Được sử dụng như một chất đánh dấu để theo dõi sự chuyển động của không khí, hơi nước và khí.
-
-⚠️ Lưu ý về An toàn
-Radon là một chất gây nguy hiểm cho sức khỏe. Việc hít phải Radon và các sản phẩm phân rã phóng xạ của nó là nguyên nhân hàng đầu thứ hai gây ung thư phổi (sau hút thuốc).
+- Tính chất: Khí hiếm
+- Tính chất: Trơ về mặt hóa học
+- Độ hoạt động: Kém hoạt động
+- Hợp chất: Tạo hợp chất với Flo (RnF2 - diflorua radon)
+- Hợp chất (Đặc điểm): Hợp chất này kém bền
+- Trạng thái oxi hóa: 0 (phổ biến) và +2
+IV. Ứng dụng
+- Ứng dụng (Y học): Xạ trị (đã từng được dùng)
+- Ứng dụng (Nghiên cứu): Theo dõi động đất (dự đoán địa chấn)
+- Ứng dụng (Nghiên cứu): Đánh dấu các chất phóng xạ khác (trong nghiên cứu)
+V. Vấn đề an toàn
+- Độc tính: Nguy hiểm
+- Tác hại: Là nguyên nhân hàng đầu gây ung thư phổi ở những người không hút thuốc
+- Nguồn gốc: Xuất phát từ sự phân rã của Uranium và Thorium trong đất đá
+- Môi trường: Thường tích tụ trong tầng hầm, không gian kín
+- Phòng ngừa: Cần kiểm tra mức độ radon trong nhà, đặc biệt là tầng hầm

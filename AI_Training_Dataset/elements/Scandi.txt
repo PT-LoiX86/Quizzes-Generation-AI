@@ -1,82 +1,38 @@
 ﻿Tên tiếng Anh: Scandium
 Tên tiếng Việt: Scandi
-
-Nhóm : IIIB
-Chu kỳ : 4
-Số nguyên tử : 21
-Nguyên tử khối : 44.95591
-Độ âm điện : 1.36
-Cấu hình electron : [Ar]3d14s2
-Cấu tạo mạng tinh thể : Lục phương
-Các số oxi hóa phổ biến : +3 (ổn định nhất)
-
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Scandi là một nguyên tố tương đối hiếm trong vỏ Trái Đất.
-
--Nguồn gốc: Nó không bao giờ được tìm thấy ở dạng tự do trong tự nhiên.
-
--Khoáng vật chính: Khoáng vật chứa Scandi chính là Thortveitite ((Sc,Y)2Si2O7) .
-
--Vị trí: Scandi được tìm thấy với số lượng nhỏ trong hơn 800 loại khoáng vật và thường được thu hồi như một sản phẩm phụ trong quá trình khai thác Uranium và Thorium.
-
+I. Thông tin cơ bản
+- Nhóm: IIIB
+- Chu kỳ: 4
+- Nguyên tử khối: 44,95591
+- Độ âm điện: 1,36
+- Các số oxi hóa phổ biến : +3 (ổn định nhất)
+- Cấu hình electron: [Ar] 3d1 4s2
+- Cấu tạo mạng tinh thể : Lục phương
 II. Tính chất vật lý
-
--Màu sắc: Kim loại trắng bạc, hơi vàng khi tiếp xúc với không khí
-
--Đặc tính cơ học: Mềm hơn Titan nhưng cứng hơn Aluminum.
-
--Khối lượng riêng: 2.989 g/cm^3 (Là một kim loại nhẹ).
-
--Nhiệt độ nóng chảy: 1541°C.
-
--Nhiệt độ sôi: 2836°C.
-
+- Trạng thái tự nhiên: Được tìm thấy với số lượng nhỏ trong hơn 800 loại khoáng vật. Khoáng vật chứa Scandi chính là Thortveitite ((Sc,Y)2Si2O7) .
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm (cứng hơn Nhôm)
+- Tính chất: Nhẹ
+- Điểm nóng chảy: 1541 °C
+- Điểm sôi: 2836 °C
+- Mật độ: 2,99 g/cm³
+- Tính chất: Dễ bị oxy hóa trong không khí (chuyển sang màu vàng nhạt/hồng)
 III. Tính chất hóa học
-
-Scandi là kim loại chuyển tiếp hoạt động hóa học hơn các kim loại chuyển tiếp điển hình khác, có tính khử mạnh.
-
-1. Tác dụng với Phi kim
-
--Với Oxi/Không khí: Bị xỉn màu trong không khí và phản ứng dễ dàng tạo thành Scandium Oxide (Sc2O3). Dạng bột có thể tự bốc cháy trong không khí.
-
-    4Sc + 3O2 → 2Sc2O3 
-
-2. Tác dụng với Nước
-
--Với Nước: Phản ứng chậm với nước lạnh nhưng phản ứng nhanh hơn với nước nóng, giải phóng Hydrogen:
-
-    2Sc + 6H2O → 2Sc(OH)3 + 3H2 
-
-3. Tác dụng với Axit
-
--Với Axit: Scandi hòa tan dễ dàng trong hầu hết các axit loãng để tạo thành ion Sc3+ và giải phóng Hydrogen:
-
-    2Sc + 6H+ → 2Sc3+ + 3H2 
-
-4. Hợp chất
-
--Tính chất: Hợp chất của Scandi chỉ tồn tại ở trạng thái +3. Scandium Oxide (Sc2O3) và Scandium Hydroxide (Sc(OH)3) có tính lưỡng tính.
-
-IV. Điều chế
-
-Scandi được điều chế chủ yếu từ Scandium Oxide (Sc2O3).
-
--Phương pháp:
-
-    +Khử: Kim loại Scandi được điều chế bằng cách khử Scandium Fluoride (ScF3) bằng Canxi (Ca) hoặc Kali (K) ở nhiệt độ cao.
-
-    +Điện phân: Kim loại Scandi tinh khiết cũng có thể được điều chế bằng cách điện phân Scandium Chloride (ScCl3) nóng chảy.
-
-V. Ứng dụng
-
--Công nghiệp Hàng không: Ứng dụng quan trọng nhất là tạo hợp kim nhôm-scandi (Al-Sc). Thêm một lượng rất nhỏ Scandi (khoảng 0.1%-0.5%) vào Aluminum giúp tăng đáng kể độ bền, độ cứng, khả năng hàn và chống ăn mòn của hợp kim, được sử dụng trong máy bay và thiết bị thể thao cao cấp
-
--Điện tử: Scandium Silicide được sử dụng trong một số linh kiện bán dẫn công nghệ cao.
-
--Chiếu sáng:Scandium Iodide (ScI3) được dùng trong đèn hơi thủy ngân công suất cao để tạo ra ánh sáng trắng có chất lượng gần với ánh sáng mặt trời.
-
--Nghiên cứu khoa học: Scandium-46 (Sc-46) là một đồng vị phóng xạ được sử dụng làm chất theo dõi trong các nhà máy lọc dầu.
-
--Công nghiệp Gốm: Scandium Oxide (Sc2O3) được dùng làm vật liệu chịu lửa và vật liệu gốm.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +3 (duy nhất, phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit scandi (Sc2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit bảo vệ scandi khỏi sự oxy hóa tiếp theo
+- Phản ứng với Nước: Phản ứng chậm với nước nóng
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (Sc(OH)3)
+- Phản ứng với Axit: Tác dụng với hầu hết các axit loãng
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối scandi(III) và giải phóng khí hydro
+- Phản ứng với Axit (Ngoại lệ): Thụ động hóa với HNO3 đặc nguội
+- Phản ứng với Kiềm: Hydroxit scandi (Sc(OH)3) có tính lưỡng tính yếu, tan trong axit mạnh nhưng không tan trong kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim nhôm-scandi (tăng độ bền, độ cứng)
+- Ứng dụng (Ngành): Công nghiệp hàng không vũ trụ
+- Ứng dụng (Ngành): Thiết bị thể thao (gậy bóng chày, khung xe đạp)
+- Ứng dụng (Ngành): Đèn hơi thủy ngân (tăng cường độ sáng)
+- Ứng dụng (Ngành): Nghiên cứu khoa học (chất đánh dấu)

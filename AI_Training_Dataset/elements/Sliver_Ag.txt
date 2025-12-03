@@ -1,96 +1,39 @@
-﻿Tên tiếng Anh: Silver (Argentum)
+﻿Tên tiếng Anh: Silver
 Tên tiếng Việt: Bạc
-
-Nhóm: IB
-Chu kỳ: 5
-Nguyên tử khối: 108
-Độ âm điện: 1,93
-Cấu hình electron: [Kr] 4d10 5s1
-
-
-I. Trạng thái tự nhiên 
-
-   - Bạc trong tự nhiên là hỗn hợp của hai đồng vị ổn định Ag107 và Ag109 với Ag107 là phổ biến nhất (51,839%).
-
-   - Bạc được tìm thấy ở dạng tự nhiên, liên kết với lưu huỳnh, asen, antimoan, hay clo trong các loại khoáng chất như argentit (Ag2S) và silver horn (AgCl). Các nguồn cơ bản của bạc là các khoáng chất chứa đồng, đồng-niken, vàng, chì và chì-kẽm có ở Canada, Mexico, Peru, Úc và Mỹ.
-
-II. Tính chất vật lý và nhận biết
-
-1. Tính chất vật lí:
-
-- Bạc có tính mềm, dẻo (dễ kéo sợi và dát mỏng), màu trắng, dẫn điện và dẫn nhiệt tốt nhất trong các kim loại.
-
-- Bạc là kim loại nặng có khối lượng riêng 10,49 g•cm−3, nhiệt độ nóng chảy là 960,50C.
-
-2. Nhận biết
-
-- Dẫn khí O3 vào bạc kim loại, thấy bạc chuyển từ trắng sáng sang màu đen.
-
-O3 + 2Ag → Ag2O + O2
-
-- Bạc có màu đen khi tiếp xúc với không khí hoặc nước có mặt hidro sunfua:
-
-4Ag + 2H2S + O2 (kk) → 2Ag2S + 2H2O
-
+I. Thông tin cơ bản
+- Nhóm: IB
+- Chu kỳ: 5
+- Nguyên tử khối: 107,8682
+- Độ âm điện: 1,93
+- Cấu hình electron: [Kr] 4d10 5s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Thường xuất hiện trong các loại khoáng chất như argentit (Ag2S) và silver horn (AgCl). 
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Tính chất: Dẻo, dễ kéo sợi
+- Điểm nóng chảy: 961,78 °C
+- Điểm sôi: 2162 °C
+- Mật độ: 10,49 g/cm³
+- Tính dẫn điện: Tốt nhất (trong số các kim loại)
+- Tính dẫn nhiệt: Tốt nhất
+- Tính chất: Dễ bị xỉn màu trong không khí (do H2S tạo Ag2S)
 III. Tính chất hóa học
-
-- Bạc kém hoạt động. Ag → Ag+ + 1e
-
-
-a. Tác dụng với phi kim
-
-- Bạc không bị oxi hóa trong không khí dù ở nhiệt độ cao.
-
-Tác dụng với ozon
-
-2Ag + O3 → Ag2O + O2
-
-b. Tác dụng với axit
-
-- Bạc không tác dụng với HCl và H2SO4 loãng, nhưng tác dụng với các axit có tính oxi hóa mạnh, như HNO3hoặc H2SO4 đặc, nóng.
-
-3Ag + 4HNO3 (loãng) → 3AgNO3 + NO + 2H2O
-
-2Ag + 2H2SO4 (đặc, nóng) → Ag2SO4 + SO2 + 2H2O
-
-c. Tác dụng với các chất khác
-
-- Bạc có màu đen khi tiếp xúc với không khí hoặc nước có mặt hidro sunfua:
-
-4Ag + 2H2S + O2 (kk) → 2Ag2S + 2H2O
-
-- Bạc tác dụng được với axit HF khi có mặt của oxi già:
-
-2Ag + 2HF (đặc) + H2O2 → 2AgF + 2H2O
-
-2Ag + 4KCN (đặc) + H2O2 → 2K[Ag(CN)2] + 2KOH
-
-IV. Điều chế
-- Bạc cũng được sản xuất trong quá trình làm tinh khiết bằng điện phân
-
-V. Ứng dụng 
-
-- Ứng dụng cơ bản nhất của bạc là như một kim loại quý và các muối halogen. Đặc biệt bạc nitrat được sử dụng rộng rãi trong phim ảnh.
-
-Các ứng dụng khác còn có:
-
-    - Các sản phẩm điện và điện tử, trong đó cần có tính dẫn điện cao của bạc, thậm chí ngay cả khi bị xỉn.
-
-    - Các loại gương cần tính phản xạ cao của bạc đối với ánh sáng được làm từ bạc như là vật liệu phản xạ ánh sáng. Các loại gương phổ biến có mặt sau được mạ nhôm.
-
-
-    - Kim loại này được chọn vì vẻ đẹp của nó trong sản xuất đồ trang sức và đồ bạc.
-
-    - Bạc được sử dụng để làm que hàn, công tắc điện và các loại pin dung tích lớn như pin bạc-kẽm hay bạc-cadmi.
-
-    - Sulfua bạc, còn được biết đến như bạc Whiskers, được tạo thành khi các tiếp điểm điện bằng bạc được sử dụng trong khí quyển giầu sulfua hiđrô.
-
-    - Fulminat bạc là một chất nổ mạnh.
-
-    - Clorua bạc có tính trong suốt và được sử dụng như chất kết dính cho các loại kính.
-
-    - Iốtđua bạc được sử dụng nhằm tụ mây để tạo mưa nhân tạo.
-
-    - Trong truyền thuyết, bạc thông thường được coi là có hại cho các loài vật siêu nhiên như người sói và ma cà rồng. Việc sử dụng bạc trong các viên đạn cho súng là các ứng dụng phổ biến.
-
-    - Ôxít bạc được sử dụng làm cực dương (anos) trong các pin đồng hồ.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Yếu (kém hoạt động)
+- Trạng thái oxi hóa: +1 (phổ biến) và +2
+- Phản ứng với Oxi: Không phản ứng với oxi, không bị ăn mòn trong không khí khô
+- Phản ứng với Oxi (Xỉn màu): Phản ứng với H2S trong không khí ẩm tạo thành bạc sulfua (Ag2S) gây xỉn màu
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với HCl, H2SO4 loãng
+- Phản ứng với Axit (Ngoại lệ): Tác dụng với HNO3, H2SO4 đặc nóng
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối bạc và sản phẩm khử (NOx hoặc SO2)
+- Phản ứng với Halogen: Tác dụng khi đun nóng (tạo AgX)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Trang sức
+- Ứng dụng (Ngành): Tiền xu
+- Ứng dụng (Ngành): Điện tử (linh kiện dẫn điện)
+- Ứng dụng (Ngành): Gương (do độ phản xạ cao)
+- Ứng dụng (Hợp chất): Nhiếp ảnh (AgBr, AgI)
+- Ứng dụng (Hợp chất): Chất khử trùng (ion Ag+)
+- Ứng dụng (Ngành): Nha khoa

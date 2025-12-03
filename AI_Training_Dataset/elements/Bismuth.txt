@@ -1,63 +1,42 @@
 ﻿Tên tiếng Anh: Bismuth
-Tên tiếng Việt: Bismuth
-
-Nhóm: VA
-Chu kỳ: 6
-Nguyên tử khối: 208,98
-Độ âm điện: 2,02
-Cấu hình electron: [Xe] 4f14 5d10 6s2 6p3 
-
-I. Tính chất vật lý 
-  
--Màu sắc: Trắng ánh hồng
--Trạng thái: Rắn
--Độ cứng: Giòn
--Điểm nóng chảy: 271°C
--Điểm sôi: 1560°C
--Tỷ trọng: 9,78 g/cm³
--Dẫn điện: Kém
--Dẫn nhiệt: Kém
--Tính chất từ: Nghịch từ
--Bismuth có độ giãn nở khi nóng chảy, điều này trái ngược với hầu hết các kim loại khác.
--Bismuth có khả năng hấp thụ tia X tốt.
-
-II. Tính chất hóa học
-
--Hóa trị: +3, +5
--Tính khử: Yếu
--Tính oxy hóa: Yếu
--Tính chất oxi hóa: Bismuth có xu hướng tạo thành oxit khi tiếp xúc với không khí ở nhiệt độ phòng, tạo thành lớp oxit bảo vệ bề mặt kim loại.
--Phản ứng với Axit và Bazơ: Bismuth ít phản ứng với axit clohydric (HCl), nhưng có thể tan trong axit nitric (HNO3) tạo thành nitrat Bismuth, Bi(NO3)3.
--Hợp chất: Bismuth tạo thành hợp chất với nhiều nguyên tố khác, trong đó các hợp chất của nó thường có tính oxi hóa mạnh và được sử dụng trong các ứng dụng công nghiệp và dược phẩm. Bismuth trichloride (BiCl3) và Bismuth trioxide (Bi2O3) là hai hợp chất quan trọng.
--Tính chất đặc biệt trong hóa học hữu cơ: Bismuth được sử dụng trong một số phản ứng hóa học hữu cơ, như là chất xúc tác, do tính chất bền vững và ít độc hại của nó.
--Bismuth có độ độc thấp so với các kim loại nặng khác.
-
-III. Ứng dụng 
-
-1. Hợp kim
-
--Bismuth được sử dụng để làm hợp kim dễ nóng chảy, dễ gia công và có độ bền cao.
--Hợp kim bismuth được sử dụng trong các hệ thống chữa cháy tự động, hàn, đúc khuôn, và làm ổ trục.
-Bismuth cũng được sử dụng để làm hợp kim với chì để tăng độ cứng và độ bền cho các loại đạn dược.
-
-2. Y học
-
--Bismuth được sử dụng trong một số loại thuốc điều trị loét dạ dày và tiêu chảy.
--Bismuth subsalicylate là một loại thuốc phổ biến được sử dụng để điều trị tiêu chảy do du lịch.
-Bismuth cũng được sử dụng trong một số loại mỹ phẩm do tính an toàn và khả năng làm sáng da.
-
-3. Hạt nhân
-
--Bismuth được sử dụng làm vật liệu che chắn trong các lò phản ứng hạt nhân.
--Bismuth có khả năng hấp thụ tia X tốt, do đó nó được sử dụng trong các thiết bị chụp X-quang và CT scan.
-
-4. Mỹ phẩm
-
--Bismuth oxychloride được sử dụng trong một số loại mỹ phẩm như phấn mắt, phấn má hồng và kem nền.
--Bismuth oxychloride có khả năng làm sáng da và che phủ khuyết điểm.
-
-Ngoài ra, bismuth còn được sử dụng trong một số lĩnh vực khác như:
-
-Sản xuất thép: Bismuth được sử dụng để làm thép dễ cắt gọt.
-Dệt may: Bismuth được sử dụng để làm chất xúc tác trong sản xuất sợi acrylic.
-Điện tử: Bismuth được sử dụng trong sản xuất các hợp chất bán dẫn.
+Tên tiếng Việt: Bismut
+I. Thông tin cơ bản
+- Nhóm: VA
+- Chu kỳ: 6
+- Nguyên tử khối: 208,9804
+- Độ âm điện: 2,02
+- Cấu hình electron: [Xe] 4f14 5d10 6s2 6p3
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Dễ vỡ (Giòn)
+- Điểm nóng chảy: 271,5 °C
+- Điểm sôi: 1564 °C
+- Mật độ: 9,78 g/cm³
+- Tính chất: Kém dẫn nhiệt (nhất trong số các kim loại)
+- Tính chất: Độ nghịch từ (nghịch từ mạnh nhất)
+- Tính chất: Thể tích tăng lên khi đông đặc (như nước)
+- Tính chất: Có độ giãn nở khi nóng chảy, trái ngược với hầu hết các kim loại khác.
+- Tính chất: Có khả năng hấp thụ tia X tốt.
+III. Tính chất hóa học
+- Tính chất: Kim loại
+- Tính chất: Không phóng xạ (ngoại trừ đồng vị Bi-209 có chu kỳ bán rã cực lớn)
+- Tính khử: Yếu (so với các kim loại khác)
+- Trạng thái oxi hóa: +3 và +5 (phổ biến nhất là +3)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit bismut (III) (Bi2O3)
+- Phản ứng với Oxi (Đặc điểm): Bền trong không khí ở nhiệt độ thường
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với các axit có tính oxi hóa mạnh (HNO3, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối bismut và oxit nitơ/SO2
+- Phản ứng với Kiềm: Không phản ứng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chế tạo hợp kim có nhiệt độ nóng chảy thấp (dễ uốn)
+- Ứng dụng (Ngành): Sản xuất cầu chì, thiết bị báo cháy, chữa cháy tự động
+- Ứng dụng (Ngành): Thay thế chì trong một số ứng dụng (đạn súng săn, chất hàn không chì)
+- Ứng dụng (Ngành): Hợp chất được dùng làm thuốc (chữa bệnh dạ dày, tiêu chảy)
+- Ứng dụng (Ngành): Sản xuất sơn, mỹ phẩm (BiOCl)
+- Ứng dụng (Ngành): Chất xúc tác trong công nghiệp
+V. Vấn đề an toàn
+- Độc tính: Không độc (trong liều lượng thông thường)
+- Độc tính (Đặc điểm): An toàn hơn chì
+- Khuyến cáo: Cần cẩn thận khi tiếp xúc với hợp chất

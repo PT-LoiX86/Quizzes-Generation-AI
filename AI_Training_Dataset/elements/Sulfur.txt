@@ -1,121 +1,43 @@
 ﻿Tên tiếng Anh: Sulfur
 Tên tiếng Việt: Lưu huỳnh
-
-Nhóm: VIA
-Chu kỳ: 3
-Nguyên tử khối: 32,06
-Độ âm điện: 2,58
-Cấu hình electron: [Ne] 3s2 3p4
-
-I. Trạng thái tự nhiên 
-
-- Lưu huỳnh tồn tại ở dạng đơn chất, dạng mỏ lưu huỳnh.
-
-- Lưu huỳnh cũng tồn tại ở dạng hợp chất là các muối sunfat, muối sunfua…
-
-II. Tính chất vật lý 
-
-1. Hai dạng thù hình của lưu huỳnh
-
-- Có 2 dạng thù hình:
-
-+ Lưu huỳnh tà phương: Sα
-
-+ Lưu huỳnh đơn tà: Sβ
-
-- Chúng khác nhau về cấu tạo tinh thể và một số tính chất vật lí nhưng tính chất hóa học giống nhau.
-
-- Hai dạng thù hình có thể biến đổi qua lại với nhau tùy theo điều kiện nhiệt độ.
-
-2. Ảnh hưởng của nhiệt độ đến tính chất vật lí
-
-- Ở t0<113°C, Sα và Sβ là chất rắn màu vàng, phân tử có 8
- nguyên tử liên kết cộng hóa trị với nhau tạo mạch vòng.
-
-- Ở t0=119°C, Sα và Sβ nóng chảy thành chất lỏng màu vàng, rất linh động.
-
-- Ở t0=187°C, lưu huỳnh lỏng trở nên quánh nhớt, có màu nâu đỏ.
-
-- Ở t0=445°C, lưu huỳnh sôi.
-
+I. Thông tin cơ bản
+- Nhóm: VIA
+- Chu kỳ: 3
+- Nguyên tử khối: 32,06
+- Độ âm điện: 2,58
+- Cấu hình electron: [Ne] 3s2 3p4
+- Công thức phân tử: S8 (phổ biến)
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại ở dạng đơn chất, dạng mỏ lưu huỳnh.
+- Trạng thái tự nhiên: Lưu huỳnh cũng tồn tại ở dạng hợp chất (các muối sunfat, muối sunfua…)
+- Tính chất: Có nhiều dạng thù hình
+- Dạng thù hình (Lưu huỳnh tà phương - α): Bền nhất ở nhiệt độ thường, màu vàng tươi, có cấu trúc vòng S8
+- Dạng thù hình (Lưu huỳnh đơn tà - β): Bền ở nhiệt độ cao hơn 95,6 °C, tinh thể hình kim
+- Trạng thái: Rắn
+- Màu sắc: Vàng
+- Mùi vị: Không mùi, không vị (ở trạng thái nguyên chất)
+- Điểm nóng chảy: 115,2 °C
+- Điểm sôi: 444,6 °C
+- Tính chất: Không tan trong nước
+- Tính chất: Tan tốt trong CS2 (carbon disulfide)
 III. Tính chất hóa học
-
-- Nguyên tử S có 6e lớp ngoài cùng, trong đó có 2e độc thân.
-
-- Khi tham gia phản ứng hóa học, số oxi hóa của lưu huỳnh có thể giảm hoặc tăng: −2; 0; +4; +6.
-
-⟹ Lưu huỳnh có tính oxi hóa và tính khử.
-
-1. Tính oxi hóa
-
-- Khi lưu huỳnh tác dụng với kim loại hoặc hiđro, số oxi hóa của lưu huỳnh từ 0 giảm xuống −2
-
-a) Tác dụng với kim loại
-
-- Lưu huỳnh tác dụng với nhiều kim loại tạo muối sunfua.
-
-2Al + 3S (nhiệt độ)⟶ Al2S3(Nhôm sunfua)
-
-Fe + S (nhiệt độ)⟶ FeS(Sắt(II) sunfua)
-
-Hg +S (nhiệt độ)⟶ HgS(ở nhiệt độ thường)
-
-b) Tác dụng với hiđro
-
-- Lưu huỳnh tác dụng với khí hiđro tạo thành khí hiđro sunfua.
-
-H2 +S (nhiệt độ)⟶ H2S
-
-2. Tính khử
-
-- Khi lưu huỳnh phản ứng với phi kim hoạt động mạnh hơn, số oxi hóa của lưu huỳnh từ 0 tăng lên +4 hoặc +6.
-
-a) Tác dụng với phi kim
-
-- Lưu huỳnh phản ứng với phi kim ở nhiệt độ thích hợp.
-
-S +O2 (nhiệt độ)⟶ SO2
-
-S +3F2 (nhiệt độ)⟶ SF6
- 
-
-b) Tác dụng với chất oxi hóa mạnh (H2SO4,HNO3,...)
-
-S + 2H2SO4 (nhiệt độ)⟶ 3SO2+2H2O
-
-S + 6HNO3 (nhiệt độ)⟶ H2SO4 + 6NO2 + 2H2O
-IV. Điều chế
-
-
-1. Trong phòng thí nghiệm
-
-2Mg + SiO2  (900°C)→ 2MgO + Si   
-
-2. Trong công nghiệp        
-
-SiO2  +  2C  (1800°C)→ 2CO    + Si  
-
-IV. Điều chế
-
-a) Phương pháp vật lí
-
-- Dùng khai thác lưu huỳnh dưới dạng tự do trong lòng đất.
-
-- Dùng hệ thống nén nước siêu nóng (170°C) vào mỏ lưu huỳnh để đẩy lưu huỳnh nóng chảy lên mặt đất.
-
-b) Phương pháp hóa học
-
-- Đốt H2S trong điều kiện thiếu không khí:
-
-2H2S + O2 (nhiệt độ)⟶ 2S + 2H2O
-
-- Dùng H2S khử SO2:
-
-2H2S + SO2 ⟶ 3S + 2H2O
-
-V. Ứng dụng 
-
-Lưu huỳnh là nguyên liệu cho nhiều ngành công nghiệp:
-
-- 90% dùng để sản xuất H2SO4.
-- 10% để lưu hóa cao su, chế tạo diêm, sản xuất chất tẩy trắng bột giấy, chất dẻo ebonit, dược phẩm, phẩm nhuộm, chất trừ sâu và chất diệt nấm nông nghiệp...
+- Tính chất: Phi kim
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Tính oxi hóa: Mạnh (tác dụng với kim loại, H2)
+- Tính khử: Vừa phải (tác dụng với O2, halogen, HNO3, H2SO4 đặc)
+- Trạng thái oxi hóa: -2, 0, +4, +6
+- Phản ứng với Kim loại: Tác dụng khi đun nóng, tạo thành sulfua kim loại (trừ Au, Pt, Ir)
+- Phản ứng với Hydro: Tác dụng với H2 ở nhiệt độ cao, tạo H2S (có mùi trứng thối)
+- Phản ứng với Oxi: Phản ứng khi đốt cháy, tạo thành SO2
+- Phản ứng với HNO3/H2SO4 đặc nóng: Bị oxi hóa tạo H2SO4
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất axit sulfuric (H2SO4) (quan trọng nhất)
+- Ứng dụng (Ngành): Sản xuất bột diêm, thuốc súng
+- Ứng dụng (Ngành): Lưu hóa cao su
+- Ứng dụng (Ngành): Sản xuất diêm
+- Ứng dụng (Ngành): Sản xuất thuốc trừ sâu, thuốc diệt nấm
+- Ứng dụng (Ngành): Dược phẩm (điều trị bệnh ngoài da)
+V. Vai trò sinh học
+- Vai trò: Đa lượng (thiết yếu cho cơ thể)
+- Chức năng: Thành phần của protein (các axit amin methionine, cysteine)
+- Chức năng: Thành phần của vitamin (B1, H)

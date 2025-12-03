@@ -1,84 +1,38 @@
 ﻿Tên tiếng Anh: Sodium (Natrium)
 Tên tiếng Việt: Natri
-
-Nhóm: 1
-Chu kỳ: 3
-Nguyên tử khối: 22,98976928(2)
-Độ âm điện: 0,93
-Cấu hình electron: [Ne] 3s1
-
-
-I. Trạng thái tự nhiên 
-
-- Trong tự nhiên, Na có 13 đồng vị của natri đã được biết đến. Đồng vị ổn định duy nhất là 23Na.
-
-- Natri chiếm khoảng 2,6% theo khối lượng của vỏ Trái Đất, làm nó trở thành nguyên tố phổ biến thứ tám nói chung và là kim loại kiềm phổ biến nhất.
-
-II. Tính chất vật lý & nhận biết
-
-1. Tính chất vật lí:
-
-- Kim loại kiềm màu trắng – bạc, nhẹ, rất mềm, dễ nóng chảy.
-
-- Có khối lượng riêng là 0,968 g/cm3; có nhiệt độ nóng chảy là 97,83℃ và sôi ở 886℃.
-
-2. Nhận biết
-
-- Đốt cháy các hợp chất của Natri sẽ cho ngọn lửa có màu vàng.
-
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 3
+- Nguyên tử khối: 22,98977
+- Độ âm điện: 0,93
+- Cấu hình electron: [Ne] 3s1
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất mềm (có thể cắt bằng dao)
+- Điểm nóng chảy: 97,72 °C
+- Điểm sôi: 883 °C
+- Mật độ: 0,968 g/cm³ (nhẹ hơn nước)
+- Tính chất: Dẫn điện và dẫn nhiệt tốt
+- Tính chất: Dễ bị oxy hóa trong không khí
+- Màu ngọn lửa: Vàng (đặc trưng)
 III. Tính chất hóa học
-
-- Natri có tính khử rất mạnh: Na → Na+ + 1e
-
-a. Tác dụng với phi kim
-
-4Na + O2 (nhiệt độ)→ 2Na2O
-
-2Na + Cl2 (nhiệt độ)→ 2NaCl
-
-- Khi đốt trong không khí hay trong oxi, Na cháy tạo thành các oxit (oxit thường, peoxit và supeoxit) và cho ngọn lửa có màu vàng đặc trưng.
-
-
-b. Tác dụng với axit
-
-- Natri dễ dàng khử ion H+ trong dung dịch axit loãng (HCl, H2SO4 loãng...) thành hidro tự do.
-
-2Na + 2HCl → 2NaCl + H2↑
-
-2Na + H2SO4 → Na2SO4 + H2↑
-
-c. Tác dụng với nước
-
-- Natri đều tác dụng mãnh liệt với nước tạo thành dung dịch kiềm và giải phóng khí hidro.
-
-2Na + 2H2O → 2NaOH + H2↑.
-
-d. Tác dụng với hidro
-
-- Natri tác dụng với hidro ở áp suất khá lớn và nhiệt độ khoảng 350 – 400oC tạo thành natri hidrua.
-
-2Na (lỏng) + H2 ↑ (nhiệt độ)→ 2NaH (rắn)
-
-IV. Điều chế
-
-- Điện phân muối halogenua hay hidroxit nóng chảy.
-
-2NaCl (đpnc)→ 2Na + Cl2↑
-
-V. Ứng dụng 
-
-- Natri là thành phần quan trọng trong sản xuất este và các hợp chất hữu cơ. Kim loại kiềm này là thành phần của clorua natri (NaCl) (muối ăn) là một chất quan trọng cho sự sống.
-
-Các ứng dụng khác:
-
-• Trong một số hợp kim để cải thiện cấu trúc của chúng.
-
-• Trong xà phòng (trong hợp chất với các axít béo).
-
-• Để làm trơn bề mặt kim loại.
-
-• Để làm tinh khiết kim loại nóng chảy.
-
-• Trong các đèn hơi natri, một thiết bị cung cấp ánh sáng từ điện năng có hiệu quả.
-
-• Như là một chất lỏng dẫn nhiệt trong một số loại lò phản ứng nguyên tử.
+- Tính chất: Kim loại kiềm
+- Tính khử: Rất mạnh
+- Trạng thái oxi hóa: +1 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành peoxit natri (Na2O2)
+- Phản ứng với Oxi (Đặc điểm): Thường được bảo quản trong dầu hỏa do tính hoạt động cao
+- Phản ứng với Nước: Phản ứng mãnh liệt với nước
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (NaOH)
+- Phản ứng với Axit: Tác dụng mạnh với axit, tạo muối và giải phóng H2
+- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất các hợp chất Natri (NaOH, Na2CO3, NaHCO3)
+- Ứng dụng (Ngành): Sản xuất các kim loại khác (K, Ca, Mg)
+- Ứng dụng (Ngành): Đèn hơi Natri (chiếu sáng đường phố)
+- Ứng dụng (Ngành): Chất làm mát trong lò phản ứng hạt nhân
+- Ứng dụng (Ngành): Chất khử trong tổng hợp hữu cơ
+V. Vai trò sinh học
+- Vai trò: Đa lượng (quan trọng cho cơ thể)
+- Chức năng: Duy trì áp suất thẩm thấu và cân bằng nước
+- Chức năng: Cần thiết cho chức năng thần kinh và cơ bắp

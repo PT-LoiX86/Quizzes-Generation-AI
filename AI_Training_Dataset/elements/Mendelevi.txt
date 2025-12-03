@@ -1,7 +1,7 @@
 ﻿Tên tiếng Anh: Mendelevium
 Tên tiếng Việt: Mendelevi
-
-Thuộc họ Actini
-Nguyên tử khối: [258]
-Độ âm điện:  1,30
-Cấu hình electron: [Rn] 5f13 7s2
+I. Thông tin cơ bản
+- Thuộc họ Actini
+- Nguyên tử khối: [258]
+- Độ âm điện:  1,30
+- Cấu hình electron: [Rn] 5f13 7s2

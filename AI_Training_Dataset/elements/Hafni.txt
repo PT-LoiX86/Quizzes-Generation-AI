@@ -1,80 +1,36 @@
 ﻿Tên tiếng Anh: Hafnium
 Tên tiếng Việt: Hafni
-
-Nhóm : IVB
-Chu kỳ : 6
-Số nguyên tử : 72
-Nguyên tử khối tương đối : 178.49
-Độ âm điện (theo Pauling) : 1.3
-Cấu hình electron : [Xe]4f145d26s2
-Cấu tạo mạng tinh thể : Lục phương
-Các số oxi hóa phổ biến : +4 
-
-I. Trạng thái tự nhiên
-
--Hafni hiếm khi được tìm thấy ở trạng thái tự do trong tự nhiên.
-
--Nó thường tồn tại trong các khoáng vật zirconi Zr với nồng độ lên tới 5%. Hai nguyên tố này rất khó tách khỏi nhau vì chúng có tính chất hóa học tương tự nhau.
-
+I. Thông tin cơ bản
+- Nhóm: IVB
+- Chu kỳ: 6
+- Nguyên tử khối: 178,49
+- Độ âm điện: 1,3
+- Cấu hình electron: [Xe] 4f14 5d2 6s2
 II. Tính chất vật lý
-
--Màu sắc: Kim loại màu trắng bạc, sáng bóng.
-
--Tính chất cơ học: Cứng, dẻo và dễ uốn.
-
--Khối lượng riêng: 13.3 g/cm^3 (Gấp đôi Zirconi, là một khác biệt vật lý đáng chú ý).
-
--Nhiệt độ nóng chảy: Rất cao, 2227°C.
-
-    +Hợp chất Hafnium Carbide (HfC) là hợp chất nhị nguyên chịu lửa tốt nhất đã biết, với điểm nóng chảy trên 3890°C (≈7,000°F).
-
--Tính chất hạt nhân: Có tiết diện bắt neutron rất cao (cao hơn Zirconi khoảng 600 lần), làm cho nó trở thành vật liệu lý tưởng cho thanh điều khiển trong lò phản ứng hạt nhân.
-
--Dạng bột: Hafni có thể tự bốc cháy ở dạng bột.
-
+- Trạng thái tự nhiên: Tồn tại trong các khoáng vật Zirconi Zr với nồng độ lên tới 5%.
+- Trạng thái: Rắn
+- Màu sắc: Xám bạc
+- Độ cứng: Cứng
+- Tính chất: Dẻo
+- Tính chất: Dễ uốn
+- Điểm nóng chảy: 2233 °C (Rất cao)
+- Điểm sôi: 4603 °C
+- Mật độ: 13,31 g/cm³
+- Tính chất: Chống ăn mòn tốt
 III. Tính chất hóa học
-
--Tính kháng ăn mòn: Kháng ăn mòn cao do hình thành một lớp màng oxit bảo vệ trên bề mặt tiếp xúc.
-
--Tác dụng với Oxi/Không khí:
-    +Ở nhiệt độ thường, tạo lớp màng oxit bảo vệ.
-    
-    +Ở nhiệt độ 500 - 750°C, màng oxit mất tác dụng bảo vệ; kết hợp với Oxy và Nitơ.
-    
-    +Ở nhiệt độ trên 800°C, Hafni nhanh chóng oxy hóa thành HfO2.
--Tác dụng với Axit/Kiềm:
-    
-    +Hầu như không bị ảnh hưởng bởi nước, không khí, các chất kiềm và axit trừ Hydro Florua (HF).
-    
-    +Hòa tan trong Axit Hydrofluoric HF và Nước cường toan Aqua Regia.
-
--Hợp chất chính: Thường có hóa trị +4, hợp chất chính là Hafnium Oxide (HfO2).
-
-IV. Điều chế
-
-Hafni được sản xuất thương mại như một sản phẩm phụ của quá trình tinh chế Zirconi. Việc tách Hf khỏi Zr là rất khó và quan trọng trong công nghiệp hạt nhân.
-
--Phương pháp: Kim loại Hafni được điều chế bằng cách khử Hafni Tetrachloride HfCl4 với Natri Na hoặc Magie Mg (Phương pháp Kroll).
-
--Tách chiết công nghiệp: Các quy trình tách phức tạp được sử dụng để tinh chế, chẳng hạn như hệ thống TBP-HNO3-HCl hoặc phương pháp TOA/N235-H2SO4, nhằm đạt hệ số tách cao để sử dụng Hafni cấp độ hạt nhân.
-
-V. Ứng dụng
-Hafni có nhiều ứng dụng quan trọng do khả năng chịu nhiệt, chống ăn mòn và tính chất hạt nhân đặc biệt:
-
--Công nghiệp Năng lượng Hạt nhân: Được sử dụng làm thanh điều khiển và thiết bị bảo vệ trong lò phản ứng hạt nhân, đặc biệt là trong tàu ngầm hạt nhân, do khả năng hấp thụ neutron cao.
-
--Công nghiệp Hàng không Vũ trụ/Quốc phòng: Được sử dụng để sản xuất vật liệu chịu nhiệt cho các bộ phận động cơ phản lực, bộ phận tên lửa. Hợp kim Hafnium-Niobium được dùng làm vòi phun tên lửa, và hợp kim Vonfram-Tantali chứa Hf dùng làm vật liệu lớp bảo vệ tàu vũ trụ.
-
--Công nghiệp Điện tử/Bán dẫn:
-
-    +Hafnium Oxide (HfO2) là vật liệu quan trọng trong sản xuất transistor trong vi mạch và tụ điện siêu nhỏ (vì có hằng số điện môi cao), giúp tăng cường hiệu quả và giảm tiêu hao năng lượng.
-
-    +Sử dụng làm cực âm trong ống tia X.
-
--Hợp kim và Kim loại:
-    
-    Dùng làm phụ gia tạo hợp kim với Titan, Thép không gỉ, Niobi, Vonfram để cải thiện tính cơ học và khả năng chịu nhiệt.
-    
-    Dùng làm điện cực cho ống phóng điện áp cao.
-    
-    Dùng làm chất khử khí getter trong các ống chân không để loại bỏ oxy và nitơ.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (tương tự Zirconi)
+- Trạng thái oxi hóa: +4 (phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit hafni (HfO2)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ hafni khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng với hơi nước ở nhiệt độ cao
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4) (trừ HNO3 đặc nguội)
+- Phản ứng với Axit (Ngoại lệ): Tan trong axit flohidric (HF)
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chế tạo thanh điều khiển trong lò phản ứng hạt nhân (hấp thụ neutron)
+- Ứng dụng (Ngành): Hợp kim (tăng độ bền, chống ăn mòn)
+- Ứng dụng (Ngành): Công nghiệp điện tử (chất cách điện trong bộ vi xử lý)
+- Ứng dụng (Ngành): Sản xuất sợi vonfram (tăng độ sáng)
+- Ứng dụng (Ngành): Gốm sứ chịu nhiệt

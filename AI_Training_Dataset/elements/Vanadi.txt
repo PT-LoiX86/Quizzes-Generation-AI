@@ -1,87 +1,39 @@
 ﻿Tên tiếng Anh: Vanadium
 Tên tiếng Việt: Vanadi
-
-Nhóm : VB
-Chu kỳ : 4
-Số nguyên tử : 23
-Nguyên tử: 50.9415
-Độ âm điện : 1.63
-Cấu hình electron : [Ar] 3d3 4s2
-Cấu tạo mạng tinh thể : Lập phương tâm khối
-Các số oxi hóa phổ biến : +5, +4, +3, +2
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Vanadi là một nguyên tố tương đối dồi dào, xếp thứ 20 về độ phong phú trong vỏ Trái Đất.
-
--Nguồn gốc: Nó không bao giờ được tìm thấy ở dạng tự do.
-
--Khoáng vật chính: Nó được tìm thấy trong nhiều khoáng vật khác nhau, bao gồm Vanadinit (Pb5(VO4)3Cl), Carnotite (K2(UO2)2(VO4)2.3H2O), và Patronite (V2S5).
-
--Khai thác: Vanadi được thu hồi thương mại chủ yếu từ xỉ thép (steel slag), tro bay (fly ash) từ quá trình đốt dầu thô, và từ các quặng Uranium .
-
--Dinh dưỡng: Vanadi là một nguyên tố vi lượng cần thiết cho một số sinh vật, mặc dù vai trò của nó ở người chưa được xác định rõ ràng.
-
+I. Thông tin cơ bản
+- Nhóm: VB
+- Chu kỳ: 4
+- Nguyên tử khối: 50,9415
+- Độ âm điện: 1,63
+- Các số oxi hóa phổ biến : +5, +4, +3, +2
+- Cấu hình electron: [Ar] 3d3 4s2
+- Cấu tạo mạng tinh thể : Lập phương tâm khối
 II. Tính chất vật lý
-
--Màu sắc: Kim loại trắng bạc, mềm, dễ uốn .
-
--Đặc tính cơ học: Rất cứng, dẻo (ductile) và chống ăn mòn tốt.
-
--Khối lượng riêng: 6.11 g/cm^3.
-
--Nhiệt độ nóng chảy: Rất cao, 1910°C.
-
--Đặc tính hạt nhân: Vanadi có tiết diện bắt neutron thấp, khiến nó trở thành vật liệu cấu trúc tiềm năng trong các lò phản ứng hạt nhân.
-
+- Trạng thái tự nhiên: Được tìm thấy trong nhiều khoáng vật khác nhau, bao gồm Vanadinit (Pb5(VO4)3Cl), Carnotite (K2(UO2)2(VO4)2.3H2O), và Patronite (V2S5).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Cứng
+- Tính chất: Dẻo
+- Điểm nóng chảy: 1910 °C
+- Điểm sôi: 3407 °C
+- Mật độ: 6,11 g/cm³
+- Tính chất: Chống ăn mòn tốt
+- Tính chất: Chịu nhiệt độ cao
 III. Tính chất hóa học
-
-Vanadi là một kim loại chuyển tiếp có khả năng tạo ra các hợp chất với nhiều số oxi hóa khác nhau (+2, +3, +4, +5), mỗi trạng thái có một màu sắc đặc trưng trong dung dịch.
-
-1. Tác dụng với Phi kim
-
--Với Oxi: Bền trong không khí ở nhiệt độ thường do tạo lớp Oxide bảo vệ. Khi nung nóng, nó phản ứng với Oxi và Nitrogen.
-
-2. Tác dụng với Nước
-
--Với Nước: Không phản ứng với nước ở nhiệt độ thường.
-
-3. Tác dụng với Axit
-
--Kháng ăn mòn: Vanadi có khả năng chống lại Axit Sulfuric (H2SO4) và Axit Hydrocloric (HCl) loãng và nóng.
-
--Hòa tan: Hòa tan trong Axit Nitric (HNO3) đặc và Nước cường toan (Aqua Regia).
-
-4. Hợp chất
-
--Tính Lưỡng tính: Vanadium(V) Oxide (V2O5) là một Oxide lưỡng tính.
-
--Trạng thái Oxi hóa và Màu sắc:
-
-    ৹V 2+ (Vanadi(II)) → Màu tím
-
-    ৹V 3+ (Vanadi(III)) → Màu xanh lá cây
-
-    ৹VO 2+ (Vanadi(IV)) → Màu xanh lam
-
-    ৹VO 2+ (Vanadi(V)) → Màu vàng/cam
-
-IV. Điều chế
-
-Vanadi được điều chế thông qua quá trình chiết tách phức tạp từ Magnetite chứa Vanadi hoặc từ các sản phẩm phụ khác.
-
--Sản xuất Ferrovanadi (Chủ yếu): Vanadi được sản xuất chủ yếu dưới dạng hợp kim Ferrovanadi (Fe-V) bằng cách khử Vanadium(V) Oxide (V2O5) bằng Carbon (C) trong lò điện.
-
--Điều chế kim loại tinh khiết: Kim loại Vanadi tinh khiết được điều chế bằng cách khử Vanadium Chloride (VCl4) bằng Magie (Mg) hoặc bằng cách khử V2O5 bằng Canxi (Ca) trong môi trường áp suất cao.
-
-V. Ứng dụng
-
--Hợp kim (Ferrovanadi): Ứng dụng quan trọng nhất là trong sản xuất thép. Vanadi được thêm vào thép để tạo ra thép công cụ và thép cường độ cao, giúp tăng cường độ bền, độ cứng, chống sốc và chống mài mòn (được sử dụng trong trục xe, dụng cụ và khung xe đạp cao cấp).
-
--Xúc tác: Vanadium(V) Oxide (V2O5) là chất xúc tác quan trọng nhất, được sử dụng trong quá trình tiếp xúc (contact process) để sản xuất Axit Sulfuric (H2SO4) (một trong những hóa chất công nghiệp quan trọng nhất).
-
--Công nghiệp Hàng không: Hợp kim Titan-Aluminum-Vanadi (Ti-6Al-4V) được sử dụng rộng rãi trong chế tạo động cơ phản lực và khung máy bay.
-
--Pin: Vanadi được sử dụng trong pin dòng chảy Vanadi (vanadium redox flow batteries) để lưu trữ năng lượng lưới điện quy mô lớn.
-
--Gốm và Thủy tinh: Các Oxide và muối Vanadi được sử dụng để tạo màu xanh lục và xanh lam cho gốm và thủy tinh.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (hoạt động)
+- Trạng thái oxi hóa: +5 (phổ biến nhất), +4, +3, +2
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit vanadi (V) (V2O5)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ vanadi khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng với hơi nước ở nhiệt độ cao
+- Phản ứng với Axit: Tác dụng với axit oxi hóa mạnh (HNO3, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối vanadi (IV) hoặc vanadat
+- Phản ứng với Axit (Ngoại lệ): Không tác dụng với HCl loãng và H2SO4 loãng ở nhiệt độ thường
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim thép (tăng độ bền, chống mài mòn)
+- Ứng dụng (Ngành): Chế tạo lò phản ứng hạt nhân
+- Ứng dụng (Ngành): Chất xúc tác (V2O5 trong sản xuất H2SO4)
+- Ứng dụng (Ngành): Sản xuất pin sạc (Vanadi redox battery)
+- Ứng dụng (Ngành): Công nghiệp gốm sứ và thủy tinh

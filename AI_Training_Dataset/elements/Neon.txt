@@ -1,68 +1,29 @@
 ﻿Tên tiếng Anh: Neon
 Tên tiếng Việt: Neon
-
-Nhóm: VIIIA
-Chu kỳ: 2
-Nguyên tử khối: 20,1797(6)
-Cấu hình electron: [He] 2s2 2p6
-
-
-I. Trạng thái tự nhiên 
-
-II. Tính chất vật lý 
--Neon là khí không màu, không mùi, không vị.
--Nó ít tan trong nước.
--Neon là khí nặng hơn heli nhưng nhẹ hơn hầu hết các khí khác.
--Một số tính chất vật lý cụ thể của Neon:
--Nhiệt độ nóng chảy: -248,59 °C
--Nhiệt độ sôi: -246,08 °C
--Mật độ: 0,900 g/L
--Khối lượng nguyên tử: 20,1797 u
-
+I. Thông tin cơ bản
+- Nhóm: VIIIA
+- Chu kỳ: 2
+- Nguyên tử khối: 20,180
+- Độ âm điện: 0
+- Cấu hình electron: [He] 2s2 2p6
+II. Tính chất vật lý
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -248,59 °C
+- Điểm sôi: -246,08 °C
+- Mật độ: 0,900 g/L (ở 0 °C và 1 atm)
+- Tính chất: Nhẹ hơn không khí
+- Đặc điểm: Phát ra ánh sáng đỏ cam khi bị kích thích điện
 III. Tính chất hóa học
-
--Neon là khí hiếm, ít phản ứng hóa học.
--Nó có cấu hình electron bền với 8 electron hóa trị.
--Do đó, Neon ít khi tham gia vào các phản ứng hóa học.
--Tuy nhiên, Neon có thể tạo thành hợp chất với một số nguyên tố khác trong điều kiện đặc biệt.
--Ví dụ, Neon có thể tạo thành hợp chất với florua để tạo ra tetrafluoroneon (NeF4).
--Ngoài ra, Neon còn có một số tính chất khác như:
-	+Neon là khí trơ, không dẫn điện.
-	+Neon có thể phát ra ánh sáng màu đỏ cam khi bị kích thích bởi điện.
-
-IV. Điều chế
-
-Có hai phương pháp chính để điều chế Neon:
-
-1. Phương pháp hóa lỏng không khí
-
--Đây là phương pháp phổ biến nhất để sản xuất Neon.
--Không khí được hóa lỏng ở nhiệt độ rất thấp (-194 °C).
--Sau đó, các thành phần khác nhau của không khí được tách ra bằng phương pháp chưng cất phân đoạn.
--Neon có nhiệt độ sôi thấp hơn hầu hết các khí khác trong không khí, do đó nó có thể được thu thập dễ dàng.
-
-2. Phương pháp phân rã phóng xạ
-
--Phương pháp này sử dụng nguyên tố phóng xạ để tạo ra Neon.
--Ví dụ, khi đồng vị phóng xạ 22Na phân rã, nó sẽ tạo ra neon-22.
--Phương pháp này chỉ được sử dụng để sản xuất một lượng nhỏ Neon.
-
-V. Ứng dụng 
-
--Bảng hiệu quảng cáo
-
-+Neon được sử dụng phổ biến để tạo ra các bảng hiệu quảng cáo rực rỡ.
-+Ánh sáng màu đỏ đặc trưng của Neon rất thu hút sự chú ý và có thể nhìn thấy từ xa.
-
--Đèn huỳnh quang:
-
-+Neon được sử dụng trong các đèn huỳnh quang để tạo ra ánh sáng màu đỏ.
-+Khi điện đi qua khí Neon, nó sẽ phát ra ánh sáng màu đỏ.
-
--Khoa học và kỹ thuật:
-
-Neon được sử dụng trong một số ứng dụng khoa học và kỹ thuật, bao gồm:
-
-+Khí trơ trong các thiết bị điện tử: Neon được sử dụng trong các thiết bị điện tử để ngăn ngừa hồ quang và sự ăn mòn.
-+Chất làm lạnh trong các hệ thống cryogenic: Neon được sử dụng để làm lạnh các thiết bị và vật liệu đến nhiệt độ rất thấp.
-+Theo dõi rò rỉ khí: Neon được sử dụng để theo dõi rò rỉ khí trong các hệ thống kín.
+- Tính chất: Khí hiếm
+- Tính chất: Trơ về mặt hóa học
+- Độ hoạt động: Kém hoạt động
+- Hợp chất: Không tạo thành hợp chất bền vững với các nguyên tố khác
+- Trạng thái oxi hóa: 0 (duy nhất)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Đèn Neon (biển quảng cáo, đèn báo hiệu)
+- Ứng dụng (Ngành): Chất làm lạnh (trong công nghiệp)
+- Ứng dụng (Ngành): Chế tạo tia laser
+- Ứng dụng (Ngành): Ống phóng điện cao thế
+- Ứng dụng (Ngành): Dùng trong chế tạo màn hình TV Plasma

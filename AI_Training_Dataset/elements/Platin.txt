@@ -1,54 +1,41 @@
 ﻿Tên tiếng Anh: Platinum
 Tên tiếng Việt: Platin
-
-Nhóm: VIIIB
-Chu kỳ: 6
-Nguyên tử khối: 195
-Độ âm điện: 2,28
-Cấu hình electron: [Xe] 4f14 5d9 6s1
-
-
-I. Trạng thái tự nhiên 
-
-   - Platinum có sáu đồng vị tự nhiên: 190Pt, 192Pt, 194Pt,195Pt, 196Pt và 198Pt. Phổ biến nhất trong số này là 195Pt, chiếm tỉ lệ 33,83%. Đây là đồng vị ổn định duy nhất.
-
-   - Platin tự nhiên thường được tìm thấy ở dạng tinh khiết và hợp kim với Iridi như platiniridium. Phần lớn Platin tự nhiên được tìm thấy ở các lớp trầm tích đại trung sinh.
-
-II. Tính chất vật lý 
-
-   - Kim loại quý, màu trắng - xám, tương đối mềm, rất dễ cán kéo, rèn được, khó nóng chảy.
-
-   - Pt có khối lượng riêng là 21,45 g/cm3; nhiệt độ nóng chảy là 1772°C và nhiệt độ sôi là 3800°C.
-
-
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 6
+- Nguyên tử khối: 195,084
+- Độ âm điện: 2,28
+- Cấu hình electron: [Xe] 4f14 5d9 6s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Thường được tìm thấy ở dạng tinh khiết và hợp kim với Iridi như platiniridium.
+- Trạng thái tự nhiên: Phần lớn Platin tự nhiên được tìm thấy ở các lớp trầm tích đại trung sinh.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Tính chất: Dẻo, dễ kéo sợi
+- Điểm nóng chảy: 1768,3 °C
+- Điểm sôi: 3825 °C
+- Mật độ: 21,45 g/cm³ (rất nặng)
+- Tính chất: Kim loại quý
+- Tính chất: Bền, chống ăn mòn tuyệt vời
 III. Tính chất hóa học
-
-- Pt là kim loại kém hoạt động.
-
-a. Tác dụng với phi kim
-
-Khi nung nóng, Pt tác dụng được với phi kim có tính oxi hóa mạnh (như oxi, halogen,...)
-
-Pt + O2 (nhiệt độ)→ PtO2
-Pt + Cl2 (nhiệt độ)→ PtCl2
-
-b. Tác dụng với axit
-
-Pt không tan trong axit, chỉ tan trong nước cường toan và HCl đặc có bão hòa clo.
-
-3Pt + 18HCl (đặc) + 4HNO3 (đặc) → 3H2[PtCl6] + 4NO2 + 8H2O.
-
-Pt + 2HCl(đặc, nóng) + 2Cl2 → H2[PtCl6]
-
-IV. Điều chế
-
--Khai thác từ tự nhiên
-
-V. Ứng dụng 
-
-   - Platin được sử dụng trong làm chất xúc tác, trang thiết bị phòng thí nghiệm, thiết bị điện báo, các điện cực, nhiệt kế điện trở bạch kim, thiết bị nha khoa, và đồ trang sức.
-
-   - Platin là một vật liệu khan hiếm, quý và rất có giá trị bởi vì sản lượng khai thác hằng năm chỉ tầm vài trăm tấn.
-
-
-   - Vì là một kim loại nặng, nó có ảnh hưởng không tốt đối với sức khỏe khi tiếp xúc với các muối của nó, nhưng do khả năng chống ăn mòn cho nên nó ít độc hại hơn so với các kim loại khác. Một số hợp chất của Platin, đặc biệt là cisplatin, được sử dụng để dùng trong hóa trị liệu chống lại một số loại ung thư.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Rất yếu (trơ)
+- Trạng thái oxi hóa: +2, +4 (phổ biến)
+- Độ hoạt động: Kém hoạt động
+- Phản ứng với Oxi: Không phản ứng với oxi, không bị ăn mòn trong không khí
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả HNO3, H2SO4)
+- Phản ứng với Axit (Ngoại lệ): Tan trong nước cường toan (hỗn hợp HNO3 đặc và HCl đặc theo tỷ lệ 1:3)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối phức (ví dụ: H2[PtCl6])
+- Phản ứng với Hợp chất: Tác dụng với một số muối nóng chảy hoặc chất oxi hóa mạnh (ví dụ: Na2O2)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Bộ chuyển đổi xúc tác (ô tô)
+- Ứng dụng (Ngành): Trang sức
+- Ứng dụng (Ngành): Chất xúc tác (sản xuất axit nitric, tổng hợp hữu cơ)
+- Ứng dụng (Ngành): Công nghiệp điện tử (chân tiếp xúc)
+- Ứng dụng (Ngành): Y học (chất chống ung thư như cisplatin)
+- Ứng dụng (Ngành): Thiết bị phòng thí nghiệm (nồi nấu, điện cực)
+V. Vấn đề an toàn
+- Độc tính: Ít độc
+- Tác hại: Một số hợp chất platin có thể gây dị ứng (dị ứng platin)

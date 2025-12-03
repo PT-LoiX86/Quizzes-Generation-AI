@@ -1,58 +1,34 @@
-﻿Tên tiếng Anh: Caesium
-Tên tiếng Việt: Caesi
-
-Nhóm: IA
-Chu kỳ: 6
-Nguyên tử khối: 132,91
-Độ âm điện: 0,79
-Cấu hình electron: [Xe] 6s1 
-
-I. Trạng thái tự nhiên 
- 
-- Xesi có mặt trong các khoáng vật như lepidolit, polluxit (silicat nhôm và xêzi ngậm nước) cũng như trong một vài nguồn khác.
-
-II. Tính chất vật lý 
-  
-- Cs là kim loại kiềm, màu trắng (vàng nhạt ở chổ cắt), mềm, rất dễ nóng chảy. Hơi xezi có màu chàm – lục.
-
-- Có khối lượng riêng là 1,873 g/cm3 ở dạng lỏng là 1,841 g/cm3; có nhiệt độ nóng chảy là 28,70C và sôi ở 667,60C.
-
+﻿Tên tiếng Anh: Cesium
+Tên tiếng Việt: Xesi
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 6
+- Nguyên tử khối: 132,9055
+- Độ âm điện: 0,79
+- Cấu hình electron: [Xe] 6s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Có mặt trong các khoáng vật như lepidolit, polluxit (silicat nhôm và xêzi ngậm nước) cũng như trong một vài nguồn khác.
+- Trạng thái: Rắn
+- Màu sắc: Vàng kim
+- Tính chất: Kim loại mềm nhất
+- Tính chất: Dễ uốn dẻo
+- Điểm nóng chảy: 28,5 °C
+- Điểm sôi: 671 °C
+- Mật độ: 1,879 g/cm³
+- Tính chất: Là chất lỏng ở nhiệt độ phòng hoặc cao hơn một chút
 III. Tính chất hóa học
-
-- Xesi là kim loại kiềm có tính khử rất mạnh, chỉ sau franxi.
-
-Cs → Cs+ + 1e
-
-a. Tác dụng với phi kim
-
-- Tác dụng trực tiếp với hầu hết các phi kim (trừ nitơ).
-
-2Cs + H2 → 2CsH.
-
-Cs + O2 (kk) → CsO2.
-
-b. Tác dụng với nước
-
-- Phản ứng mãnh liệt và bốc cháy
-
-2Cs + 2H2O → 2CsOH + H2.
-
-IV. Điều chế
-
-- Xesi có thể điều chế nhờ điện phân xyanua xêzi nóng chảy hoặc CsCl.
-
-2CsCl (đpnc)→ 2Cs + Cl2
-
-V. Ứng dụng 
-
-- 134Cs được sử dụng trong thủy học như là phép đo lượng phát ra của Xesi bởi công nghiệp năng lượng nguyên tử.
-
-- Kim loại này cũng được sử dụng trong các tế bào quang điện do khả năng bức xạ điện tử cao của nó.
-
-- Xesi cũng được sử dụng như là chất xúc tác trong quá trình hiđrô hóa của một vài hợp chất hữu cơ.
-
-- Các đồng vị phóng xạ của xesi được sử dụng trong lĩnh vực y học để điều trị một vài dạng ung thư.
-
-- Florua xesi được sử dụng rộng rãi trong hóa hữu cơ như là một bazơ và là nguồn của các ion florua khan.
-
-- Hơi xesi được sử dụng trong nhiều loại từ kế phổ biến.
+- Tính chất: Kim loại kiềm
+- Tính khử: Mạnh nhất (trong số các nguyên tố ổn định)
+- Trạng thái oxi hóa: +1 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành superoxide xesi (CsO2)
+- Phản ứng với Oxi (Đặc điểm): Phản ứng mạnh, có thể bốc cháy tự phát trong không khí
+- Phản ứng với Nước: Phản ứng rất mãnh liệt với nước
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (CsOH)
+- Phản ứng với Axit: Tác dụng mạnh với axit, tạo muối và giải phóng H2
+- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chế tạo đồng hồ nguyên tử (Atomic clocks)
+- Ứng dụng (Ngành): Tế bào quang điện (photocells)
+- Ứng dụng (Ngành): Chất xúc tác hữu cơ
+- Ứng dụng (Đặc điểm): Đồng vị phóng xạ Cs-137 được dùng trong y học (điều trị ung thư)
+- Ứng dụng (Đặc điểm): Đồng vị Cs-137 được dùng trong công nghiệp (đo mật độ, độ dày)

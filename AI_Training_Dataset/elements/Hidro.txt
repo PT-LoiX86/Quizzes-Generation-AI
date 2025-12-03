@@ -1,53 +1,36 @@
 ﻿Tên tiếng Anh: Hydrogen
-Tên tiếng Việt: Hydro
-
-Nhóm: IA
-Chu kỳ: 1 
-Nguyên tử khối: 1
-Độ âm điện: 2,20
-Cấu hình electron: 1s1 
-
-I. Tính chất vật lý
-
-- Nhiệt độ nóng chảy: -259.14 ℃
-- Nhiệt độ sôi: -252.87 ℃
-- Hiđro là chất khí, không màu, không mùi, không vị, nhẹ hơn không khí 14,5 lần.
-- Tan rất ít trong nước.
-- Hiđro là khí nhẹ nhất.
-
-II. Tính chất hóa học
-
-a. Tác dụng với oxi
-
-Nếu đốt cháy hidro trong oxi: hidro cháy mạnh, trên thành lọ xuất hiện những giọt nước nhỏ
-
-PTHH: 2H2 + O2 → 2H2O
-
-Hỗn hợp sẽ gây nổ nếu trộn hidro và oxi theo tỉ lệ thể tích 2:1
-
-b. Tác dụng với một số oxit kim loại
-
-- Hiđro có tính khử, khử một số oxit kim loại ở nhiệt độ cao
-
-H2   +   CuO (nhiệt độ)→ Cu   +   H2O
-
-             màu đen      màu đỏ
-
-
-3H2 + Fe2O3 →  2Fe + 3H2O
-
-
-- H2 không tác dụng với các oxit: Na2O, K2O, BaO, CaO, MgO, Al2O3
-
-
-III. Ứng dụng
-
-Do tính chất nhẹ, tính khử và khi cháy tỏa nhiềt nhiệt mà hidro ứng dụng trong đời sống
-
-- Làm nguyên liệu cho động cơ tên lửa, nhiên liệu cho động cơ ô tô thay cho xăng
-
-- Làm nguyên liệu điều chế axit
-
-- Dùng để điều chế kim loại từ oxit của chúng
-
-- Bơm vào khinh khí cầu, bóng thám
+Tên tiếng Việt: Hiđro
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 1
+- Nguyên tử khối: 1,008
+- Độ âm điện: 2,20
+- Cấu hình electron: 1s1
+- Công thức phân tử: H2
+II. Tính chất vật lý
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -259,16 °C
+- Điểm sôi: -252,87 °C
+- Mật độ: 0,0899 g/L (ở 0 °C và 1 atm)
+- Tính chất: Rất nhẹ (nhẹ nhất)
+- Tính chất: Không độc
+III. Tính chất hóa học
+- Tính chất: Phi kim (hoặc phi kim hoạt động kém)
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Tính khử: Mạnh (ở nhiệt độ cao)
+- Tính oxi hóa: Yếu (ở nhiệt độ cao, tác dụng với kim loại kiềm/kiềm thổ)
+- Trạng thái oxi hóa: +1, -1, 0
+- Phản ứng với Oxi: Phản ứng mạnh (nổ) ở nhiệt độ cao hoặc có xúc tác
+- Phản ứng với Oxi (Sản phẩm): Tạo ra nước (H2O)
+- Phản ứng với Kim loại: Tác dụng với kim loại kiềm/kiềm thổ ở nhiệt độ cao
+- Phản ứng với Kim loại (Sản phẩm): Tạo ra hidrua kim loại (ví dụ: NaH)
+- Phản ứng với Phi kim: Tác dụng với halogen (F2, Cl2, Br2, I2) và lưu huỳnh
+- Phản ứng với Hợp chất: Khử nhiều oxit kim loại (như CuO, Fe3O4) thành kim loại ở nhiệt độ cao
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất amoniac (NH3) (phương pháp Haber-Bosch)
+- Ứng dụng (Ngành): Tổng hợp các hợp chất hữu cơ (methanol)
+- Ứng dụng (Ngành): Nhiên liệu (tên lửa, pin nhiên liệu)
+- Ứng dụng (Ngành): Hàn cắt kim loại (hàn nguyên tử)
+- Ứng dụng (Ngành): Khử oxit kim loại

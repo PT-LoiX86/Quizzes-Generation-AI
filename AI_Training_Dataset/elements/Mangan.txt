@@ -1,66 +1,40 @@
 ﻿Tên tiếng Anh: Manganese
 Tên tiếng Việt: Mangan
-
-Nhóm: VIIB
-Chu kỳ: 4
-Nguyên tử khối: 55
-Độ âm điện: 1,55
-Cấu hình electron: [Ar] 3d5 4s2
-
-I. Trạng thái tự nhiên 
-
-- Mangan tự nhiên là bao gồm 1 đồng vị bền 55Mn. 18 đồng vị phóng xạ đã được miêu tả đặc điểm trong đó đồng vị phóng xạ ổn định nhất là 53Mn.
-
-- Mangan chiếm khoảng 0,1% khối lượng trong vỏ Trái Đất, đứng hàng thứ 12 về mức độ phổ biến của các nguyên tố. Mangan có mặt chủ yếu trong pyrolusit (MnO2), braunit, psilomelan (Ba,H2O)2Mn5O10, và ít hơn trong rhodochrosit (MnCO3).
-
-II. Tính chất vật lý 
-
-- Mangan là kim loại màu trắng xám, giống sắt. Nó là kim loại cứng và rất giòn, khó nóng chảy, nhưng lại bị ôxi hóa dễ dàng. Mangan kim loại chỉ có từ tính sau khi đã qua xử lý đặc biệt.
-
-- Mangan có khối lượng riêng là 7,44 g/cm3, nhiệt độ nóng chảy là 1245°C và sôi ở 2080°C.
-
+I. Thông tin cơ bản
+- Nhóm: VIIB
+- Chu kỳ: 4
+- Nguyên tử khối: 54,938
+- Độ âm điện: 1,55
+- Cấu hình electron: [Ar] 3d5 4s2
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại chủ yếu trong pyrolusit (MnO2), braunit, psilomelan (Ba,H2O)2Mn5O10, và ít hơn trong rhodochrosit (MnCO3).
+- Trạng thái: Rắn
+- Màu sắc: Xám bạc
+- Độ cứng: Cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 1246 °C
+- Điểm sôi: 2061 °C
+- Mật độ: 7,21 g/cm³
+- Tính dẫn điện: Kém
+- Tính dẫn nhiệt: Kém
 III. Tính chất hóa học
-
-- Trạng thái ôxi hóa phổ biến của nó là +2, +3, +4, +6 và +7. Trạng thái ôxy hóa ổn định nhất là mangan +2.
-
-- Mangan có tính khử khá mạnh
-
-a. Tác dụng với phi kim
-
-- Tác dụng trực tiếp được với nhiều phi kim.
-
-Mn (bột) + O2→ MnO2. (tự bốc cháy)
-
-Mn + Cl2 → MnCl2.
-
-
-b. Tác dụng với axit
-
-- Tác dụng với HCl và H2SO4 loãng:
-
-Mn (bột) + 2HCl (loãng) → MnCl2 + H2
-
-- Tác dụng với HNO3 và H2SO4 đặc:
-
-Mn + 2H2SO4 (đặc) → MnSO4 + SO2 + 2H2O.
-
-3Mn + 8HNO3 (loãng, nóng) → 3Mn(NO3)2 + 2NO + 4H2O.
-
-c. Tác dụng với nước
-
-Mn (bột) + 2H2O (hơi) → Mn(OH)2 + H2 .
-
-IV. Điều chế
-
-   - Quặng mangan được trộn với quặng sắt và cacbon, sau đó khử hoặc trong lò cao hoặc trong lò điện hồ quang.
-
-   - Mangan tinh khiết được sản xuất bằng cách cho quặng mangan đã được ngâm chiết với axit sulfuric và tiếp theo là xử lý bằng điện phân dung dịch.
-
-V. Ứng dụng 
-
-   - Mangan có vai trò quan trọng trong sản xuất sắt thép vì có tác dụng khử lưu huỳnh, khử ôxi, và mang những đặc tính của hợp kim.
-
-   - Mangan là thành phần chủ yếu trong việc sản xuất thép không rỉ với chi phí thấp, và có trong hợp kim nhôm. Nó còn được thêm vào dầu hỏa để giảm tiếng nổ lọc xọc cho động cơ. Mangan đioxít được sử dụng trong pin khô, hoặc làm chất xúc tác.
-
-
-   - Kali pemanganat là chất ôxi hóa mạnh, dùng làm chất tẩy uế trong hóa học và y khoa.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (hoạt động hơn Fe)
+- Trạng thái oxi hóa: +2, +3, +4, +6, +7 (phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit (ví dụ: MnO, MnO2, Mn2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ mangan khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Phản ứng chậm với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng với hơi nước ở nhiệt độ cao
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối mangan(II) và giải phóng khí hydro
+- Phản ứng với Axit (Thụ động): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất thép (tăng độ bền, độ cứng)
+- Ứng dụng (Ngành): Sản xuất hợp kim (ferromangan)
+- Ứng dụng (Ngành): Pin khô (mangan dioxit - MnO2)
+- Ứng dụng (Ngành): Thuốc nhuộm và chất tạo màu
+- Ứng dụng (Ngành): Chất oxi hóa (KMnO4 - thuốc tím)
+V. Vai trò sinh học
+- Vai trò: Vi lượng (quan trọng cho cơ thể)
+- Chức năng: Cần thiết cho chức năng enzyme
+- Chức năng: Tham gia vào quá trình trao đổi chất

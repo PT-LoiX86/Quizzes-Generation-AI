@@ -1,7 +1,7 @@
 ﻿Tên tiếng Anh: Neodymium
 Tên tiếng Việt: Neodymi
-
-Thuộc họ Lantan
-Nguyên tử khối: [144,24]
-Độ âm điện: 1,14
-Cấu hình electron: [Xe] 4f4 6s2
+I. Thông tin cơ bản
+- Thuộc họ Lantan
+- Nguyên tử khối: [144,24]
+- Độ âm điện: 1,14
+- Cấu hình electron: [Xe] 4f4 6s2

@@ -1,95 +1,37 @@
-﻿Tên tiếng Anh: Copper (cuprum)
+﻿Tên tiếng Anh: Copper
 Tên tiếng Việt: Đồng
-
-Nhóm: IB
-Chu kỳ: 4
-Nguyên tử khối: 64
-Độ âm điện: 1,9
-Cấu hình electron: [Ar] 3d10 4s1
-
-
-I. Trạng thái tự nhiên 
-
-- Hầu hết đồng được khai thác hoặc chiết tách ở dạng đồng sunfua từ các mỏ đồng. Khai thác lộ thiên chứa từ 0,4 đến 1,0% đồng.
-
-II. Tính chất vật lý & nhận biết
-
-1.Tính chất vật lý
-
-- Là kim loại màu đỏ, dẻo, dễ kéo sợi và tráng mỏng.
-
-- Dẫn điện và nhiệt rất cao (chỉ kém hơn bạc). D = 8,98g/cm3; nhiệt độ nóng chảy là 1083°C
-
-2. Nhận biết
-
-- Đơn chất đồng có màu đỏ, các hợp chất của đồng ở trạng thái dung dịch có màu xanh đặc trưng.
-
-- Hòa tan Cu vào dung dịch HNO3 loãng, thấy thu được dung dịch có màu xanh lam, thoát ra khí không màu hóa nâu trong không khí (NO).
-
-3Cu + 8HNO3 → 3Cu(NO3)2 + 2NO + 4H2O
-
+I. Thông tin cơ bản
+- Nhóm: IB
+- Chu kỳ: 4
+- Nguyên tử khối: 63,546
+- Độ âm điện: 1,90
+- Cấu hình electron: [Ar] 3d10 4s1
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Đỏ nâu
+- Độ cứng: Mềm
+- Tính chất: Rất dẻo, dễ kéo sợi
+- Điểm nóng chảy: 1084,6 °C
+- Điểm sôi: 2562 °C
+- Mật độ: 8,96 g/cm³
+- Tính dẫn điện: Rất tốt (chỉ sau Bạc)
+- Tính dẫn nhiệt: Rất tốt
 III. Tính chất hóa học
-
-- Là kim loại kém hoạt động, có tính khử yếu.
-
-Tác dụng với phi kim:
-
-- Cu phản ứng với oxi khi đun nóng tạo CuO bảo vệ nên Cu không bị oxi hoá tiếp tục.
-
-2Cu + O2 (nhiệt độ)→ CuO
-
-- Khi tiếp tục đun nóng tới (800-1000°C)
-
-CuO + Cu (nhiệt độ)→ Cu2O (đỏ)
-
-- Tác dụng với Cl2, Br2, S...
-
-Cu + Cl2 (nhiệt độ)→ CuCl2
-Cu + S (nhiệt độ)→ CuS
-
-
-Tác dụng với axit:
-
-- Cu không tác dụng với dung dịch HCl, H2SO4 loãng.
-
-- Khi có mặt oxi, Cu tác dụng với dung dịch HCl, nơi tiếp xúc giữa dung dịch axit với không khí.
-
-2Cu + 4HCl + O2 → 2CuCl2 + 2 H2O
-
-- Với HNO3, H2SO4 đặc :
-
-Cu + 2H2SO4 đ → CuSO4 + SO2 + H2O
-
-Cu + 4HNO3 đ → Cu(NO3)2 + 2NO2 + 2H2O
-
-3Cu + 8HNO3 loãng → 3Cu(NO3)2 + 2NO + 4H2O
-
-Tác dụng với dung dịch muối:
-
-- Khử được ion kim loại đứng sau nó trong dung dịch muối.
-
-Cu + 2AgNO3 → Cu(NO3)2 + 2Ag
-
-
-IV. Điều chế
-
-- Xuất phát từ việc tinh chế quặng đồng
-
-2Cu2S + 3O2 (nhiệt độ)→ 2Cu2O + 2SO2
-
-Ôxit đồng được chuyển thành đồng blister theo phản ứng nung:
-
-2Cu2O → 4Cu + O2
-
-V. Ứng dụng 
-
-- Dựa vào tính dẻo, dẫn điện, dẫn nhiệt, bền của đồng và hợp kim:
-
-1. Đồng thau : hợp kim Cu-Zn, có tính cứng và bền hơn Cu, dùng chế tạo chi tiết máy.
-
-
-2. Đồng bạch : hợp kim Cu-Ni, có tính bền, đẹp, không bị ăn mòn trong nước biển, dùng trong công nghiệp tàu thủy.
-
-3. Đồng thanh : hợp kim Cu-Sn, dùng chế tạo máy móc, thiết bị.
-
-4. Hợp kim Cu-Au : dùng để trang trí.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Yếu (kém hơn Fe, Zn)
+- Trạng thái oxi hóa: +1, +2 (phổ biến)
+- Trạng thái oxi hóa (Đặc điểm): Trạng thái +2 bền hơn
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit đồng (II) (CuO - màu đen) hoặc oxit đồng (I) (Cu2O - màu đỏ)
+- Phản ứng với Oxi (Thường): Lớp oxit đồng (II) được hình thành trên bề mặt khi tiếp xúc với không khí
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối đồng và sản phẩm khử (NOx hoặc SO2)
+- Phản ứng với Axit (Trạng thái): Không tác dụng với HCl loãng và H2SO4 loãng
+- Phản ứng với Muối: Có thể đẩy được kim loại yếu hơn ra khỏi dung dịch muối (ví dụ: AgNO3)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất dây điện, cáp điện
+- Ứng dụng (Ngành): Sản xuất thiết bị điện (động cơ, máy phát)
+- Ứng dụng (Ngành): Chế tạo hợp kim (đồng thau - với Zn, đồng thanh - với Sn)
+- Ứng dụng (Ngành): Đồ gia dụng, tiền xu
+- Ứng dụng (Ngành): Ống dẫn nước
+- Ứng dụng (Ngành): Nông nghiệp (muối đồng làm chất diệt nấm)

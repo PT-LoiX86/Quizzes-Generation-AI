@@ -1,43 +1,34 @@
 ﻿Tên tiếng Anh: Titanium
 Tên tiếng Việt: Titani
-
-Nhóm: IVB
-Chu kỳ: 4
-Nguyên tử khối: 47,9
-Độ âm điện: 1,54 
-Cấu hình electron: [Ar] 3d2 4s2 
-
-I. Tính chất vật lý 
-  
--Kim loại titan có điểm nóng chảy khá cao, khoảng trên 1.650 °C. Vì thể, khả năng chịu nhiệt cũng như nung trực tiếp trong lửa khá tốt. Ngược lại, độ dẫn điện và nhiệt lại tương đối thấp.
-
--Titan có độ bền cao và có thể tạo một màng oxit bên ngoài nhưng sẽ giảm độ bền nếu nung >430 °C
-
--Không tan trong axit, đặc biệt là các axit có tính phá hủy mạnh như axit sunfuric và axit clohiđric.
-
--Có khả năng chống ăn mòn trong môi trường có nhiệt độ cao.
-
--Không bị nhiễm từ.
-
-II. Ứng dụng 
-
-Nhờ có đặc tính nhẹ, độ bền cao, màu sắc sáng đẹp cùng với khả năng chống ăn mòn tương đối tốt. Nên được ứng dụng rất đa dạng vào nhiều sản phẩm và lĩnh vực trong đời sống.
-
-1. Hàng không vũ trụ: Chế tạo máy bay, tàu vũ trụ, tên lửa nhờ độ bền cao, chịu nhiệt tốt và trọng lượng nhẹ.
-
-2. Y tế: Nhờ khả năng tương thích sinh học cao, Titan được sử dụng làm implant nha khoa, chốt xương, khớp nhân tạo…
-
-3.Công nghiệp: Titan được ứng dụng trong sản xuất hóa chất, thiết bị năng lượng, xi mạ…
-
-4.Đồ thể thao: Gậy đánh golf, khung xe đạp, vợt tennis… sử dụng Titan vì độ bền và trọng lượng nhẹ.
-
-5. Trang sức: 
--Nhẫn, lắc tay, dây chuyền… làm từ Titan có độ bền cao, sáng bóng và không bị gỉ sét.
--Titan là một lựa chọn thay thế cho vàng và bạc trong ngành trang sức.
-
-Ngoài ra, Titan còn được ứng dụng trong nhiều lĩnh vực khác như:
-
--Năng lượng: Ống dẫn khí đốt, pin nhiên liệu
--Môi trường: Xử lý nước thải, khử muối
--Quân sự: Xe bọc thép, tàu ngầm
--Điện tử: Linh kiện điện tử, vi mạch
+I. Thông tin cơ bản
+- Nhóm: IVB
+- Chu kỳ: 4
+- Nguyên tử khối: 47,867
+- Độ âm điện: 1,54
+- Cấu hình electron: [Ar] 3d2 4s2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất cứng
+- Tính chất: Nhẹ
+- Tính chất: Bền (tương đương thép)
+- Điểm nóng chảy: 1668 °C
+- Điểm sôi: 3287 °C
+- Mật độ: 4,506 g/cm³
+- Tính chất: Chống ăn mòn tuyệt vời (tương đương Platin)
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (hoạt động kém hơn Mg, Al)
+- Trạng thái oxi hóa: +4 (phổ biến nhất), +3, +2
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit titani (IV) (TiO2)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ titani khỏi sự oxi hóa tiếp theo (ngay cả ở nhiệt độ thường)
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với axit loãng (HCl, H2SO4 loãng, HNO3 loãng)
+- Phản ứng với Axit (Ngoại lệ): Tan trong HF và H2SO4 đặc nóng
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chế tạo hợp kim siêu bền (hàng không vũ trụ, quân sự)
+- Ứng dụng (Ngành): Thiết bị y tế (cấy ghép, khớp giả)
+- Ứng dụng (Ngành): Thiết bị trao đổi nhiệt (công nghiệp hóa chất)
+- Ứng dụng (Hợp chất): Titan dioxit (TiO2) dùng làm chất tạo màu trắng (sơn, kem chống nắng, nhựa)
+- Ứng dụng (Ngành): Sản xuất tàu ngầm

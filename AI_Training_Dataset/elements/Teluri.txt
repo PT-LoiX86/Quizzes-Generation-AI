@@ -1,77 +1,39 @@
 ﻿Tên tiếng Anh: Tellurium
-Tên tiếng Việt: Teluri
-
-Nhóm : VIA
-Chu kỳ : 5
-Số nguyên tử : 52
-Nguyên tử khối : 127.60
-Độ âm điện : 2.1
-Cấu hình electron : [Kr] 4d10 5s2 5p4
-Cấu tạo mạng tinh thể : Lục phương
-Các số oxi hóa phổ biến :  +4, −2, +6
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Teluri là một nguyên tố khá hiếm, hiếm hơn cả Vàng (Au) trong vỏ Trái Đất.
-
--Nguồn gốc: Teluri thường được tìm thấy ở trạng thái tự do, không kết hợp với các nguyên tố khác.
-
--Khoáng vật chính: Nó thường tồn tại dưới dạng Telluride của Vàng (Au), Bạc (Ag), Đồng (Cu), và Chì (Pb). Calaverite (AuTe2) là một khoáng vật chứa Teluri quan trọng
-
--Khai thác: Teluri được thu hồi thương mại chủ yếu từ bùn anode — một sản phẩm phụ của quá trình tinh chế đồng (Cu) bằng điện phân.
-
+Tên tiếng Việt: Telu
+I. Thông tin cơ bản
+- Nhóm: VIA
+- Chu kỳ: 5
+- Nguyên tử khối: 127,6
+- Độ âm điện: 2,1
+- Các số oxi hóa phổ biến :  +4, −2, +6
+- Cấu hình electron: [Kr] 4d10 5s2 5p4
+- Cấu tạo mạng tinh thể : Lục phương
 II. Tính chất vật lý
-
--Màu sắc: Kim loại trắng bạc với ánh kim loại, thường có màu xám trong điều kiện tự nhiên
-
--Đặc tính cơ học: Giòn (brittle) và dễ nghiền thành bột, là một á kim.
-
--Khối lượng riêng: 6.24 g/cm^3.
-
--Nhiệt độ nóng chảy: 449.5°C.
-
--Tính chất bán dẫn: Là chất bán dẫn và thể hiện tính chất quang dẫn giống như Seleni (Se), nghĩa là độ dẫn điện tăng lên khi chiếu sáng.
-
--Độc tính và Mùi: Teluri được coi là độc và gây ra một tình trạng mùi tỏi kéo dài trên cơ thể khi nuốt phải một lượng rất nhỏ.
-
+- Trạng thái tự nhiên: Teluri thường được tìm thấy ở trạng thái tự do, không kết hợp với các nguyên tố khác.
+- Trạng thái tự nhiên: Teluri thường tồn tại dưới dạng Telluride của Vàng (Au), Bạc (Ag), Đồng (Cu), và Chì (Pb). 
+- Trạng thái tự nhiên: Teluri cũng xuất hiện trong khoáng vật Calaverite (AuTe2).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Tính chất: Có ánh kim
+- Tính chất: Giòn
+- Điểm nóng chảy: 449,5 °C
+- Điểm sôi: 988 °C
+- Mật độ: 6,24 g/cm³
+- Tính dẫn điện: Chất bán dẫn
 III. Tính chất hóa học
-
-Teluri có tính chất hóa học tương tự Seleni (Se) và Lưu huỳnh (S), nhưng có tính kim loại cao hơn.
-
-1. Tác dụng với Phi kim
-
--Với Oxi: Teluri cháy trong không khí tạo thành Tellurium(IV) Oxide (TeO2):
-
-    Te + O2 (nhiệt độ) → TeO2
-
--Với Halogen: Phản ứng trực tiếp tạo thành halide (ví dụ: TeCl2, TeCl4).
-
-2. Tác dụng với Axit
-
--Với Axit Oxi hóa: Hòa tan trong Axit Nitric (HNO3) nóng, tạo thành Axit Telurơ (H2TeO3).
-
--Với Axit Sulfuric: Hòa tan trong Axit Sulfuric (H2SO4) đặc và lạnh, tạo ra một dung dịch có màu đỏ tía đặc trưng.
-
-3. Tính chất lưỡng tính
-
--Tellurium(IV) Oxide (TeO2) là một Oxide lưỡng tính (phản ứng được với cả axit và base).
-
-IV. Điều chế
-
-Teluri được điều chế từ bùn anode của quá trình điện phân đồng.
-
--Thu thập: Bùn anode được xử lý bằng Sodium Hydroxide (NaOH) hoặc Sodium Carbonate (Na2CO3) để chuyển Teluri thành muối Telurite.
-
--Tinh chế: Teluri được tách ra và khử bằng Sulfur Dioxide (SO2) để thu được bột Teluri kim loại (hoặc tinh thể).
-
-V. Ứng dụng
-
--Hợp kim: Teluri được sử dụng để tạo hợp kim với Đồng (Cu) và Thép (Fe) để cải thiện khả năng gia công, giúp vật liệu dễ dàng được cắt và tạo hình hơn.
-
--Công nghiệp bán dẫn: Được sử dụng để sản xuất các hợp chất bán dẫn quan trọng như Cadmium Telluride (CdTe) và Mercury Cadmium Telluride (HgCdTe), dùng trong pin mặt trời và thiết bị phát hiện hồng ngoại.
-
--Cao su: Được dùng làm chất xúc tiến trong quá trình lưu hóa cao su.
-
--Công nghệ ghi đĩa: Được sử dụng làm lớp ghi dữ liệu trong một số đĩa quang (ví dụ: CD-RW).
-
--Hóa chất: Tellurium Dioxide (TeO2) được dùng làm chất tạo màu xanh-xanh lam cho thủy tinh.
+- Tính chất: Á kim
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Trạng thái oxi hóa: -2, 0, +2, +4, +6
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit telu (IV) (TeO2)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ telu khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc nóng, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối telu (IV) hoặc axit teluric (H2TeO4)
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+- Phản ứng với Kim loại/Hydro: Tác dụng khi đun nóng, thể hiện tính oxi hóa
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất chất bán dẫn (hợp kim với Bi, Cd)
+- Ứng dụng (Ngành): Pin mặt trời (Cadmium Telluride - CdTe)
+- Ứng dụng (Ngành): Sản xuất hợp kim (với Cu, Pb, Sn - tăng độ bền và khả năng gia công)
+- Ứng dụng (Ngành): Chất tạo màu xanh lam cho thủy tinh
+- Ứng dụng (Ngành): Công nghiệp cao su và chất xúc tác

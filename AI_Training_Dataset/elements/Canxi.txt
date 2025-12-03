@@ -1,72 +1,36 @@
 ﻿Tên tiếng Anh: Calcium
-Tên tiếng Việt: Calci
-
-Nhóm: IIA
-Chu kỳ: 4
-Nguyên tử khối: 40
-Độ âm điện: 1
-Cấu hình electron: [Ar] 4s2
-
-I. Trạng thái tự nhiên 
-
-- Canxi có 6 đồng vị ổn định, hai trong chúng có nguồn gốc tự nhiên: đồng vị 40Ca và đồng vị phóng xạ 41Ca với chu kỳ bán rã = 103.000 năm. 97% của nguyên tố này là ở dạng 40Ca.
-
-II. Tính chất vật lý & nhận biết
-
-1. Tính chất vật lí:
-
-- Canxi là kim loại kiềm thổ, màu trắng bạc, dẻo, khá cứng.
-
-- Canxi có khối lượng riêng là 1,54 g/cm3; có nhiệt độ nóng chảy là 842°C và sôi ở 1495°C.
-
-2. Nhận biết
-
-- Đốt cháy các hợp chất của Canxi, cho ngọn lửa màu đỏ - nâu.
-
+Tên tiếng Việt: Canxi
+I. Thông tin cơ bản
+- Nhóm: IIA
+- Chu kỳ: 4
+- Nguyên tử khối: 40,078
+- Độ âm điện: 1,00
+- Cấu hình electron: [Ar] 4s2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc (hoặc vàng nhạt)
+- Độ cứng: Mềm (cứng hơn Natri, mềm hơn Magiê)
+- Điểm nóng chảy: 842 °C
+- Điểm sôi: 1484 °C
+- Mật độ: 1,55 g/cm³
+- Tính dẫn điện: Tốt
+- Tính dẫn nhiệt: Tốt
+- Màu ngọn lửa: Đỏ gạch
 III. Tính chất hóa học
-
-- Canxi là chất khử mạnh:
-
-Ca → Ca2+ + 2e
-
-a. Tác dụng với phi kim
-
-2 Ca + O2 → 2 CaO
-
-Ca + H2 → CaH2 .
-
-b. Tác dụng với axit
-
-
-- Với dung dịch HCl, H2SO4 loãng:
-
-Ca + 2HCl→ CaCl2 + H2
-
-- Với dung dịch HNO3:
-
-Ca + 4HNO3 đặc → Ca(NO3)2 + 2NO2 + 2H2O.
-
-c. Tác dụng với nước
-
-- Ở nhiệt độ thường, Ca khử nước mạnh.
-
-Ca + 2H2O → CaOH)2 + H2
-
-IV. Điều chế
-- Điện phân nóng chảy muối canxi clorua.
-CaCl2 (đpnc)→ Ca + Cl2
-
-V. Ứng dụng 
-
-- Canxi là một thành phần quan trọng của khẩu phần dinh dưỡng. Sự thiếu hụt rất nhỏ của nó đã ảnh hưởng tới sự hình thành và phát triển của xương và răng. Thừa can xi có thể dẫn đến sỏi thận. Vitamin D là cần thiết để hấp thụ canxi. Các sản phẩm sữa chứa một lượng lớn canxi.
-
-- Các ứng dụng khác còn có:
-
-    + Chất khử trong việc điều chế các kim loại khác như uran, ziriconi hay thori.
-
-    + Chất chống ôxi hóa, chống sulfua hóa hay chống cacbua hóa cho các loại hợp kim chứa hay không chứa sắt.
-
-
-    + Một chất tạo thành trong các hợp kim của nhôm, beryli, đồng, chì hay magiê.
-
-    + Nó được sử dụng trong sản xuất xi măng hay vữa xây sử dụng rộng rãi trong xây dựng.
+- Tính chất: Kim loại kiềm thổ
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +2 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành oxit canxi (CaO)
+- Phản ứng với Oxi (Đặc điểm): Phản ứng xảy ra ở nhiệt độ thường (lớp oxit bảo vệ)
+- Phản ứng với Nước: Phản ứng dễ dàng với nước lạnh
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (Ca(OH)2)
+- Phản ứng với Axit: Tác dụng mạnh với axit (HCl, H2SO4 loãng, HNO3)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối canxi và giải phóng khí hydro (trừ H2SO4 tạo CaSO4 ít tan)
+- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim (với Al, Mg, Pb)
+- Ứng dụng (Ngành): Khử oxi, khử lưu huỳnh trong luyện kim
+- Ứng dụng (Hợp chất): Canxi oxit (CaO - vôi sống) dùng trong xây dựng, sản xuất hóa chất
+- Ứng dụng (Hợp chất): Canxi cacbonat (CaCO3) dùng trong xây dựng (đá vôi), sản xuất xi măng, thủy tinh
+- Ứng dụng (Hợp chất): Canxi sulfat (CaSO4 - thạch cao) dùng trong xây dựng, y học (bó bột)
+- Ứng dụng (Sinh học): Là thành phần chính của xương, răng (Ca3(PO4)2)

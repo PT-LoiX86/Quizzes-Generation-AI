@@ -1,78 +1,41 @@
 ﻿Tên tiếng Anh: Oxygen
-Tên tiếng Việt: Oxy
-
-Nhóm: VIA
-Chu kỳ: 2
-Nguyên tử khối: 15,999
-Độ âm điện: 3,44
-Cấu hình electron: [He] 2s2 2p4
-Chỉ số oxi hóa lần lượt là  -3, 0, +1, +2, +3, +4, +5
-
-I. Trạng thái tự nhiên 
-
-Oxi trong không khí là sản phẩm của quá trình quang hợp.
-
-CO2 + H2O (as)→ C6H12O6 + 6O2
-II. Tính chất vật lý 
-
--Khí oxi không màu, không mùi, không vị, hơi nặng hơn không khí.
-
--Dưới áp suất khí quyển, oxi hoá lỏng ở nhiệt độ -183oC.
-
--Khí oxi tan ít trong nước (100ml nước ở 20oC, 1 atm hoà tan được 3,1ml khí oxi. Độ tan của khí oxi ở 20oC và 1 atm là 0,0043 g trong 100g H2O).
-
+Tên tiếng Việt: Oxi
+I. Thông tin cơ bản
+- Nhóm: VIA
+- Chu kỳ: 2
+- Nguyên tử khối: 15,999
+- Độ âm điện: 3,44
+- Chỉ số oxi hóa:  -3, 0, +1, +2, +3, +4, +5
+- Cấu hình electron: [He] 2s2 2p4
+- Công thức phân tử: O2 (phổ biến)
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Chiếm phần lớn trong không khí
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -218,8 °C
+- Điểm sôi: -183 °C
+- Mật độ: 1,429 g/L (ở 0 °C và 1 atm)
+- Tính chất: Hơi nặng hơn không khí
+- Tính chất: Tan ít trong nước
+- Đặc điểm: Có tính thuận từ (bị nam châm hút)
 III. Tính chất hóa học
-
-    Khi tham gia phản ứng, nguyên tử O dễ dàng nhận thêm 2e. Nguyên tử oxi có độ âm điện lớn (3,44), chỉ kém flo (3,98).
-
-    Do vậy, oxi là nguyên tố phi kim hoạt động hoá học, có tính oxi hoá mạnh. Trong các hợp chất (trừ hợp chất với flo), nguyên tố oxi có số oxi hoá là -2.
-
-    Oxi tác dụng với hầu hết các kim loại (trừ Au, Pt, ...) và các phi kim (trừ halogen). Oxi tác dụng với nhiều hợp chất vô cơ và hữu cơ.
-
-1. Tác dụng với kim loại
-
-    Tác dụng với hầu hết kim loại (trừ au và Pt), cần có to tạo oxit:
-
-4Al + 3O2 (nhiệt độ)→ 2Al2O3
-3Fe + 2O2 (nhiệt độ)→ Fe3O4
-
-2. Tác dụng với phi kim
-
-    Tác dụng với hầu hết phi kim (trừ halogen), cần có nhiệt độ tạo oxit:
-	C + O2 (nhiệt độ)→ CO2
-	N2 + O2 (nhiệt độ)→ 2NO
-Đặc biệt: Tác dụng với H2 nổ mạnh theo tỉ lệ 2:1 về số mol:
-2H2 + O2 (nhiệt độ)→ 2H2O
-
-3. Tác dụng với hợp chất
-
-    - Tác dụng với các chất có tính khử:
-		2SO2 + O2 (nhiệt độ)→ 2SO3
-		2H2S + 3O2 (nhiệt độ)→ 2H2O + 2SO2
-	
-    - Tác dụng với các chất hữu cơ:
-		C2H5OH + 3O2 (nhiệt độ)→ 2CO2 + 3H2O
-IV. Điều chế
-
-1. Trong phòng thí nghiệm
-
-    Trong phòng thí nghiệm, khí oxi được điều chế bằng cách phân huỷ những hợp chất giầu oxi và ít bền đối với nhiệt như KMnO4 (rắn), KClO3 (rắn), ...
-
-	2KMnO4 (nhiệt độ)→ K2MnO4 + MnO2 + O2
-	2KClO3 (nhiệt độ)→ 2KCl + 3O2
-
-2. Trong công nghiệp
-
-    a. Từ không khí: Không khí sau khi đã loại bỏ hết hơi nước, bụi, khí cacbon đioxit, được hoá lỏng. Chưng cất phân đoạn không khí lỏng, thu được oxi. Oxi được vận chuyển trong những bình thép có dung tích 100 lít dưới áp suất 150 atm.
-
-    b. Từ nước: Điện phân nước (nước có hoà tan một ít H2SO4 hoặc NaOH để tăng tính dẫn điện của nước), người ta thu được khí oxi ở cực dương và khí hiđro ở cực âm.
-
-
-V. Ứng dụng 
--Oxi có vai trò quyết định sự sống của con người và động vật.
-
--Mỗi người mỗi ngày cần 20-30m3 không khí để thở.
-
--Oxi cũng là một thành phần quan trọng trong quá trình đốt cháy năng lượng trong cơ thể, giúp duy trì sự sống và hoạt động của tất cả các tế bào. Nó tham gia vào quá trình oxi hóa các chất hữu cơ để tạo ra năng lượng, quá trình mà không có oxi, sự sống không thể duy trì được.
-
--Ngoài ra, oxi cũng đóng vai trò quan trọng trong nhiều quá trình sinh học khác như quá trình trao đổi khí ở cấp độ tế bào, quá trình hình thành năng lượng trong mitochondria và quá trình oxy hóa các chất cản trở, giúp duy trì sự ổn định của môi trường nội bào.
+- Tính chất: Phi kim
+- Tính oxi hóa: Mạnh (chỉ sau Flo)
+- Tính oxi hóa (Đặc điểm): Rất hoạt động
+- Trạng thái oxi hóa: -2 (phổ biến), -1, 0, +2
+- Phản ứng với Kim loại: Tác dụng dễ dàng, tạo thành oxit kim loại (trừ Au, Pt)
+- Phản ứng với Phi kim: Tác dụng với nhiều phi kim (trừ halogen, khí hiếm) ở nhiệt độ cao
+- Phản ứng với Hợp chất: Oxi hóa nhiều hợp chất (ví dụ: CH4, C6H12O6)
+- Phản ứng (Đặc điểm): Là chất duy trì sự cháy
+IV. Ứng dụng
+- Ứng dụng (Y học): Hỗ trợ hô hấp (bình oxi)
+- Ứng dụng (Ngành): Hàn cắt kim loại (oxy-axetylen)
+- Ứng dụng (Ngành): Công nghiệp hóa chất (sản xuất axit, hóa chất)
+- Ứng dụng (Ngành): Luyện kim (luyện thép)
+- Ứng dụng (Ngành): Xử lý nước thải
+- Ứng dụng (Ngành): Động cơ tên lửa
+V. Vai trò sinh học
+- Vai trò: Quan trọng nhất cho sự sống
+- Chức năng: Cần thiết cho quá trình hô hấp tế bào
+- Chức năng: Là thành phần của nước, protein, carbohydrate, chất béo (các hợp chất hữu cơ chính)

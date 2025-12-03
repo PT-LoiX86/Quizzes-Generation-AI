@@ -1,72 +1,41 @@
 ﻿Tên tiếng Anh: Beryllium
-Tên tiếng Việt: Beryli
-
-Nhóm: IIA
-Chu kỳ: 2
-Nguyên tử khối: 9,012182(3)
-Độ âm điện: 0,98
-Cấu hình electron: [He] 2s2
-
-I. Trạng thái tự nhiên 
-
-- Trong số 10 đồng vị của beri thì chỉ có 9Be là ổn định.
-
-- Beri là thành phần thiết yếu trong số 100 trên khoảng 4000 khoáng chất đã biết, quan trọng nhất trong số đó là bertrandit (Be4Si2O7(OH)2), berin (Al2Be3Si6O18), chrysoberin (Al2BeO4) và phenakit (Be2SiO4). Các dạng quý hiếm của berin là ngọc aquamarin và ngọc lục bảo. Cùng với hiđrô, heli và liti, một lượng nhỏ berili cũng đã được tạo ra trong Vụ Nổ Lớn.
-
-
-II. Tính chất vật lý & nhận biết
-
-1. Tính chất vật lí:
-
-- Beri là kim loại, màu xám nhạt, nhẹ, khá cứng, giòn.
-
-- Có khối lượng riêng là 1,85 g/cm3; có nhiệt độ nóng chảy là 1287℃ và sôi ở 2507℃.
-
-2. Nhận biết
-
-- Đốt các hợp chất của beri cho ngọn lửa màu trắng
-
+Tên tiếng Việt: Beri
+I. Thông tin cơ bản
+- Nhóm: IIA
+- Chu kỳ: 2
+- Nguyên tử khối: 9,0122
+- Độ âm điện: 1,57
+- Cấu hình electron: [He] 2s2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Xám thép
+- Độ cứng: Rất cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 1287 °C
+- Điểm sôi: 2471 °C
+- Mật độ: 1,85 g/cm³
+- Tính dẫn điện: Tốt
+- Tính dẫn nhiệt: Tốt
 III. Tính chất hóa học
-
-- Be là chất khử mạnh nhưng yếu hơn Li và Mg. Trong hợp chất tồn tại dưới dạng ion Be2+.
-
-Be → Be2+ + 2e
-
-a. Tác dụng với phi kim
-
-2 Be + O2 → 2 BeO
-
-- Trong không khí, Be bị oxi hóa chậm tạo thành màng oxit mỏng bào vệ kim loại, khi đốt nóng Be bị cháy trong oxi.
-
-
-b. Tác dụng với axit
-
-- Với dung dịch HCl và H2SO4 loãng:
-
-Be + H2SO4 → BeSO4 + H2
-
-- Với dung dịch HNO3:
-
-3Be + 8HNO3(loãng,nóng) → 3Be(NO3)2 + 2NO + 4H2O
-
-c. Tác dụng với nước
-
-- Ở nhiệt độ thường, Be không phản ứng.
-
-d. Tác dụng với dung dịch kiềm
-
-- Be tác dụng với dung dịch bazơ mạnh
-
-Be + 2NaOH + 2H2O → Na2[Be(OH)4] + H2
-
-Be + 2NaOH n/c → Na2BeO2 + H2
-
-IV. Điều chế
-
-BeF2 + Mg → MgF2 + Be
-
-V. Ứng dụng
-
-- Beri được sử dụng như là chất tạo hợp kim trong sản xuất beri đồng. (Be có khả năng hấp thụ một lượng nhiệt lớn) Các hợp kim beri-đồng được sử dụng rộng rãi trong nhiều ứng dụng do độ dẫn điện và độ dẫn nhiệt cao, sức bền và độ cứng cao, các thuộc tính không nhiễm từ, cùng với sự chống ăn mòn và khả năng chống mỏi tốt của chúng.
-
-- Các ứng dụng bao gồm việc sản xuất các điện cực hàn điểm, lò xo, các thiết bị không đánh lửa và các tiếp điểm điện.
+- Tính chất: Kim loại kiềm thổ
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +2 (duy nhất)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit beri (BeO)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ beri khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước, kể cả nước sôi
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4) và axit đặc nóng
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối beri và giải phóng khí hydro
+- Phản ứng với Axit (Ngoại lệ): Không tác dụng với HNO3 đặc nguội
+- Tính lưỡng tính: Oxit và Hydroxit beri (BeO, Be(OH)2) có tính lưỡng tính
+- Tác dụng với Kiềm: Không tác dụng trực tiếp với dung dịch kiềm, nhưng Be(OH)2 tan trong dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim (với Cu, Ni)
+- Ứng dụng (Đặc điểm): Hợp kim nhẹ, bền, chịu nhiệt tốt
+- Ứng dụng (Ngành): Chế tạo các bộ phận máy bay, tàu vũ trụ
+- Ứng dụng (Ngành): Chế tạo lò phản ứng hạt nhân (làm chất làm chậm neutron)
+- Ứng dụng (Ngành): Chế tạo thiết bị X-quang
+- Ứng dụng (Ngành): Gương phản xạ (kính viễn vọng)
+V. Vấn đề an toàn
+- Độc tính: Rất độc (ngay cả với lượng nhỏ)
+- Gây bệnh: Gây ra bệnh phổi mãn tính (berylliosis)
+- Phòng ngừa: Cần tuân thủ nghiêm ngặt các biện pháp an toàn khi làm việc

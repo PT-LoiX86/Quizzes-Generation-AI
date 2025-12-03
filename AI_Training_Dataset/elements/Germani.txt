@@ -1,77 +1,36 @@
 ﻿Tên tiếng Anh: Germanium
 Tên tiếng Việt: Germani
-
-Nhóm: IVB
-Chu kỳ: 4
-Nguyên tử khối: 72,64 
-Độ âm điện: 2,01
-Cấu hình electron: [Ar] 3d10 4s2 4p2
-
-
-I. Tính chất vật lý 
-
--Germani là á kim màu trắng xám, có ánh kim loại.
--Germani là chất bán dẫn, có tính dẫn điện trung gian giữa kim loại và chất cách điện.
--Germani có độ cứng cao, giòn và dễ vỡ.
--Germani có nhiệt độ nóng chảy tương đối thấp (938,25 °C).
--Germani có mật độ cao (5,323 g/cm³).
--Germani dẫn điện và dẫn nhiệt tốt.
-
-II. Tính chất hóa học
-
-Germani là á kim có tính khử trung bình.
-Germani tác dụng với axit:
-Ge + 4HCl → GeCl4 + 2H2↑
-
-Ge + 2H2SO4 → Ge(SO4)2 + 2H2↑
-
-Germani tác dụng với dung dịch muối của kim loại đứng sau nó trong dãy điện hóa:
-Ge + CuSO4 → GeSO4 + Cu↓
-
-Ge + AgNO3 → Ge(NO3)2 + Ag↓
-
-Germani tác dụng với oxi:
-Ge + O2 → GeO2
-
-Germani tác dụng với axit nitric:
-Ge + 4HNO3 → GeO2 + 4NO2↑ + 2H2O
-
-III. Ứng dụng 
-
-1. Điện tử
-
--Thiết bị bán dẫn: Germani được sử dụng trong các thiết bị bán dẫn, chẳng hạn như transistor, diode và vi mạch.
--Sợi quang học: Germani được sử dụng để tạo ra các sợi quang học có khả năng truyền dẫn tín hiệu quang học over long distances.
--Thiết bị điện tử công suất cao: Germani được sử dụng trong các thiết bị điện tử công suất cao, chẳng hạn như thyristor và chỉnh lưu.
-
-2. Hợp kim
-
--Hợp kim nhôm: Germani được sử dụng để tạo ra các hợp kim nhôm có độ bền cao, nhẹ và chống ăn mòn.
--Hợp kim thép: Germani được sử dụng để tạo ra các hợp kim thép có độ bền cao và khả năng chịu nhiệt tốt.
--Hợp kim hàn: Germani được sử dụng trong các hợp kim hàn để tạo ra mối hàn có độ bền cao và khả năng chống ăn mòn tốt.
-
-3. Nhựa
-
--Nhựa chịu nhiệt: Germani được sử dụng để tạo ra các loại nhựa 
-có khả năng chịu nhiệt cao và chống cháy.
--Nhựa silicon: Germani được sử dụng để tạo ra các loại nhựa silicon có khả năng chịu nhiệt cao, chống ăn mòn và có tính đàn hồi tốt.
--Nhựa quang học: Germani được sử dụng để tạo ra các loại nhựa quang học có khả năng truyền dẫn ánh sáng tốt.
-
-4. Y học
-
--Chẩn đoán ung thư: Germani được sử dụng trong các hợp chất radioisotope để chẩn đoán ung thư.
--Điều trị ung thư: Germani được sử dụng trong các loại thuốc điều trị ung thư, chẳng hạn như germanium dioxide.
--Ghép tạng: Germani được sử dụng để tăng cường khả năng tương thích của các mô trong phẫu thuật ghép tạng.
-
-5. Các ứng dụng khác
-
--Kính quang học: Germani được sử dụng để tạo ra các loại kính quang học có độ chính xác cao.
--Thiết bị đo lường: Germani được sử dụng trong các thiết bị đo lường, chẳng hạn như nhiệt kế và áp kế.
--Ngành công nghiệp dệt may: Germani được sử dụng để tạo ra các loại vải có khả năng chống cháy và chống thấm nước.
-
-
-Ngoài ra, Germani còn có một số ứng dụng tiềm năng khác, chẳng hạn như:
-
--Pin nhiên liệu: Germani được sử dụng để tạo ra các loại pin nhiên liệu có hiệu suất cao.
--Xe điện: Germani được sử dụng để tạo ra các loại pin cho xe điện có dung lượng cao và tuổi thọ dài.
--In 3D: Germani được sử dụng để tạo ra các loại vật liệu in 3D có độ bền cao và khả năng chịu nhiệt tốt.
+I. Thông tin cơ bản
+- Nhóm: IVA
+- Chu kỳ: 4
+- Nguyên tử khối: 72,63
+- Độ âm điện: 2,01
+- Cấu hình electron: [Ar] 3d10 4s2 4p2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng xám
+- Tính chất: Giòn
+- Tính chất: Có ánh kim loại
+- Điểm nóng chảy: 938,25 °C
+- Điểm sôi: 2833 °C
+- Mật độ: 5,32 g/cm³
+- Tính dẫn điện: Chất bán dẫn
+III. Tính chất hóa học
+- Tính chất: Á kim
+- Tính chất: Có tính khử (chủ yếu)
+- Trạng thái oxi hóa: +4 (phổ biến) và +2
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit germani (IV) (GeO2)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ germani khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit loãng
+- Phản ứng với Axit (Ngoại lệ): Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối germani (IV) và sản phẩm khử
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+- Phản ứng với Halogen: Tác dụng mạnh tạo tetrahalua (GeX4)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất chất bán dẫn (điện tử)
+- Ứng dụng (Ngành): Chế tạo cáp quang
+- Ứng dụng (Ngành): Chế tạo thấu kính hồng ngoại
+- Ứng dụng (Ngành): Hóa chất làm xúc tác
+- Ứng dụng (Ngành): Dược phẩm và chất bổ sung dinh dưỡng
+- Ứng dụng (Ngành): Pin mặt trời hiệu suất cao

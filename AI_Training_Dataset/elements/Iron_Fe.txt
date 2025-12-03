@@ -1,98 +1,39 @@
-﻿Tên tiếng Anh: Iron (Ferrum)
+﻿Tên tiếng Anh: Iron
 Tên tiếng Việt: Sắt
-
-Nhóm: VIIIB
-Chu kỳ: 4
-Nguyên tử khối: 56
-Độ âm điện: 1,83
-Cấu hình electron: [Ar] 3d6 4s2
-
-I. Trạng thái tự nhiên 
-
-- Trong tự nhiên sắt tồn tại ở dạng hợp chất, trong các quặng sắt.
-
-- Các quặng sắt:
-
-   + Hematit: Hematit đỏ (Fe2O3 khan) và Hematit nâu ( Fe2O3.nH2O).
-
-   + Manhetit ( Fe3O4)
-
-   + Xiđerit ( FeCO3)
-
-   + Pirit ( FeS2)
-
-- Sắt còn có trong hồng cầu của máu, giúp vận chuyển oxi tới các tế bào.
-
-II. Tính chất vật lý & nhận biết
-
-1. Tính chất vật lí:
-
-   - Sắt là kim loại màu trắng hơi xám, dẻo, dai, dễ rèn, nhiệt độ nóng chảy khá cao (1540oC)
-
-   - Dẫn nhiệt, dẫn điện tốt, có tính nhiễm từ.
-
-2. Nhận biết
-
-   - Sắt có tính nhiễm từ nên bị nam châm hút.
-
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 4
+- Nguyên tử khối: 55,845
+- Độ âm điện: 1,83
+- Cấu hình electron: [Ar] 3d6 4s2 
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại ở dạng hợp chất, trong các quặng sắt( Hematit, Manhetit, Xiderit, Pirit) và trong hồng cầu của máu.
+- Trạng thái: Rắn
+- Màu sắc: Xám bạc
+- Độ cứng: Mềm
+- Tính chất: Dẻo, dễ kéo sợi
+- Điểm nóng chảy: 1538 °C
+- Điểm sôi: 2862 °C
+- Mật độ: 7,87 g/cm³
+- Tính dẫn điện: Tốt
+- Tính dẫn nhiệt: Tốt
+- Tính chất: Kim loại sắt từ (tính chất từ)
+- Tính chất: Dễ bị gỉ trong không khí ẩm
 III. Tính chất hóa học
-
-- Sắt là kim loại có tính khử trung bình, tùy theo các chất oxi hóa mà sắt có thể bị oxi hóa lên mức +2 hay +3.
-
-Fe → Fe2+ + 2e
-
-Fe → Fe3+ + 3e
-
-1. Tác dụng với phi kim
-
-a. Tác dụng với lưu huỳnh
-
-Fe + S (nhiệt độ)→ FeS
-
-b. Tác dụng với oxi
-
-3Fe + 2O2 (nhiệt độ)→ Fe3O4 (FeO.Fe2O3)
-
-c. Tác dụng với clo
-
-2Fe + 3Cl2 (nhiệt độ)→ 2FeCl3
-
-
-2. Tác dụng với axit
-
-a.Tác dụng với dung dịch axit HCl, H2SO4 loãng
-
-Fe + 2H+ → Fe2+ + H2
-
-b. Với các axit HNO3, H2SO4 đặc
-
-2Fe + 6H2SO4 (nhiệt độ)→ Fe2(SO4)3 + 3SO2 + 6H2O
-Fe + 6HNO3đ (nhiệt độ)→ Fe(NO3)3 + 3NO2 + 3H2O
-
-Fe + 4HNO3 l → Fe(NO3)3 + NO + 2H2O
-
-Chú ý: Với HNO3 đặc, nguội; H2SO4 đặc, nguội: Fe bị thụ động hóa.
-
-3. Tác dụng với dung dịch muối
-
-- Fe đẩy được kim loại đứng sau ra khỏi dung dịch muối của chúng:
-
-Fe+ CuSO4 → FeSO4 + Cu
-
-Chú ý:
-
-Fe + 2Ag+ → Fe2+ + 2Ag
-
-Ag+ dư + Fe2+ → Fe3+ + Ag
-
-IV. Điều chế
-
-- Sắt được điều chế theo phương pháp nhiệt luyện.
-
-Fe2O3 + 3CO → 2Fe + 3CO2
-
-V. Ứng dụng 
-
-   - Phần lớn sắt được sử dụng để luyện thép, gang.
-
-   - Ứng dụng trong nhiều vật dụng đời sống như oto, xe máy……
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (hoạt động hơn Cu, Ag)
+- Trạng thái oxi hóa: +2, +3 (phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit sắt (II) (FeO), oxit sắt (III) (Fe2O3) hoặc oxit sắt từ (Fe3O4)
+- Phản ứng với Nước: Không phản ứng với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng với hơi nước ở nhiệt độ cao (tạo ra Fe3O4 và H2)
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối sắt(II) và giải phóng khí hydro
+- Phản ứng với Axit (Thụ động): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+- Phản ứng với Axit (Oxi hóa): Tác dụng với axit oxi hóa mạnh (HNO3, H2SO4 đặc nóng) tạo muối sắt(III)
+- Phản ứng với Muối: Có thể đẩy được kim loại yếu hơn ra khỏi dung dịch muối (ví dụ: CuSO4, AgNO3)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất thép (hợp kim chủ yếu của sắt)
+- Ứng dụng (Ngành): Xây dựng (nhà cửa, cầu đường)
+- Ứng dụng (Ngành): Chế tạo máy móc, thiết bị
+- Ứng dụng (Ngành): Sản xuất nam châm
+- Ứng dụng (Sinh học): Thành phần của Hemoglobin (vận chuyển oxi trong máu)

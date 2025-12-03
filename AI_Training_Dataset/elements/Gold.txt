@@ -1,52 +1,38 @@
-﻿Tên tiếng Anh: Gold (Aurum)
+﻿Tên tiếng Anh: Gold
 Tên tiếng Việt: Vàng
-
-Nhóm: IB
-Chu kỳ: 6
-Nguyên tử khối: 197
-Độ âm điện: 2,54
-Cấu hình electron: [Xe] 4f14 5d10 6s1
-
-
-I. Trạng thái tự nhiên 
-
-- Vàng được tìm thấy trong quặng được tạo ra từ đá với các phần từ vàng rất nhỏ hay cực nhỏ. Quặng vàng này thường được tìm thấy cùng thạch anh hay các khoáng chất sunfit.
-
-II. Tính chất vật lý 
-
-- Vàng là kim loại mềm, màu vàng, dẻo. Vàng có tính dẫn điện và dẫn nhiệt tốt, chỉ kém bạc và đồng.
-
-- Vàng có khối lượng riêng là 19,3g/cm3, nóng chảy ở 1063°C.
-
-
-2. Nhận biết
-
-- Sử dụng hỗn hợp nước cường toan, vàng tan dần
-
-Au + HNO3 (đặc) + 4HCl (đặc) → H[AuCl4] + NO + 2H2O
-
+I. Thông tin cơ bản
+- Nhóm: IB
+- Chu kỳ: 6
+- Nguyên tử khối: 196,96657
+- Độ âm điện: 2,54
+- Cấu hình electron: [Xe] 4f14 5d10 6s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên:  Tồn tại trong quặng được tạo ra từ đá với các phần từ vàng rất nhỏ hay cực nhỏ cùng thạch anh hay các khoáng chất sunfit.
+- Trạng thái: Rắn
+- Màu sắc: Vàng kim
+- Tính chất: Kim loại quý
+- Độ cứng: Rất mềm
+- Tính chất: Rất dẻo, dễ kéo sợi
+- Tính chất: Dễ dát mỏng (tạo lá vàng cực mỏng)
+- Điểm nóng chảy: 1064,18 °C
+- Điểm sôi: 2856 °C
+- Mật độ: 19,32 g/cm³ (rất nặng)
+- Tính dẫn điện: Rất tốt
+- Tính dẫn nhiệt: Rất tốt
 III. Tính chất hóa học
-
-- Vàng là kim loại quý có tính khử rất yếu
-
-- Vàng không bị oxi hóa trong không khí dù ở nhiệt độ nào và không bị hòa tan trong axit, kể cả HNO3 nhưng vàng bị hòa tan trong một số trường hợp sau:
-
-Nước cường toan (hỗn hợp 1 thể tích HNO3 và 3 thể tích HCl đặc).
-
-Au + HNO3 (đặc) + 4HCl (đặc) → H[AuCl4] + NO + 2H2O
-
-Dung dịch muối xianua của kim loại kiềm, như NaCN, tạo thành ion phức [Au(CN)2]-.
-
-4Au + 8NaCN (đặc) + O2 + H2O → 4Na[Au(CN)2] + 4NaOH
-
-Thủy ngân, vì tạo thành hỗn hốn với Au (chất rắn, màu trắng). đốt nóng hỗn hống, thủy ngân bay hơi còn lại vàng.
-
-IV. Điều chế
-
-- Khai thác trực tiếp từ các mỏ quặng.
-
-V. Ứng dụng 
-
-- Vàng nguyên chất quá mềm không thể dùng cho việc thông thường nên chúng thường được làm cứng bằng cách tạo hợp kim với bạc, đồng và các kim loại khác.
-
-- Vàng và hợp kim của nó thường được dùng nhiều nhất trong ngành trang sức, tiền kim loại và là một chuẩn cho trao đổi tiền tệ ở nhiều nước.
+- Tính khử: Rất yếu (trơ)
+- Trạng thái oxi hóa: +1, +3 (phổ biến)
+- Độ hoạt động: Kém hoạt động
+- Phản ứng với Oxi: Không phản ứng với oxi, không bị ăn mòn trong không khí
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả HNO3, H2SO4)
+- Phản ứng với Axit (Ngoại lệ): Tan trong nước cường toan (hỗn hợp HNO3 đặc và HCl đặc theo tỷ lệ 1:3)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối phức (ví dụ: H[AuCl4])
+- Phản ứng với Muối: Tan trong dung dịch muối cyanide (NaCN, KCN) khi có mặt O2
+IV. Ứng dụng
+- Ứng dụng (Ngành): Trang sức
+- Ứng dụng (Ngành): Tiền tệ (dự trữ quốc gia, đồng xu)
+- Ứng dụng (Ngành): Công nghiệp điện tử (dây dẫn, chân tiếp xúc)
+- Ứng dụng (Ngành): Răng giả
+- Ứng dụng (Ngành): Mạ điện (bảo vệ các bộ phận khỏi ăn mòn)
+- Ứng dụng (Ngành): Y học (chẩn đoán và điều trị)

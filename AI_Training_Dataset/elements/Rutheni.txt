@@ -1,77 +1,36 @@
 ﻿Tên tiếng Anh: Ruthenium
 Tên tiếng Việt: Rutheni
-
-Nhóm : VIIIB
-Chu kỳ : 5
-Số nguyên tử : 44
-Nguyên tử khối tương đối : 101.07
-Độ âm điện theo Pauling : 2.2
-Cấu hình electron : [Kr] 4d7 5s1
-Cấu tạo mạng tinh thể : Lục phương
-Các số oxi hóa phổ biến : +3, +4 (ổn định nhất), +8, +2
-
-I. Trạng thái tự nhiên
-
--Độ hiếm: Rutheni là một trong những nguyên tố hiếm nhất trên Trái Đất, có hàm lượng rất thấp trong vỏ Trái Đất.
-
--Nguồn gốc: Nó được tìm thấy không kết hợp trong tự nhiên cùng với các kim loại nhóm Platin khác.
-
--Khai thác: Rutheni được thu hồi thương mại chủ yếu như một sản phẩm phụ trong quá trình khai thác và chế biến quặng đồng-niken (Cu-Ni).
-
--Vị trí: Các nguồn cung cấp chính đến từ Nam Phi, Nga và Canada.
-
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 5
+- Nguyên tử khối: 101,07
+- Độ âm điện: 2,2
+- Các số oxi hóa phổ biến : +2, +3, +4 (ổn định nhất), +8 
+- Cấu hình electron: [Kr] 4d7 5s1
+- Cấu tạo mạng tinh thể : Lục phương
 II. Tính chất vật lý
-
--Màu sắc: Kim loại trắng bạc, rất cứng và giòn
-
--Đặc tính cơ học: Rutheni là một kim loại rất cứng và giòn ở nhiệt độ phòng.
-
--Khối lượng riêng: 12.45 g/cm^3.
-
--Nhiệt độ nóng chảy: Rất cao, 2334°C.
-
--Nhiệt độ sôi: 4150°C.
-
+- Trạng thái: Rắn
+- Màu sắc: Xám bạc
+- Độ cứng: Rất cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 2334 °C (Rất cao)
+- Điểm sôi: 4150 °C
+- Mật độ: 12,41 g/cm³
+- Tính chất: Kim loại quý
+- Tính chất: Chống ăn mòn tuyệt vời
 III. Tính chất hóa học
-
-Rutheni là kim loại nhóm Platin ít hoạt động hơn Rhodium và Paladi, nhưng hoạt động hơn Iridi và Platin. Nó có khả năng tạo ra Tetroxide dễ bay hơi và độc hại.
-
-1. Tác dụng với Oxi
-
--Oxy hóa: Khi đun nóng trong không khí đến khoảng 700°C, Rutheni bị oxy hóa tạo thành Ruthenium(IV) Oxide (RuO2).
-
--Hợp chất độc hại: Giống như Osmi, Rutheni có thể tạo thành Ruthenium tetroxide (RuO4) dễ bay hơi và cực kỳ độc (giống OsO4):
-
-    Ru + 2O2 (nhiệt độ)→ RuO4 (Sản phẩm bay hơi)
-
-2. Tác dụng với Axit
-
--Kháng ăn mòn: Rutheni không bị tấn công bởi axit đơn lẻ (kể cả Axit Hydrocloric (HCl) và Axit Nitric (HNO3)).
-
--Hòa tan: Nó không bị hòa tan bởi Nước cường toan (Aqua Regia) ở nhiệt độ thường (khác với Platin và Vàng).
-
-IV. Điều chế
-
-Rutheni được điều chế từ sản phẩm phụ của quá trình luyện kim Niken và Đồng, hoặc từ cặn bã của quặng Platin.
-
--Tách chiết công nghiệp: Quá trình tách Rutheni phức tạp, bao gồm:
-
-    +Chưng cất: Xử lý cặn kim loại nhóm Platin bằng các chất oxy hóa (Na2O2 hoặc NaClO3) để chuyển Rutheni thành Ruthenium tetroxide (RuO4) dễ bay hơi.
-
-    +Khử: Thu thập và khử RuO4 bằng Hydrogen (H2) hoặc Carbon (C) để thu được bột Rutheni kim loại.
-
-V. Ứng dụng
-
--Điện tử: Rutheni được sử dụng rộng rãi làm vật liệu tiếp điểm điện do độ bền cao và chống mài mòn tốt. Dùng trong các điện trở màng dày và là vật liệu lớp che chắn (capping layer) trong vi mạch (chip).
-
--Hợp kim:
-
-    +Được tạo hợp kim với Platin (Pt) và Paladi (Pd) để tăng độ cứng và chống mài mòn, đặc biệt là trong các tiếp điểm điện chịu tải nặng.
-
-    +Hợp kim Rutheni-Molypden (Ru-Mo) là chất siêu dẫn ở nhiệt độ thấp.
-
--Xúc tác: Rutheni là một chất xúc tác hiệu quả trong nhiều phản ứng hóa học, bao gồm quá trình Fischer-Tropsch (sản xuất hydrocarbon lỏng).
-
--Quang học: Các phức chất của Rutheni có đặc tính phát sáng mạnh, được sử dụng trong nghiên cứu quang hóa và tế bào quang điện (solar cells) thế hệ mới.
-
--Nhiên liệu hạt nhân: Rutheni là một sản phẩm phụ của quá trình phân hạch hạt nhân.
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Rất yếu (trơ)
+- Trạng thái oxi hóa: +8 (cao nhất), +6, +4, +3, +2
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành Ruthenium tetroxide (RuO4)
+- Phản ứng với Oxi (RuO4): Có mùi hăng, rất độc, dễ bay hơi
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả nước cường toan)
+- Phản ứng với Axit (Ngoại lệ): Tan trong dung dịch có chất oxi hóa mạnh (ví dụ: HCl + ClO⁻)
+- Phản ứng với Halogen: Tác dụng khi đun nóng, tạo halua
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chất xúc tác (trong hóa dầu và tổng hợp hóa học)
+- Ứng dụng (Ngành): Sản xuất hợp kim (với Pt, Pd - tăng độ cứng)
+- Ứng dụng (Ngành): Công nghiệp điện tử (màng mỏng, chân tiếp xúc)
+- Ứng dụng (Ngành): Chế tạo điện cực
+- Ứng dụng (Ngành): Trang sức (mạ)

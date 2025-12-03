@@ -1,75 +1,41 @@
 ﻿Tên tiếng Anh: Mercury (Hydrargyrum)
 Tên tiếng Việt: Thủy ngân
-
-Nhóm: IIB
-Chu kỳ: 6
-Nguyên tử khối: 200,59
-Độ âm điện: 2
-Cấu hình electron: [Xe] 4f14 5d10 6s2
-
-
-
-I. Trạng thái tự nhiên 
-
-Trong tự nhiên, thủy ngân có thể tồn tại ở nhiều hình thức khác nhau như nguyên tố kim loại, dạng vô cơ, hữu cơ,... Ngoài ra, thủy ngân trong tự nhiên cũng có thể bị vi khuẩn tác động để chuyển thành hợp chất methylmercury, tích lũy trong cơ thể cá và động vật giác xác khi các sinh vật này sống trong môi trường có nồng độ thủy ngân cao. Tùy vào từng hình dạng mà 
-
-II. Tính chất vật lý 
-  
--Trạng thái tồn tại: Thủy ngân là kim loại ở dạng lỏng có màu ánh bạc, rất độc nếu vô tình hít phải hơi hay nuốt phải. Ở trạng thái rắn thủy ngân dễ uốn và cắt được dễ dàng.
--Khối lượng riêng: 13.69 g/cm3.
--Điểm đông đặc: -38,83 °C. Khi đóng băng, khối lượng thủy ngân giảm 3,59% và mật độ của nó tăng từ 13,69 g/cm3 (trạng thái lỏng) lên 14.184 g/cm3 (trạng thái rắn).
--Nhiệt độ sôi: 356,73 °C. 
--Tại nhiệt độ 0 °C, hệ số giãn nở thể tích của thủy ngân là 181,59 × 10^6, tại 20 °C là 181,71 × 10^6 và tại 100 °C là 182,50 × 10^6.
--Khả năng dẫn nhiệt của thủy ngân kém nhưng độ dẫn điện khá tốt.
-
+I. Thông tin cơ bản
+- Nhóm: IIB
+- Chu kỳ: 6
+- Nguyên tử khối: 200,59
+- Độ âm điện: 2,00
+- Cấu hình electron: [Xe] 4f14 5d10 6s2
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại ở nhiều hình thức khác nhau như nguyên tố kim loại, dạng vô cơ, hữu cơ, hợp chất methylmercury, ... cũng như tích lũy trong cơ thể cá và động vật giáp xác khi các sinh vật này sống trong môi trường có nồng độ thủy ngân cao. 
+- Trạng thái: Lỏng
+- Màu sắc: Bạc
+- Điểm nóng chảy: -38,83 °C
+- Điểm sôi: 356,73 °C
+- Mật độ: 13,53 g/cm³ (ở 25 °C)
+- Tính chất: Kim loại duy nhất ở thể lỏng ở nhiệt độ phòng
+- Tính chất: Dẫn điện tốt
+- Tính chất: Dẫn nhiệt kém
+- Tính chất: Tạo hỗn hống (hợp kim lỏng) với hầu hết kim loại (trừ Fe, Pt, W, Ta)
 III. Tính chất hóa học
-
--  Thủy ngân là kim loại thể hiện tính khử yếu.
-
--  Số oxi hóa: +1, +2.
-
-1. Tác dụng với phi kim
-Trong điều kiện nhiệt độ cao, Hg tác dụng với một số phi kim như oxi, halogen,... Riêng lưu huỳnh phản ứng xảy ra luôn trong điều kiện thường (sử dụng để thu hồi thủy ngân). Một số phương trình phản ứng:
-
- Hg + S   →  HgS
-
-2Hg + O2   → 2HgO
-
-Hg + Cl2   →  HgCl2
-
-2. Tác dụng với axit
-- Không phải loại axit nào thủy ngân cũng phản ứng. Nó chỉ tác dụng với những axit có tính oxi hóa mạnh, đặc. Ví dụ:
-
-2Hg + 2H2SO4 (đặc, nóng)   →  Hg2SO4 + SO2  + 2H2O
-
-Hg + 4HNO3 (đặc, nóng)   →  Hg(NO3)2 + 2NO2 + 2H2O.
-
-- Nước cường toan có thể hòa tan được Hg để tạo ra muối
-
-3Hg + 2HNO3 (đặc) + 6HCl (đặc)   →  3HgCl2 + 2NO  + 4H2O
-
-- Tác dụng với H2S trong khí quyển.
-
-Lưu ý: 
-
-- Có khả năng ăn mòn với nhiều kim loại để tạo thành hỗn hống (lỏng hoặc rắn). Một số kim loại như Na, K, Ca, Ba, Cu, Ag, Au, Zn, Cd, Pb,...
-
-IV. Điều chế
-
-Để điều chế thủy ngân sẽ đốt nóng hợp chất thủy ngân sunfua (chu sa) trong không khí và làm lạnh hơi thoát ra:
-
-HgS + O2   →  Hg + SO2
-
-V. Ứng dụng 
-– Ứng dụng chủ yếu của thủy ngân là dùng trong nghiệp sản xuất hóa chất, kỹ thuật điện và điện tử.
-
-– Có trong một số loại nhiệt kế, phong vũ kế thủy ngân, tích điện kế thủy ngân, bơm khuếch tán và nhiều thiết bị phòng thí nghiệm khác.
-
-– Dùng trong máy đo huyết áp chứa thủy ngân (đã bị cấm ở một số nước).
-
-– Thiomersal được sử dụng như một loại chất khử trùng trong vacxin và mực xăm.
-
-– Dùng để làm kín các chi tiết chuyển động của máy khuấy trong kỹ thuật hóa học.
-
-– Dùng trong các điện cực của một số dạng thiết bị điện tử, pin và là chất xúc tác, thành phần của thuốc diệt cỏ (ngừng sử dụng vào năm 1995), thuốc trừ sâu, hỗn hống nha khoa, pha chế thuốc,…
-
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Yếu
+- Trạng thái oxi hóa: +1 (Hg2²⁺), +2 (Hg²⁺)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit thủy ngân (II) (HgO)
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối thủy ngân và sản phẩm khử (NOx hoặc SO2)
+- Phản ứng với Axit (Trạng thái): Không tác dụng với HCl loãng và H2SO4 loãng
+- Phản ứng với Phi kim: Tác dụng với lưu huỳnh và halogen
+IV. Ứng dụng
+- Ứng dụng (Ngành): Nhiệt kế
+- Ứng dụng (Ngành): Áp kế
+- Ứng dụng (Ngành): Đồng hồ đo huyết áp
+- Ứng dụng (Ngành): Bóng đèn huỳnh quang
+- Ứng dụng (Ngành): Điện phân (sản xuất Clo và Natri hydroxit)
+- Ứng dụng (Ngành): Khai thác vàng và bạc (tạo hỗn hống)
+V. Vấn đề an toàn
+- Độc tính: Rất độc
+- Tác hại: Gây tổn thương thần kinh, thận, phổi
+- Độc tính (Đặc điểm): Hơi thủy ngân và hợp chất hữu cơ đặc biệt độc
+- Phòng ngừa: Cần xử lý nghiêm ngặt chất thải, hạn chế sử dụng

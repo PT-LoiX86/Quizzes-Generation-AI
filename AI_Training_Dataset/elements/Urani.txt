@@ -1,46 +1,44 @@
 ﻿Tên tiếng Anh: Uranium
 Tên tiếng Việt: Urani
-
-Thuộc họ Actini
-Nguyên tử khối: 238
-Độ âm điện: 1,38
-Cấu hình electron: [Rn] 5f3 6d1 7s2
-
-
-I. Trạng thái tự nhiên 
-
--Trong tự nhiên, Urani được tìm thấy ở dạng đá rắn với nồng độ thấp và phổ biến với đồng vị Urani 238 chiếm đến 99,284%. Uranium nguyên chất có màu bạc và dễ bị oxy hóa trong không khí.
-
--Trong vỏ Trái Đất, hàm lượng Urani được tìm thấy trong các loại đá hầu hết có nồng độ rơi vào khoảng 2 đến 4 phần triệu. Uranium thậm chí còn có thể được tìm thấy trong nước biển ở một số khu vực của các đại dương.
-
-II. Ứng dụng 
-
-1.Năng lượng hạt nhân:
-
--Nhiên liệu hạt nhân: Uranium, chủ yếu là isotope uranium-235 (U-235), được sử dụng làm nhiên liệu trong các lò phản ứng hạt nhân để sản xuất điện. Khi U-235 trải qua quá trình phân hạch, nó giải phóng một lượng lớn năng lượng dưới dạng nhiệt, được sử dụng để sản xuất điện.
-
--Phản ứng hạt nhân trong tàu ngầm và tàu sân bay: Uranium được sử dụng làm nhiên liệu trong các lò phản ứng hạt nhân nhỏ gọn trên tàu ngầm và tàu sân bay, giúp các phương tiện này hoạt động mà không cần tiếp nhiên liệu trong thời gian dài.
-
-2.Quân sự:
-
--Vũ khí hạt nhân: Uranium-235 và uranium-238 (U-238) được sử dụng trong sản xuất bom nguyên tử. U-235 là một trong các nguyên liệu chính trong các vũ khí hạt nhân.
-
--Đạn xuyên giáp: Uranium nghèo (depleted uranium - DU), chủ yếu là U-238 sau khi đã loại bỏ U-235, được sử dụng để làm đạn xuyên giáp do có mật độ cao và khả năng xuyên phá tốt.
-
-3.Y học:
-
--Sản xuất đồng vị phóng xạ: Uranium được sử dụng trong các lò phản ứng nghiên cứu để sản xuất các đồng vị phóng xạ dùng trong y học, chẳng hạn như molybdenum-99, một tiền chất của technetium-99m, được sử dụng trong hình ảnh y học.
-
-4.Nghiên cứu khoa học:
-
--Phân tích vật liệu: Uranium được sử dụng trong các phương pháp phân tích vật liệu và nghiên cứu khoa học để hiểu rõ hơn về cấu trúc và tính chất của vật liệu.
-
--Nghiên cứu nguyên tử và hạt nhân: Uranium là một trong các nguyên tố được sử dụng để nghiên cứu trong lĩnh vực vật lý nguyên tử và hạt nhân.
-
-5.Các ứng dụng khác:
-
--Màu sắc trong gốm sứ và kính: Uranium oxide đã từng được sử dụng để tạo màu trong gốm sứ và thủy tinh trước khi các nguy cơ phóng xạ của nó được biết đến.
-
--Tạo tấm chắn phóng xạ: Uranium, với mật độ cao, được sử dụng để làm tấm chắn phóng xạ trong các ứng dụng y tế và công nghiệp.
-
-Mặc dù uranium có nhiều ứng dụng quan trọng, việc sử dụng nó cũng đặt ra nhiều thách thức liên quan đến an toàn, môi trường và chính trị. Việc khai thác, xử lý và tiêu hủy uranium đòi hỏi phải tuân thủ nghiêm ngặt các quy định an toàn và bảo vệ môi trường.
+I. Thông tin cơ bản
+- Nhóm: IIIB
+- Chu kỳ: 7
+- Nguyên tử khối: 238,0289
+- Độ âm điện: 1,38
+- Cấu hình electron: [Rn] 5f3 6d1 7s2 (Phổ biến nhất)
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Urani được tìm thấy ở dạng đá rắn với nồng độ thấp. 
+- Trạng thái tự nhiên: Uranium có thể được tìm thấy trong nước biển ở một số khu vực của các đại dương.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm (cứng hơn Ti)
+- Tính chất: Dẻo
+- Điểm nóng chảy: 1132,3 °C
+- Điểm sôi: 4131 °C
+- Mật độ: 19,1 g/cm³ (rất nặng)
+- Tính chất: Kim loại phóng xạ
+- Tính chất: Dễ bị xỉn màu trong không khí
+- Tính chất: Có 3 dạng thù hình (alpha, beta, gamma)
+III. Tính chất hóa học
+- Tính chất: Kim loại actinide
+- Tính khử: Mạnh (rất hoạt động)
+- Trạng thái oxi hóa: +6 (phổ biến nhất), +4, +3, +5
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit urani (U3O8, UO2, UO3)
+- Phản ứng với Oxi (Đặc điểm): Phản ứng mạnh với không khí ẩm (bị oxy hóa)
+- Phản ứng với Nước: Phản ứng chậm với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng nhanh với nước sôi (tạo UO2)
+- Phản ứng với Axit: Tác dụng với axit không oxi hóa (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối urani (III) hoặc (IV) và giải phóng khí hydro
+- Phản ứng với Axit (Oxi hóa): Tác dụng với axit oxi hóa mạnh (HNO3) tạo ion uranyl (UO2²⁺)
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Nhiên liệu hạt nhân (U-235, U-238)
+- Ứng dụng (Ngành): Vũ khí hạt nhân
+- Ứng dụng (Ngành): Urani nghèo dùng làm đạn xuyên giáp, che chắn phóng xạ, đối trọng
+- Ứng dụng (Trước đây): Chất tạo màu (thủy tinh urani - màu vàng xanh)
+- Ứng dụng (Nghiên cứu): Dùng trong đồng vị phóng xạ
+V. Vấn đề an toàn
+- Độc tính: Phóng xạ và độc hóa học (kim loại nặng)
+- Tác hại (Phóng xạ): Nguy cơ ung thư, tổn thương di truyền
+- Tác hại (Hóa học): Gây tổn thương thận
+- Phòng ngừa: Cần xử lý nghiêm ngặt, tuân thủ quy định an toàn
