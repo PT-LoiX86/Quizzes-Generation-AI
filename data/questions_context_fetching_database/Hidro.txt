@@ -1,0 +1,36 @@
+﻿Tên tiếng Anh: Hydrogen
+Tên tiếng Việt: Hiđro
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 1
+- Nguyên tử khối: 1,008
+- Độ âm điện: 2,20
+- Cấu hình electron: 1s1
+- Công thức phân tử: H2
+II. Tính chất vật lý
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -259,16 °C
+- Điểm sôi: -252,87 °C
+- Mật độ: 0,0899 g/L (ở 0 °C và 1 atm)
+- Tính chất: Rất nhẹ (nhẹ nhất)
+- Tính chất: Không độc
+III. Tính chất hóa học
+- Tính chất: Phi kim (hoặc phi kim hoạt động kém)
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Tính khử: Mạnh (ở nhiệt độ cao)
+- Tính oxi hóa: Yếu (ở nhiệt độ cao, tác dụng với kim loại kiềm/kiềm thổ)
+- Trạng thái oxi hóa: +1, -1, 0
+- Phản ứng với Oxi: Phản ứng mạnh (nổ) ở nhiệt độ cao hoặc có xúc tác
+- Phản ứng với Oxi (Sản phẩm): Tạo ra nước (H2O)
+- Phản ứng với Kim loại: Tác dụng với kim loại kiềm/kiềm thổ ở nhiệt độ cao
+- Phản ứng với Kim loại (Sản phẩm): Tạo ra hidrua kim loại (ví dụ: NaH)
+- Phản ứng với Phi kim: Tác dụng với halogen (F2, Cl2, Br2, I2) và lưu huỳnh
+- Phản ứng với Hợp chất: Khử nhiều oxit kim loại (như CuO, Fe3O4) thành kim loại ở nhiệt độ cao
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất amoniac (NH3) (phương pháp Haber-Bosch)
+- Ứng dụng (Ngành): Tổng hợp các hợp chất hữu cơ (methanol)
+- Ứng dụng (Ngành): Nhiên liệu (tên lửa, pin nhiên liệu)
+- Ứng dụng (Ngành): Hàn cắt kim loại (hàn nguyên tử)
+- Ứng dụng (Ngành): Khử oxit kim loại

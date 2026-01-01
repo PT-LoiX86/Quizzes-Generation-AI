@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Boron
+Tên tiếng Việt: Bo
+I. Thông tin cơ bản
+- Nhóm: IIIA
+- Chu kỳ: 2
+- Nguyên tử khối: 10,811
+- Độ âm điện: 2,04
+- Cấu hình electron: [He] 2s2 2p1
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Đen
+- Độ cứng: Rất cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 2076 °C
+- Điểm sôi: 3927 °C
+- Mật độ: 2,34 g/cm³
+- Tính dẫn điện: Kém (chất bán dẫn)
+- Tính dẫn nhiệt: Tốt
+- Tính chất: Có cấu trúc tinh thể phức tạp
+III. Tính chất hóa học
+- Tính chất: Á kim
+- Tính chất: Hóa trị III
+- Tính chất: Hoạt động kém ở nhiệt độ thường
+- Tính chất (Nhiệt độ cao): Hoạt động mạnh ở nhiệt độ cao
+- Phản ứng với Oxi: Phản ứng tạo thành oxit bo (B2O3)
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc nóng, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo thành axit boric (H3BO3) và sản phẩm khử (NOx hoặc SO2)
+- Phản ứng với Kiềm: Tác dụng với dung dịch kiềm nóng chảy (NaOH, KOH)
+- Phản ứng với Kiềm (Sản phẩm): Tạo ra muối borat và khí hydro
+- Phản ứng với Halogen: Tác dụng mạnh tạo trihalua (BX3)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất thủy tinh borosilicat (chịu nhiệt)
+- Ứng dụng (Ngành): Sản xuất men gốm, sứ
+- Ứng dụng (Ngành): Sản xuất chất bán dẫn
+- Ứng dụng (Ngành): Chế tạo hợp kim (cải thiện độ cứng)
+- Ứng dụng (Ngành): Sản xuất chất tẩy rửa (borax)
+- Ứng dụng (Ngành): Dược phẩm (axit boric - chất khử trùng)
+- Ứng dụng (Ngành): Lò phản ứng hạt nhân (hấp thụ neutron)

@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Radon
+Tên tiếng Việt: Radon
+I. Thông tin cơ bản
+- Nhóm: VIIIA
+- Chu kỳ: 6
+- Nguyên tử khối: [222]
+- Độ âm điện: 2,2
+- Các số oxi hóa : 0, +2
+- Cấu hình electron: [Xe] 4f14 5d10 6s2 6p6
+- Công thức phân tử: Rn
+- Cấu tạo mạng tinh thể : Lập phương tâm mặt (ở trạng thái rắn)
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại ở dạng khí trong điều kiện tiêu chuẩn.
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -71 °C
+- Điểm sôi: -61,7 °C
+- Mật độ: 9,73 g/L (ở 0 °C và 1 atm)
+- Tính chất: Rất nặng (khí nặng nhất)
+- Tính chất: Phóng xạ
+- Tính chất: Phát ra ánh sáng vàng khi bị làm lạnh dưới điểm đóng băng
+III. Tính chất hóa học
+- Tính chất: Khí hiếm
+- Tính chất: Trơ về mặt hóa học
+- Độ hoạt động: Kém hoạt động
+- Hợp chất: Tạo hợp chất với Flo (RnF2 - diflorua radon)
+- Hợp chất (Đặc điểm): Hợp chất này kém bền
+- Trạng thái oxi hóa: 0 (phổ biến) và +2
+IV. Ứng dụng
+- Ứng dụng (Y học): Xạ trị (đã từng được dùng)
+- Ứng dụng (Nghiên cứu): Theo dõi động đất (dự đoán địa chấn)
+- Ứng dụng (Nghiên cứu): Đánh dấu các chất phóng xạ khác (trong nghiên cứu)
+V. Vấn đề an toàn
+- Độc tính: Nguy hiểm
+- Tác hại: Là nguyên nhân hàng đầu gây ung thư phổi ở những người không hút thuốc
+- Nguồn gốc: Xuất phát từ sự phân rã của Uranium và Thorium trong đất đá
+- Môi trường: Thường tích tụ trong tầng hầm, không gian kín
+- Phòng ngừa: Cần kiểm tra mức độ radon trong nhà, đặc biệt là tầng hầm

@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Tellurium
+Tên tiếng Việt: Telu
+I. Thông tin cơ bản
+- Nhóm: VIA
+- Chu kỳ: 5
+- Nguyên tử khối: 127,6
+- Độ âm điện: 2,1
+- Các số oxi hóa phổ biến :  +4, −2, +6
+- Cấu hình electron: [Kr] 4d10 5s2 5p4
+- Cấu tạo mạng tinh thể : Lục phương
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Teluri thường được tìm thấy ở trạng thái tự do, không kết hợp với các nguyên tố khác.
+- Trạng thái tự nhiên: Teluri thường tồn tại dưới dạng Telluride của Vàng (Au), Bạc (Ag), Đồng (Cu), và Chì (Pb). 
+- Trạng thái tự nhiên: Teluri cũng xuất hiện trong khoáng vật Calaverite (AuTe2).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Tính chất: Có ánh kim
+- Tính chất: Giòn
+- Điểm nóng chảy: 449,5 °C
+- Điểm sôi: 988 °C
+- Mật độ: 6,24 g/cm³
+- Tính dẫn điện: Chất bán dẫn
+III. Tính chất hóa học
+- Tính chất: Á kim
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Trạng thái oxi hóa: -2, 0, +2, +4, +6
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit telu (IV) (TeO2)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ telu khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc nóng, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối telu (IV) hoặc axit teluric (H2TeO4)
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+- Phản ứng với Kim loại/Hydro: Tác dụng khi đun nóng, thể hiện tính oxi hóa
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất chất bán dẫn (hợp kim với Bi, Cd)
+- Ứng dụng (Ngành): Pin mặt trời (Cadmium Telluride - CdTe)
+- Ứng dụng (Ngành): Sản xuất hợp kim (với Cu, Pb, Sn - tăng độ bền và khả năng gia công)
+- Ứng dụng (Ngành): Chất tạo màu xanh lam cho thủy tinh
+- Ứng dụng (Ngành): Công nghiệp cao su và chất xúc tác

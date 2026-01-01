@@ -2,23 +2,21 @@ import pandas as pd
 import random
 from src.utils import log_debug
 
-"Class for chemistry facts extracting from chemistry_facts.csv"
-"csv_path: Path to chemistry_facts.csv"
 class FactsLoader:
     def __init__(self, csv_path):
         self.df = pd.read_csv(csv_path, encoding='utf-8')
         self.column_names = list(self.df.columns)
         log_debug(f"Loaded facts database with {len(self.df)} rows and columns: {self.column_names}")
     
-    "Extract choices from chemistry facts"
+    # Extract distractors from chemistry facts
     """ 
     Args:
         correct_answer: The correct answer (to exclude).
-        category: Column name in CSV (e.g., "Period", "Periodic Group").
+        category: Column name in CSV (e.g., "Chu kì", "Nhóm").
         count: Number of choices needed (default 3).
     
     Returns:
-        List of  (different from correct_answer).
+        List of distractor (different from correct_answer).
     """
     def get_distractors(self, correct_answer, category, count=3):   
         if category not in self.column_names:
@@ -40,12 +38,11 @@ class FactsLoader:
         distractors = random.sample(candidates, count)
         return distractors
     
-    "Get all unique values for a category"
+    # Get all unique values for a category
     def get_all_values_for_category(self, category):
         if category not in self.column_names:
             return []
         return self.df[category].dropna().unique().tolist()
     
-    "Return all available categories"
     def get_categories(self):
         return self.column_names

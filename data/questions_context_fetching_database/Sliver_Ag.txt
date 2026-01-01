@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Silver
+Tên tiếng Việt: Bạc
+I. Thông tin cơ bản
+- Nhóm: IB
+- Chu kỳ: 5
+- Nguyên tử khối: 107,8682
+- Độ âm điện: 1,93
+- Cấu hình electron: [Kr] 4d10 5s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Thường xuất hiện trong các loại khoáng chất như argentit (Ag2S) và silver horn (AgCl). 
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Tính chất: Dẻo, dễ kéo sợi
+- Điểm nóng chảy: 961,78 °C
+- Điểm sôi: 2162 °C
+- Mật độ: 10,49 g/cm³
+- Tính dẫn điện: Tốt nhất (trong số các kim loại)
+- Tính dẫn nhiệt: Tốt nhất
+- Tính chất: Dễ bị xỉn màu trong không khí (do H2S tạo Ag2S)
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Yếu (kém hoạt động)
+- Trạng thái oxi hóa: +1 (phổ biến) và +2
+- Phản ứng với Oxi: Không phản ứng với oxi, không bị ăn mòn trong không khí khô
+- Phản ứng với Oxi (Xỉn màu): Phản ứng với H2S trong không khí ẩm tạo thành bạc sulfua (Ag2S) gây xỉn màu
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với HCl, H2SO4 loãng
+- Phản ứng với Axit (Ngoại lệ): Tác dụng với HNO3, H2SO4 đặc nóng
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối bạc và sản phẩm khử (NOx hoặc SO2)
+- Phản ứng với Halogen: Tác dụng khi đun nóng (tạo AgX)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Trang sức
+- Ứng dụng (Ngành): Tiền xu
+- Ứng dụng (Ngành): Điện tử (linh kiện dẫn điện)
+- Ứng dụng (Ngành): Gương (do độ phản xạ cao)
+- Ứng dụng (Hợp chất): Nhiếp ảnh (AgBr, AgI)
+- Ứng dụng (Hợp chất): Chất khử trùng (ion Ag+)
+- Ứng dụng (Ngành): Nha khoa

@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Palladium
+Tên tiếng Việt: Paladi
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 5
+- Nguyên tử khối: 106,42
+- Độ âm điện: 2,20
+- Các số oxi hóa phổ biến: +2, +4
+- Cấu hình electron: [Kr] 4d10
+- Cấu tạo mạng tinh thể: Lập phương tâm mặt 
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Xuất hiện trong các trầm tích khoáng và các mỏ đồng-niken.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Tính chất: Rất dẻo, dễ kéo sợi
+- Điểm nóng chảy: 1554,9 °C
+- Điểm sôi: 2963 °C
+- Mật độ: 12,02 g/cm³
+- Tính chất: Kim loại quý
+- Tính chất: Hấp thụ hydro tốt (hấp thụ đến 900 lần thể tích của nó)
+- Tính chất: Chống ăn mòn tốt
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Yếu (rất trơ)
+- Trạng thái oxi hóa: +2, +4 (phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit paladi (PdO)
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với HCl, H2SO4 loãng
+- Phản ứng với Axit (Ngoại lệ): Tan trong HNO3, nước cường toan, H2SO4 đặc nóng
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối paladi (II)
+- Phản ứng với Halogen: Tác dụng khi đun nóng, tạo halua
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chất xúc tác (trong bộ chuyển đổi xúc tác ô tô)
+- Ứng dụng (Ngành): Lọc và làm sạch khí hydro (do khả năng hấp thụ H2)
+- Ứng dụng (Ngành): Trang sức (vàng trắng)
+- Ứng dụng (Ngành): Công nghiệp điện tử (chân tiếp xúc, tụ điện)
+- Ứng dụng (Ngành): Nha khoa (hợp kim)
+- Ứng dụng (Ngành): Xử lý nước thải

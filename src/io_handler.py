@@ -1,15 +1,12 @@
-
-
 import json
 import os
 from src.utils import log_debug
 
-"Handles JSON input/output and validation"
+# Handles JSON input/output and validation
 class IOHandler:
     
+    # Parse JSON input
     """
-    Parse JSON input
-    
     Returns:
         Tuple: (parsed_dict, error_message)
     """
@@ -24,9 +21,8 @@ class IOHandler:
             log_debug(f"ERROR: {error}")
             return None, error
     
+    # Validate question generation request
     """
-    Validate question generation request
-    
     Returns:
         Tuple: (is_valid, error_message)
     """
@@ -62,7 +58,6 @@ class IOHandler:
         
         return True, None
     
-    "Create success response"
     @staticmethod
     def create_success_response(request, questions, summary_file):
         return {
@@ -73,7 +68,6 @@ class IOHandler:
             "summary_file": summary_file
         }
     
-    "Create error response"
     @staticmethod
     def create_error_response(error_message, debug_message=None):
         response = {
@@ -84,7 +78,6 @@ class IOHandler:
             response["debug_message"] = debug_message
         return response
     
-    "Output JSON to stdout"
     @staticmethod
     def output_json(data):
         print(json.dumps(data, ensure_ascii=False, indent=2))

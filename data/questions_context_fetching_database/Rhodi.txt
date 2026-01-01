@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Rhodium
+Tên tiếng Việt: Rhodi
+I. Thông tin cơ bản
+- Nhóm: VIIIB
+- Chu kỳ: 5
+- Nguyên tử khối: 102,9055
+- Độ âm điện: 2,28
+- Các số oxi hóa phổ biến : +3 (ổn định nhất), +2, +1, +4, +6
+- Cấu hình electron: [Kr] 4d8 5s1
+- Cấu tạo mạng tinh thể : Lập phương tâm mặt
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại trong tự nhiên cùng với các kim loại nhóm Platin khác.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất cứng
+- Tính chất: Rất bền
+- Điểm nóng chảy: 1964 °C (Rất cao)
+- Điểm sôi: 3695 °C
+- Mật độ: 12,41 g/cm³
+- Tính chất: Kim loại quý
+- Tính chất: Bền, chống ăn mòn tuyệt vời
+- Tính chất: Độ phản xạ cao
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Rất yếu (trơ)
+- Trạng thái oxi hóa: +3 (phổ biến), +2, +1, +4
+- Phản ứng với Oxi: Phản ứng khi đun nóng (trên 600°C), tạo thành oxit rhodi (III) (Rh2O3)
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả nước cường toan)
+- Phản ứng với Axit (Ngoại lệ): Tan trong H2SO4 đặc nóng hoặc hỗn hợp có chứa muối clorua nóng chảy
+- Phản ứng với Halogen: Tác dụng khi đun nóng, tạo halua
+IV. Ứng dụng
+- Ứng dụng (Ngành): Bộ chuyển đổi xúc tác (ô tô)
+- Ứng dụng (Ngành): Chất xúc tác (trong công nghiệp hóa chất)
+- Ứng dụng (Ngành): Mạ điện (làm cứng và tăng độ phản xạ)
+- Ứng dụng (Ngành): Dây nhiệt kế
+- Ứng dụng (Ngành): Công nghiệp quang học (gương, thiết bị đo lường)

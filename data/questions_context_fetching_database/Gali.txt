@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Gallium
+Tên tiếng Việt: Gali
+I. Thông tin cơ bản
+- Nhóm: IIIA
+- Chu kỳ: 4
+- Nguyên tử khối: 69,723
+- Độ âm điện: 1,81
+- Cấu hình electron: [Ar] 3d10 4s2 4p1
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Bạc
+- Độ cứng: Mềm
+- Điểm nóng chảy: 29,76 °C (thấp, gần nhiệt độ phòng)
+- Điểm sôi: 2204 °C
+- Mật độ: 5,91 g/cm³ (rắn) / 6,09 g/cm³ (lỏng)
+- Tính chất: Kim loại lỏng ở nhiệt độ phòng hoặc cao hơn một chút
+- Tính chất: Dễ làm ướt thủy tinh và da
+III. Tính chất hóa học
+- Tính chất: Kim loại yếu
+- Tính khử: Mạnh (hoạt động hơn Al)
+- Trạng thái oxi hóa: +3 (phổ biến) và +1
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit gali (Ga2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ gali khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng chậm với hơi nước ở nhiệt độ cao
+- Phản ứng với Axit: Tác dụng với axit không oxi hóa (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối gali(III) và giải phóng khí hydro
+- Phản ứng với Axit (Ngoại lệ): Không tác dụng với HNO3 đặc nguội
+- Tính lưỡng tính: Oxit và Hydroxit gali (Ga2O3, Ga(OH)3) có tính lưỡng tính
+- Tác dụng với Kiềm: Tác dụng với dung dịch kiềm nóng
+- Tác dụng với Kiềm (Sản phẩm): Tạo ra muối galat và giải phóng khí hydro
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất chất bán dẫn (GaAs - Gali arsenua)
+- Ứng dụng (Ngành): Đèn LED và diode laser
+- Ứng dụng (Ngành): Nhiệt kế (thay thế thủy ngân)
+- Ứng dụng (Ngành): Hợp kim dễ nóng chảy
+- Ứng dụng (Ngành): Y học (đánh dấu đồng vị phóng xạ)

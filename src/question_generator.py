@@ -3,18 +3,10 @@ from src.fact_extractor import FactExtractor
 from src.facts_loader import FactsLoader
 from src.question_templates import generate_question_text, get_all_templates
 from src.deduplicator import Deduplicator
-from src.llm_client import OllamaClient
-from src.utils import log_debug, get_timestamp
+from src.utils import log_debug
 
-"Main question generation engine - orchestrates all other modules"
-"""
-Initialize the generator with configuration
-
-Args:
-    config: Configuration dictionary from config.json
-"""
 class QuestionGenerator:
-    
+    # Vietnamese → English mapping for CSV lookups
     VI_TO_EN_MAPPING = {
         'Nhóm': 'Periodic Group',
         'Chu kỳ': 'Period',
@@ -30,27 +22,22 @@ class QuestionGenerator:
     }
     
     def __init__(self, config):
-        
         self.config = config
         self.fact_extractor = FactExtractor()
         self.facts_loader = FactsLoader(config['data_paths']['facts_database'])
         self.deduplicator = Deduplicator(
             similarity_threshold=config['deduplication']['similarity_threshold']
         )
-        self.llm_client = OllamaClient() if config['ollama']['enabled'] else None
         
         self.statistics = {
             'total_attempts': 0,
             'successful_generations': 0,
             'failed_generations': 0,
-            'llm_enhancements_applied': 0,
-            'llm_enhancement_failures': 0,
             'duplicates_found': 0
         }
     
+    # Main method: Generate questions for an element
     """
-    Main method: Generate questions for an element
-    
     Args:
         element_file: Path to chemistry file
         number_of_questions: Number of questions to generate
@@ -59,10 +46,8 @@ class QuestionGenerator:
         List of question dictionaries with 'question', 'answer', 'choice1-4'
     """
     def generate_questions(self, element_file, number_of_questions):
-        
         log_debug(f"Starting generation: {element_file}, {number_of_questions} questions")
         
-        # Extract element facts
         extracted = self.fact_extractor.extract_from_file(element_file)
         element_name_vi = extracted['vietnamese_name']
         element_name_en = extracted['english_name']
@@ -71,8 +56,9 @@ class QuestionGenerator:
         
         questions = []
         attempts = 0
+        
         # Allow multiple attempts in case of failed generations
-        max_attempts = number_of_questions * 3
+        max_attempts = number_of_questions * 5
         
         while len(questions) < number_of_questions and attempts < max_attempts:
             attempts += 1
@@ -92,6 +78,7 @@ class QuestionGenerator:
             is_dup, _, _ = self.deduplicator.is_duplicate(question_dict['question'])
             if is_dup:
                 self.statistics['duplicates_found'] += 1
+                log_debug(f"  ⚠ Duplicate detected, skipping")
                 continue
             
             # Add to results
@@ -105,9 +92,8 @@ class QuestionGenerator:
         
         return questions
     
+    # Generate a single question
     """
-    Generate a single question
-    
     Returns:
         Dictionary with question, answer, choice1-4, or None if failed
     """
@@ -122,31 +108,24 @@ class QuestionGenerator:
         # Get answer value from facts using Vietnamese key
         answer = facts.get(vi_key, None)
         if answer is None:
+            log_debug(f"  ✗ Template '{template_name}': No answer found for key '{vi_key}'")
             return None
         
-        # Generate base question
-        base_question = generate_question_text(template_name, element_name)
+        log_debug(f"  ✓ Template '{template_name}': Found answer '{answer}'")
         
-        # Optionally enhance with LLM
-        if self.config['question_generation']['use_llm_enhancement'] and self.llm_client:
-            enhanced = self.llm_client.enhance_question(base_question)
-            if enhanced and len(enhanced) > 5:
-                question_text = enhanced
-                self.statistics['llm_enhancements_applied'] += 1
-            else:
-                question_text = base_question
-                self.statistics['llm_enhancement_failures'] += 1
-        else:
-            question_text = base_question
+        # Generate base question
+        question_text = generate_question_text(template_name, element_name)
         
         # Convert Vietnamese key to English for CSV lookup
         en_category = self.VI_TO_EN_MAPPING.get(vi_key, vi_key)
+        log_debug(f"    Converted key: '{vi_key}' → '{en_category}'")
         
         # Get distractors (wrong answers)
         distractors = self.facts_loader.get_distractors(answer, en_category, 3)
+        log_debug(f"    Got {len(distractors)} distractors from CSV for category '{en_category}'")
         
         if len(distractors) < 3:
-            log_debug(f"WARNING: Only {len(distractors)} distractors for {en_category}")
+            log_debug(f"    WARNING: Only {len(distractors)} distractors for {en_category}")
             # Pad with any available values if needed
             all_values = self.facts_loader.get_all_values_for_category(en_category)
             for val in all_values:
@@ -154,9 +133,11 @@ class QuestionGenerator:
                     distractors.append(val)
                     if len(distractors) >= 3:
                         break
+            log_debug(f"    After padding: {len(distractors)} distractors available")
         
         if len(distractors) < 3:
-            return None  # Can't generate valid question without enough options
+            log_debug(f"    ✗ FAILED: Not enough distractors ({len(distractors)} < 3)")
+            return None
         
         # Shuffle all options (correct + distractors)
         all_choices = [answer] + distractors[:3]
@@ -172,9 +153,10 @@ class QuestionGenerator:
             'choice4': str(all_choices[3]) if len(all_choices) > 3 else str(distractors[0])
         }
         
+        log_debug(f"    ✓ Question generated successfully")
         return question_dict
     
-    "Map template name to CSV category"
+    # Map template name to Vietnamese fact key
     def _get_category_for_template(self, template_name):
         mapping = {
             "Period": "Chu kỳ",
@@ -188,10 +170,9 @@ class QuestionGenerator:
         }
         return mapping.get(template_name, "Chu kỳ")
     
-    "Return generation statistics"
     def get_statistics(self):
         if self.statistics['total_attempts'] > 0:
-            success_rate = (self.statistics['successful_generations'] / 
+            success_rate = (self.statistics['successful_generations'] /
                           self.statistics['total_attempts'] * 100)
         else:
             success_rate = 0.0

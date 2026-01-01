@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Zirconium
+Tên tiếng Việt: Zirconi
+I. Thông tin cơ bản
+- Nhóm: IVB
+- Chu kỳ: 5
+- Nguyên tử khối: 91,224
+- Độ âm điện: 1,33
+- Cấu hình electron: [Kr] 4d2 5s2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Cứng
+- Tính chất: Dẻo
+- Tính chất: Bền
+- Điểm nóng chảy: 1855 °C
+- Điểm sôi: 4409 °C
+- Mật độ: 6,51 g/cm³
+- Tính chất: Chống ăn mòn tuyệt vời
+- Tính chất: Hấp thụ neutron kém (rất quan trọng)
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (tương tự Titani)
+- Trạng thái oxi hóa: +4 (phổ biến nhất)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit zirconi (IV) (ZrO2)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ zirconi khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng với hơi nước ở nhiệt độ rất cao
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit loãng
+- Phản ứng với Axit (Ngoại lệ): Tan trong axit flohidric (HF) và hỗn hợp HF/HNO3
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Chế tạo ống bọc thanh nhiên liệu trong lò phản ứng hạt nhân (do hấp thụ neutron kém)
+- Ứng dụng (Ngành): Sản xuất gốm sứ và vật liệu chịu lửa (ZrO2 - zirconia)
+- Ứng dụng (Ngành): Chế tạo dao gốm (ZrO2)
+- Ứng dụng (Ngành): Chế tạo hợp kim (với Ti, Nb)
+- Ứng dụng (Ngành): Thiết bị hóa chất (chống ăn mòn)
+- Ứng dụng (Ngành): Đá quý nhân tạo (cubic zirconia - ZrO2)

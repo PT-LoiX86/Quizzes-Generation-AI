@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Barium
+Tên tiếng Việt: Bari
+I. Thông tin cơ bản
+- Nhóm: IIA
+- Chu kỳ: 6
+- Nguyên tử khối: 137,327
+- Độ âm điện: 0,89
+- Cấu hình electron: [Xe] 6s2
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Điểm nóng chảy: 727 °C
+- Điểm sôi: 1897 °C
+- Mật độ: 3,51 g/cm³
+- Tính dẫn điện: Tốt
+- Tính dẫn nhiệt: Tốt
+- Tính chất: Dễ bị oxy hóa trong không khí
+- Màu ngọn lửa: Xanh lục
+III. Tính chất hóa học
+- Tính chất: Kim loại kiềm thổ
+- Tính khử: Rất mạnh
+- Trạng thái oxi hóa: +2 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành oxit bari (BaO) hoặc peoxit bari (BaO2)
+- Phản ứng với Nước: Phản ứng mạnh với nước lạnh
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (Ba(OH)2)
+- Phản ứng với Axit: Tác dụng mạnh với hầu hết các axit
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối bari và giải phóng khí hydro (trừ H2SO4 loãng tạo BaSO4 kết tủa)
+- Phản ứng với Halogen: Tác dụng mạnh với halogen tạo muối
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất pháo hoa (màu xanh lục)
+- Ứng dụng (Ngành): Chế tạo hợp kim (với Al, Mg)
+- Ứng dụng (Ngành): Ống chân không (loại bỏ khí)
+- Ứng dụng (Hợp chất): Bari sulfat (BaSO4) được dùng trong y học (chụp X-quang đường tiêu hóa)
+- Ứng dụng (Hợp chất): Bari carbonat (BaCO3) dùng làm chất diệt chuột
+- Ứng dụng (Ngành): Sản xuất thủy tinh, gốm sứ
+- Ứng dụng (Ngành): Sản xuất sơn (BaSO4 - lithopone)

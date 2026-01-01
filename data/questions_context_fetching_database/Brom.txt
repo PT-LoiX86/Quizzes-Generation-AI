@@ -1,0 +1,35 @@
+﻿Tên tiếng Anh: Bromine
+Tên tiếng Việt: Brom
+I. Thông tin cơ bản
+- Nhóm: VIIA
+- Chu kỳ: 4
+- Nguyên tử khối: 79,904
+- Độ âm điện: 2,96
+- Cấu hình electron: [Ar] 3d10 4s2 4p5
+II. Tính chất vật lý
+-Trạng thái tự nhiên: Chủ yếu ở dạng hợp chất các muối halogen như bromua của kali, natri và magiê
+- Trạng thái: Lỏng
+- Màu sắc: Nâu đỏ
+- Mùi vị: Mùi hắc khó chịu
+- Điểm nóng chảy: -7,2 °C
+- Điểm sôi: 58,8 °C
+- Mật độ: 3,10 g/cm³
+- Tính chất: Dễ bay hơi
+- Tính chất: Độc
+III. Tính chất hóa học
+- Tính chất: Halogen
+- Tính chất: Phi kim
+- Tính oxi hóa: Mạnh
+- Tính oxi hóa (Đặc điểm): Yếu hơn Flo và Clo, mạnh hơn Iot
+- Trạng thái oxi hóa: -1, +1, +3, +5, +7
+- Phản ứng với Kim loại: Tác dụng dễ dàng, tạo thành muối bromua (trừ một số kim loại quý)
+- Phản ứng với Phi kim: Tác dụng với nhiều phi kim (trừ O, N, C)
+- Phản ứng với Nước: Tác dụng với nước tạo thành dung dịch nước brom
+- Phản ứng với Nước (Sản phẩm): Tạo ra axit hipobromơ (HBrO) và axit bromhidric (HBr)
+- Phản ứng với Hợp chất: Tác dụng với các hợp chất có tính khử mạnh
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất chất làm chậm cháy
+- Ứng dụng (Ngành): Sản xuất thuốc nhuộm
+- Ứng dụng (Ngành): Sản xuất dược phẩm
+- Ứng dụng (Ngành): Sản xuất hóa chất nông nghiệp
+- Ứng dụng (Ngành): Chế tạo chất lỏng khoan dầu

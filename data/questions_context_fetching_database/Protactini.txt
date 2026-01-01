@@ -1,0 +1,7 @@
+﻿Tên tiếng Anh: Protactinium
+Tên tiếng Việt: Protactini
+I. Thông tin cơ bản
+- Thuộc họ Actini
+- Nguyên tử khối: 231,04
+- Độ âm điện: 1,50
+- Cấu hình electron: [Rn] 5f2 6d1 7s2

@@ -1,0 +1,34 @@
+﻿Tên tiếng Anh: Rhenium
+Tên tiếng Việt: Reni
+I. Thông tin cơ bản
+- Nhóm: VIIB
+- Chu kỳ: 6
+- Nguyên tử khối: 186,207
+- Độ âm điện: 1,9
+- Cấu tạo mạng tinh thể : Lục phương
+- Cấu hình electron: [Xe] 4f14 5d5 6s2
+- Các số oxi hóa : -1, +1, +2, +3, +4, +5, +6, +7
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại dưới dạng tạp chất trong các khoáng vật của Molypden (Mo), đặc biệt là Molypdenit (MoS2)
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất cứng
+- Tính chất: Bền, chống ăn mòn tốt
+- Điểm nóng chảy: 3186 °C (Rất cao, chỉ sau Tungsten)
+- Điểm sôi: 5596 °C
+- Mật độ: 21,04 g/cm³
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Vừa phải
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit reni (VII) (Re2O7)
+- Phản ứng với Oxi (Đặc điểm): Oxit này dễ bay hơi
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với HCl, H2SO4 loãng
+- Phản ứng với Axit (Ngoại lệ): Tan trong HNO3 và H2SO4 đặc nóng
+- Phản ứng với Axit (Sản phẩm): Tạo ra pe-re-nat (ReO4⁻) và sản phẩm khử
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim siêu chịu nhiệt (động cơ phản lực, tuabin)
+- Ứng dụng (Ngành): Chất xúc tác (trong công nghiệp dầu mỏ)
+- Ứng dụng (Ngành): Dây tóc bóng đèn (độ bền cao)
+- Ứng dụng (Ngành): Thiết bị điện (chân tiếp xúc)
+- Ứng dụng (Ngành): Nhiệt kế

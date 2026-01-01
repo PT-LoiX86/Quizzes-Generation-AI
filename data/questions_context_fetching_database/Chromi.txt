@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Chromium
+Tên tiếng Việt: Crom
+I. Thông tin cơ bản
+- Nhóm: VIB
+- Chu kỳ: 4
+- Nguyên tử khối: 51,9961
+- Độ âm điện: 1,66
+- Cấu hình electron: [Ar] 3d5 4s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên:  Tồn tại ở dạng hợp chất quặng cromit sắt FeO.Cr2O3, quặng này thường có lẫn Al2O3 và SiO2 (chiếm 0,03% khối lượng vỏ Trái Đất).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 1857 °C
+- Điểm sôi: 2671 °C
+- Mật độ: 7,19 g/cm³
+- Tính chất: Bền trong không khí và nước (do lớp oxit bảo vệ)
+- Tính chất: Chịu nhiệt và chống ăn mòn tốt
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh
+- Tính khử (Đặc điểm): Kém hoạt động hơn Al, Zn, Fe
+- Trạng thái oxi hóa: +2, +3, +6 (phổ biến)
+- Phản ứng với Oxi: Phản ứng chậm khi đun nóng, tạo thành oxit crom (III) (Cr2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ crom khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước, kể cả nước sôi
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4) (trừ HNO3 đặc nguội và H2SO4 đặc nguội)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối crom(II) hoặc crom(III) và giải phóng khí hydro
+- Phản ứng với Axit (Thụ động): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+- Tính lưỡng tính: Oxit và Hydroxit crom(III) (Cr2O3, Cr(OH)3) có tính lưỡng tính
+IV. Ứng dụng
+- Ứng dụng (Ngành): Mạ điện (tăng độ cứng, chống ăn mòn, thẩm mỹ)
+- Ứng dụng (Ngành): Sản xuất thép không gỉ
+- Ứng dụng (Ngành): Sản xuất các hợp kim chịu nhiệt (nichrome)
+- Ứng dụng (Ngành): Thuốc nhuộm và chất tạo màu (Cr2O3 màu xanh lá cây)
+- Ứng dụng (Ngành): Chế tạo đá quý nhân tạo (ruby, emerald)

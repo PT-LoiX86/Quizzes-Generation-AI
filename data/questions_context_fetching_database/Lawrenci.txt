@@ -1,0 +1,6 @@
+﻿Tên tiếng Anh: Lawrencium
+Tên tiếng Việt: Lawrenci
+I. Thông tin cơ bản
+- Thuộc họ Actini
+- Nguyên tử khối: [260]
+- Cấu hình electron: [Rn] 5f14 6d1 7s2

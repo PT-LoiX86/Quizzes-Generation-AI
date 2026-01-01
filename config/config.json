@@ -6,22 +6,12 @@
     "language": "Vietnamese",
     "output_folder": "output"
   },
-  
-  "ollama": {
-    "enabled": true,
-    "model_name": "mistral",
-    "base_url": "http://localhost:11434",
-    "timeout": 60,
-    "temperature": 0.7,
-    "num_predict": 200
-  },
-  
+
   "question_generation": {
-    "use_llm_enhancement": true,
     "template_only_fallback": true,
     "max_attempts": 3
   },
-  
+
   "question_types": {
     "periodic_properties": {
       "enabled": true,
@@ -44,27 +34,27 @@
       "types": ["Reaction Type", "Properties"]
     }
   },
-  
+
   "number_rounding": {
     "enabled": true,
     "rules": "X.0-X.4 rounds to X; X.5-X.6 stays X.5; X.6+ rounds to X+1"
   },
-  
+
   "deduplication": {
     "enabled": true,
     "check_within_batch": true,
     "similarity_threshold": 0.85
   },
-  
+
   "output": {
     "format": "json",
     "include_debug_info": true,
     "generate_summary": true,
     "summary_format": "json"
   },
-  
+
   "data_paths": {
-    "chemistry_files": "data/chemistry_files",
+    "chemistry_files": "data/questions_context_fetching_database",
     "facts_database": "data/facts_database/chemistry_facts.csv",
     "config": "config",
     "output": "output"

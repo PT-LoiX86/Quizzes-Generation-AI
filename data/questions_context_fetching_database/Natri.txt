@@ -1,0 +1,38 @@
+﻿Tên tiếng Anh: Sodium (Natrium)
+Tên tiếng Việt: Natri
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 3
+- Nguyên tử khối: 22,98977
+- Độ âm điện: 0,93
+- Cấu hình electron: [Ne] 3s1
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất mềm (có thể cắt bằng dao)
+- Điểm nóng chảy: 97,72 °C
+- Điểm sôi: 883 °C
+- Mật độ: 0,968 g/cm³ (nhẹ hơn nước)
+- Tính chất: Dẫn điện và dẫn nhiệt tốt
+- Tính chất: Dễ bị oxy hóa trong không khí
+- Màu ngọn lửa: Vàng (đặc trưng)
+III. Tính chất hóa học
+- Tính chất: Kim loại kiềm
+- Tính khử: Rất mạnh
+- Trạng thái oxi hóa: +1 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành peoxit natri (Na2O2)
+- Phản ứng với Oxi (Đặc điểm): Thường được bảo quản trong dầu hỏa do tính hoạt động cao
+- Phản ứng với Nước: Phản ứng mãnh liệt với nước
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (NaOH)
+- Phản ứng với Axit: Tác dụng mạnh với axit, tạo muối và giải phóng H2
+- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất các hợp chất Natri (NaOH, Na2CO3, NaHCO3)
+- Ứng dụng (Ngành): Sản xuất các kim loại khác (K, Ca, Mg)
+- Ứng dụng (Ngành): Đèn hơi Natri (chiếu sáng đường phố)
+- Ứng dụng (Ngành): Chất làm mát trong lò phản ứng hạt nhân
+- Ứng dụng (Ngành): Chất khử trong tổng hợp hữu cơ
+V. Vai trò sinh học
+- Vai trò: Đa lượng (quan trọng cho cơ thể)
+- Chức năng: Duy trì áp suất thẩm thấu và cân bằng nước
+- Chức năng: Cần thiết cho chức năng thần kinh và cơ bắp

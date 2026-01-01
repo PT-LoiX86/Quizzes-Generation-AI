@@ -1,0 +1,32 @@
+﻿Tên tiếng Anh: Krypton
+Tên tiếng Việt: Kripton
+I. Thông tin cơ bản
+- Nhóm: VIIIA
+- Chu kỳ: 4
+- Nguyên tử khối: 83,798
+- Độ âm điện: 3
+- Cấu hình electron: [Ar] 3d10 4s2 4p6
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại chủ yếu ở dạng khí trong khí quyển Trái Đất.
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -157,36 °C
+- Điểm sôi: -153,22 °C
+- Mật độ: 3,749 g/L (ở 0 °C và 1 atm)
+- Tính chất: Nặng hơn không khí
+- Đặc điểm: Phát ra ánh sáng trắng xanh khi bị kích thích điện
+III. Tính chất hóa học
+- Tính chất: Khí hiếm
+- Tính chất: Trơ về mặt hóa học
+- Độ hoạt động: Rất kém hoạt động
+- Hợp chất: Không tạo thành hợp chất bền vững (phổ biến)
+- Hợp chất (Ngoại lệ): Có thể tạo hợp chất với Flo (KrF2 - diflorua kripton)
+- Trạng thái oxi hóa: 0 (phổ biến)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất bóng đèn huỳnh quang
+- Ứng dụng (Ngành): Sản xuất bóng đèn sợi đốt
+- Ứng dụng (Ngành): Chế tạo tia laser
+- Ứng dụng (Ngành): Chế tạo cửa sổ kính cách nhiệt
+- Ứng dụng (Ngành): Ảnh tốc độ cao (đèn flash)
+- Ứng dụng (Ngành): Y học (chẩn đoán hình ảnh - đồng vị phóng xạ Kr-81m, Kr-85)

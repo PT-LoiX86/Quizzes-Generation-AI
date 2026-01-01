@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Radium
+Tên tiếng Việt: Radi
+I. Thông tin cơ bản
+- Nhóm: IIA
+- Chu kỳ: 7
+- Nguyên tử khối: [226]
+- Độ âm điện: 0,9
+- Các số oxi hóa: +2
+- Cấu hình electron: [Rn] 7s2
+- Cấu tạo mạng tinh thể : Lập phương tâm khối
+
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Được tìm thấy với số lượng rất nhỏ trong các quặng Uranium, đặc biệt là Uraninit (Pitchblende).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Tính chất: Kim loại kiềm thổ
+- Tính chất: Phóng xạ mạnh
+- Tính chất: Phát ra ánh sáng xanh lam trong bóng tối
+- Điểm nóng chảy: 700 °C
+- Điểm sôi: 1737 °C
+- Mật độ: 5,5 g/cm³
+III. Tính chất hóa học
+- Tính khử: Rất mạnh
+- Trạng thái oxi hóa: +2 (duy nhất)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành oxit radi (RaO)
+- Phản ứng với Oxi (Đặc điểm): Phản ứng xảy ra ngay lập tức, có thể bốc cháy
+- Phản ứng với Nước: Phản ứng rất mạnh với nước
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (Ra(OH)2)
+- Phản ứng với Axit: Tác dụng mạnh với hầu hết các axit
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối radi và giải phóng H2
+IV. Ứng dụng
+- Ứng dụng (Trước đây): Đồng hồ phát sáng (sơn dạ quang - đã bị thay thế)
+- Ứng dụng (Trước đây): Điều trị ung thư (xạ trị - đã bị thay thế)
+- Ứng dụng (Ngành): Nguồn hạt alpha (trong nghiên cứu)
+- Ứng dụng (Ngành): Nguồn neutron (kết hợp với Beri)
+V. Vấn đề an toàn
+- Độc tính: Cực kỳ độc (do phóng xạ)
+- Tác hại: Gây ung thư, tổn thương di truyền
+- Phòng ngừa: Cần xử lý cực kỳ cẩn thận

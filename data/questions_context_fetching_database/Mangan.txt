@@ -1,0 +1,40 @@
+﻿Tên tiếng Anh: Manganese
+Tên tiếng Việt: Mangan
+I. Thông tin cơ bản
+- Nhóm: VIIB
+- Chu kỳ: 4
+- Nguyên tử khối: 54,938
+- Độ âm điện: 1,55
+- Cấu hình electron: [Ar] 3d5 4s2
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại chủ yếu trong pyrolusit (MnO2), braunit, psilomelan (Ba,H2O)2Mn5O10, và ít hơn trong rhodochrosit (MnCO3).
+- Trạng thái: Rắn
+- Màu sắc: Xám bạc
+- Độ cứng: Cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 1246 °C
+- Điểm sôi: 2061 °C
+- Mật độ: 7,21 g/cm³
+- Tính dẫn điện: Kém
+- Tính dẫn nhiệt: Kém
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (hoạt động hơn Fe)
+- Trạng thái oxi hóa: +2, +3, +4, +6, +7 (phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit (ví dụ: MnO, MnO2, Mn2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ mangan khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Phản ứng chậm với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng với hơi nước ở nhiệt độ cao
+- Phản ứng với Axit: Tác dụng với axit loãng (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối mangan(II) và giải phóng khí hydro
+- Phản ứng với Axit (Thụ động): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất thép (tăng độ bền, độ cứng)
+- Ứng dụng (Ngành): Sản xuất hợp kim (ferromangan)
+- Ứng dụng (Ngành): Pin khô (mangan dioxit - MnO2)
+- Ứng dụng (Ngành): Thuốc nhuộm và chất tạo màu
+- Ứng dụng (Ngành): Chất oxi hóa (KMnO4 - thuốc tím)
+V. Vai trò sinh học
+- Vai trò: Vi lượng (quan trọng cho cơ thể)
+- Chức năng: Cần thiết cho chức năng enzyme
+- Chức năng: Tham gia vào quá trình trao đổi chất

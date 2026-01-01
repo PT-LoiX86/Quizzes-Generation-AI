@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Indium
+Tên tiếng Việt: Indi
+I. Thông tin cơ bản
+- Nhóm: IIIA
+- Chu kỳ: 5
+- Nguyên tử khối: 114,818
+- Độ âm điện: 1,78
+- Cấu hình electron: [Kr] 4d10 5s2 5p1
+- Cấu tạo mạng tinh thể: Thể tứ phương tâm mặt
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại dưới dạng tạp chất trong các quặng của các kim loại khác, đặc biệt là quặng kẽm (Zn), đồng (Cu), và chì (Pb).
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Rất mềm (mềm hơn cả thiếc)
+- Tính chất: Dễ uốn dẻo
+- Điểm nóng chảy: 156,6 °C (thấp)
+- Điểm sôi: 2072 °C
+- Mật độ: 7,31 g/cm³
+- Tính chất: Có âm thanh chói tai khi bị uốn cong (do song tinh cơ học)
+III. Tính chất hóa học
+- Tính chất: Kim loại yếu
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +3 (phổ biến) và +1
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit indi (In2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit bảo vệ indi khỏi sự oxi hóa tiếp theo ở nhiệt độ thường
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với axit không oxi hóa (HCl, H2SO4 loãng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối indi (III) và giải phóng khí hydro
+- Phản ứng với Axit (Ngoại lệ): Thụ động hóa với HNO3 đặc nguội và H2SO4 đặc nguội
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất màn hình cảm ứng (ITO - Indium Tin Oxide)
+- Ứng dụng (Ngành): Chế tạo chất bán dẫn (Indium phosphide - InP)
+- Ứng dụng (Ngành): Chế tạo hợp kim dễ nóng chảy (hàn không chì)
+- Ứng dụng (Ngành): Sản xuất đèn LED
+- Ứng dụng (Ngành): Mạ điện (tạo bề mặt gương)
+- Ứng dụng (Ngành): Y học (đồng vị phóng xạ I-111, In-113m)

@@ -1,0 +1,43 @@
+﻿Tên tiếng Anh: Sulfur
+Tên tiếng Việt: Lưu huỳnh
+I. Thông tin cơ bản
+- Nhóm: VIA
+- Chu kỳ: 3
+- Nguyên tử khối: 32,06
+- Độ âm điện: 2,58
+- Cấu hình electron: [Ne] 3s2 3p4
+- Công thức phân tử: S8 (phổ biến)
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại ở dạng đơn chất, dạng mỏ lưu huỳnh.
+- Trạng thái tự nhiên: Lưu huỳnh cũng tồn tại ở dạng hợp chất (các muối sunfat, muối sunfua…)
+- Tính chất: Có nhiều dạng thù hình
+- Dạng thù hình (Lưu huỳnh tà phương - α): Bền nhất ở nhiệt độ thường, màu vàng tươi, có cấu trúc vòng S8
+- Dạng thù hình (Lưu huỳnh đơn tà - β): Bền ở nhiệt độ cao hơn 95,6 °C, tinh thể hình kim
+- Trạng thái: Rắn
+- Màu sắc: Vàng
+- Mùi vị: Không mùi, không vị (ở trạng thái nguyên chất)
+- Điểm nóng chảy: 115,2 °C
+- Điểm sôi: 444,6 °C
+- Tính chất: Không tan trong nước
+- Tính chất: Tan tốt trong CS2 (carbon disulfide)
+III. Tính chất hóa học
+- Tính chất: Phi kim
+- Tính chất: Có cả tính khử và tính oxi hóa
+- Tính oxi hóa: Mạnh (tác dụng với kim loại, H2)
+- Tính khử: Vừa phải (tác dụng với O2, halogen, HNO3, H2SO4 đặc)
+- Trạng thái oxi hóa: -2, 0, +4, +6
+- Phản ứng với Kim loại: Tác dụng khi đun nóng, tạo thành sulfua kim loại (trừ Au, Pt, Ir)
+- Phản ứng với Hydro: Tác dụng với H2 ở nhiệt độ cao, tạo H2S (có mùi trứng thối)
+- Phản ứng với Oxi: Phản ứng khi đốt cháy, tạo thành SO2
+- Phản ứng với HNO3/H2SO4 đặc nóng: Bị oxi hóa tạo H2SO4
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất axit sulfuric (H2SO4) (quan trọng nhất)
+- Ứng dụng (Ngành): Sản xuất bột diêm, thuốc súng
+- Ứng dụng (Ngành): Lưu hóa cao su
+- Ứng dụng (Ngành): Sản xuất diêm
+- Ứng dụng (Ngành): Sản xuất thuốc trừ sâu, thuốc diệt nấm
+- Ứng dụng (Ngành): Dược phẩm (điều trị bệnh ngoài da)
+V. Vai trò sinh học
+- Vai trò: Đa lượng (thiết yếu cho cơ thể)
+- Chức năng: Thành phần của protein (các axit amin methionine, cysteine)
+- Chức năng: Thành phần của vitamin (B1, H)

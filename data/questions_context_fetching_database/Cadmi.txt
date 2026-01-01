@@ -1,0 +1,39 @@
+﻿Tên tiếng Anh: Cadmium
+Tên tiếng Việt: Cadmi
+I. Thông tin cơ bản
+- Nhóm: IIB
+- Chu kỳ: 5
+- Nguyên tử khối: 112,411
+- Độ âm điện: 1,69
+- Cấu hình electron: [Kr] 4d10 5s2
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Thường tồn tại cùng với quặng của kẽm, đồng.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Điểm nóng chảy: 321,07 °C
+- Điểm sôi: 767 °C
+- Mật độ: 8,65 g/cm³
+- Tính chất: Dẻo, dễ dát mỏng
+- Tính chất: Dễ kéo sợi
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +2 (phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit cadmi (CdO)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ cadmi khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Tác dụng với hầu hết các axit (HCl, H2SO4 loãng, HNO3)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối cadmi và giải phóng khí hydro (với axit loãng)
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Mạ kim loại (chống ăn mòn)
+- Ứng dụng (Ngành): Sản xuất pin Ni-Cd
+- Ứng dụng (Ngành): Chế tạo thanh điều khiển trong lò phản ứng hạt nhân (hấp thụ neutron)
+- Ứng dụng (Ngành): Sản xuất chất màu (sơn, nhựa)
+- Ứng dụng (Ngành): Hợp kim dễ nóng chảy
+V. Vấn đề an toàn
+- Độc tính: Rất độc
+- Tác hại: Gây tổn thương thận, xương, phổi
+- Độc tính (Đặc điểm): Chất gây ung thư
+- Phòng ngừa: Cần xử lý nghiêm ngặt chất thải có chứa cadmi

@@ -1,0 +1,38 @@
+﻿Tên tiếng Anh: Tantalum
+Tên tiếng Việt: Tantali
+I. Thông tin cơ bản
+- Nhóm: VB
+- Chu kỳ: 6
+- Nguyên tử khối: 180,9479
+- Độ âm điện: 1,5
+- Các số oxi hóa phổ biến : +5 (ổn định nhất), +3
+- Cấu hình electron: [Xe] 4f14 5d3 6s2
+- Cấu tạo mạng tinh thể : Lập phương tâm khối
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tantali luôn đi kèm với Niobi (Nb) trong khoáng vật Columbit-Tantalit (còn gọi là Coltan) ((Fe, Mn) (Nb, Ta)2O6) .
+- Trạng thái: Rắn
+- Màu sắc: Xám xanh
+- Độ cứng: Cứng
+- Tính chất: Dẻo
+- Điểm nóng chảy: 3017 °C (Rất cao)
+- Điểm sôi: 5425 °C
+- Mật độ: 16,69 g/cm³
+- Tính chất: Kim loại chịu lửa
+- Tính chất: Chống ăn mòn tuyệt vời
+- Tính chất: Chịu nhiệt độ cao
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh
+- Trạng thái oxi hóa: +5 (phổ biến nhất) và +2, +3, +4
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit tantali (V) (Ta2O5)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này rất bền, bảo vệ tantali khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Không phản ứng với nước
+- Phản ứng với Axit: Không tác dụng với hầu hết các axit (kể cả nước cường toan)
+- Phản ứng với Axit (Ngoại lệ): Tan trong axit flohidric (HF) và dung dịch có chứa ion florua
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất tụ điện điện phân (trong điện thoại, máy tính)
+- Ứng dụng (Ngành): Thiết bị y tế (cấy ghép xương, khớp giả)
+- Ứng dụng (Ngành): Sản xuất hợp kim siêu chịu nhiệt (động cơ phản lực, tuabin)
+- Ứng dụng (Ngành): Thiết bị phòng thí nghiệm (nồi nấu)
+- Ứng dụng (Ngành): Công nghiệp hóa chất (chống ăn mòn)

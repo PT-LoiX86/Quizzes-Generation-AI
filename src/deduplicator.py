@@ -1,19 +1,18 @@
 from difflib import SequenceMatcher
-import re
 
-"Detects and removes duplicate/similar questions"
+# Detects and removes duplicate/similar questions
 """
 Args:
     similarity_threshold: 0.0: No duplication - 1.0: Definiately duplication.
                       Ex: 0.85 means 85% similar = considered duplicate.
-    threshold value: 0.85
+    threshold current value: 0.85
 """
 class Deduplicator:  
     def __init__(self, similarity_threshold=0.85):
         self.similarity_threshold = similarity_threshold
         self.processed_questions = []
     
-    "Normalize text for comparison (lowercase, remove special chars)"
+    # Normalize text for comparison (lowercase)
     def _normalize_text(self, text):
         text = text.lower()
         return text
@@ -30,11 +29,8 @@ class Deduplicator:
         matcher = SequenceMatcher(None, norm1, norm2)
         return matcher.ratio()
     
-    "Check if new_question is duplicate of any processed question"
+    # Check if new_question is duplicate of any processed question
     """
-    Args:
-        new_question: The new question text
-    
     Returns:
         Tuple: (is_duplicate, most_similar_question, similarity_score)
     """
@@ -46,15 +42,11 @@ class Deduplicator:
         
         return False, None, 0.0
     
-    "Add a question to tracking list"
     def add_question(self, question_text):
         self.processed_questions.append(question_text)
     
-    "Find duplicates within a batch of questions"
+    # Find duplicates within a batch of questions
     """
-    Args:
-        questions_list: List of question texts
-    
     Returns:
         List of tuples: (question_index, duplicate_index, similarity_score)
     """
@@ -69,14 +61,7 @@ class Deduplicator:
         
         return duplicates
     
-    "Remove duplicates from a batch, keeping first occurrence"
-    """
-    Args:
-        questions_with_metadata: List of question dicts with 'question' key.
-    
-    Returns:
-        Filtered list with duplicates removed
-    """
+    # Remove duplicates from a batch, keeping first occurrence
     def filter_duplicates_in_batch(self, questions_with_metadata):
         filtered = []
         seen_questions = []

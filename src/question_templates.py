@@ -48,17 +48,14 @@ QUESTION_TEMPLATES = {
     }
 }
 
-"Get a specific template"
 def get_template(template_name):
     return QUESTION_TEMPLATES.get(template_name, None)
 
-"Get all available templates"
 def get_all_templates():
     return list(QUESTION_TEMPLATES.keys())
 
+# Generate question text from template
 """
-Generate question text from template
-
 Args:
     template_name: Key from QUESTION_TEMPLATES
     element_name: Vietnamese element name

@@ -1,0 +1,30 @@
+﻿Tên tiếng Anh: Francium
+Tên tiếng Việt: Franxi
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 7
+- Nguyên tử khối: [223]
+- Độ âm điện: 0,7 (thấp nhất)
+- Cấu hình electron: [Rn] 7s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Chỉ tồn tại một lượng cực nhỏ trong quặng Uranium và Thorium.
+- Trạng thái: Rắn
+- Màu sắc: Chưa xác định rõ (dự đoán: vàng kim loại, tương tự Xesi)
+- Điểm nóng chảy: 27 °C
+- Điểm sôi: 677 °C
+- Tính chất: Kim loại kiềm
+- Tính chất: Phóng xạ mạnh
+- Tính chất: Là nguyên tố hiếm thứ hai trên Trái Đất
+- Tính chất: Rất không bền (chu kỳ bán rã ngắn)
+III. Tính chất hóa học
+- Tính khử: Mạnh nhất (trong bảng tuần hoàn)
+- Trạng thái oxi hóa: +1 (duy nhất)
+- Phản ứng với Nước: Phản ứng cực kỳ mãnh liệt với nước
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (FrOH)
+- Phản ứng với Oxi: Phản ứng mạnh với oxi (tạo thành superoxit)
+- Phản ứng với Axit: Tác dụng mạnh với axit (tạo muối và giải phóng H2)
+- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+IV. Ứng dụng
+- Ứng dụng: Hầu như không có ứng dụng thực tế
+- Ứng dụng (Lý do): Do tính phóng xạ mạnh và chu kỳ bán rã ngắn (22 phút)
+- Ứng dụng (Nghiên cứu): Chủ yếu dùng trong nghiên cứu khoa học (hấp thụ quang phổ, hạt nhân)

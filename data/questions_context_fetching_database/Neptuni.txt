@@ -1,0 +1,7 @@
+﻿Tên tiếng Anh: Neptunium
+Tên tiếng Việt: Neptuni
+I. Thông tin cơ bản
+- Thuộc họ Actini
+- Nguyên tử khối: [237]
+- Độ âm điện: 1,36
+- Cấu hình electron: [Rn] 5f4 6d1 7s2

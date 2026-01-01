@@ -1,0 +1,7 @@
+﻿Tên tiếng Anh: Plutonium
+Tên tiếng Việt: Plutoni
+I. Thông tin cơ bản
+- Thuộc họ Actini
+- Nguyên tử khối: [244]
+- Độ âm điện: 1,28
+- Cấu hình electron: [Rn] 5f6 7s2

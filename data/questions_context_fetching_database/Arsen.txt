@@ -1,0 +1,16 @@
+﻿Tên tiếng Anh: Arsenic
+Tên tiếng Việt: Arsen
+I. Thông tin cơ bản
+- Nhóm: VA
+- Chu kỳ: 4
+- Nguyên tử khối: 74,92
+- Độ âm điện: 2,18
+- Cấu hình electron: [Ar] 3d10 4s2 4p3
+II. Tính chất vật lý  
+- Trọng lượng nguyên tử (khối lượng trung bình của nguyên tử): 74.92160
+- Mật độ: 5.776 gram trên mỗi cm khối
+- Điểm nóng chảy: 817 độ C (36atm)
+- Điểm thăng hoa: 715 độ C
+- Số lượng đồng vị: 33 và 23
+- Đồng vị phổ biến nhất: As-75
+

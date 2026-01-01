@@ -1,0 +1,35 @@
+﻿Tên tiếng Anh: Antimony
+Tên tiếng Việt: Antimon
+I. Thông tin cơ bản
+- Nhóm: VA
+- Chu kỳ: 5
+- Nguyên tử khối: 121,76
+- Độ âm điện: 2,05
+- Cấu hình electron: [Kr] 4d10 5s2 5p3
+II. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Bạc
+- Độ cứng: Cứng
+- Tính chất: Giòn
+- Điểm nóng chảy: 630,6 °C
+- Điểm sôi: 1587 °C
+- Mật độ: 6,69 g/cm³
+- Tính dẫn điện: Kém
+- Tính dẫn nhiệt: Rất kém
+III. Tính chất hóa học
+- Tính chất: Là á kim
+- Tính chất: Có tính khử (chủ yếu) và tính oxi hóa
+- Trạng thái oxi hóa: -3, +3, +5
+- Tác dụng với Oxi: Phản ứng khi đun nóng, tạo thành oxit antimon (III) (Sb2O3) hoặc antimon (V) (Sb2O5)
+- Tác dụng với Oxi (Lớp oxit): Lớp oxit này bảo vệ antimon khỏi sự oxi hóa tiếp theo
+- Phản ứng với Axit: Tác dụng với các axit có tính oxi hóa mạnh (HNO3, H2SO4 đặc nóng)
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối antimon và oxit nitơ (NOx) hoặc SO2
+- Phản ứng với Axit (Trạng thái): Không tác dụng với HCl loãng
+- Phản ứng với Halogen: Tác dụng mạnh với các halogen tạo thành trihalua (SbX3) hoặc pentahalua (SbX5)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất hợp kim (chì cứng)
+- Ứng dụng (Ngành): Chế tạo ắc quy, vỏ bọc cáp
+- Ứng dụng (Ngành): Sản xuất chất bán dẫn (điốt, đầu dò hồng ngoại)
+- Ứng dụng (Ngành): Sản xuất sơn, men gốm, thủy tinh màu
+- Ứng dụng (Ngành): Chất làm chậm cháy (trong nhựa, vải)
+- Ứng dụng (Ngành): Dược phẩm (điều trị ký sinh trùng)

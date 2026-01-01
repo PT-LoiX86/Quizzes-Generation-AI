@@ -1,0 +1,41 @@
+﻿Tên tiếng Anh: Yttrium
+Tên tiếng Việt: Ytri
+I. Thông tin cơ bản
+- Nhóm: IIIB
+- Chu kỳ: 5
+- Nguyên tử khối: 88,90584
+- Độ âm điện: 1,22
+- Các số oxi hóa phổ biến : +3 (ổn định nhất)
+- Cấu hình electron: [Kr] 4d1 5s2
+- Cấu tạo mạng tinh thể : Lục phương
+II. Tính chất vật lý
+- Trạng thái tự nhiện: Ytri luôn đi kèm với các nguyên tố đất hiếm khác (Lanthanides)
+- Trạng thái tự nhiên: Ytri được tìm thấy trong nhiều khoáng vật, đặc biệt là Gadolinia (Gadolinium Oxide) và Monazite ((Ce, La, Y, Th) PO4).
+
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm
+- Tính chất: Dẻo
+- Điểm nóng chảy: 1522 °C
+- Điểm sôi: 3338 °C
+- Mật độ: 4,47 g/cm³
+- Tính chất: Kim loại đất hiếm
+- Tính chất: Bền trong không khí (do lớp oxit bảo vệ)
+III. Tính chất hóa học
+- Tính chất: Kim loại chuyển tiếp
+- Tính khử: Mạnh (hoạt động)
+- Trạng thái oxi hóa: +3 (duy nhất, phổ biến)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit ytri (Y2O3)
+- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ ytri khỏi sự oxi hóa tiếp theo
+- Phản ứng với Nước: Phản ứng chậm với nước lạnh
+- Phản ứng với Nước (Đặc điểm): Phản ứng nhanh với nước nóng
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (Y(OH)3)
+- Phản ứng với Axit: Tác dụng với axit loãng
+- Phản ứng với Axit (Sản phẩm): Tạo ra muối ytri (III) và giải phóng khí hydro
+- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất chất phát quang (màn hình TV màu đỏ)
+- Ứng dụng (Ngành): Yttrium aluminum garnet (YAG) dùng làm laser
+- Ứng dụng (Ngành): Sản xuất gốm sứ siêu dẫn
+- Ứng dụng (Ngành): Chế tạo hợp kim (tăng độ bền, chịu nhiệt)
+- Ứng dụng (Ngành): Chất xúc tác

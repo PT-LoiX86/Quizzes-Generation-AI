@@ -1,0 +1,36 @@
+﻿Tên tiếng Anh: Lithium
+Tên tiếng Việt: Liti
+I. Thông tin cơ bản
+- Nhóm: IA
+- Chu kỳ: 2
+- Nguyên tử khối: 6,94
+- Độ âm điện: 0,98
+- Cấu hình electron: [He] 2s1
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại ở dạng các hợp chất, một phần nhỏ của các loại đá cuội và cũng được tìm thấy trong nước biển.
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Mềm (cứng hơn Na, K)
+- Tính chất: Kim loại nhẹ nhất
+- Điểm nóng chảy: 180,5 °C
+- Điểm sôi: 1342 °C
+- Mật độ: 0,534 g/cm³ (nhẹ hơn nước)
+- Tính chất: Dẫn điện và dẫn nhiệt tốt
+- Màu ngọn lửa: Đỏ tía
+III. Tính chất hóa học
+- Tính chất: Kim loại kiềm
+- Tính khử: Mạnh (hoạt động kém hơn Na, K)
+- Trạng thái oxi hóa: +1 (duy nhất)
+- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit liti (Li2O)
+- Phản ứng với Oxi (Đặc điểm): Phản ứng ở nhiệt độ cao, tạo oxit thường (không phải peoxit hay superoxit)
+- Phản ứng với Nước: Phản ứng dễ dàng với nước (ít mãnh liệt hơn Na, K)
+- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (LiOH)
+- Phản ứng với Axit: Tác dụng mạnh với axit, tạo muối và giải phóng H2
+- Phản ứng với Nitơ: Là kim loại kiềm duy nhất phản ứng trực tiếp với khí nitơ ở nhiệt độ thường
+IV. Ứng dụng
+- Ứng dụng (Ngành): Sản xuất pin sạc (Lithium-ion)
+- Ứng dụng (Ngành): Chế tạo hợp kim (với Al, Mg)
+- Ứng dụng (Ngành): Công nghiệp gốm sứ và thủy tinh
+- Ứng dụng (Ngành): Y học (điều trị rối loạn lưỡng cực)
+- Ứng dụng (Ngành): Chất bôi trơn
+- Ứng dụng (Ngành): Chất tạo màu đỏ trong pháo hoa

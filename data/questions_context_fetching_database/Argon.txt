@@ -1,0 +1,33 @@
+﻿Tên tiếng Anh: Argon
+Tên tiếng Việt: Argon
+I. Thông tin cơ bản
+- Nhóm: VIIIA
+- Chu kỳ: 3
+- Nguyên tử khối: 39,948
+- Độ âm điện: 0
+- Cấu hình electron: [Ne] 3s2 3p6
+II. Tính chất vật lý
+- Trạng thái: Khí
+- Màu sắc: Không màu
+- Mùi vị: Không mùi, không vị
+- Điểm nóng chảy: -189,3 °C
+- Điểm sôi: -185,8 °C
+- Mật độ: 1,784 g/L (ở 0 °C và 1 atm)
+- Độ hòa tan trong nước: Hòa tan kém
+- Tính chất: Nặng hơn không khí
+III. Tính chất hóa học
+- Tính chất: Khí hiếm
+- Tính chất: Trơ về mặt hóa học
+- Độ hoạt động: Rất ít hoạt động
+- Hợp chất: Không tạo thành hợp chất bền vững với các nguyên tố khác
+- Hợp chất (Ngoại lệ): Có thể tạo hợp chất với các nguyên tố có độ âm điện rất cao (ví dụ: HF, H2O, ... trong điều kiện cực lạnh)
+- Trạng thái oxi hóa: 0 (phổ biến)
+IV. Ứng dụng
+- Ứng dụng (Ngành): Hàn kim loại (che chắn, bảo vệ)
+- Ứng dụng (Ngành): Cắt kim loại (che chắn, bảo vệ)
+- Ứng dụng (Ngành): Sản xuất bóng đèn huỳnh quang
+- Ứng dụng (Ngành): Sản xuất bóng đèn sợi đốt
+- Ứng dụng (Ngành): Chế tạo tia laser
+- Ứng dụng (Ngành): Y học (phẫu thuật lạnh)
+- Ứng dụng (Ngành): Khí mang (sắc ký khí)
+- Ứng dụng (Ngành): Chế tạo cửa sổ kính cách nhiệt

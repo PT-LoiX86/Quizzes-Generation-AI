@@ -1,0 +1,43 @@
+﻿Tên tiếng Anh: Chlorine
+Tên tiếng Việt: Clo
+I. Thông tin cơ bản
+- Nhóm: VIIA
+- Chu kỳ: 3
+- Nguyên tử khối: 35,453
+- Độ âm điện: 3,16
+- Cấu hình electron: [Ne] 3s2 3p5
+- Công thức phân tử: Cl2
+II. Tính chất vật lý
+- Trạng thái tự nhiên: Tồn tại chủ yếu ở dạng hợp chất muối clorua
+- Trạng thái: Khí
+- Màu sắc: Vàng lục
+- Mùi vị: Mùi hắc, khó chịu
+- Điểm nóng chảy: -101,5 °C
+- Điểm sôi: -34,04 °C
+- Mật độ: 3,2 g/L (ở 0 °C và 1 atm)
+- Tính chất: Độc
+- Tính chất: Nặng hơn không khí
+- Độ hòa tan trong nước: Tan ít trong nước
+III. Tính chất hóa học
+- Tính chất: Halogen
+- Tính chất: Phi kim
+- Tính oxi hóa: Mạnh
+- Tính oxi hóa (Đặc điểm): Yếu hơn Flo, mạnh hơn Brom và Iot
+- Trạng thái oxi hóa: -1, 0, +1, +3, +5, +7
+- Phản ứng với Kim loại: Tác dụng dễ dàng, tạo thành muối clorua
+- Phản ứng với Kim loại (Đặc điểm): Tác dụng với hầu hết kim loại (trừ Au, Pt) ở nhiệt độ thường hoặc khi đun nóng
+- Phản ứng với Phi kim: Tác dụng với nhiều phi kim (trừ O, N, C, khí hiếm)
+- Phản ứng với Nước: Tác dụng với nước tạo thành dung dịch nước clo
+- Phản ứng với Nước (Sản phẩm): Tạo ra axit hipoclorơ (HClO) và axit clohidric (HCl)
+- Phản ứng với Axit: Có thể oxi hóa một số ion halogenua (Br-, I-) và hợp chất có tính khử
+IV. Ứng dụng
+- Ứng dụng (Ngành): Tẩy trắng (sợi vải, giấy)
+- Ứng dụng (Ngành): Khử trùng nước uống, nước bể bơi
+- Ứng dụng (Ngành): Sản xuất các hợp chất hữu cơ (nhựa PVC, dung môi)
+- Ứng dụng (Ngành): Sản xuất các hợp chất vô cơ (HCl, nước Javen, Clorua vôi)
+- Ứng dụng (Ngành): Sản xuất thuốc trừ sâu, dược phẩm
+V. Vấn đề an toàn
+- Độc tính: Rất độc
+- Tác hại: Gây kích ứng da, mắt, hô hấp
+- Tác hại (Nồng độ cao): Gây tổn thương phổi nghiêm trọng, tử vong
+- Phòng ngừa: Cần xử lý cẩn thận, làm việc trong khu vực thông gió
