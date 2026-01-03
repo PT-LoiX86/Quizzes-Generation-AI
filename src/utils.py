@@ -19,16 +19,39 @@ def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+# Check if the text is pure numeric
+def is_pure_numeric(text):
+    if not text:
+        return False
+    # Allow: 0-9, ., ,, - (negative), and whitespace (optional, maybe trim first)
+    clean_text = str(text).strip()
+    allowed_chars = set("0123456789.,")
+    
+    for char in clean_text:
+        if char not in allowed_chars:
+            return False
+            
+    # Additional check: Must contain at least one digit
+    return any(c.isdigit() for c in clean_text)
+
 # Number rounding util
 def round_number(value):
     try:
         num = float(str(value).replace(',', '.'))
         decimal_part = num - int(num)
         
-        if decimal_part < 0.5:
+        EPSILON = 1e-9
+        
+        # X.0 - X.4 (e.g., 0.0 to 0.4999...) -> Round down
+        if decimal_part < 0.5 - EPSILON:
             return str(int(num))
-        elif 0.5 <= decimal_part < 0.6:
+        
+        # X.5 - X.6 (e.g., 0.5 to 0.5999...) -> Keep .5
+        # Range is [0.5, 0.6)
+        elif decimal_part >= 0.5 - EPSILON and decimal_part < 0.6 - EPSILON:
             return str(int(num)) + ".5"
+        
+        # X.6+ -> Round up
         else:
             return str(int(num) + 1)
     except:

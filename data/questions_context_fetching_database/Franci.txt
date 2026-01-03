@@ -1,30 +1,34 @@
-﻿Tên tiếng Anh: Francium
-Tên tiếng Việt: Franxi
-I. Thông tin cơ bản
-- Nhóm: IA
-- Chu kỳ: 7
-- Nguyên tử khối: [223]
-- Độ âm điện: 0,7 (thấp nhất)
-- Cấu hình electron: [Rn] 7s1
-II. Tính chất vật lý
-- Trạng thái tự nhiên: Chỉ tồn tại một lượng cực nhỏ trong quặng Uranium và Thorium.
-- Trạng thái: Rắn
-- Màu sắc: Chưa xác định rõ (dự đoán: vàng kim loại, tương tự Xesi)
-- Điểm nóng chảy: 27 °C
-- Điểm sôi: 677 °C
-- Tính chất: Kim loại kiềm
-- Tính chất: Phóng xạ mạnh
-- Tính chất: Là nguyên tố hiếm thứ hai trên Trái Đất
-- Tính chất: Rất không bền (chu kỳ bán rã ngắn)
-III. Tính chất hóa học
-- Tính khử: Mạnh nhất (trong bảng tuần hoàn)
-- Trạng thái oxi hóa: +1 (duy nhất)
-- Phản ứng với Nước: Phản ứng cực kỳ mãnh liệt với nước
-- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (FrOH)
-- Phản ứng với Oxi: Phản ứng mạnh với oxi (tạo thành superoxit)
-- Phản ứng với Axit: Tác dụng mạnh với axit (tạo muối và giải phóng H2)
-- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+﻿Tên tiếng Anh: Francium 
+Tên tiếng Việt: Franci 
+
+-Nhóm: IA 
+-Chu kỳ: 7 
+-Nguyên tử khối: 223 
+-Độ âm điện: 0,7 
+-Cấu hình electron: [Rn] 7s1 
+-Số oxi hóa: +1 
+I. Tính chất vật lý
+-Trạng thái vật lý: Rắn (nhiệt độ phòng) 
+-Màu sắc: xám, bạc ánh vàng 
+-Nhiệt độ nóng chảy: 27°C 
+-Nhiệt độ sôi: 677°C 
+-Thuộc tính: có tính phóng xạ cực cao,phát xạ bức xạ tia alpha và beta 
+II. Tính chất hóa học
+-Môi trường/ pH: Bazo mạnh 
+-Tính khử: Mạnh nhất trong Bảng tuần hoàn 
+-(1) Phản ứng: cực kỳ mạnh với H2O
+-(1) Sản phẩm: FrOH và H2 
+-(2) Phản ứng: với Cl2
+-(2) Sản phẩm: FrCl 
+III. Điều chế
+-Cách điều chế: Bắn phá Thorium bằng Proton 
+-Cách điều chế: Bắn phá Vàng bằng Oxy-18 trong máy gia tốc hạt 
+-Cách điều chế: Chiết tách từ quặng Uranium (lượng rất nhỏ) 
 IV. Ứng dụng
-- Ứng dụng: Hầu như không có ứng dụng thực tế
-- Ứng dụng (Lý do): Do tính phóng xạ mạnh và chu kỳ bán rã ngắn (22 phút)
-- Ứng dụng (Nghiên cứu): Chủ yếu dùng trong nghiên cứu khoa học (hấp thụ quang phổ, hạt nhân)
+-Ứng dụng: Nghiên cứu cấu trúc nguyên tử 
+-Ứng dụng: Kiểm tra các định luật vật lý cơ bản (vi phạm đối xứng chẵn lẻ) 
+-Lưu ý: Hầu như không có ứng dụng thực tế do quá hiếm và phóng xạ cao 
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Không tồn tại tự do, chỉ thấy trong quặng Uranium và Thorium 
+-Đồng vị: Fr-223 là đồng vị phổ biến nhất 
+-Trữ lượng: Ước tính chỉ có 20-30 gam tồn tại trong vỏ Trái Đất tại bất kỳ thời điểm nào

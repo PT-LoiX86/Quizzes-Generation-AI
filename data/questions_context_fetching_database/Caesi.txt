@@ -1,34 +1,34 @@
-﻿Tên tiếng Anh: Cesium
-Tên tiếng Việt: Xesi
-I. Thông tin cơ bản
-- Nhóm: IA
-- Chu kỳ: 6
-- Nguyên tử khối: 132,9055
-- Độ âm điện: 0,79
-- Cấu hình electron: [Xe] 6s1
-II. Tính chất vật lý
-- Trạng thái tự nhiên: Có mặt trong các khoáng vật như lepidolit, polluxit (silicat nhôm và xêzi ngậm nước) cũng như trong một vài nguồn khác.
-- Trạng thái: Rắn
-- Màu sắc: Vàng kim
-- Tính chất: Kim loại mềm nhất
-- Tính chất: Dễ uốn dẻo
-- Điểm nóng chảy: 28,5 °C
-- Điểm sôi: 671 °C
-- Mật độ: 1,879 g/cm³
-- Tính chất: Là chất lỏng ở nhiệt độ phòng hoặc cao hơn một chút
-III. Tính chất hóa học
-- Tính chất: Kim loại kiềm
-- Tính khử: Mạnh nhất (trong số các nguyên tố ổn định)
-- Trạng thái oxi hóa: +1 (duy nhất)
-- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành superoxide xesi (CsO2)
-- Phản ứng với Oxi (Đặc điểm): Phản ứng mạnh, có thể bốc cháy tự phát trong không khí
-- Phản ứng với Nước: Phản ứng rất mãnh liệt với nước
-- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (CsOH)
-- Phản ứng với Axit: Tác dụng mạnh với axit, tạo muối và giải phóng H2
-- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+﻿Tên tiếng Anh: Caesium
+Tên tiếng Việt: Caesi
+
+-Nhóm: IA 
+-Chu kỳ: 6 
+-Nguyên tử khối: 132,91 
+-Độ âm điện: 0,79 
+-Cấu hình electron: [Xe] 6s1 
+-Số oxi hóa: +1 
+I. Tính chất vật lý
+-Trạng thái vật lý: Rắn 
+-Màu sắc: bạc
+-Tính chất: mềm, rất dễ nóng chảy 
+-Khối lượng riêng: 1,873 g/cm3 
+-Nhiệt độ nóng chảy: 28,7°C 
+-Nhiệt độ sôi: 667,6°C 
+II. Tính chất hóa học
+-Môi trường/ pH: Bazo mạnh (khi tan trong nước) 
+-Tính khử: Rất mạnh (chỉ sau Franxi) 
+-(1) Phản ứng: với H2 
+-(1) Sản phẩm: CsH hoặc CsO2 
+-(2) Phản ứng: mãnh liệt với H20 (bốc cháy)
+-(2) Sản phẩm: CsOH và H2 
+III. Điều chế
+-Cách điều chế: Điện phân nóng chảy xyanua xêzi hoặc CsCl 
 IV. Ứng dụng
-- Ứng dụng (Ngành): Chế tạo đồng hồ nguyên tử (Atomic clocks)
-- Ứng dụng (Ngành): Tế bào quang điện (photocells)
-- Ứng dụng (Ngành): Chất xúc tác hữu cơ
-- Ứng dụng (Đặc điểm): Đồng vị phóng xạ Cs-137 được dùng trong y học (điều trị ung thư)
-- Ứng dụng (Đặc điểm): Đồng vị Cs-137 được dùng trong công nghiệp (đo mật độ, độ dày)
+-Ứng dụng: Đo lượng phát ra trong thủy học 
+-Ứng dụng: Chế tạo tế bào quang điện 
+-Ứng dụng: Xúc tác hiđrô hóa hợp chất hữu cơ 
+-Ứng dụng: Điều trị một vài dạng ung thư 
+-Ứng dụng: Làm bazơ và nguồn ion florua khan trong hóa hữu cơ 
+-Ứng dụng: Sử dụng trong từ kế  
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Có trong khoáng vật lepidolit, polluxit 

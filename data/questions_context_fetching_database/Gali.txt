@@ -1,37 +1,42 @@
-﻿Tên tiếng Anh: Gallium
-Tên tiếng Việt: Gali
-I. Thông tin cơ bản
-- Nhóm: IIIA
-- Chu kỳ: 4
-- Nguyên tử khối: 69,723
-- Độ âm điện: 1,81
-- Cấu hình electron: [Ar] 3d10 4s2 4p1
+﻿Tên tiếng Anh: Gallium 
+Tên tiếng Việt: Gali 
+
+-Nhóm: IIIA 
+-Chu kỳ: 4 
+-Nguyên tử khối: 69,72 
+-Độ âm điện: 1,81 
+-Cấu hình electron: [Ar] 3d10 4s2 4p1 
+-Số oxi hóa: +3 
 II. Tính chất vật lý
-- Trạng thái: Rắn
-- Màu sắc: Bạc
-- Độ cứng: Mềm
-- Điểm nóng chảy: 29,76 °C (thấp, gần nhiệt độ phòng)
-- Điểm sôi: 2204 °C
-- Mật độ: 5,91 g/cm³ (rắn) / 6,09 g/cm³ (lỏng)
-- Tính chất: Kim loại lỏng ở nhiệt độ phòng hoặc cao hơn một chút
-- Tính chất: Dễ làm ướt thủy tinh và da
+-Trạng thái vật lý: Rắn 
+-Màu sắc: Trắng bạc, ánh kim  
+-Thuộc tính:mềm,  dễ nóng chảy, dẫn điện tốt, dẫn nhiệt tốt
+-Nhiệt độ nóng chảy: 29,76 °C 
+-Nhiệt độ sôi: 2204 °C 
+-Khối lượng riêng: 5,904 g/cm³ 
 III. Tính chất hóa học
-- Tính chất: Kim loại yếu
-- Tính khử: Mạnh (hoạt động hơn Al)
-- Trạng thái oxi hóa: +3 (phổ biến) và +1
-- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit gali (Ga2O3)
-- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ gali khỏi sự oxi hóa tiếp theo
-- Phản ứng với Nước: Không phản ứng với nước lạnh
-- Phản ứng với Nước (Đặc điểm): Phản ứng chậm với hơi nước ở nhiệt độ cao
-- Phản ứng với Axit: Tác dụng với axit không oxi hóa (HCl, H2SO4 loãng)
-- Phản ứng với Axit (Sản phẩm): Tạo ra muối gali(III) và giải phóng khí hydro
-- Phản ứng với Axit (Ngoại lệ): Không tác dụng với HNO3 đặc nguội
-- Tính lưỡng tính: Oxit và Hydroxit gali (Ga2O3, Ga(OH)3) có tính lưỡng tính
-- Tác dụng với Kiềm: Tác dụng với dung dịch kiềm nóng
-- Tác dụng với Kiềm (Sản phẩm): Tạo ra muối galat và giải phóng khí hydro
+-Môi trường/ pH: Lưỡng tính
+-Tính khử: Trung bình 
+-(1) Phản ứng: với HCl 
+-(1) Sản phẩm: GaCl3 và H2 
+-(2) Phản ứng: với H2SO4 
+-(2) Sản phẩm: Ga2(SO4)3 và H2 
+-(3) Phản ứng: với CuSO4  (dung dịch)
+-(3) Sản phẩm: GaSO4 và Cu 
+-(4) Phản ứng: với AgNO3 (dung dịch)
+-(4) Sản phẩm: Ga(NO3)3 và Ag 
+-(5) Phản ứng: với O2
+-(5) Sản phẩm: Ga2O3 
+-(6) Phản ứng: với HNO3 (dung dịch)
+-(6) Sản phẩm: Ga(NO3)3, N2 và H2O 
 IV. Ứng dụng
-- Ứng dụng (Ngành): Sản xuất chất bán dẫn (GaAs - Gali arsenua)
-- Ứng dụng (Ngành): Đèn LED và diode laser
-- Ứng dụng (Ngành): Nhiệt kế (thay thế thủy ngân)
-- Ứng dụng (Ngành): Hợp kim dễ nóng chảy
-- Ứng dụng (Ngành): Y học (đánh dấu đồng vị phóng xạ)
+-Ứng dụng: Tạo hợp kim độ bền cao, nhẹ, chống ăn mòn 
+-Ứng dụng: Chế tạo hợp kim hàn và đúc  
+-Ứng dụng: Thiết bị bán dẫn  
+-Ứng dụng: Linh kiện điện tử tốc độ cao 
+-Ứng dụng: Chất kết dính chip điện tử 
+-Ứng dụng: Chẩn đoán và điều trị ung thư 
+-Ứng dụng: Nhiệt kế đo nhiệt độ cao, thiết bị đo y tế 
+-Ứng dụng: Kem đánh răng làm trắng răng 
+-Ứng dụng: Hợp kim nha khoa 
+-Ứng dụng: Thiết bị quang học

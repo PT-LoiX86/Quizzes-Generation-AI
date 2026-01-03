@@ -1,36 +1,44 @@
 ﻿Tên tiếng Anh: Calcium
-Tên tiếng Việt: Canxi
-I. Thông tin cơ bản
+Tên tiếng Việt: Calci
+
 - Nhóm: IIA
 - Chu kỳ: 4
-- Nguyên tử khối: 40,078
-- Độ âm điện: 1,00
+- Nguyên tử khối: 40
+- Độ âm điện: 1
 - Cấu hình electron: [Ar] 4s2
-II. Tính chất vật lý
+- Số oxi hóa: +2
+I. Tính chất vật lý
 - Trạng thái: Rắn
-- Màu sắc: Trắng bạc (hoặc vàng nhạt)
-- Độ cứng: Mềm (cứng hơn Natri, mềm hơn Magiê)
-- Điểm nóng chảy: 842 °C
-- Điểm sôi: 1484 °C
-- Mật độ: 1,55 g/cm³
-- Tính dẫn điện: Tốt
-- Tính dẫn nhiệt: Tốt
-- Màu ngọn lửa: Đỏ gạch
-III. Tính chất hóa học
-- Tính chất: Kim loại kiềm thổ
+- Màu sắc: Trắng bạc
+- Độ cứng: Khá cứng
+- Tính chất: Dẻo
+- Khối lượng riêng: 1,54 g/cm3
+- Điểm nóng chảy: 842°C
+- Điểm sôi: 1495°C
+- Nhận biết: Đốt cho ngọn lửa màu đỏ - nâu
+II. Tính chất hóa học
 - Tính khử: Mạnh
-- Trạng thái oxi hóa: +2 (duy nhất)
-- Phản ứng với Oxi: Phản ứng mạnh với oxi tạo thành oxit canxi (CaO)
-- Phản ứng với Oxi (Đặc điểm): Phản ứng xảy ra ở nhiệt độ thường (lớp oxit bảo vệ)
-- Phản ứng với Nước: Phản ứng dễ dàng với nước lạnh
-- Phản ứng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit (Ca(OH)2)
-- Phản ứng với Axit: Tác dụng mạnh với axit (HCl, H2SO4 loãng, HNO3)
-- Phản ứng với Axit (Sản phẩm): Tạo ra muối canxi và giải phóng khí hydro (trừ H2SO4 tạo CaSO4 ít tan)
-- Phản ứng với Halogen: Tác dụng mạnh tạo muối
+- (1) Phản ứng: với Oxi
+- (1) Sản phẩm: CaO
+- (2) Phản ứng: với H2
+- (2) Sản phẩm: CaH2
+- (3) Phản ứng: với HCl, H2SO4 loãng
+- (3) Sản phẩm: Muối canxi và H2
+- (4) Phản ứng: với HNO3 đặc
+- (4) Sản phẩm: Ca(NO3)2, NO2 và H2O
+- (5) Phản ứng: với nước (nhiệt độ thường)
+- (5) Sản phẩm: Ca(OH)2 và H2
+III. Điều chế
+- Phương pháp: Điện phân nóng chảy CaCl2
 IV. Ứng dụng
-- Ứng dụng (Ngành): Sản xuất hợp kim (với Al, Mg, Pb)
-- Ứng dụng (Ngành): Khử oxi, khử lưu huỳnh trong luyện kim
-- Ứng dụng (Hợp chất): Canxi oxit (CaO - vôi sống) dùng trong xây dựng, sản xuất hóa chất
-- Ứng dụng (Hợp chất): Canxi cacbonat (CaCO3) dùng trong xây dựng (đá vôi), sản xuất xi măng, thủy tinh
-- Ứng dụng (Hợp chất): Canxi sulfat (CaSO4 - thạch cao) dùng trong xây dựng, y học (bó bột)
-- Ứng dụng (Sinh học): Là thành phần chính của xương, răng (Ca3(PO4)2)
+- Ứng dụng: Dinh dưỡng xương và răng
+- Ứng dụng: Sản phẩm sữa
+- Ứng dụng: Khử điều chế Urani, Ziriconi, Thori
+- Ứng dụng: Chống oxi hóa, sulfua hóa, cacbua hóa hợp kim
+- Ứng dụng: Thành phần hợp kim Al, Be, Cu, Pb, Mg
+- Ứng dụng: Sản xuất xi măng, vữa xây dựng
+VI. Thông tin bổ sung
+- Trạng thái tự nhiên: 97% là đồng vị 40Ca
+- Đồng vị phóng xạ: 41Ca (chu kỳ bán rã 103.000 năm)
+- Sức khỏe: Thừa gây sỏi thận
+- Cơ chế sinh học: Cần Vitamin D để hấp thụ

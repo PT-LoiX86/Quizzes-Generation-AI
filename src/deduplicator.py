@@ -25,7 +25,7 @@ class Deduplicator:
        
         norm1 = self._normalize_text(text1)
         norm2 = self._normalize_text(text2)
-        
+                
         matcher = SequenceMatcher(None, norm1, norm2)
         return matcher.ratio()
     

@@ -1,9 +1,9 @@
 ﻿Tên tiếng Anh: Gadonlinium
 Tên tiếng Việt: Gadolini
-I. Thông tin cơ bản
-- Thuộc Họ Lanthan
-- Số nguyên tử : 64
-- Nguyên tử khối (của đồng vị phổ biến nhất) : 157.25
-- Độ âm điện: 1.20
-- Cấu hình electron : [Xe] 4f7 5d1 6s2
-- Các số oxi hóa phổ biến : +3 (là số oxi hóa bền vững nhất)
+
+Thuộc Họ Lanthan (Lanthanides)
+Số nguyên tử : 64
+Nguyên tử khối (của đồng vị phổ biến nhất) : 157.25
+Độ âm điện (theo Pauling) : 1.20
+Cấu hình electron : [Xe]4f75d16s2
+Các số oxi hóa phổ biến : +3 (là số oxi hóa bền vững nhất)

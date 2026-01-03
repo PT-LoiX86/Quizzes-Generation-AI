@@ -1,36 +1,44 @@
-﻿Tên tiếng Anh: Germanium
-Tên tiếng Việt: Germani
-I. Thông tin cơ bản
-- Nhóm: IVA
-- Chu kỳ: 4
-- Nguyên tử khối: 72,63
-- Độ âm điện: 2,01
-- Cấu hình electron: [Ar] 3d10 4s2 4p2
+﻿Tên tiếng Anh: Germanium 
+Tên tiếng Việt: Germani 
+ 
+-Nhóm: IVB 
+-Chu kỳ: 4 
+-Nguyên tử khối: 72,64 
+-Độ âm điện: 2,01 
+-Cấu hình electron: [Ar] 3d10 4s2 4p2 
+-Số oxi hóa: +2, +4 
 II. Tính chất vật lý
-- Trạng thái: Rắn
-- Màu sắc: Trắng xám
-- Tính chất: Giòn
-- Tính chất: Có ánh kim loại
-- Điểm nóng chảy: 938,25 °C
-- Điểm sôi: 2833 °C
-- Mật độ: 5,32 g/cm³
-- Tính dẫn điện: Chất bán dẫn
+-Loại nguyên tố: Á kim
+-Trạng thái vật lý: Rắn 
+-Màu sắc: Trắng xám, ánh kim 
+-Thuộc tính: giòn, dễ vỡ, dẫn diện tốt, dẫn nhiệt tốt
+-Khối lượng riêng: 5,323 g/cm3 
+-Điểm nóng chảy: 938,25 °C 
 III. Tính chất hóa học
-- Tính chất: Á kim
-- Tính chất: Có tính khử (chủ yếu)
-- Trạng thái oxi hóa: +4 (phổ biến) và +2
-- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit germani (IV) (GeO2)
-- Phản ứng với Oxi (Lớp oxit): Lớp oxit này bảo vệ germani khỏi sự oxi hóa tiếp theo
-- Phản ứng với Nước: Không phản ứng với nước
-- Phản ứng với Axit: Không tác dụng với hầu hết các axit loãng
-- Phản ứng với Axit (Ngoại lệ): Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc, H2SO4 đặc nóng)
-- Phản ứng với Axit (Sản phẩm): Tạo ra muối germani (IV) và sản phẩm khử
-- Phản ứng với Kiềm: Không tác dụng với dung dịch kiềm
-- Phản ứng với Halogen: Tác dụng mạnh tạo tetrahalua (GeX4)
+-Môi trường/ pH: Lưỡng tính 
+-Tính khử: Trung bình 
+-(1) Phản ứng: với axit HCl 
+-(1) Sản phẩm: GeCl4 và H2 
+-(2) Phản ứng: với  H2SO4 (dung dịch)
+-(2) Sản phẩm: Ge(SO4)2 và H2 
+-(3) Phản ứng: với CuSO4 (dung dịch)
+-(3) Sản phẩm: GeSO4 và Cu 
+-(4) Phản ứng: với AgNO3 (dung dịch)
+-(4) Sản phẩm: Ge(NO3)2 và Ag 
+-(5) Phản ứng: với oxi 
+-(5) Sản phẩm: GeO2 
+-(6) Phản ứng: với HNO3 (dung dịch)
+-(6) Sản phẩm: GeO2, NO2 và H2O 
 IV. Ứng dụng
-- Ứng dụng (Ngành): Sản xuất chất bán dẫn (điện tử)
-- Ứng dụng (Ngành): Chế tạo cáp quang
-- Ứng dụng (Ngành): Chế tạo thấu kính hồng ngoại
-- Ứng dụng (Ngành): Hóa chất làm xúc tác
-- Ứng dụng (Ngành): Dược phẩm và chất bổ sung dinh dưỡng
-- Ứng dụng (Ngành): Pin mặt trời hiệu suất cao
+-Ứng dụng: Thiết bị bán dẫn  
+-Ứng dụng: Sợi quang học truyền dẫn tín hiệu đi xa 
+-Ứng dụng: Thiết bị điện tử công suất cao 
+-Ứng dụng: Hợp kim nhôm, thép độ bền cao, chịu nhiệt 
+-Ứng dụng: Hợp kim hàn chống ăn mòn 
+-Ứng dụng: Nhựa chịu nhiệt, chống cháy, nhựa silicon, nhựa quang học 
+-Ứng dụng: Chẩn đoán và điều trị ung thư  
+-Ứng dụng: Tăng tương thích mô trong phẫu thuật ghép tạng 
+-Ứng dụng: Kính quang học, thiết bị đo lường 
+-Ứng dụng: Vải chống cháy và chống thấm nước 
+-Ứng dụng: Pin nhiên liệu, pin xe điện, vật liệu in 3D 
+

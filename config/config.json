@@ -1,58 +1,72 @@
 {
   "system": {
     "name": "Chemistry Question AI Generator",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "debug_mode": true,
     "language": "Vietnamese",
     "output_folder": "output"
   },
-
   "question_generation": {
     "template_only_fallback": true,
-    "max_attempts": 3
+    "max_attempts": 5
   },
-
   "question_types": {
+    "identification": {
+      "enabled": true,
+      "priority": 1,
+      "types": ["Symbol", "English Name", "Group Name", "Element Type"]
+    },
     "periodic_properties": {
       "enabled": true,
       "priority": 1,
-      "types": ["Period", "Periodic Group"]
+      "types": ["Period", "Periodic Group", "Atomic Mass"]
+    },
+    "atomic_structure": {
+      "enabled": true,
+      "priority": 2,
+      "types": ["Electron Config", "Valence"]
     },
     "physical_properties": {
       "enabled": true,
       "priority": 2,
-      "types": ["Color", "Flame Color", "Physical State"]
-    },
-    "atomic_properties": {
-      "enabled": true,
-      "priority": 3,
-      "types": ["Element Type", "Chemical Character"]
+      "types": ["Color", "Flame Color", "Physical State", "Allotropes"]
     },
     "chemical_properties": {
       "enabled": true,
+      "priority": 3,
+      "types": [
+        "Chemical Character",
+        "Compound Type",
+        "Nature/PH",
+        "Indicator Color Change"
+      ]
+    },
+    "applications_production": {
+      "enabled": true,
+      "priority": 3,
+      "types": ["Applications", "Production", "Compounds"]
+    },
+    "advanced_knowledge": {
+      "enabled": true,
       "priority": 4,
-      "types": ["Reaction Type", "Properties"]
+      "types": ["Reaction Type", "Minerals/Ores"]
     }
   },
-
   "number_rounding": {
     "enabled": true,
     "rules": "X.0-X.4 rounds to X; X.5-X.6 stays X.5; X.6+ rounds to X+1"
   },
-
   "deduplication": {
     "enabled": true,
     "check_within_batch": true,
     "similarity_threshold": 0.85
   },
-
   "output": {
     "format": "json",
     "include_debug_info": true,
     "generate_summary": true,
     "summary_format": "json"
   },
-
   "data_paths": {
     "chemistry_files": "data/questions_context_fetching_database",
     "facts_database": "data/facts_database/chemistry_facts.csv",

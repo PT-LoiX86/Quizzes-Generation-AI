@@ -1,40 +1,46 @@
-﻿Tên tiếng Anh: Aluminum
-Tên tiếng Việt: Nhôm
-I. Thông tin cơ bản
-- Nhóm: IIIA
-- Chu kỳ: 3
-- Nguyên tử khối: 26,9815
-- Độ âm điện: 1,61
-- Cấu hình electron: [Ne] 3s2 3p1
-II. Tính chất vật lý
-- Trạng thái: Rắn
-- Màu sắc: Trắng bạc
-- Độ cứng: Mềm
-- Độ cứng (Đặc điểm): Có thể dễ dàng cắt bằng dao
-- Điểm nóng chảy: 660 °C
-- Điểm sôi: 2519 °C
-- Mật độ: 2,70 g/cm³
-- Tính dẫn điện: Tốt
-- Tính dẫn nhiệt: Tốt
-- Tính chất: Dẻo, dễ kéo sợi
-- Tính chất: Dễ dát mỏng
-III. Tính chất hóa học
-- Tính khử: Rất mạnh
-- Tác dụng với Oxi: Dễ dàng phản ứng với oxi tạo thành lớp oxit nhôm (Al2O3)
-- Tác dụng với Oxi (Lớp oxit): Lớp oxit này không tan, bền và bảo vệ nhôm khỏi sự oxi hóa tiếp theo
-- Tác dụng với Oxi (Nhiệt độ): Chỉ phản ứng ở nhiệt độ cao
-- Tác dụng với Nước: Phản ứng chậm với nước lạnh
-- Tác dụng với Nước (Sản phẩm): Giải phóng khí hydro và tạo thành hydroxit
-- Phản ứng với Axit: Tác dụng với hầu hết các axit (trừ HNO3 đặc nguội và H2SO4 đặc nguội)
-- Phản ứng với Axit (Sản phẩm): Tạo ra muối nhôm và giải phóng khí hydro
-- Tính lưỡng tính: Có tính lưỡng tính
-- Tác dụng với Kiềm: Tác dụng với dung dịch kiềm (NaOH, KOH)
-- Tác dụng với Kiềm (Sản phẩm): Tạo ra muối aluminat và giải phóng khí hydro
+﻿Tên tiếng Anh: Alluminium 
+Tên tiếng Việt: Nhôm 
+
+-Nhóm: IIIA 
+-Chu kỳ: 3 
+-Nguyên tử khối: 26,9815 
+-Độ âm điện: 1,61 
+-Cấu hình electron: [Ne] 3s2 3p1 
+-Cấu tạo: Lập phương tâm diện 
+I. Tính chất vật lý
+-Trạng thái: Rắn
+-Màu sắc: Trắng bạc 
+-Khối lượng riêng: 2,7 g/cm3
+-Điểm nóng chảy: 660°C 
+-Tính chất: Nhẹ, mềm, dễ kéo sợi, dễ dát mỏng 
+-Tính dẫn điện: Tốt
+-Tính dẫn nhiệt: Tốt
+II. Tính chất hóa học
+-(1) Phản ứng: với oxi (nhiệt độ thường) 
+-(1) Sản phẩm: lớp màng oxit bảo vệ 
+-(2) Phản ứng: đốt bột nhôm với oxi 
+-(2) Sản phẩm: Al2O3
+-(3) Phản ứng: với Cl2(nhiệt độ thường) 
+-(3) Sản phẩm: AlCl3 bốc cháy 
+-(4) Phản ứng: với HCl
+-(4) Sản phẩm: AlCl3 và H2 
+-(5) Phản ứng: với HNO3 loãng (nhiệt độ) 
+-(5) Sản phẩm: Al(NO3)3, NO và H2O
+-(6) Phản ứng: với H2SO4 đặc (nhiệt độ)
+-(6) Sản phẩm: Al2(SO4)3, SO2 và H2O
+-(7) Phản ứng: khử oxit kim loại Fe2O3 (nhiệt độ cao)
+-(7) Sản phẩm: Al2O3 và kim loại Fe
+-(8) Phản ứng: với dung dịch kiềm NaOH 
+-(8) Sản phẩm: Na[Al(OH)4] và H2 
+III. Điều chế
+-Phương pháp: Điện phân nóng chảy Al2O3 
 IV. Ứng dụng
-- Ứng dụng (Ngành): Sản xuất dụng cụ gia đình, thiết bị công nghiệp
-- Ứng dụng (Ngành): Chế tạo chi tiết máy bay, ô tô, tàu thủy
-- Ứng dụng (Ngành): Sản xuất dây điện, cáp điện
-- Ứng dụng (Ngành): Bao bì thực phẩm (giấy bạc)
-- Ứng dụng (Ngành): Vật liệu xây dựng (cửa, khung)
-- Ứng dụng (Ngành): Phản ứng nhiệt nhôm
-- Ứng dụng (Ngành): Sản xuất phèn nhôm (Al2(SO4)3)
+-Ứng dụng: Chế tạo vỏ máy bay, tên lửa, tàu vũ trụ 
+-Ứng dụng: Làm dây dẫn điện cao áp 
+-Ứng dụng: Đồ nội thất 
+-Ứng dụng: Vật trao đổi nhiệt 
+-Ứng dụng: Chế tạo hỗn hợp tecmit để hàn đường ray 
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Chỉ tồn tại dạng hợp chất 
+-Khoáng vật: Đất sét, mica, boxit, criolit 
+-Lưu ý: Không tác dụng với H2SO4, HNO3 đặc nguội 

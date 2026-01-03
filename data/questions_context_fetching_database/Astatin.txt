@@ -1,30 +1,31 @@
-﻿Tên tiếng Anh: Astatine
-Tên tiếng Việt: Astatin
-I. Thông tin cơ bản
-- Nhóm: VIIA
-- Chu kỳ: 6
-- Nguyên tử khối: [210]
-- Độ âm điện: 2,2
-- Cấu hình electron: [Xe] 4f14 5d10 6s2 6p5
-II. Tính chất vật lý
-- Trạng thái: Rắn
-- Màu sắc: Đen (hoặc ánh kim loại)
-- Tính chất: Phóng xạ mạnh
-- Tính chất: Là nguyên tố hiếm nhất trên Trái Đất
-- Điểm nóng chảy: 302 °C
-- Điểm sôi: 337 °C
-- Mật độ: 6,35 g/cm³
-III. Tính chất hóa học
-- Tính chất: Halogen
-- Tính chất: Á kim (tính chất kim loại mạnh nhất trong nhóm halogen)
-- Tính chất: Không bền (do phóng xạ)
-- Tính oxi hóa: Có tính oxi hóa
-- Tính oxi hóa (Đặc điểm): Yếu hơn Iot
-- Trạng thái oxi hóa: -1, +1, +3, +5, +7
-- Phản ứng: Có thể tạo hợp chất với các nguyên tố kim loại và phi kim khác
-- Phản ứng (Đặc điểm): Tính chất tương tự Iot
-IV. Ứng dụng
-- Ứng dụng (Ngành): Y học (chẩn đoán và điều trị ung thư)
-- Ứng dụng (Đặc điểm): Sử dụng đồng vị At-211
-- Ứng dụng (Đặc điểm): Phát ra hạt alpha (tiêu diệt tế bào ung thư)
-- Ứng dụng (Ngành): Nghiên cứu khoa học (do tính phóng xạ mạnh và chu kỳ bán rã ngắn)
+﻿Tên tiếng Anh: Astatine 
+Tên tiếng Việt: Astatin 
+
+Nhóm: VIIA 
+Chu kỳ: 6 
+Nguyên tử khối: [210] 
+Độ âm điện: 2,20 
+Cấu hình electron: [Xe] 4f14 5d10 6s2 6p5 
+I. Tính chất vật lý
+-Trạng thái: Rắn 
+-Màu sắc: Xám, ánh kim 
+-Thuộc tính: Bay hơi (thăng hoa) 
+-Phóng xạ: Đồng vị sống lâu nhất 210At (chu kì bán rã 8,1 h) 
+-Độ tan: Không tan trong nước, tan trong CCl4 
+-Điểm nóng chảy: 244°C 
+-Điểm sôi: 309°C 
+II. Tính chất hóa học
+-Loại nguyên tố: Phi kim
+-Tính oxi hóa: mạnh (kém hơn iot) 
+-(1) Phản ứng: Al 
+-(1) Sản phẩm: AlAt3 
+-(2) Phản ứng: H2 
+-(2) Sản phẩm: HAt 
+-(3) Phản ứng: với nước và SO2 
+-(3) Sản phẩm: HAt và H2SO4 
+-(4) Phản ứng: với iot (I2) 
+-(4) Sản phẩm: AtI 
+III. Thông tin bổ sung
+-Trạng thái tự nhiên: Hiếm nhất, tồn tại trong 3 chuỗi phân rã phóng xạ 
+-Trữ lượng: Tổng khối lượng trong vỏ Trái Đất ước tính nhỏ hơn 28 gram 
+

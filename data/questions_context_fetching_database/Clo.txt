@@ -1,43 +1,41 @@
 ﻿Tên tiếng Anh: Chlorine
-Tên tiếng Việt: Clo
-I. Thông tin cơ bản
-- Nhóm: VIIA
-- Chu kỳ: 3
-- Nguyên tử khối: 35,453
-- Độ âm điện: 3,16
-- Cấu hình electron: [Ne] 3s2 3p5
-- Công thức phân tử: Cl2
-II. Tính chất vật lý
-- Trạng thái tự nhiên: Tồn tại chủ yếu ở dạng hợp chất muối clorua
-- Trạng thái: Khí
-- Màu sắc: Vàng lục
-- Mùi vị: Mùi hắc, khó chịu
-- Điểm nóng chảy: -101,5 °C
-- Điểm sôi: -34,04 °C
-- Mật độ: 3,2 g/L (ở 0 °C và 1 atm)
-- Tính chất: Độc
-- Tính chất: Nặng hơn không khí
-- Độ hòa tan trong nước: Tan ít trong nước
+Tên tiếng Việt: Chlor
+
+-Nhóm: VIIA
+-Chu kỳ: 3
+-Nguyên tử khối: 35,5
+-Độ âm điện: 3,16
+-Cấu hình electron: [Ne] 3s2 3p5
+I. Tính chất vật lý
+-Trạng thái vật lý: Khí
+-Màu sắc: Vàng
+-Thuộc tính: mùi xốc, độc, tan trong nước
+-Tỷ trọng: Nặng hơn không khí
+-Cấu tạo: Một liên kết cộng hóa trị
 III. Tính chất hóa học
-- Tính chất: Halogen
-- Tính chất: Phi kim
-- Tính oxi hóa: Mạnh
-- Tính oxi hóa (Đặc điểm): Yếu hơn Flo, mạnh hơn Brom và Iot
-- Trạng thái oxi hóa: -1, 0, +1, +3, +5, +7
-- Phản ứng với Kim loại: Tác dụng dễ dàng, tạo thành muối clorua
-- Phản ứng với Kim loại (Đặc điểm): Tác dụng với hầu hết kim loại (trừ Au, Pt) ở nhiệt độ thường hoặc khi đun nóng
-- Phản ứng với Phi kim: Tác dụng với nhiều phi kim (trừ O, N, C, khí hiếm)
-- Phản ứng với Nước: Tác dụng với nước tạo thành dung dịch nước clo
-- Phản ứng với Nước (Sản phẩm): Tạo ra axit hipoclorơ (HClO) và axit clohidric (HCl)
-- Phản ứng với Axit: Có thể oxi hóa một số ion halogenua (Br-, I-) và hợp chất có tính khử
-IV. Ứng dụng
-- Ứng dụng (Ngành): Tẩy trắng (sợi vải, giấy)
-- Ứng dụng (Ngành): Khử trùng nước uống, nước bể bơi
-- Ứng dụng (Ngành): Sản xuất các hợp chất hữu cơ (nhựa PVC, dung môi)
-- Ứng dụng (Ngành): Sản xuất các hợp chất vô cơ (HCl, nước Javen, Clorua vôi)
-- Ứng dụng (Ngành): Sản xuất thuốc trừ sâu, dược phẩm
-V. Vấn đề an toàn
-- Độc tính: Rất độc
-- Tác hại: Gây kích ứng da, mắt, hô hấp
-- Tác hại (Nồng độ cao): Gây tổn thương phổi nghiêm trọng, tử vong
-- Phòng ngừa: Cần xử lý cẩn thận, làm việc trong khu vực thông gió
+-Bản chất/pH: Axit mạnh
+-Tính chất: Oxi hóa mạnh (chủ yếu), có thể đóng vai trò chất khử
+-(1) Phản ứng: với Na
+-(1) Sản phẩm: NaCl
+-(2) Phản ứng: với H2 (chiếu sáng hoặc nhiệt độ)
+-(2) Sản phẩm: HCl
+-(3) Phản ứng: với H2O (thuận nghịch)
+-(3) Sản phẩm: HCl và HClO
+-(4) Phản ứng: với NaOH (dung dịch)
+-(4) Sản phẩm: NaCl, NaClO và H2O 
+-(5) Phản ứng: với FeCl2 (nhiệt độ) 
+-(5) Sản phẩm: FeCl3
+-(6) Phản ứng: với NaBr (dung dịch)
+-(6) Sản phẩm: NaCl và Br2
+IV. Điều chế
+-Cách điều chế: Điện phân dung dịch NaCl bão hòa có màng ngăn
+-Cách điều chế: MnO2 hoặc KMnO4 tác dụng với axit HCl đặc
+V. Ứng dụng
+-Ứng dụng: Diệt trùng nước sinh hoạt, nước bể bơi
+-Ứng dụng: Tẩy trắng sợi, giấy, vải
+-Ứng dụng: Sản xuất chất hữu cơ, nước Gia-ven, clorua vôi
+-Ứng dụng: Sản xuất axit HCl, KClO3
+VI. Thông tin bổ sung
+-Trạng thái tự nhiên: Chỉ tồn tại dạng hợp chất (chủ yếu muối clorua, NaCl)
+-Đồng vị: 35Cl (75%) và 37Cl (25%)
+-Đặc điểm: Phản ứng tỏa nhiều nhiệt; Tan trong nước xảy ra cả hiện tượng vật lý và hóa học

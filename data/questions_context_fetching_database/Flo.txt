@@ -1,39 +1,37 @@
-﻿Tên tiếng Anh: Fluorine
-Tên tiếng Việt: Flo
-I. Thông tin cơ bản
-- Nhóm: VIIA
-- Chu kỳ: 2
-- Nguyên tử khối: 18,9984
-- Độ âm điện: 3,98
-- Cấu hình electron: [He] 2s2 2p5
-- Công thức phân tử: F2
+﻿Tên tiếng Anh: Fluorine 
+Tên tiếng Việt: Fluor 
+
+-Nhóm: VIIA 
+-Chu kỳ: 2 
+-Nguyên tử khối: 18,998 
+-Độ âm điện: 3,98 
+-Cấu hình electron: [He] 2s2 2p5
+-Số oxi hóa: -1 
 II. Tính chất vật lý
-- Trạng thái tự nhiên: Phần lớn tập trung trong 2 khoáng vật là Florit (CaF2) và criolit (Na3AlF6).
-- Trạng thái: Khí
-- Màu sắc: Vàng lục nhạt
-- Mùi vị: Mùi hắc, khó chịu
-- Điểm nóng chảy: -219,6 °C
-- Điểm sôi: -188,1 °C
-- Mật độ: 1,69 g/L (ở 0 °C và 1 atm)
-- Tính chất: Độc
-- Tính chất: Nhẹ hơn không khí
+-Trạng thái vật lý: Khí 
+-Màu sắc: Lục nhạt 
+-Thuộc tính: Độc, phi kim mạnh nhất và có tính oxi hóa mạnh nhất 
 III. Tính chất hóa học
-- Tính chất: Halogen
-- Tính chất: Phi kim
-- Tính oxi hóa: Mạnh nhất (trong số các nguyên tố)
-- Trạng thái oxi hóa: -1 (duy nhất trong hợp chất)
-- Phản ứng với Kim loại: Tác dụng mãnh liệt với hầu hết kim loại (kể cả Au, Pt) ở nhiệt độ thường
-- Phản ứng với Phi kim: Tác dụng với nhiều phi kim (kể cả khí hiếm như Xenon) (trừ O, N)
-- Phản ứng với Nước: Phản ứng mạnh với nước
-- Phản ứng với Nước (Sản phẩm): Giải phóng oxi và tạo thành axit flohidric (HF)
-- Phản ứng với Hợp chất: Oxi hóa hầu hết các hợp chất
-IV. Ứng dụng
-- Ứng dụng (Ngành): Sản xuất các hợp chất flo hữu cơ (Teflon)
-- Ứng dụng (Ngành): Sản xuất chất làm lạnh (Freon)
-- Ứng dụng (Ngành): Sản xuất uranium hexaflorua (UF6) (làm giàu urani)
-- Ứng dụng (Ngành): Sản xuất kem đánh răng và nước súc miệng (Natri florua - NaF)
-- Ứng dụng (Ngành): Sản xuất axit flohidric (HF) (khắc thủy tinh)
-V. Vấn đề an toàn
-- Độc tính: Rất độc (khí F2 và hợp chất HF)
-- Tác hại: Gây tổn thương nghiêm trọng cho da, mắt, hô hấp
-- Phòng ngừa: Cần xử lý cực kỳ cẩn thận, bảo quản trong vật liệu đặc biệt (ví dụ: bình chứa niken)
+-Môi trường/ pH: Axit yếu 
+-(1) Phản ứng: với Ca 
+-(1) Sản phẩm: CaF2 
+-(2) Phản ứng: với hidro (bóng tối, nhiệt độ thấp) 
+-(2) Sản phẩm: HF (nổ mạnh)
+-(3) Phản ứng: với H2O
+-(3) Sản phẩm: O2 và HF  (bốc cháy)
+-(4) Phản ứng: HF và SiO2 
+-(4) Sản phẩm: SiF4 và H2O 
+IV. Điều chế
+-Phương pháp: Điện phân hỗn hợp KF + 2HF nóng chảy 
+V. Ứng dụng
+-Ứng dụng: Chất oxi hóa nhiên liệu lỏng tên lửa 
+-Ứng dụng: Điều chế dẫn xuất có tính chất độc đáo 
+-Ứng dụng: Thuốc chống sâu răng (NaF loãng) 
+-Ứng dụng: Công nghiệp sản xuất hạt nhân 
+-Ứng dụng: Khắc trên kính, vẽ tranh (ăn mòn thủy tinh) 
+VI. Thông tin bổ sung
+-Trạng thái tự nhiên: Chỉ tồn tại ở dạng hợp chất 
+-Quặng: Florit, criolit 
+-Sinh học: Có trong men răng, lá một số loài cây 
+-Lưu ý: Không dùng chai lọ thủy tinh để đựng dung dịch axit HF 
+

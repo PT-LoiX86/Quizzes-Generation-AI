@@ -1,32 +1,48 @@
 ﻿Tên tiếng Anh: Carbon
-Tên tiếng Việt: Cacbon
-I. Thông tin cơ bản
-- Nhóm: IVA
-- Chu kỳ: 2
-- Nguyên tử khối: 12,011
-- Độ âm điện: 2,55
-- Cấu hình electron: [He] 2s2 2p2
+Tên tiếng Việt: Carbon
+
+-Nhóm: IVA 
+-Chu kỳ: 2 
+-Nguyên tử khối: 12,011 
+-Độ âm điện: 2,55 
+-Cấu hình electron: [He] 2s2 2p2 
+-Số oxi hóa: -4, 0, +2, +4 
 II. Tính chất vật lý
-- Tính chất: Có nhiều dạng thù hình
-- Dạng thù hình (Kim cương): Rất cứng, trong suốt, cách điện, nhiệt độ nóng chảy cao nhất
-- Dạng thù hình (Than chì): Mềm, màu đen, dẫn điện tốt, tính dẫn nhiệt kém
-- Dạng thù hình (Fullerene): Cấu trúc hình cầu, dẫn điện tốt
-- Dạng thù hình (Carbon vô định hình): Mềm, xốp, hấp phụ tốt
+-Khối lượng riêng: 2,267 g/cm3
+-Điểm nóng chảy: 3526,85°C 
+-Điểm sôi: 4026,85°C 
+-Dạng thù hình: Kim cương, than chì, cacbon vô định hình 
+-Thuộc tính (Kim cương): Trong suốt, cứng nhất, không dẫn điện, dẫn nhiệt kém 
+-Thuộc tính (Than chì): Xám đen, ánh kim, dẫn điện tốt 
+-Thuộc tính (Vô định hình): Xốp, hấp phụ mạnh 
 III. Tính chất hóa học
-- Tính chất: Phi kim
-- Tính chất: Có cả tính khử và tính oxi hóa
-- Trạng thái oxi hóa: -4, -3, -2, -1, 0, +1, +2, +3, +4
-- Độ hoạt động: Kém hoạt động ở nhiệt độ thường
-- Độ hoạt động (Nhiệt độ cao): Hoạt động mạnh ở nhiệt độ cao
-- Tác dụng với Oxi: Phản ứng tạo thành oxit cacbon (CO hoặc CO2)
-- Tác dụng với Oxi (Nhiệt độ): Phản ứng ở nhiệt độ cao
-- Tác dụng với Oxit kim loại: Khử nhiều oxit kim loại (như Fe2O3, CuO) thành kim loại ở nhiệt độ cao
-- Phản ứng với Hơi nước: Tác dụng với hơi nước tạo thành hỗn hợp CO và H2 (khí than ướt) ở nhiệt độ cao
-- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3 đặc nóng, H2SO4 đặc nóng)
-- Phản ứng với Axit (Sản phẩm): Tạo ra CO2 và sản phẩm khử (NOx hoặc SO2)
-IV. Ứng dụng
-- Ứng dụng (Than chì): Chế tạo điện cực, chất bôi trơn, bút chì
-- Ứng dụng (Kim cương): Làm đồ trang sức, chế tạo mũi khoan, lưỡi cắt
-- Ứng dụng (Carbon vô định hình): Làm chất hấp phụ (khẩu trang, lọc nước), sản xuất mực in, cao su
-- Ứng dụng (Ngành): Vật liệu xây dựng (xi măng)
-- Ứng dụng (Ngành): Năng lượng (nhiên liệu hóa thạch, than đá)
+-(1) Phản ứng: với O2 
+-(1) Sản phẩm: CO2 
+-(2) Phản ứng: với CO2 (nhiệt độ cao) 
+-(2) Sản phẩm: CO 
+-(3) Phản ứng: với H2SO4 đặc (nhiệt độ cao) 
+-(3) Sản phẩm: CO2, SO2 và H2O 
+-(4) Phản ứng: với H2 
+-(4) Sản phẩm: CH4 
+-(5) Phản ứng: với Ca 
+-(5) Sản phẩm: CaC2 
+-(6) Phản ứng: với Al 
+-(6) Sản phẩm: Al4C3 
+IV. Điều chế
+-Cách điều chế: Nung than chì ở 2000°C, áp suất cao, xúc tác Fe, Cr, Ni  
+-Cách điều chế: Nung than cốc ở 2500 - 3000°C trong lò điện 
+-Cách điều chế: Nung than mỡ 1000°C không có không khí 
+-Cách điều chế: Đốt gỗ thiếu không khí 
+-Cách điều chế: Nhiệt phân metan 
+-Cách điều chế: Khai thác trực tiếp từ mỏ than
+V. Ứng dụng
+-Ứng dụng: Đồ trang sức, mũi khoan, dao cắt thủy tinh, bột mài 
+-Ứng dụng: Điện cực, nồi nấu hợp kim chịu nhiệt 
+-Ứng dụng: Chất bôi trơn, bút chì đen 
+-Ứng dụng: Chất khử trong luyện kim 
+-Ứng dụng: Chế tạo thuốc nổ đen, thuốc pháo 
+-Ứng dụng: Mặt nạ phòng độc, công nghiệp hóa chất
+VI. Thông tin bổ sung
+-Trạng thái tự nhiên: Tồn tại dạng tự do (kim cương, than chì) và hợp chất 
+-Khoáng vật: Canxit (CaCO3), magiezit (MgCO3), đolomit (CaCO3.MgCO3) 
+-Nguồn khác: Dầu mỏ, khí thiên nhiên, cơ thể động thực vật 

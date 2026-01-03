@@ -1,37 +1,51 @@
-﻿Tên tiếng Anh: Copper
-Tên tiếng Việt: Đồng
-I. Thông tin cơ bản
-- Nhóm: IB
-- Chu kỳ: 4
-- Nguyên tử khối: 63,546
-- Độ âm điện: 1,90
-- Cấu hình electron: [Ar] 3d10 4s1
-II. Tính chất vật lý
-- Trạng thái: Rắn
-- Màu sắc: Đỏ nâu
-- Độ cứng: Mềm
-- Tính chất: Rất dẻo, dễ kéo sợi
-- Điểm nóng chảy: 1084,6 °C
-- Điểm sôi: 2562 °C
-- Mật độ: 8,96 g/cm³
-- Tính dẫn điện: Rất tốt (chỉ sau Bạc)
-- Tính dẫn nhiệt: Rất tốt
-III. Tính chất hóa học
-- Tính chất: Kim loại chuyển tiếp
-- Tính khử: Yếu (kém hơn Fe, Zn)
-- Trạng thái oxi hóa: +1, +2 (phổ biến)
-- Trạng thái oxi hóa (Đặc điểm): Trạng thái +2 bền hơn
-- Phản ứng với Oxi: Phản ứng khi đun nóng, tạo thành oxit đồng (II) (CuO - màu đen) hoặc oxit đồng (I) (Cu2O - màu đỏ)
-- Phản ứng với Oxi (Thường): Lớp oxit đồng (II) được hình thành trên bề mặt khi tiếp xúc với không khí
-- Phản ứng với Nước: Không phản ứng với nước
-- Phản ứng với Axit: Tác dụng với axit có tính oxi hóa mạnh (HNO3, H2SO4 đặc nóng)
-- Phản ứng với Axit (Sản phẩm): Tạo ra muối đồng và sản phẩm khử (NOx hoặc SO2)
-- Phản ứng với Axit (Trạng thái): Không tác dụng với HCl loãng và H2SO4 loãng
-- Phản ứng với Muối: Có thể đẩy được kim loại yếu hơn ra khỏi dung dịch muối (ví dụ: AgNO3)
+﻿Tên tiếng Anh: Copper (cuprum) 
+Tên tiếng Việt: Đồng 
+
+-Nhóm: IB 
+-Chu kỳ: 4 
+-Nguyên tử khối: 64 
+-Độ âm điện: 1,9 
+-Cấu hình electron: [Ar] 3d10 4s1 
+-Số oxi hóa: +1, +2 
+I. Tính chất vật lý
+-Trạng thái: Rắn 
+-Màu sắc: Đỏ 
+-Thuộc tính: Dẻo, dễ kéo sợi, dễ tráng mỏng 
+-Dẫn điện/nhiệt: Rất cao (kém bạc) 
+-Khối lượng riêng: 8,98 g/cm3 
+-Nhiệt độ nóng chảy: 1083°C 
+-Nhận biết: Đơn chất màu đỏ, dung dịch muối màu xanh lam đặc trưng 
+-Nhận biết: Tan trong HNO3 loãng tạo dung dịch xanh lam và khí NO không màu hóa nâu 
+II. Tính chất hóa học
+-Môi trường/ pH: Trung tính 
+-Tính khử: Yếu 
+-(1) Phản ứng: với oxi (đun nóng) 
+-(1) Sản phẩm: CuO 
+-(2) Phản ứng: với CuO (800 - 1000°C) 
+-(2) Sản phẩm: Cu2O màu đỏ 
+-(3) Phản ứng: với Cl2 (nhiệt độ) 
+-(3) Sản phẩm: CuCl2, CuBr2 hoặc CuS 
+-(4) Phản ứng: với HCl, H2SO4 loãng 
+-(4) Sản phẩm: không tác dụng 
+-(5) Phản ứng: với HCl (dung dịch) và O2
+-(5) Sản phẩm: CuCl2 và H2O 
+-(6) Phản ứng: với H2SO4 đặc 
+-(6) Sản phẩm: CuSO4, SO2 và H2O 
+-(7) Phản ứng: với HNO3 đặc 
+-(7) Sản phẩm: Cu(NO3)2, NO2 và H2O 
+-(8) Phản ứng: với HNO3 loãng 
+-(8) Sản phẩm: Cu(NO3)2, NO và H2O 
+-(9) Phản ứng: với AgNO3
+-(9) Sản phẩm: Cu(NO3 )2 và Ag
+III. Điều chế
+-Cách điều chế: Tinh chế quặng đồng sunfua (Cu2S) 
+-Quy trình: Đốt quặng tạo Cu2O, sau đó nung chuyển thành đồng blister (Cu) 
 IV. Ứng dụng
-- Ứng dụng (Ngành): Sản xuất dây điện, cáp điện
-- Ứng dụng (Ngành): Sản xuất thiết bị điện (động cơ, máy phát)
-- Ứng dụng (Ngành): Chế tạo hợp kim (đồng thau - với Zn, đồng thanh - với Sn)
-- Ứng dụng (Ngành): Đồ gia dụng, tiền xu
-- Ứng dụng (Ngành): Ống dẫn nước
-- Ứng dụng (Ngành): Nông nghiệp (muối đồng làm chất diệt nấm)
+-Ứng dụng: Chế tạo chi tiết máy  
+-Ứng dụng: Công nghiệp tàu thủy  
+-Ứng dụng: Chế tạo máy móc, thiết bị  
+-Ứng dụng: Trang trí 
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Khai thác chủ yếu dạng đồng sunfua từ các mỏ 
+-Trữ lượng: Quặng khai thác lộ thiên chứa từ 0,4 đến 1,0% đồng 
+

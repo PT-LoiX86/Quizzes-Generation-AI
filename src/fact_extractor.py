@@ -1,5 +1,5 @@
 import re
-from src.utils import extract_number, round_number, log_debug
+from src.utils import extract_number, round_number, log_debug, is_pure_numeric
 
 class FactExtractor:
     def __init__(self):
@@ -41,16 +41,25 @@ class FactExtractor:
             match = re.match(pattern, line.strip())
             if match:
                 key = match.group(1).strip()
-                value = match.group(2).strip()
+                raw_value = match.group(2).strip()
                 
-                if "Tên tiếng" in key:
+                if "Tên tiếng Việt" in key:
                     continue
                 
-                self.facts[key] = value
+                value = raw_value
+                if is_pure_numeric(raw_value):
+                    num = extract_number(raw_value)
+                    if num is not None:
+                        value = round_number(num)
                 
-                numeric_value = extract_number(value)
-                if numeric_value is not None:
-                    self.facts[f"{key}_rounded"] = round_number(numeric_value)
+                if key in self.facts:
+                    existing = self.facts[key]
+                    if isinstance(existing, list):
+                        self.facts[key].append(value)
+                    else:
+                        self.facts[key] = [existing, value]
+                else:
+                    self.facts[key] = value
     
     # Retrieve a specific fact
     """
