@@ -1,0 +1,42 @@
+﻿Tên tiếng Anh: Gallium 
+Tên tiếng Việt: Gali 
+
+-Nhóm: IIIA 
+-Chu kỳ: 4 
+-Nguyên tử khối: 69,72 
+-Độ âm điện: 1,81 
+-Cấu hình electron: [Ar] 3d10 4s2 4p1 
+-Số oxi hóa: +3 
+II. Tính chất vật lý
+-Trạng thái vật lý: Rắn 
+-Màu sắc: Trắng bạc, ánh kim  
+-Thuộc tính:mềm,  dễ nóng chảy, dẫn điện tốt, dẫn nhiệt tốt
+-Nhiệt độ nóng chảy: 29,76 °C 
+-Nhiệt độ sôi: 2204 °C 
+-Khối lượng riêng: 5,904 g/cm³ 
+III. Tính chất hóa học
+-Môi trường/ pH: Lưỡng tính
+-Tính khử: Trung bình 
+-(1) Phản ứng: với HCl 
+-(1) Sản phẩm: GaCl3 và H2 
+-(2) Phản ứng: với H2SO4 
+-(2) Sản phẩm: Ga2(SO4)3 và H2 
+-(3) Phản ứng: với CuSO4  (dung dịch)
+-(3) Sản phẩm: GaSO4 và Cu 
+-(4) Phản ứng: với AgNO3 (dung dịch)
+-(4) Sản phẩm: Ga(NO3)3 và Ag 
+-(5) Phản ứng: với O2
+-(5) Sản phẩm: Ga2O3 
+-(6) Phản ứng: với HNO3 (dung dịch)
+-(6) Sản phẩm: Ga(NO3)3, N2 và H2O 
+IV. Ứng dụng
+-Ứng dụng: Tạo hợp kim độ bền cao, nhẹ, chống ăn mòn 
+-Ứng dụng: Chế tạo hợp kim hàn và đúc  
+-Ứng dụng: Thiết bị bán dẫn  
+-Ứng dụng: Linh kiện điện tử tốc độ cao 
+-Ứng dụng: Chất kết dính chip điện tử 
+-Ứng dụng: Chẩn đoán và điều trị ung thư 
+-Ứng dụng: Nhiệt kế đo nhiệt độ cao, thiết bị đo y tế 
+-Ứng dụng: Kem đánh răng làm trắng răng 
+-Ứng dụng: Hợp kim nha khoa 
+-Ứng dụng: Thiết bị quang học

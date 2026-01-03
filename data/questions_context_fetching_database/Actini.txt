@@ -1,0 +1,49 @@
+﻿Tên tiếng Anh: Actinium 
+Tên tiếng Việt: Actini 
+
+-Nhóm: IIIB 
+-Chu kỳ: 7 
+-Nguyên tử khối: [227] 
+-Độ âm điện: 1,1 
+-Cấu hình electron: [Rn]  6d1 7s2
+-Số oxi hóa: +3 
+I. Tính chất vật lý
+-Trạng thái: Rắn 
+-Màu sắc: Trắng bạc
+-Độ cứng: Mềm
+-Tính chất: Dễ dát mỏng, dẻo
+-Điểm nóng chảy: 1050 °C
+-Điểm sôi: 3200 °C
+-Khối lượng riêng: 10,07 g/cm^3
+-Tính dẫn điện: Tốt 
+-Tính dẫn nhiệt: Tốt
+-Phóng xạ: Mạnh, phát ánh sáng xanh lam nhạt trong bóng tối
+II. Tính chất hóa học
+-Tính khử: Mạnh (tính oxi hóa cao)
+-(1) Phản ứng: với O2
+-(1) Sản phẩm: Ac2O3
+-(2) Phản ứng: với nước nóng
+-(2) Sản phẩm: H2 và Ac(OH)3
+-(3) Phản ứng: mãnh liệt với Cl2
+-(3) Sản phẩm: AcCl3
+-(4) Phản ứng: HCl
+-(4) Sản phẩm: AcCl3 và H2
+III. Ứng dụng
+-Ứng dụng: Điều trị ung thư tuyến tiền liệt, vú, xương (Ac-225) 
+-Ứng dụng: Điều trị ung thư hạch, bạch cầu (Ac-227)
+-Ứng dụng: Giảm đau di căn xương (Ac-228) 
+-Ứng dụng: Tạo nguồn năng lượng beta (Ac-227) 
+-Ứng dụng: Tạo nguồn năng lượng alpha (Ac-228) 
+-Ứng dụng: Nghiên cứu các quá trình phóng xạ 
+-Ứng dụng: Nghiên cứu phương pháp điều trị ung thư mới 
+-Ứng dụng: Nghiên cứu ứng dụng năng lượng hạt nhân mới 
+IV. Vấn đề an toàn & Thông tin bổ sung
+-Tính chất: Phóng xạ alpha mạnh, có thể phát tia gamma 
+-Đồng vị: Ac-227 phổ biến nhất (chu kỳ bán rã 21,77 năm) 
+-Độc tính: Gây ung thư, bỏng da, bệnh tim mạch, phổi, suy giảm miễn dịch 
+-Bảo hộ: Sử dụng găng tay, kính, quần áo bảo hộ, mặt nạ phòng độc 
+-Quy định: Làm việc nơi thông gió tốt, dùng thùng chứa đặc biệt, theo dõi phóng xạ thường xuyên 
+-Cấm: Ăn, uống, hút thuốc, tiếp xúc da trực tiếp khi làm việc 
+-Lưu ý: Tránh xa phụ nữ mang thai và trẻ em 
+-Xử lý phơi nhiễm: Đến gặp bác sĩ ngay lập tức nếu nghi ngờ 
+

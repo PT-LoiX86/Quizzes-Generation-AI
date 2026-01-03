@@ -1,0 +1,29 @@
+﻿Tên tiếng Anh: Argon 
+Tên tiếng Việt: Argon 
+
+-Nhóm: VIIIA 
+-Chu kỳ: 3 
+-Nguyên tử khối: 39,95 
+-Cấu hình electron: [Ne] 3s2 3p6 
+I. Tính chất vật lý
+-Trạng thái: Khí 
+-Màu sắc: Không màu 
+-Mùi vị: Không mùi, không vị 
+-Tỷ trọng: Nặng gấp 1,5 lần không khí 
+-Độ tan: Tan trong nước (xấp xỉ oxygen, gấp 2,5 lần nitrogen) 
+-Thuộc tính: Không độc, không mùi, không vị
+II. Tính chất hóa học
+-Loại nguyên tố: Khí hiếm
+-Tính chất: Không phản ứng với các chất hóa học khác 
+-Tính chất: Không hòa tan kim loại lỏng hay rắn 
+III. Ứng dụng
+-Ứng dụng: Thổi vào kim loại nóng chảy giảm cacbon, crom 
+-Ứng dụng: Sản xuất thép, zirconium 
+-Ứng dụng: Loại bỏ hạt nhôm trong nhôm nóng chảy 
+-Ứng dụng: Lá chắn trong quá trình đúc 
+-Ứng dụng: Phẫu thuật lạnh tiêu diệt mô bệnh 
+-Ứng dụng: Điều trị rối loạn nhịp tim (tiêu diệt tế bào cản trở xung điện) 
+-Ứng dụng: Sản xuất bóng đèn sợi đốt 
+-Ứng dụng: Độn giữa khung cửa sổ cách nhiệt 
+-Ứng dụng: Bảo quản rượu (ngăn lên men quá mức, biến chất) 
+

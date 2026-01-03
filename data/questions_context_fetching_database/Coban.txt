@@ -1,0 +1,18 @@
+﻿Tên tiếng Anh: Cobalt 
+Tên tiếng Việt: Cobalt 
+
+-Nhóm: VIIIB 
+-Chu kỳ: 4 
+-Nguyên tử khối: 58,93 
+-Độ âm điện: 1,88 
+-Cấu hình electron: [Ar] 3d7 4s2 
+-Môi trường /pH: Trung tính
+I. Ứng dụng
+-Ứng dụng: Bộ phận động cơ máy bay 
+-Ứng dụng: Hợp kim chống ăn mòn, mài mòn 
+-Ứng dụng: Sản xuất pin và mạ điện 
+-Ứng dụng: Tạo màu xanh lam, xanh lục cho thủy tinh và gốm sứ 
+-Ứng dụng: Điều trị ung thư 
+-Ứng dụng: Thành phần vitamin B12 thiết yếu cho sinh vật 
+-Ứng dụng: Nam châm vĩnh cửu samarium-cobalt 
+

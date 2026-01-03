@@ -1,0 +1,51 @@
+﻿Tên tiếng Anh: Bromine 
+Tên tiếng Việt: Brom 
+ 
+-Nhóm: VIIA
+-Chu kỳ: 4
+-Nguyên tử khối: 80 
+-Độ âm điện: 2,96 
+-Cấu hình electron: [Ar] 3d10 4s2 4p5 
+-Số oxi hóa: -1, +1, +3, +5, +7 
+I. Tính chất vật lý
+-Loại nguyên tố:  phi kim
+-Trạng thái vật lý: Lỏng (nhiệt độ phòng) 
+-Màu sắc: Nâu đỏ 
+-Độ tan: Ion bromua tan cao trong nước biển và hồ 
+-Thuộc tính: Rất độc, gây bỏng nặng khi tiếp xúc da 
+II. Tính chất hóa học
+-Môi trường / pH: Axit yếu (khi tan trong nước) 
+-Tính oxi hoá: Mạnh (kém Clo) 
+-(1) Phản ứng: với Al 
+-(1) Sản phẩm: AlBr3 
+-(2) Phản ứng: với Hydro (đun nóng) 
+-(2) Sản phẩm: HBr 
+-(3) Phản ứng: với nước (thuận nghịch)
+-(3) Sản phẩm: hỗn hợp axit HBr và HBrO 
+-(4) Phản ứng: đẩy halogen yếu khỏi dung dịch muối NaI 
+-(4) Sản phẩm: NaBr và I2 
+-(5) Phản ứng: bị Clo đẩy khỏi muối NaBr
+-(5) Sản phẩm: NaCl và Br2 
+-(6) Phản ứng: với chất khử mạnh (SO2, H2O) 
+-(6) Sản phẩm: H2SO4 và HBr 
+-(7) Phản ứng: với chất oxy hóa mạnh (Cl2, H2O) 
+-(7) Sản phẩm: HBrO3 và HCl 
+-(8) Phản ứng: với anilin 
+-(8) Sản phẩm: kết tủa trắng C6H2Br3NH2 và HBr 
+-(9) Phản ứng: với phenol 
+-(9) Sản phẩm: kết tủa trắng C6H2Br3OH và HBr 
+III. Điều chế
+-Phương pháp: Sục khí Clo qua nước biển đã lấy muối ăn 
+IV. Ứng dụng
+-Ứng dụng: Làm chất chống cháy 
+-Ứng dụng: Thuốc diệt sâu bọ, sinh vật hại, cỏ dại (hợp chất hữu cơ) 
+-Ứng dụng: Phụ gia xăng dầu
+-Ứng dụng: Dung dịch khoan tại giếng dầu áp suất lớn 
+-Ứng dụng: Khử trùng bể bơi có mái che (muối NaBr) 
+-Ứng dụng: Dược phẩm, thuốc nhuộm, mực in 
+-Ứng dụng: Thuốc hiện hình trong nghề ảnh 
+-Ứng dụng: Sản xuất AgBr tráng phim ảnh 
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Tồn tại dạng muối halogen (K, Na, Mg) 
+-Đặc điểm: Brom nguyên chất phản ứng rất mạnh 
+-Độ phổ biến: Khá hiếm, ít hơn nhiều so với clo và flo 

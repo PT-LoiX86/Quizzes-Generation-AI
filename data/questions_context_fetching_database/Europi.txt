@@ -1,0 +1,8 @@
+﻿Tên tiếng Anh: Europium
+Tên tiếng Việt: Europi
+
+Thuộc họ Lantan
+Nguyên tử khối: 151,96
+Độ âm điện: 1,20
+Cấu hình electron: [Xe] 4f7 6s2
+

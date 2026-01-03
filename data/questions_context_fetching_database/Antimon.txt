@@ -1,0 +1,45 @@
+﻿Tên tiếng Anh: Antimony (Stibium)
+Tên tiếng Việt: Antimon
+
+-Nhóm: VA 
+-Chu kỳ: 5 
+-Nguyên tử khối: 121,75 
+-Độ âm điện: 2,05 
+-Cấu hình electron: [Kr] 4d10 5s2 5p3 
+-Số oxi hóa: -3, 0, +3, +5 
+I. Tính chất vật lý
+-Trạng thái: Rắn 
+-Màu sắc: Trắng bạc 
+-Khối lượng riêng: 6,697 g/cm3 
+-Điểm nóng chảy: 630,63 °C 
+-Điểm sôi: 1750 °C 
+-Độ cứng: 3 
+-Tính chất: Dẫn điện tốt, dẫn nhiệt tốt, dễ nóng chảy, dễ dát mỏng 
+II. Tính chất hóa học
+-Loại nguyên tố: kim loại 
+-Tính khử: Yếu 
+-Tính oxi hóa: Yếu 
+-(1) Phản ứng: với oxi (nhiệt độ phòng) 
+-(1) Sản phẩm: phản ứng chậm 
+-(2) Phản ứng: với oxi (nung nóng) 
+-(2) Sản phẩm: Sb2O3 
+-(3) Phản ứng: với axit clohydric (HCl) 
+-(3) Sản phẩm: ít phản ứng 
+-(4) Phản ứng: với axit nitric (HNO3) 
+-(4) Sản phẩm: axit antimonit (H[Sb(OH)6]) 
+III. Ứng dụng
+-Ứng dụng: Tăng độ cứng, bền cho ắc quy axit-chì 
+-Ứng dụng: Chất lưu huỳnh hàn, thiết bị điện tử 
+-Ứng dụng: Sản xuất chất bán dẫn (điốt, transistor, cảm biến, LED) 
+-Ứng dụng: Chất chống cháy trong vải, nhựa, sơn (Sb2O3) 
+-Ứng dụng: Điều trị bệnh nhiễm parasite (leishmaniasis, schistosomiasis) 
+-Ứng dụng: Nghiên cứu thuốc chống ung thư 
+-Ứng dụng: Phụ gia cải thiện độ trong, độ bền kính và gốm 
+-Ứng dụng: Chất nhuộm mắt (trong lịch sử- hiện bị hạn chế) 
+-Ứng dụng: Pin năng lượng cao, vật liệu chống ăn mòn 
+IV. Thông tin bổ sung
+-Trạng thái tự nhiên: Tương đối hiếm 
+-Khoáng vật: Tìm thấy trong quặng stibnite (Sb2S3) 
+-Quặng: stibnite
+-Tính chất hợp chất: Tạo đa dạng hợp chất oxit, sulfide, hữu cơ và vô cơ
+

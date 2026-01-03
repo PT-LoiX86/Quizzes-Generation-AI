@@ -1,82 +1,74 @@
 {
-  "system": 
-  {
+  "system": {
     "name": "Chemistry Question AI Generator",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "debug_mode": true,
     "language": "Vietnamese",
     "output_folder": "output"
   },
-  
-  "ollama": 
-  {
-    "enabled": true,
-    "model_name": "mistral",
-    "base_url": "http://localhost:11434",
-    "timeout": 60,
-    "temperature": 0.7,
-    "num_predict": 200
-  },
-  
-  "question_generation": 
-  {
-    "use_llm_enhancement": true,
+  "question_generation": {
     "template_only_fallback": true,
-    "max_attempts": 3
+    "max_attempts": 5
   },
-  
-  "question_types": 
-  {
-    "periodic_properties": 
-    {
+  "question_types": {
+    "identification": {
       "enabled": true,
       "priority": 1,
-      "types": ["Period", "Periodic Group"]
+      "types": ["Symbol", "English Name", "Group Name", "Element Type"]
     },
-    "physical_properties": 
-    {
+    "periodic_properties": {
+      "enabled": true,
+      "priority": 1,
+      "types": ["Period", "Periodic Group", "Atomic Mass"]
+    },
+    "atomic_structure": {
       "enabled": true,
       "priority": 2,
-      "types": ["Color", "Flame Color", "Physical State"]
+      "types": ["Electron Config", "Valence"]
     },
-    "atomic_properties": 
-    {
+    "physical_properties": {
+      "enabled": true,
+      "priority": 2,
+      "types": ["Color", "Flame Color", "Physical State", "Allotropes"]
+    },
+    "chemical_properties": {
       "enabled": true,
       "priority": 3,
-      "types": ["Element Type", "Chemical Character"]
+      "types": [
+        "Chemical Character",
+        "Compound Type",
+        "Nature/PH",
+        "Indicator Color Change"
+      ]
     },
-    "chemical_properties": 
-    {
+    "applications_production": {
+      "enabled": true,
+      "priority": 3,
+      "types": ["Applications", "Production", "Compounds"]
+    },
+    "advanced_knowledge": {
       "enabled": true,
       "priority": 4,
-      "types": ["Reaction Type", "Properties"]
+      "types": ["Reaction Type", "Minerals/Ores"]
     }
   },
-  
-  "number_rounding": 
-  {
+  "number_rounding": {
     "enabled": true,
     "rules": "X.0-X.4 rounds to X; X.5-X.6 stays X.5; X.6+ rounds to X+1"
   },
-  
-  "deduplication": 
-  {
+  "deduplication": {
     "enabled": true,
     "check_within_batch": true,
     "similarity_threshold": 0.85
   },
-  
-  "output": 
-  {
+  "output": {
     "format": "json",
     "include_debug_info": true,
     "generate_summary": true,
     "summary_format": "json"
   },
-  
-  "data_paths": 
-  {
-    "chemistry_files": "data/chemistry_files",
+  "data_paths": {
+    "chemistry_files": "data/questions_context_fetching_database",
     "facts_database": "data/facts_database/chemistry_facts.csv",
     "config": "config",
     "output": "output"

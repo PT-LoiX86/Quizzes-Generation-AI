@@ -1,0 +1,44 @@
+﻿Tên tiếng Anh: Calcium
+Tên tiếng Việt: Calci
+
+- Nhóm: IIA
+- Chu kỳ: 4
+- Nguyên tử khối: 40
+- Độ âm điện: 1
+- Cấu hình electron: [Ar] 4s2
+- Số oxi hóa: +2
+I. Tính chất vật lý
+- Trạng thái: Rắn
+- Màu sắc: Trắng bạc
+- Độ cứng: Khá cứng
+- Tính chất: Dẻo
+- Khối lượng riêng: 1,54 g/cm3
+- Điểm nóng chảy: 842°C
+- Điểm sôi: 1495°C
+- Nhận biết: Đốt cho ngọn lửa màu đỏ - nâu
+II. Tính chất hóa học
+- Tính khử: Mạnh
+- (1) Phản ứng: với Oxi
+- (1) Sản phẩm: CaO
+- (2) Phản ứng: với H2
+- (2) Sản phẩm: CaH2
+- (3) Phản ứng: với HCl, H2SO4 loãng
+- (3) Sản phẩm: Muối canxi và H2
+- (4) Phản ứng: với HNO3 đặc
+- (4) Sản phẩm: Ca(NO3)2, NO2 và H2O
+- (5) Phản ứng: với nước (nhiệt độ thường)
+- (5) Sản phẩm: Ca(OH)2 và H2
+III. Điều chế
+- Phương pháp: Điện phân nóng chảy CaCl2
+IV. Ứng dụng
+- Ứng dụng: Dinh dưỡng xương và răng
+- Ứng dụng: Sản phẩm sữa
+- Ứng dụng: Khử điều chế Urani, Ziriconi, Thori
+- Ứng dụng: Chống oxi hóa, sulfua hóa, cacbua hóa hợp kim
+- Ứng dụng: Thành phần hợp kim Al, Be, Cu, Pb, Mg
+- Ứng dụng: Sản xuất xi măng, vữa xây dựng
+VI. Thông tin bổ sung
+- Trạng thái tự nhiên: 97% là đồng vị 40Ca
+- Đồng vị phóng xạ: 41Ca (chu kỳ bán rã 103.000 năm)
+- Sức khỏe: Thừa gây sỏi thận
+- Cơ chế sinh học: Cần Vitamin D để hấp thụ

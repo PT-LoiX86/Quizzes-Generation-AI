@@ -1,0 +1,44 @@
+﻿Tên tiếng Anh: Cadmium 
+Tên tiếng Việt: Cadmi 
+
+-Nhóm: IIB 
+-Chu kỳ: 5 
+-Nguyên tử khối: 112,41 
+-Độ âm điện: 1,69 
+-Cấu hình electron: [Kr] 4d10 5s2
+-Số oxi hóa: +2
+I. Tính chất vật lý
+-Trạng thái vật lý: Rắn 
+-Màu sắc: Trắng bạc
+-Thuộc tính: Nặng, dễ nóng chảy, mềm, dẻo
+-Khối lượng riêng: 8,65 g/cm3 
+-Nhiệt độ nóng chảy: 321,1 °C 
+-Nhiệt độ sôi: 766,5 °C
+II. Tính chất hóa học
+-(1) Phản ứng: với  không khí ẩm 
+-(1) Sản phẩm: màng oxit bền CdO 
+-(2) Phản ứng: với O2 (đun nóng) 
+-(2) Sản phẩm: tạo CdO 
+-(3) Phản ứng: với H2SO4 loãng 
+-(3) Sản phẩm: CdSO4 và khí H2 
+-(4) Phản ứng: với HNO3 đặc 
+-(4) Sản phẩm: tạo Cd(NO3)2, NO2 và H2O 
+-(5) Phản ứng: với dung dịch CuSO4 
+-(5) Sản phẩm: CdSO4 và Cu 
+-(6) Phản ứng: với H2O (hơi nước)
+-(6) Sản phẩm: CdO và H2 
+III. Ứng dụng
+-Ứng dụng: Sản xuất pin Ni-Cd 
+-Ứng dụng: Chất màu, lớp sơn phủ, tấm mạ kim 
+-Ứng dụng: Chất ổn định cho plastic và PVC 
+-Ứng dụng: Hợp kim điểm nóng chảy thấp 
+-Ứng dụng: Vòng bi hoặc gối đỡ (giảm ma sát) 
+-Ứng dụng: Mạ điện và que hàn 
+-Ứng dụng: Lưới kiểm soát lò phản ứng hạt nhân 
+-Ứng dụng: Ống hình tivi (phốt pho đen, trắng, lam, lục) 
+-Ứng dụng: Thuốc màu vàng (sulfua cadmi) 
+-Ứng dụng: Thiết bị phát hiện ánh sáng, pin mặt trời 
+-Ứng dụng: Thiết bị phát hiện nơtrino 
+IV. Thông tin bổ sung
+-Trạng thái tự nhiên: Tồn tại cùng quặng kẽm, đồng 
+-Hợp chất: HgCdTe nhạy cảm với tia hồng ngoại

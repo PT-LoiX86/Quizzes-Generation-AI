@@ -1,0 +1,38 @@
+﻿Tên tiếng Anh: Gold (Aurum) 
+Tên tiếng Việt: Vàng
+ 
+-Nhóm: IB 
+-Chu kỳ: 6 
+-Nguyên tử khối: 197 
+-Độ âm điện: 2,54 
+-Cấu hình electron: [Xe] 4f14 5d10 6s1 
+-Số oxi hóa: +1, +3 
+I. Tính chất vật lý
+-Trạng thái vật lý: Rắn 
+-Màu sắc: Vàng  
+-Thuộc tính: Mềm, dẻo, dẫn điện tốt và dẫn nhiệt tốt 
+-Khối lượng riêng: 19,3 g/cm3 
+-Nhiệt độ nóng chảy: 1063°C 
+-Nhận biết: Tan dần trong nước cường toan 
+II. Tính chất hóa học
+-Môi trường/ pH: Trung tính
+-Tính khử: Rất yếu 
+-(1) Phản ứng: với không khí 
+-(1) Sản phẩm: không bị oxi hóa 
+-(2) Phản ứng: với nước cường toan 
+-(2) Sản phẩm: H[AuCl4], NO và H2O 
+-(3) Phản ứng: với NaCN và O2 
+-(3) Sản phẩm: phức [Au(CN)2]- và NaOH 
+-(4) Phản ứng: vớiHg 
+-(4) Sản phẩm: hỗn hống rắn màu trắng 
+III. Điều chế
+-Phương pháp: Khai thác trực tiếp từ các mỏ quặng 
+IV. Ứng dụng
+-Ứng dụng: Làm đồ trang sức (thường tạo hợp kim với Ag, Cu để làm cứng) 
+-Ứng dụng: Sản xuất tiền kim loại 
+-Ứng dụng: Chuẩn trao đổi tiền tệ quốc gia 
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Tìm thấy trong quặng đá dạng hạt cực nhỏ 
+-Khoáng vật: Thường đi kèm thạch anh hoặc khoáng chất sunfit 
+-Đặc điểm: Không bị hòa tan trong các axit đơn lẻ, kể cả HNO3 
+

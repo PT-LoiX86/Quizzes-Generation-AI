@@ -1,0 +1,32 @@
+﻿Tên tiếng Anh: Chromium 
+Tên tiếng Việt: Chromi
+
+-Nhóm: VIB 
+-Chu kỳ: 4 
+-Nguyên tử khối: 51,996 
+-Độ âm điện: 1,66 
+-Cấu hình electron: [Ar] 3d5 4s1 
+-Loại nguyên tố: Kim loại 
+I. Tính chất vật lý
+-Trạng thái vật lý: Rắn 
+-Màu sắc: Trắng ánh bạc 
+-Độ cứng: Rất cứng 
+-Khối lượng riêng: Lớn 
+-Điểm nóng chảy: 1890°C 
+II. Tính chất hóa học
+-(1) Phản ứng: với oxi (nhiệt độ) 
+-(1) Sản phẩm: Cr2O3 
+-(2) Phản ứng: với Cl2 (nhiệt độ) 
+-(2) Sản phẩm: CrCl3 
+-(3) Phản ứng: với H2SO4 loãng nóng 
+-(3) Sản phẩm: CrSO4 và H2 
+III. Điều chế
+-Cách điều chế: Nhiệt nhôm Cr2O3
+IV. Ứng dụng
+-Ứng dụng: Sản xuất thép 
+-Ứng dụng: Mạ bảo vệ kim loại, tạo vẻ đẹp 
+V. Thông tin bổ sung
+-Trạng thái tự nhiên: Chỉ tồn tại dạng hợp chất (chiếm 0,03% vỏ Trái Đất)
+-Khoáng vật: Quặng cromit sắt FeO.Cr2O3 (thường lẫn Al2O3 và SiO2) 
+-Lưu ý: Thụ động trong axit HNO3 và H2SO4 đặc, nguội
+

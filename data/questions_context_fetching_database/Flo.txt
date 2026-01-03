@@ -1,0 +1,37 @@
+﻿Tên tiếng Anh: Fluorine 
+Tên tiếng Việt: Fluor 
+
+-Nhóm: VIIA 
+-Chu kỳ: 2 
+-Nguyên tử khối: 18,998 
+-Độ âm điện: 3,98 
+-Cấu hình electron: [He] 2s2 2p5
+-Số oxi hóa: -1 
+II. Tính chất vật lý
+-Trạng thái vật lý: Khí 
+-Màu sắc: Lục nhạt 
+-Thuộc tính: Độc, phi kim mạnh nhất và có tính oxi hóa mạnh nhất 
+III. Tính chất hóa học
+-Môi trường/ pH: Axit yếu 
+-(1) Phản ứng: với Ca 
+-(1) Sản phẩm: CaF2 
+-(2) Phản ứng: với hidro (bóng tối, nhiệt độ thấp) 
+-(2) Sản phẩm: HF (nổ mạnh)
+-(3) Phản ứng: với H2O
+-(3) Sản phẩm: O2 và HF  (bốc cháy)
+-(4) Phản ứng: HF và SiO2 
+-(4) Sản phẩm: SiF4 và H2O 
+IV. Điều chế
+-Phương pháp: Điện phân hỗn hợp KF + 2HF nóng chảy 
+V. Ứng dụng
+-Ứng dụng: Chất oxi hóa nhiên liệu lỏng tên lửa 
+-Ứng dụng: Điều chế dẫn xuất có tính chất độc đáo 
+-Ứng dụng: Thuốc chống sâu răng (NaF loãng) 
+-Ứng dụng: Công nghiệp sản xuất hạt nhân 
+-Ứng dụng: Khắc trên kính, vẽ tranh (ăn mòn thủy tinh) 
+VI. Thông tin bổ sung
+-Trạng thái tự nhiên: Chỉ tồn tại ở dạng hợp chất 
+-Quặng: Florit, criolit 
+-Sinh học: Có trong men răng, lá một số loài cây 
+-Lưu ý: Không dùng chai lọ thủy tinh để đựng dung dịch axit HF 
+

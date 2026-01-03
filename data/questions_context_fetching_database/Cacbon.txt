@@ -1,0 +1,48 @@
+﻿Tên tiếng Anh: Carbon
+Tên tiếng Việt: Carbon
+
+-Nhóm: IVA 
+-Chu kỳ: 2 
+-Nguyên tử khối: 12,011 
+-Độ âm điện: 2,55 
+-Cấu hình electron: [He] 2s2 2p2 
+-Số oxi hóa: -4, 0, +2, +4 
+II. Tính chất vật lý
+-Khối lượng riêng: 2,267 g/cm3
+-Điểm nóng chảy: 3526,85°C 
+-Điểm sôi: 4026,85°C 
+-Dạng thù hình: Kim cương, than chì, cacbon vô định hình 
+-Thuộc tính (Kim cương): Trong suốt, cứng nhất, không dẫn điện, dẫn nhiệt kém 
+-Thuộc tính (Than chì): Xám đen, ánh kim, dẫn điện tốt 
+-Thuộc tính (Vô định hình): Xốp, hấp phụ mạnh 
+III. Tính chất hóa học
+-(1) Phản ứng: với O2 
+-(1) Sản phẩm: CO2 
+-(2) Phản ứng: với CO2 (nhiệt độ cao) 
+-(2) Sản phẩm: CO 
+-(3) Phản ứng: với H2SO4 đặc (nhiệt độ cao) 
+-(3) Sản phẩm: CO2, SO2 và H2O 
+-(4) Phản ứng: với H2 
+-(4) Sản phẩm: CH4 
+-(5) Phản ứng: với Ca 
+-(5) Sản phẩm: CaC2 
+-(6) Phản ứng: với Al 
+-(6) Sản phẩm: Al4C3 
+IV. Điều chế
+-Cách điều chế: Nung than chì ở 2000°C, áp suất cao, xúc tác Fe, Cr, Ni  
+-Cách điều chế: Nung than cốc ở 2500 - 3000°C trong lò điện 
+-Cách điều chế: Nung than mỡ 1000°C không có không khí 
+-Cách điều chế: Đốt gỗ thiếu không khí 
+-Cách điều chế: Nhiệt phân metan 
+-Cách điều chế: Khai thác trực tiếp từ mỏ than
+V. Ứng dụng
+-Ứng dụng: Đồ trang sức, mũi khoan, dao cắt thủy tinh, bột mài 
+-Ứng dụng: Điện cực, nồi nấu hợp kim chịu nhiệt 
+-Ứng dụng: Chất bôi trơn, bút chì đen 
+-Ứng dụng: Chất khử trong luyện kim 
+-Ứng dụng: Chế tạo thuốc nổ đen, thuốc pháo 
+-Ứng dụng: Mặt nạ phòng độc, công nghiệp hóa chất
+VI. Thông tin bổ sung
+-Trạng thái tự nhiên: Tồn tại dạng tự do (kim cương, than chì) và hợp chất 
+-Khoáng vật: Canxit (CaCO3), magiezit (MgCO3), đolomit (CaCO3.MgCO3) 
+-Nguồn khác: Dầu mỏ, khí thiên nhiên, cơ thể động thực vật 
